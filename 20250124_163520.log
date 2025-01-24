@@ -1,0 +1,129 @@
+2025-01-24 16:35:20,281 - INFO: Log file created: logs/20250124_163520.log
+2025-01-24 16:35:20,281 - INFO: 从 Finnhub 获取股票列表...
+2025-01-24 16:35:21,997 - INFO: 获取到 21 个股票
+2025-01-24 16:35:22,007 - INFO: 开始处理 21 只股票...
+2025-01-24 16:35:25,791 - INFO: 获取 GGCPF 详细信息时出错: Expecting value: line 1 column 1 (char 0)
+2025-01-24 16:35:25,791 - INFO: 股票 GGCPF 无法获取详细信息
+2025-01-24 16:35:26,065 - INFO: 跳过权证: CHRW
+2025-01-24 16:35:31,581 - INFO: 获取 FSK 详细信息时出错: Expecting value: line 1 column 1 (char 0)
+2025-01-24 16:35:31,581 - INFO: 股票 FSK 无法获取详细信息
+2025-01-24 16:35:33,014 - INFO: 进度: 10/21 (47.62%) 有效数据: 7
+2025-01-24 16:35:34,199 - INFO: 跳过权证: GWPD
+2025-01-24 16:35:35,423 - INFO: 获取 JAGGF 详细信息时出错: Expecting value: line 1 column 1 (char 0)
+2025-01-24 16:35:35,424 - INFO: 股票 JAGGF 无法获取详细信息
+2025-01-24 16:35:36,819 - INFO: 跳过权证: WAXS
+2025-01-24 16:35:37,922 - INFO: 股票 MKRYF 市值数据无效
+2025-01-24 16:35:45,026 - INFO: 进度: 20/21 (95.24%) 有效数据: 13
+2025-01-24 16:35:46,061 - INFO: 
+处理完成!
+2025-01-24 16:35:46,061 - INFO: 总计处理: 21 只股票
+2025-01-24 16:35:46,061 - INFO: 有效数据: 14 只股票
+2025-01-24 16:35:46,061 - INFO: 无效数据: 7 只股票
+2025-01-24 16:35:46,064 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-24 16:35:46,065 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-24 16:35:46,079 - INFO: 
+   股票代码                             公司名称    市值(亿)                            板块                          昨天收盘                          今天收盘  涨跌幅(%)
+9      BRFH              Barfresh Food Group Inc        0.55                   Food Products      2025-01-22 3.450000047683716     2025-01-23 3.7300000190734863       8.12
+3      GORO                   Gold Resource Corp        0.41                 Metals & Mining    2025-01-22 0.41999998688697815     2025-01-23 0.4300000071525574       2.38
+6      CATO                            Cato Corp        0.77                          Retail      2025-01-22 3.690000057220459      2025-01-23 3.759999990463257       1.90
+13     QLYS                           Qualys Inc       51.93                      Technology     2025-01-22 140.97999572753906      2025-01-23 141.9199981689453       0.67
+1     POLBF                   Poolbeg Pharma PLC        0.23                 Pharmaceuticals    2025-01-22 0.11800000071525574    2025-01-23 0.11800000071525574       0.00
+2     PNDFF    Indofood CBP Sukses Makmur Tbk PT  1326542.06                   Food Products                    2025-01-22 0.5                    2025-01-23 0.5       0.00
+4      MBCF                           Itafos Inc        3.78                       Chemicals     2025-01-22 1.3600000143051147     2025-01-23 1.3600000143051147       0.00
+7     CVVIF      Sociedad Comercial del Plata SA     8715.32                          Energy    2025-01-22 0.05000000074505806    2025-01-23 0.05000000074505806       0.00
+8      RPFG  Rainier Pacific Financial Group Inc        0.00                             N/A  2025-01-22 0.0015999999595806003  2025-01-23 0.0015999999595806003       0.00
+11     PTBS               Potomac Bancshares Inc        0.64                         Banking     2025-01-22 15.399999618530273     2025-01-23 15.399999618530273       0.00
+12     DGIX         Dyna Group International Inc        0.06               Consumer products      2025-01-22 0.800000011920929      2025-01-23 0.800000011920929       0.00
+10     SHFS                     SHF Holdings Inc        0.21              Financial Services    2025-01-22 0.38199999928474426     2025-01-23 0.3790000081062317      -0.79
+0      LICY               Li-Cycle Holdings Corp        0.37  Commercial Services & Supplies     2025-01-22 1.0700000524520874     2025-01-23 1.0399999618530273      -2.80
+5     ACKDF   Auckland International Airport Ltd      145.95   Transportation Infrastructure      2025-01-22 5.179999828338623      2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,079 - INFO: 
+   股票代码                             公司名称    市值(亿)                            板块                          昨天收盘                          今天收盘  涨跌幅(%)
+9      BRFH              Barfresh Food Group Inc        0.55                   Food Products      2025-01-22 3.450000047683716     2025-01-23 3.7300000190734863       8.12
+3      GORO                   Gold Resource Corp        0.41                 Metals & Mining    2025-01-22 0.41999998688697815     2025-01-23 0.4300000071525574       2.38
+6      CATO                            Cato Corp        0.77                          Retail      2025-01-22 3.690000057220459      2025-01-23 3.759999990463257       1.90
+13     QLYS                           Qualys Inc       51.93                      Technology     2025-01-22 140.97999572753906      2025-01-23 141.9199981689453       0.67
+1     POLBF                   Poolbeg Pharma PLC        0.23                 Pharmaceuticals    2025-01-22 0.11800000071525574    2025-01-23 0.11800000071525574       0.00
+2     PNDFF    Indofood CBP Sukses Makmur Tbk PT  1326542.06                   Food Products                    2025-01-22 0.5                    2025-01-23 0.5       0.00
+4      MBCF                           Itafos Inc        3.78                       Chemicals     2025-01-22 1.3600000143051147     2025-01-23 1.3600000143051147       0.00
+7     CVVIF      Sociedad Comercial del Plata SA     8715.32                          Energy    2025-01-22 0.05000000074505806    2025-01-23 0.05000000074505806       0.00
+8      RPFG  Rainier Pacific Financial Group Inc        0.00                             N/A  2025-01-22 0.0015999999595806003  2025-01-23 0.0015999999595806003       0.00
+11     PTBS               Potomac Bancshares Inc        0.64                         Banking     2025-01-22 15.399999618530273     2025-01-23 15.399999618530273       0.00
+12     DGIX         Dyna Group International Inc        0.06               Consumer products      2025-01-22 0.800000011920929      2025-01-23 0.800000011920929       0.00
+10     SHFS                     SHF Holdings Inc        0.21              Financial Services    2025-01-22 0.38199999928474426     2025-01-23 0.3790000081062317      -0.79
+0      LICY               Li-Cycle Holdings Corp        0.37  Commercial Services & Supplies     2025-01-22 1.0700000524520874     2025-01-23 1.0399999618530273      -2.80
+5     ACKDF   Auckland International Airport Ltd      145.95   Transportation Infrastructure      2025-01-22 5.179999828338623      2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,080 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,080 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,086 - INFO: 
+   股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+13     QLYS                          Qualys Inc       51.93                     Technology   2025-01-22 140.97999572753906    2025-01-23 141.9199981689453       0.67
+2     PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7     CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5     ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,086 - INFO: 
+   股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+13     QLYS                          Qualys Inc       51.93                     Technology   2025-01-22 140.97999572753906    2025-01-23 141.9199981689453       0.67
+2     PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7     CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5     ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,086 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,086 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,092 - INFO: 
+   股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+13     QLYS                          Qualys Inc       51.93                     Technology   2025-01-22 140.97999572753906    2025-01-23 141.9199981689453       0.67
+2     PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7     CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5     ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,092 - INFO: 
+   股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+13     QLYS                          Qualys Inc       51.93                     Technology   2025-01-22 140.97999572753906    2025-01-23 141.9199981689453       0.67
+2     PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7     CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5     ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,093 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,093 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,098 - INFO: 
+  股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7    CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5    ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,098 - INFO: 
+  股票代码                            公司名称    市值(亿)                           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF   Indofood CBP Sukses Makmur Tbk PT  1326542.06                  Food Products                  2025-01-22 0.5                  2025-01-23 0.5       0.00
+7    CVVIF     Sociedad Comercial del Plata SA     8715.32                         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806       0.00
+5    ACKDF  Auckland International Airport Ltd      145.95  Transportation Infrastructure    2025-01-22 5.179999828338623    2025-01-23 4.690000057220459      -9.46
+2025-01-24 16:35:46,098 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,098 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,103 - INFO: 
+  股票代码                           公司名称    市值(亿)           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF  Indofood CBP Sukses Makmur Tbk PT  1326542.06  Food Products                  2025-01-22 0.5                  2025-01-23 0.5        0.0
+7    CVVIF    Sociedad Comercial del Plata SA     8715.32         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806        0.0
+2025-01-24 16:35:46,103 - INFO: 
+  股票代码                           公司名称    市值(亿)           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF  Indofood CBP Sukses Makmur Tbk PT  1326542.06  Food Products                  2025-01-22 0.5                  2025-01-23 0.5        0.0
+7    CVVIF    Sociedad Comercial del Plata SA     8715.32         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806        0.0
+2025-01-24 16:35:46,104 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,104 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-24 16:35:46,109 - INFO: 
+  股票代码                           公司名称    市值(亿)           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF  Indofood CBP Sukses Makmur Tbk PT  1326542.06  Food Products                  2025-01-22 0.5                  2025-01-23 0.5        0.0
+7    CVVIF    Sociedad Comercial del Plata SA     8715.32         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806        0.0
+2025-01-24 16:35:46,109 - INFO: 
+  股票代码                           公司名称    市值(亿)           板块                        昨天收盘                        今天收盘  涨跌幅(%)
+2    PNDFF  Indofood CBP Sukses Makmur Tbk PT  1326542.06  Food Products                  2025-01-22 0.5                  2025-01-23 0.5        0.0
+7    CVVIF    Sociedad Comercial del Plata SA     8715.32         Energy  2025-01-22 0.05000000074505806  2025-01-23 0.05000000074505806        0.0
+2025-01-24 16:35:46,109 - INFO: 结果已保存到: result_logs/20250124_163546_result.log
+2025-01-24 16:35:46,109 - ERROR: 执行git更新时发生未知错误: __init__() got an unexpected keyword argument 'capture_output'
