@@ -143,7 +143,7 @@ def load_or_fetch_symbols():
 
         # 转换为所需的格式
         symbols_data = [
-            symbol for symbol in symbols[:30]
+            symbol for symbol in symbols
             if symbol.get('type') == 'Common Stock'
         ]
 
