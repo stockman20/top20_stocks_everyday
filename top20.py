@@ -270,6 +270,8 @@ def get_gainers_multithreaded(max_workers=None):
                 valid_count += 1
 
             if processed_count % 10 == 0:
+                # 添加详细的进度日志
+                logging.info(f"处理 {symbol}: 结果 {'成功' if result else '失败'}")
                 logging.info(f"进度: {processed_count}/{total_symbols} "
                              f"({round(processed_count / total_symbols * 100, 2)}%) "
                              f"有效数据: {valid_count}")
@@ -456,8 +458,12 @@ def run_git_update():
 
 
 if __name__ == "__main__":
-    gainers_df = get_gainers_multithreaded()
+    try:
+        gainers_df = get_gainers_multithreaded()
 
-    if not gainers_df.empty:
-        run_git_update()
+        if not gainers_df.empty:
+            run_git_update()
+    except Exception as e:
+        logging.error(f"程序执行过程中发生致命错误: {e}")
+        logging.exception("详细错误堆栈:")
 
