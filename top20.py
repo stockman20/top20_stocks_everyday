@@ -15,30 +15,6 @@ import logging
 import pickle
 import subprocess
 
-
-class APIKeyRotator:
-    def __init__(self, api_keys):
-        self.api_keys = api_keys
-        self.key_index = 0
-        self.lock = threading.Lock()
-
-    def get_next_key(self):
-        with self.lock:
-            current_key = self.api_keys[self.key_index]
-            self.key_index = (self.key_index + 1) % len(self.api_keys)
-            return current_key
-
-
-# API Key 列表
-api_keys = [
-    "cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg",
-    "cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g",
-    "cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg",
-    "cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag",
-    "cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g"
-]
-key_rotator = APIKeyRotator(api_keys)
-
 # 设置 Pandas 显示选项
 pd.set_option('display.unicode.ambiguous_as_wide', True)
 pd.set_option('display.unicode.east_asian_width', True)
@@ -47,7 +23,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None)
 
-    # 获取当前日期时间
+# 获取当前日期时间
 now = datetime.now()
 log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
 
@@ -81,6 +57,57 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s: %(message)s'
 )
+
+
+class APIKeyRotator:
+    def __init__(self, api_keys):
+        self.api_keys = api_keys
+        self.key_index = 0
+        self.lock = threading.Lock()
+        self.key_usage = {key: {'count': 0, 'last_request_time': 0} for key in api_keys}
+
+    def get_next_key(self):
+        with self.lock:
+            current_time = time.time()
+
+            # 遍历所有 API Keys 找到可用的
+            for _ in range(len(self.api_keys)):
+                current_key = self.api_keys[self.key_index]
+
+                # 检查上次请求时间，确保间隔至少1秒
+                if current_time - self.key_usage[current_key]['last_request_time'] >= 1:
+                    self.key_usage[current_key]['count'] += 1
+                    self.key_usage[current_key]['last_request_time'] = current_time
+
+                    # 打印当前使用的 API Key 及其请求次数
+                    logging.info(f"使用 API Key: {current_key} (已使用 {self.key_usage[current_key]['count']} 次)")
+
+                    # 准备下一个 key 的索引
+                    self.key_index = (self.key_index + 1) % len(self.api_keys)
+
+                    return current_key
+
+                # 如果这个 key 不可用，切换到下一个
+                self.key_index = (self.key_index + 1) % len(self.api_keys)
+
+            # 如果所有 key 都在1秒冷却期内，等待并重试
+            time.sleep(1)
+            return self.get_next_key()
+
+
+# API Key 列表
+api_keys = [
+    "cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg",
+    "cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g",
+    "cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg",
+    "cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag",
+    "cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g",
+    "cua5621r01qkpes47sagcua5621r01qkpes47sb0",
+    "cua5739r01qkpes47uhgcua5739r01qkpes47ui0",
+    "cua57p9r01qkpes486r0cua57p9r01qkpes486rg",
+    "cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0"
+]
+key_rotator = APIKeyRotator(api_keys)
 
 # 创建全局更新队列
 update_queue = queue.Queue()
@@ -269,7 +296,7 @@ def get_gainers_multithreaded(max_workers=None):
         return df
 
     df = df.sort_values(by='涨跌幅(%)', ascending=False)
-    
+
     # 只在有数据时显示结果
     if not df.empty:
         display_results(df)
@@ -313,7 +340,6 @@ def display_results(df):
     def log_results(message):
         result_logger.info(message)
         logging.info(message)  # 同时也记录到主日志文件
-
 
     # 1. 展示前20名涨幅股票
     top_20 = df.head(20)
@@ -434,3 +460,4 @@ if __name__ == "__main__":
 
     if not gainers_df.empty:
         run_git_update()
+
