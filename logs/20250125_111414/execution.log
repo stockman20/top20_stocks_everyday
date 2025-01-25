@@ -1,0 +1,161 @@
+2025-01-25 11:14:14,369 - INFO: 日志目录: logs/20250125_111414
+2025-01-25 11:14:14,369 - INFO: 日志文件: logs/20250125_111414/execution.log
+2025-01-25 11:14:14,369 - INFO: 从 Finnhub 获取股票列表...
+2025-01-25 11:14:14,369 - INFO: 使用 API Key: cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg (已使用 1 次)
+2025-01-25 11:14:17,398 - INFO: 获取到 19 个股票
+2025-01-25 11:14:17,408 - INFO: 开始处理 19 只股票...
+2025-01-25 11:14:17,683 - INFO: 股票 AILTF 数据不足
+2025-01-25 11:14:18,478 - INFO: 使用 API Key: cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g (已使用 1 次)
+2025-01-25 11:14:18,499 - INFO: 使用 API Key: cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg (已使用 1 次)
+2025-01-25 11:14:18,502 - INFO: 使用 API Key: cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag (已使用 1 次)
+2025-01-25 11:14:18,565 - INFO: 使用 API Key: cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g (已使用 1 次)
+2025-01-25 11:14:18,633 - INFO: 使用 API Key: cua5621r01qkpes47sagcua5621r01qkpes47sb0 (已使用 1 次)
+2025-01-25 11:14:18,665 - INFO: 使用 API Key: cua5739r01qkpes47uhgcua5739r01qkpes47ui0 (已使用 1 次)
+2025-01-25 11:14:18,678 - INFO: 使用 API Key: cua57p9r01qkpes486r0cua57p9r01qkpes486rg (已使用 1 次)
+2025-01-25 11:14:18,687 - INFO: 使用 API Key: cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0 (已使用 1 次)
+2025-01-25 11:14:18,696 - INFO: 使用 API Key: cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg (已使用 2 次)
+2025-01-25 11:14:18,909 - INFO: 股票 LGLOF 市值数据无效
+2025-01-25 11:14:19,023 - INFO: 进度: 10/19 (52.63%) 有效数据: 8
+2025-01-25 11:14:19,670 - INFO: 使用 API Key: cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g (已使用 2 次)
+2025-01-25 11:14:19,858 - INFO: 使用 API Key: cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg (已使用 2 次)
+2025-01-25 11:14:19,882 - INFO: 使用 API Key: cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag (已使用 2 次)
+2025-01-25 11:14:19,894 - INFO: 使用 API Key: cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g (已使用 2 次)
+2025-01-25 11:14:19,897 - INFO: 使用 API Key: cua5621r01qkpes47sagcua5621r01qkpes47sb0 (已使用 2 次)
+2025-01-25 11:14:19,935 - INFO: 使用 API Key: cua5739r01qkpes47uhgcua5739r01qkpes47ui0 (已使用 2 次)
+2025-01-25 11:14:19,965 - INFO: 使用 API Key: cua57p9r01qkpes486r0cua57p9r01qkpes486rg (已使用 2 次)
+2025-01-25 11:14:20,147 - INFO: 股票 INREF 市值数据无效
+2025-01-25 11:14:20,181 - INFO: 股票 OREAF 市值数据无效
+2025-01-25 11:14:20,351 - INFO: 使用 API Key: cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0 (已使用 2 次)
+2025-01-25 11:14:20,484 - INFO: 使用 API Key: cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg (已使用 3 次)
+2025-01-25 11:14:20,709 - INFO: 
+处理完成!
+2025-01-25 11:14:20,709 - INFO: 总计处理: 19 只股票
+2025-01-25 11:14:20,709 - INFO: 有效数据: 15 只股票
+2025-01-25 11:14:20,710 - INFO: 无效数据: 4 只股票
+2025-01-25 11:14:20,713 - INFO: 日志目录: logs/20250125_111414
+2025-01-25 11:14:20,713 - INFO: 日志文件: logs/20250125_111414/execution.log
+2025-01-25 11:14:20,714 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-25 11:14:20,714 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-25 11:14:20,729 - INFO: 
+   股票代码                              公司名称  市值(亿)                  板块                           昨天收盘                           今天收盘  涨跌幅(%)
+0     AAMCF      Altisource Asset Management Corp      0.01           Real Estate                    2025-01-23 0.25      2025-01-24 0.2800000011920929      12.00
+10    HMFAF     Hammond Manufacturing Company Ltd      1.11  Electrical Equipment                    2025-01-23 6.75       2025-01-24 6.860000133514404       1.63
+1     BELMF                 Belmont Resources Inc      0.03       Metals & Mining  2025-01-23 0.00019999999494757503  2025-01-24 0.00019999999494757503       0.00
+3      GMDP  Global Medical Products Holdings Inc      0.00                   N/A   2025-01-23 4.999999873689376e-05   2025-01-24 4.999999873689376e-05       0.00
+4     TTNDF          Techtronic Industries Co Ltd   1882.20             Machinery      2025-01-23 13.656499862670898      2025-01-24 13.656499862670898       0.00
+5     ADRZF                            Andritz AG     50.61             Machinery      2025-01-23 50.650001525878906      2025-01-24 50.650001525878906       0.00
+6     DAUGF              Desert Gold Ventures Inc      0.16       Metals & Mining     2025-01-23 0.03750000149011612     2025-01-24 0.03750000149011612       0.00
+7      VIZG                     VisionGlobal Corp      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+8      TGRR                        Tiger Reef Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+11     KGRI                       Kiley Group Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+12    TKHCF            Koei Tecmo Holdings Co Ltd   6268.72                 Media      2025-01-23 11.989999771118164      2025-01-24 11.989999771118164       0.00
+13    CNMTF                   Canadian Metals Inc      0.02                   N/A     2025-01-23 0.10849999636411667     2025-01-24 0.10849999636411667       0.00
+9      BKTI                  BK Technologies Corp      1.16        Communications                    2025-01-23 33.5        2025-01-24 32.5099983215332      -2.96
+14    KKPNF                    Koninklijke KPN NV    139.49     Telecommunication      2025-01-23 3.8299999237060547       2025-01-24 3.680000066757202      -3.92
+2     JUGRF            Juggernaut Exploration Ltd      0.10       Metals & Mining     2025-01-23 0.05400000140070915     2025-01-24 0.05000000074505806      -7.41
+2025-01-25 11:14:20,729 - INFO: 
+   股票代码                              公司名称  市值(亿)                  板块                           昨天收盘                           今天收盘  涨跌幅(%)
+0     AAMCF      Altisource Asset Management Corp      0.01           Real Estate                    2025-01-23 0.25      2025-01-24 0.2800000011920929      12.00
+10    HMFAF     Hammond Manufacturing Company Ltd      1.11  Electrical Equipment                    2025-01-23 6.75       2025-01-24 6.860000133514404       1.63
+1     BELMF                 Belmont Resources Inc      0.03       Metals & Mining  2025-01-23 0.00019999999494757503  2025-01-24 0.00019999999494757503       0.00
+3      GMDP  Global Medical Products Holdings Inc      0.00                   N/A   2025-01-23 4.999999873689376e-05   2025-01-24 4.999999873689376e-05       0.00
+4     TTNDF          Techtronic Industries Co Ltd   1882.20             Machinery      2025-01-23 13.656499862670898      2025-01-24 13.656499862670898       0.00
+5     ADRZF                            Andritz AG     50.61             Machinery      2025-01-23 50.650001525878906      2025-01-24 50.650001525878906       0.00
+6     DAUGF              Desert Gold Ventures Inc      0.16       Metals & Mining     2025-01-23 0.03750000149011612     2025-01-24 0.03750000149011612       0.00
+7      VIZG                     VisionGlobal Corp      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+8      TGRR                        Tiger Reef Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+11     KGRI                       Kiley Group Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+12    TKHCF            Koei Tecmo Holdings Co Ltd   6268.72                 Media      2025-01-23 11.989999771118164      2025-01-24 11.989999771118164       0.00
+13    CNMTF                   Canadian Metals Inc      0.02                   N/A     2025-01-23 0.10849999636411667     2025-01-24 0.10849999636411667       0.00
+9      BKTI                  BK Technologies Corp      1.16        Communications                    2025-01-23 33.5        2025-01-24 32.5099983215332      -2.96
+14    KKPNF                    Koninklijke KPN NV    139.49     Telecommunication      2025-01-23 3.8299999237060547       2025-01-24 3.680000066757202      -3.92
+2     JUGRF            Juggernaut Exploration Ltd      0.10       Metals & Mining     2025-01-23 0.05400000140070915     2025-01-24 0.05000000074505806      -7.41
+2025-01-25 11:14:20,730 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,730 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,737 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,737 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,738 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,738 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,744 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,744 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,744 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,745 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,750 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,750 - INFO: 
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+2025-01-25 11:14:20,750 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,750 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,755 - INFO: 
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
+2025-01-25 11:14:20,755 - INFO: 
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
+2025-01-25 11:14:20,756 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,756 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-25 11:14:20,760 - INFO: 
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
+2025-01-25 11:14:20,760 - INFO: 
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
+2025-01-25 11:14:20,760 - INFO: 结果已保存到: logs/20250125_111414/top20_result.log
+2025-01-25 11:14:20,761 - INFO: 日志目录: logs/20250125_111414
+2025-01-25 11:14:20,761 - INFO: 日志文件: logs/20250125_111414/execution.log
+2025-01-25 11:14:20,762 - INFO: 股票数据已保存到 logs/20250125_111414/stocks_data.json
+2025-01-25 11:14:20,765 - INFO: 
+=== 板块涨跌分析 ===
+2025-01-25 11:14:20,768 - INFO: 
+                   板块  平均涨跌幅  股票数量
+6           Real Estate       12.00         1
+1  Electrical Equipment        1.63         1
+2             Machinery        0.00         2
+3                 Media        0.00         1
+5                   N/A        0.00         5
+4       Metals & Mining       -2.47         3
+0        Communications       -2.96         1
+7     Telecommunication       -3.92         1
+2025-01-25 11:14:20,769 - INFO: 板块分析已保存到 logs/20250125_111414/sector_analysis.json

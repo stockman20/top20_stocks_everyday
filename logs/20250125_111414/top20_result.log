@@ -1,0 +1,54 @@
+
+=== 涨幅榜前20名股票 ===
+
+   股票代码                              公司名称  市值(亿)                  板块                           昨天收盘                           今天收盘  涨跌幅(%)
+0     AAMCF      Altisource Asset Management Corp      0.01           Real Estate                    2025-01-23 0.25      2025-01-24 0.2800000011920929      12.00
+10    HMFAF     Hammond Manufacturing Company Ltd      1.11  Electrical Equipment                    2025-01-23 6.75       2025-01-24 6.860000133514404       1.63
+1     BELMF                 Belmont Resources Inc      0.03       Metals & Mining  2025-01-23 0.00019999999494757503  2025-01-24 0.00019999999494757503       0.00
+3      GMDP  Global Medical Products Holdings Inc      0.00                   N/A   2025-01-23 4.999999873689376e-05   2025-01-24 4.999999873689376e-05       0.00
+4     TTNDF          Techtronic Industries Co Ltd   1882.20             Machinery      2025-01-23 13.656499862670898      2025-01-24 13.656499862670898       0.00
+5     ADRZF                            Andritz AG     50.61             Machinery      2025-01-23 50.650001525878906      2025-01-24 50.650001525878906       0.00
+6     DAUGF              Desert Gold Ventures Inc      0.16       Metals & Mining     2025-01-23 0.03750000149011612     2025-01-24 0.03750000149011612       0.00
+7      VIZG                     VisionGlobal Corp      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+8      TGRR                        Tiger Reef Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+11     KGRI                       Kiley Group Inc      0.00                   N/A   2025-01-23 9.999999747378752e-05   2025-01-24 9.999999747378752e-05       0.00
+12    TKHCF            Koei Tecmo Holdings Co Ltd   6268.72                 Media      2025-01-23 11.989999771118164      2025-01-24 11.989999771118164       0.00
+13    CNMTF                   Canadian Metals Inc      0.02                   N/A     2025-01-23 0.10849999636411667     2025-01-24 0.10849999636411667       0.00
+9      BKTI                  BK Technologies Corp      1.16        Communications                    2025-01-23 33.5        2025-01-24 32.5099983215332      -2.96
+14    KKPNF                    Koninklijke KPN NV    139.49     Telecommunication      2025-01-23 3.8299999237060547       2025-01-24 3.680000066757202      -3.92
+2     JUGRF            Juggernaut Exploration Ltd      0.10       Metals & Mining     2025-01-23 0.05400000140070915     2025-01-24 0.05000000074505806      -7.41
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+5     ADRZF                    Andritz AG     50.61          Machinery  2025-01-23 50.650001525878906  2025-01-24 50.650001525878906       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+   股票代码                      公司名称  市值(亿)               板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20          Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898       0.00
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72              Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164       0.00
+14    KKPNF            Koninklijke KPN NV    139.49  Telecommunication  2025-01-23 3.8299999237060547   2025-01-24 3.680000066757202      -3.92
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
+
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+
+   股票代码                      公司名称  市值(亿)       板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4     TTNDF  Techtronic Industries Co Ltd   1882.20  Machinery  2025-01-23 13.656499862670898  2025-01-24 13.656499862670898        0.0
+12    TKHCF    Koei Tecmo Holdings Co Ltd   6268.72      Media  2025-01-23 11.989999771118164  2025-01-24 11.989999771118164        0.0
