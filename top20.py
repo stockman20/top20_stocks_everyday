@@ -479,99 +479,66 @@ def display_results(df):
         result_logger.info(message)
         logging.info(message)  # 同时也记录到主日志文件
 
-    def format_dataframe(dataframe):
-        """
-        自定义格式化方法，确保精确对齐
-        """
-        # 定义每列的最小宽度
-        column_widths = {
-            '股票代码': 10,
-            '公司名称': 30,
-            '市值(亿)': 12,
-            '板块': 30,
-            '昨天收盘': 20,
-            '今天收盘': 20,
-            '涨跌幅(%)': 10
-        }
+    # 设置pandas显示选项以获得更好的对齐
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', 200)
+    pd.set_option('display.max_colwidth', 30)
 
-        # 格式化每一列
-        formatted_df = dataframe.copy()
-        for col in formatted_df.columns:
-            if pd.api.types.is_numeric_dtype(formatted_df[col]):
-                formatted_df[col] = formatted_df[col].apply(lambda x: f'{x:.2f}')
+    def log_dataframe(title, dataframe):
+        log_results(f"\n{title}")
+        if not dataframe.empty:
+            # 手动格式化输出，确保对齐
+            def format_column(col):
+                if pd.api.types.is_numeric_dtype(col):
+                    return col.apply(lambda x: f'{x:.2f}' if pd.notnull(x) else str(x))
+                return col.astype(str)
 
-            # 确保每列都转换为字符串并对齐
-            formatted_df[col] = formatted_df[col].apply(
-                lambda x: str(x).center(column_widths.get(col, 15))
+            # 格式化每一列
+            formatted_df = dataframe.apply(format_column)
+
+            # 转换为字符串，手动对齐
+            table_str = formatted_df.to_string(
+                index=False,
+                justify='center'  # 这个参数在to_string中是有效的
             )
-
-        # 创建标题行
-        header = ''.join(col.center(column_widths.get(col, 15)) for col in formatted_df.columns)
-
-        # 创建数据行
-        rows = [header]
-        for _, row in formatted_df.iterrows():
-            rows.append(''.join(str(val) for val in row))
-
-        return '\n'.join(rows)
+            log_results("\n" + table_str)
+        else:
+            log_results("没有数据!")
 
     # 1. 展示前20名涨幅股票
     top_20 = df.head(20)
-    log_results("\n=== 涨幅榜前20名股票 ===")
-    log_results(format_dataframe(
-        top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-    ))
+    log_dataframe("=== 涨幅榜前20名股票 ===",
+                  top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']])
 
     # 2. 展示市值超过20亿的前20名涨幅股票
     billion_20 = df[df['市值(亿)'] > 20].head(20)
-    if not billion_20.empty:
-        log_results("\n=== 市值超过20亿的涨幅榜前20名股票 ===")
-        log_results(format_dataframe(
-            billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-        ))
-    else:
-        log_results("\n没有市值超过20亿的股票!")
+    log_dataframe("=== 市值超过20亿的涨幅榜前20名股票 ===",
+                  billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_20.empty else log_results("\n没有市值超过20亿的股票!")
 
     # 3. 展示市值超过50亿的前20名涨幅股票
     billion_50 = df[df['市值(亿)'] > 50].head(20)
-    if not billion_50.empty:
-        log_results("\n=== 市值超过50亿的涨幅榜前50名股票 ===")
-        log_results(format_dataframe(
-            billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-        ))
-    else:
-        log_results("\n没有市值超过50亿的股票!")
+    log_dataframe("=== 市值超过50亿的涨幅榜前20名股票 ===",
+                  billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_50.empty else log_results("\n没有市值超过50亿的股票!")
 
     # 4. 展示市值超过100亿的前20名涨幅股票
     billion_100 = df[df['市值(亿)'] > 100].head(20)
-    if not billion_100.empty:
-        log_results("\n=== 市值超过100亿的涨幅榜前100名股票 ===")
-        log_results(format_dataframe(
-            billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-        ))
-    else:
-        log_results("\n没有市值超过100亿的股票!")
-
+    log_dataframe("=== 市值超过100亿的涨幅榜前20名股票 ===",
+                  billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_100.empty else log_results("\n没有市值超过100亿的股票!")
 
     # 5. 展示市值超过200亿的前20名涨幅股票
     billion_200 = df[df['市值(亿)'] > 200].head(20)
-    if not billion_200.empty:
-        log_results("\n=== 市值超过200亿的涨幅榜前200名股票 ===")
-        log_results(format_dataframe(
-            billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-        ))
-    else:
-        log_results("\n没有市值超过200亿的股票!")
+    log_dataframe("=== 市值超过200亿的涨幅榜前20名股票 ===",
+                  billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_200.empty else log_results("\n没有市值超过200亿的股票!")
 
     # 6. 展示市值超过1000亿的前20名涨幅股票
     billion_1000 = df[df['市值(亿)'] > 1000].head(20)
-    if not billion_1000.empty:
-        log_results("\n=== 市值超过1000亿的涨幅榜前1000名股票 ===")
-        log_results(format_dataframe(
-            billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]
-        ))
-    else:
-        log_results("\n没有市值超过1000亿的股票!")
+    log_dataframe("=== 市值超过1000亿的涨幅榜前20名股票 ===",
+                  billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_1000.empty else log_results("\n没有市值超过1000亿的股票!")
 
     # 关闭文件处理器
     file_handler.close()

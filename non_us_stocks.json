@@ -250,5 +250,17 @@
     "name": "Quebec Innovative Materials Corp",
     "country": "CA",
     "added_date": "2025-01-25 18:27:42"
+  },
+  "DCLT": {
+    "exchange": "OTC MARKETS",
+    "name": "Data Call Technologies Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:28:54"
+  },
+  "MGOM": {
+    "exchange": "OTC MARKETS",
+    "name": "Migom Global Corp",
+    "country": "US",
+    "added_date": "2025-01-25 18:28:56"
   }
 }

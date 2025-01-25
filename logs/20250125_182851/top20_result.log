@@ -1,0 +1,40 @@
+
+=== 涨幅榜前20名股票 ===
+
+股票代码          公司名称         市值(亿)          板块              昨天收盘           今天收盘      涨跌幅(%)
+   RIOT         Riot Platforms Inc   46.57             Technology   2025-01-23 12.99   2025-01-24 13.54     4.23 
+  CRARF         Credit Agricole SA  430.92                Banking   2025-01-23 14.98   2025-01-24 14.98     0.00 
+   AVTX     Avalo Therapeutics Inc    0.79          Biotechnology    2025-01-23 7.58    2025-01-24 7.54    -0.53 
+    TLN          Talen Energy Corp  124.63              Utilities  2025-01-23 247.12  2025-01-24 245.06    -0.83 
+    BHM   Bluerock Homes Trust Inc    0.47            Real Estate   2025-01-23 12.04   2025-01-24 11.85    -1.58 
+   ENTG               Entegris Inc  157.32         Semiconductors  2025-01-23 105.88  2025-01-24 104.19    -1.60 
+   ULBI             Ultralife Corp    1.33   Electrical Equipment    2025-01-23 8.22    2025-01-24 8.02    -2.43 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+股票代码       公司名称      市值(亿)       板块           昨天收盘           今天收盘      涨跌幅(%)
+   RIOT   Riot Platforms Inc   46.57       Technology   2025-01-23 12.99   2025-01-24 13.54     4.23 
+  CRARF   Credit Agricole SA  430.92          Banking   2025-01-23 14.98   2025-01-24 14.98     0.00 
+    TLN    Talen Energy Corp  124.63        Utilities  2025-01-23 247.12  2025-01-24 245.06    -0.83 
+   ENTG         Entegris Inc  157.32   Semiconductors  2025-01-23 105.88  2025-01-24 104.19    -1.60 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+股票代码       公司名称      市值(亿)       板块           昨天收盘           今天收盘      涨跌幅(%)
+  CRARF   Credit Agricole SA  430.92          Banking   2025-01-23 14.98   2025-01-24 14.98     0.00 
+    TLN    Talen Energy Corp  124.63        Utilities  2025-01-23 247.12  2025-01-24 245.06    -0.83 
+   ENTG         Entegris Inc  157.32   Semiconductors  2025-01-23 105.88  2025-01-24 104.19    -1.60 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+股票代码       公司名称      市值(亿)       板块           昨天收盘           今天收盘      涨跌幅(%)
+  CRARF   Credit Agricole SA  430.92          Banking   2025-01-23 14.98   2025-01-24 14.98     0.00 
+    TLN    Talen Energy Corp  124.63        Utilities  2025-01-23 247.12  2025-01-24 245.06    -0.83 
+   ENTG         Entegris Inc  157.32   Semiconductors  2025-01-23 105.88  2025-01-24 104.19    -1.60 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+股票代码       公司名称      市值(亿)   板块        昨天收盘          今天收盘     涨跌幅(%)
+  CRARF   Credit Agricole SA  430.92   Banking  2025-01-23 14.98  2025-01-24 14.98    0.00  
+
+没有市值超过1000亿的股票!
