@@ -160,5 +160,17 @@
     "name": "P2 Solar Inc",
     "country": "CA",
     "added_date": "2025-01-25 17:43:25"
+  },
+  "TVAGF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "TVA Group Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 17:47:38"
+  },
+  "KSPHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Kissei Pharmaceutical Co Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 17:47:39"
   }
 }
