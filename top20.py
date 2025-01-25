@@ -129,7 +129,7 @@ def load_or_fetch_symbols():
 
         # 转换为所需的格式，并过滤掉已知的非美股
         symbols_data = [
-            symbol for symbol in symbols[:30]
+            symbol for symbol in symbols
             if symbol.get('type') == 'Common Stock' and
                symbol.get('symbol') not in non_us_stocks
         ]
