@@ -28,28 +28,30 @@ jobs:
       - name: Get File Content and URL
         id: get_file
         run: |
-          # 获取最新 commit 的 hash
-          latest_commit=$(git rev-parse HEAD)
+          # 获取最新 commit 中的文件列表
+          changed_files=$(git diff-tree --no-commit-id --name-only -r ${{ steps.get_commit.outputs.commit_hash }})
           
-          # 检查该文件在最新 commit 中是否存在
-          if git cat-file -e "${latest_commit}:top20_result.log" 2>/dev/null; then
-            # 从最新 commit 中获取文件内容
-            content=$(git show "${latest_commit}:top20_result.log" | head -c 1000)
+          # 检查 top20_result.log 是否在最新 commit 中
+          if echo "$changed_files" | grep -q "top20_result.log"; then
+            # 如果文件存在于最新 commit 中
+            content=$(head -c 1000 top20_result.log)
             
             # 构建文件的 GitHub URL
             repo_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}"
-            file_url="${repo_url}/blob/${latest_commit}/top20_result.log"
+            file_url="${repo_url}/blob/${GITHUB_SHA}/top20_result.log"
             
-            # 将内容和URL保存到输出变量
+            # 保存内容和 URL 到输出变量
             echo "content<<EOF" >> $GITHUB_OUTPUT
             echo "$content" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
             echo "file_url=$file_url" >> $GITHUB_OUTPUT
           else
-            echo "Warning: top20_result.log not found in latest commit"
-            echo "content=File not found in latest commit" >> $GITHUB_OUTPUT
+            # 文件未在最新 commit 中
+            echo "Warning: top20_result.log not found in the latest commit"
+            echo "content=File not found in the latest commit" >> $GITHUB_OUTPUT
             echo "file_url=Not available" >> $GITHUB_OUTPUT
           fi
+
 
       - name: Send Telegram Notification
         env:
