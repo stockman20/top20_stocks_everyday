@@ -22,5 +22,17 @@
     "name": "Solusi Bangun Indonesia Tbk PT",
     "country": "ID",
     "added_date": "2025-01-25 18:08:57"
+  },
+  "NGKSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Niterra Co Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 18:09:44"
+  },
+  "USHAF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Usha Resources Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 18:09:46"
   }
 }
