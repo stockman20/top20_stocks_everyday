@@ -132,27 +132,50 @@ def load_or_fetch_symbols():
         logging.info(f"从 Finnhub 获取数据时出错: {e}")
         return []
 
-
 def get_stock_details(symbol):
     try:
         stock = yf.Ticker(symbol)
         info = stock.info
 
-        try:
-            company_info = get_finnhub_client().company_profile2(symbol=symbol)
-            market_cap = company_info.get('marketCapitalization', 0) / 100 if company_info.get(
-                'marketCapitalization') else 0
-        except Exception as e:
-            logging.info(f"从 Finnhub 获取 {symbol} 市值失败: {e}")
-            market_cap = info.get('marketCap', 0) / 100_000_000 if info.get('marketCap') else 0
+        # 设置最大重试次数
+        max_retries = 5
+        retries = 0
+
+        while retries < max_retries:
+            try:
+                # 获取公司信息
+                company_info = get_finnhub_client().company_profile2(symbol=symbol)
+                market_cap = company_info.get('marketCapitalization', 0) / 100 if company_info.get(
+                    'marketCapitalization') else 0
+
+                return {
+                    'name': company_info.get('name', 'N/A'),
+                    'market_cap': market_cap,
+                    'sector': company_info.get('finnhubIndustry', 'N/A')
+                }
+
+            except Exception as e:
+                # 如果是 API 限制错误，暂停 10 秒再重试
+                if "429" in str(e):  # 判断是否包含 429 错误代码
+                    logging.warning(f"从 Finnhub 获取 {symbol} 市值失败: {e}. 稍等 10 秒后重试...")
+                    time.sleep(10)
+                    retries += 1
+                else:
+                    # 其他错误直接抛出
+                    raise e
+
+        # 如果超过最大重试次数，记录错误日志并返回默认值
+        logging.error(f"从 Finnhub 获取 {symbol} 市值失败: 超过最大重试次数 ({max_retries}).")
+        market_cap = info.get('marketCap', 0) / 100_000_000 if info.get('marketCap') else 0
 
         return {
-            'name': company_info.get('name', 'N/A'),
+            'name': info.get('longName', 'N/A'),
             'market_cap': market_cap,
-            'sector': company_info.get('finnhubIndustry', 'N/A')
+            'sector': info.get('sector', 'N/A')
         }
+
     except Exception as e:
-        logging.info(f"获取 {symbol} 详细信息时出错: {e}")
+        logging.error(f"获取 {symbol} 详细信息时出错: {e}")
         return None
 
 
