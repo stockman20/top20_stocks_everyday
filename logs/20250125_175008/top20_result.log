@@ -1,0 +1,33 @@
+
+=== 涨幅榜前20名股票 ===
+
+  股票代码                公司名称  市值(亿)                  板块            昨天收盘            今天收盘  涨跌幅(%)
+3      ITP   IT Tech Packaging Inc      0.05        Paper & Forest   2025-01-23 (0, 2)   2025-01-24 (0, 2)       9.76
+1      BMR       Beamr Imaging Ltd      0.65            Technology   2025-01-23 (4, 2)   2025-01-24 (4, 2)       3.96
+5     HTBK  Heritage Commerce Corp      5.85               Banking   2025-01-23 (9, 2)  2025-01-24 (10, 2)       3.81
+2      STT       State Street Corp    290.39    Financial Services  2025-01-23 (98, 2)  2025-01-24 (99, 2)       1.56
+0     BVFL        BV Financial Inc      1.94               Banking  2025-01-23 (17, 2)  2025-01-24 (17, 2)       0.12
+4      CXT            Crane NXT Co     36.42  Electrical Equipment  2025-01-23 (65, 2)  2025-01-24 (64, 2)      -2.48
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+  股票代码           公司名称  市值(亿)                  板块            昨天收盘            今天收盘  涨跌幅(%)
+2      STT  State Street Corp    290.39    Financial Services  2025-01-23 (98, 2)  2025-01-24 (99, 2)       1.56
+4      CXT       Crane NXT Co     36.42  Electrical Equipment  2025-01-23 (65, 2)  2025-01-24 (64, 2)      -2.48
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+  股票代码           公司名称  市值(亿)                板块            昨天收盘            今天收盘  涨跌幅(%)
+2      STT  State Street Corp    290.39  Financial Services  2025-01-23 (98, 2)  2025-01-24 (99, 2)       1.56
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+  股票代码           公司名称  市值(亿)                板块            昨天收盘            今天收盘  涨跌幅(%)
+2      STT  State Street Corp    290.39  Financial Services  2025-01-23 (98, 2)  2025-01-24 (99, 2)       1.56
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+  股票代码           公司名称  市值(亿)                板块            昨天收盘            今天收盘  涨跌幅(%)
+2      STT  State Street Corp    290.39  Financial Services  2025-01-23 (98, 2)  2025-01-24 (99, 2)       1.56
+
+没有市值超过1000亿的股票!

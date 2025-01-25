@@ -172,5 +172,11 @@
     "name": "Kissei Pharmaceutical Co Ltd",
     "country": "JP",
     "added_date": "2025-01-25 17:47:39"
+  },
+  "AMNP": {
+    "exchange": "OTC MARKETS",
+    "name": "American Sierra Gold Corp",
+    "country": "US",
+    "added_date": "2025-01-25 17:50:15"
   }
 }
