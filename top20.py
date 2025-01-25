@@ -117,54 +117,113 @@ def get_finnhub_client():
 def load_or_fetch_symbols():
     logging.info("从 Finnhub 获取股票列表...")
     try:
-        symbols = get_finnhub_client().stock_symbols('US')
+        # 加载非美股列表
+        try:
+            with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
+                non_us_stocks = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            non_us_stocks = {}
 
-        # 转换为所需的格式
+        symbols = get_finnhub_client().stock_symbols('US')
+        total_symbols = len(symbols)
+
+        # 转换为所需的格式，并过滤掉已知的非美股
         symbols_data = [
             symbol for symbol in symbols
-            if symbol.get('type') == 'Common Stock'
+            if symbol.get('type') == 'Common Stock' and 
+            symbol.get('symbol') not in non_us_stocks
         ]
 
-        logging.info(f"获取到 {len(symbols_data)} 个股票")
+        logging.info(f"获取到 {len(symbols_data)} 个股票 (已排除 {len(non_us_stocks)} 个已知非美股)")
+        logging.info(f"实际需要处理的股票数量: {len(symbols_data)} / {total_symbols} "
+                    f"({round(len(symbols_data)/total_symbols*100, 2)}%)")
         return symbols_data
 
     except Exception as e:
         logging.info(f"从 Finnhub 获取数据时出错: {e}")
         return []
 
+
 def get_stock_details(symbol):
+    # 创建或加载非美股列表文件
+    non_us_stocks_file = 'non_us_stocks.json'
+    try:
+        with open(non_us_stocks_file, 'r', encoding='utf-8') as f:
+            non_us_stocks = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        non_us_stocks = {}
+
+    # 如果股票已知是非美股，直接返回None
+    if symbol in non_us_stocks:
+        logging.info(f"跳过已知的非美股: {symbol} (交易所: {non_us_stocks[symbol]['exchange']})")
+        return None
+
     try:
         stock = yf.Ticker(symbol)
         info = stock.info
-
-        # 设置最大重试次数
         max_retries = 5
         retries = 0
 
         while retries < max_retries:
             try:
-                # 获取公司信息
                 company_info = get_finnhub_client().company_profile2(symbol=symbol)
+                exchange = company_info.get('exchange', '').upper()
+
+                valid_exchanges = [
+                    'NASDAQ',
+                    'NASDAQ NMS',
+                    'NASDAQ GM',
+                    'NASDAQ GS',
+                    'NASDAQ GLOBAL',
+                    'NASDAQ GLOBAL SELECT',
+                    'NASDAQ CAPITAL MARKET',
+                    'NEW YORK STOCK EXCHANGE',
+                    'NYSE',
+                    'NYSE ARCA',
+                    'NYSE AMERICAN'
+                ]
+
+                is_valid_exchange = any(
+                    valid_ex in exchange.replace('-', ' ').replace(',', ' ')
+                    for valid_ex in valid_exchanges
+                )
+
+                if not is_valid_exchange:
+                    # 记录非美股信息
+                    non_us_stocks[symbol] = {
+                        'exchange': exchange,
+                        'name': company_info.get('name', 'N/A'),
+                        'country': company_info.get('country', 'N/A'),
+                        'added_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    }
+
+                    # 使用文件锁来安全地写入文件
+                    with open(non_us_stocks_file, 'w', encoding='utf-8') as f:
+                        fcntl.flock(f.fileno(), fcntl.LOCK_EX)
+                        json.dump(non_us_stocks, f, ensure_ascii=False, indent=2)
+                        fcntl.flock(f.fileno(), fcntl.LOCK_UN)
+
+                    logging.info(f"跳过非美国主要交易所上市的股票 {symbol} (交易所: {exchange})")
+                    return None
+
                 market_cap = company_info.get('marketCapitalization', 0) / 100 if company_info.get(
                     'marketCapitalization') else 0
 
                 return {
                     'name': company_info.get('name', 'N/A'),
                     'market_cap': market_cap,
-                    'sector': company_info.get('finnhubIndustry', 'N/A')
+                    'sector': company_info.get('finnhubIndustry', 'N/A'),
+                    'exchange': exchange
                 }
 
             except Exception as e:
-                # 如果是 API 限制错误，暂停 10 秒再重试
-                if "429" in str(e):  # 判断是否包含 429 错误代码
+                if "429" in str(e):
                     logging.warning(f"从 Finnhub 获取 {symbol} 市值失败: {e}. 稍等 10 秒后重试...")
                     time.sleep(10)
                     retries += 1
                 else:
-                    # 其他错误直接抛出
                     raise e
 
-        # 如果超过最大重试次数，记录错误日志并返回默认值
         logging.error(f"从 Finnhub 获取 {symbol} 市值失败: 超过最大重试次数 ({max_retries}).")
         market_cap = info.get('marketCap', 0) / 100_000_000 if info.get('marketCap') else 0
 
@@ -177,7 +236,6 @@ def get_stock_details(symbol):
     except Exception as e:
         logging.error(f"获取 {symbol} 详细信息时出错: {e}")
         return None
-
 
 def process_stock(stock):
     symbol = stock['symbol']

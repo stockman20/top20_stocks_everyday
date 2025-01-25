@@ -1,0 +1,144 @@
+
+=== 涨幅榜前20名股票 ===
+
+     股票代码                       公司名称  市值(亿)                            板块                           昨天收盘                           今天收盘  涨跌幅(%)
+2282    SEELQ        Seelos Therapeutics Inc      0.00                 Pharmaceuticals   2025-01-23 9.999999747378752e-05   2025-01-24 0.0010000000474974513     900.00
+3204    IDEXQ                 Ideanomics Inc      0.00                       Machinery   2025-01-23 0.0007999999797903001    2025-01-24 0.007199999876320362     800.00
+1169     MOND            Mondee Holdings Inc      0.00   Hotels, Restaurants & Leisure   2025-01-23 0.0010000000474974513    2025-01-24 0.004999999888241291     400.00
+620      NVNI                 Nvni Group Ltd      0.50                      Technology      2025-01-23 1.4900000095367432       2025-01-24 4.400000095367432     195.30
+2586     ALUR      Allurion Technologies Inc      0.10   Diversified Consumer Services       2025-01-23 3.700000047683716         2025-01-24 8.6899995803833     134.86
+747      SPEC         Spectaire Holdings Inc      0.00            Electrical Equipment   2025-01-23 0.0010000000474974513   2025-01-24 0.0020000000949949026     100.00
+998     EGIOQ                      Edgio Inc      0.00                      Technology   2025-01-23 9.999999747378752e-05  2025-01-24 0.00019999999494757503     100.00
+2312    ALLGF                      Allego NV      0.68                          Retail                    2025-01-23 0.25     2025-01-24 0.48500001430511475      94.00
+3346     PRST          Presto Automation Inc      0.00            Electrical Equipment  2025-01-23 0.00019999999494757503   2025-01-24 0.0003000000142492354      50.00
+2908     SMFL             Smart for Life Inc      0.00               Consumer products    2025-01-23 0.010099999606609344    2025-01-24 0.014999999664723873      48.51
+2741     GOEV                      Canoo Inc      0.07                     Automobiles     2025-01-23 0.33000001311302185      2025-01-24 0.4749999940395355      43.94
+612       FPH        Five Point Holdings LLC      6.17                     Real Estate       2025-01-23 4.059999942779541                    2025-01-24 5.75      41.63
+4054    EUZOF                     Eurazeo SE     57.63              Financial Services       2025-01-23 58.63999938964844                    2025-01-24 82.0      39.84
+2589     AXIL                AXIL Brands Inc      0.43               Consumer products       2025-01-23 4.748000144958496       2025-01-24 6.599999904632568      39.01
+624      TBIO                Telesis Bio Inc      0.01  Life Sciences Tools & Services     2025-01-23 0.28999999165534973      2025-01-24 0.4000000059604645      37.93
+1526     RIME        Algorhythm Holdings Inc      0.04               Consumer products    2025-01-23 0.029999999329447746     2025-01-24 0.03999999910593033      33.33
+2144     ZPTA  Zapata Computing Holdings Inc      0.00                      Technology    2025-01-23 0.003000000026077032    2025-01-24 0.004000000189989805      33.33
+3724     LTRN             Lantern Pharma Inc      0.58                   Biotechnology       2025-01-23 4.170000076293945       2025-01-24 5.400000095367432      29.50
+1021     RNAZ     Transcode Therapeutics Inc      0.05                   Biotechnology                     2025-01-23 5.5       2025-01-24 7.039999961853027      28.00
+1197     ACON                   Aclarion Inc      0.02                     Health Care      2025-01-23 0.0430000014603138    2025-01-24 0.054999999701976776      27.91
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+     股票代码                                            公司名称  市值(亿)                           板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4054    EUZOF                                          Eurazeo SE     57.63             Financial Services   2025-01-23 58.63999938964844                2025-01-24 82.0      39.84
+1738     MIDD                                       Middleby Corp     91.30                      Machinery  2025-01-23 145.64999389648438  2025-01-24 169.72000122070312      16.53
+2369     SGHC                                            SGHC Ltd     39.61  Hotels, Restaurants & Leisure   2025-01-23 6.809999942779541   2025-01-24 7.900000095367432      16.01
+2142      DAN                                            Dana Inc     22.04                Auto Components  2025-01-23 13.229999542236328  2025-01-24 15.199999809265137      14.89
+1006    NDRBF                                  Nibe Industrier AB    889.09                       Building                 2025-01-23 3.5   2025-01-24 4.019999980926514      14.86
+3215     CTRI                                Centuri Holdings Inc     21.62                   Construction  2025-01-23 21.690000534057617   2025-01-24 24.43000030517578      12.63
+37      BAIDF                                           Baidu Inc    287.30                          Media  2025-01-23 10.281000137329102  2025-01-24 11.399999618530273      10.88
+1436    BRCTF                                        BioArctic AB    176.12                  Biotechnology  2025-01-23 17.850000381469727  2025-01-24 19.600000381469727       9.80
+1720      RUN                                          Sunrun Inc     22.95           Electrical Equipment    2025-01-23 9.34000015258789  2025-01-24 10.229999542236328       9.53
+1591     IREN                                     Iris Energy Ltd     26.06                     Technology  2025-01-23 12.279999732971191  2025-01-24 13.319999694824219       8.47
+3473     GRND                                          Grindr Inc     31.93                          Media  2025-01-23 16.729999542236328  2025-01-24 18.079999923706055       8.07
+1982     NBIS                                     Nebius Group NV     98.16                          Media   2025-01-23 38.63999938964844  2025-01-24 41.689998626708984       7.89
+340      OKLO                                            Oklo Inc     51.06                      Utilities  2025-01-23 38.779998779296875   2025-01-24 41.81999969482422       7.84
+3164       BE                                   Bloom Energy Corp     68.14           Electrical Equipment  2025-01-23 27.670000076293945  2025-01-24 29.809999465942383       7.73
+1294     TGTX                                 TG Therapeutics Inc     48.66                  Biotechnology  2025-01-23 29.040000915527344  2025-01-24 31.260000228881836       7.64
+2158    BABAF                           Alibaba Group Holding Ltd   2024.65                         Retail  2025-01-23 10.612000465393066  2025-01-24 11.350000381469727       6.95
+3231    CNSRF                        CoinShares International Ltd     60.64             Financial Services   2025-01-23 7.420000076293945   2025-01-24 7.920000076293945       6.74
+822      CIFR                                   Cipher Mining Inc     20.52                     Technology    2025-01-23 5.53000020980835   2025-01-24 5.900000095367432       6.69
+2019    MGDDF  Compagnie Generale des Etablissements Michelin SCA    235.86                Auto Components   2025-01-23 34.84000015258789  2025-01-24 37.150001525878906       6.63
+4193    HTROF                                 Hexatronic Group AB     71.88           Electrical Equipment  2025-01-23 3.1500000953674316  2025-01-24 3.3550000190734863       6.51
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+     股票代码                                            公司名称  市值(亿)                           板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4054    EUZOF                                          Eurazeo SE     57.63             Financial Services   2025-01-23 58.63999938964844                2025-01-24 82.0      39.84
+1738     MIDD                                       Middleby Corp     91.30                      Machinery  2025-01-23 145.64999389648438  2025-01-24 169.72000122070312      16.53
+1006    NDRBF                                  Nibe Industrier AB    889.09                       Building                 2025-01-23 3.5   2025-01-24 4.019999980926514      14.86
+37      BAIDF                                           Baidu Inc    287.30                          Media  2025-01-23 10.281000137329102  2025-01-24 11.399999618530273      10.88
+1436    BRCTF                                        BioArctic AB    176.12                  Biotechnology  2025-01-23 17.850000381469727  2025-01-24 19.600000381469727       9.80
+1982     NBIS                                     Nebius Group NV     98.16                          Media   2025-01-23 38.63999938964844  2025-01-24 41.689998626708984       7.89
+340      OKLO                                            Oklo Inc     51.06                      Utilities  2025-01-23 38.779998779296875   2025-01-24 41.81999969482422       7.84
+3164       BE                                   Bloom Energy Corp     68.14           Electrical Equipment  2025-01-23 27.670000076293945  2025-01-24 29.809999465942383       7.73
+2158    BABAF                           Alibaba Group Holding Ltd   2024.65                         Retail  2025-01-23 10.612000465393066  2025-01-24 11.350000381469727       6.95
+3231    CNSRF                        CoinShares International Ltd     60.64             Financial Services   2025-01-23 7.420000076293945   2025-01-24 7.920000076293945       6.74
+2019    MGDDF  Compagnie Generale des Etablissements Michelin SCA    235.86                Auto Components   2025-01-23 34.84000015258789  2025-01-24 37.150001525878906       6.63
+4193    HTROF                                 Hexatronic Group AB     71.88           Electrical Equipment  2025-01-23 3.1500000953674316  2025-01-24 3.3550000190734863       6.51
+666     THQQD                                   Embracer Group AB    530.79                          Media  2025-01-23 17.200000762939453               2025-01-24 18.25       6.10
+2786     CYTK                                    Cytokinetics Inc     59.89                  Biotechnology   2025-01-23 47.86000061035156               2025-01-24 50.75       6.04
+1070    ACRFF                                            Accor SA    118.37  Hotels, Restaurants & Leisure  2025-01-23 47.970001220703125   2025-01-24 50.79999923706055       5.90
+3904      NEE                                  Nextera Energy Inc   1497.68                      Utilities    2025-01-23 69.2300033569336   2025-01-24 72.83000183105469       5.20
+3002      SSB                                     SouthState Corp    104.91                        Banking   2025-01-23 98.58999633789062  2025-01-24 103.66999816894531       5.15
+4142     IBKR                       Interactive Brokers Group Inc    925.28             Financial Services   2025-01-23 208.5500030517578  2025-01-24 218.99000549316406       5.01
+1623      RUM                                          Rumble Inc     75.53                          Media  2025-01-23 12.979999542236328  2025-01-24 13.609999656677246       4.85
+649        XP                                              XP Inc     69.09             Financial Services  2025-01-23 12.199999809265137  2025-01-24 12.789999961853027       4.84
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+     股票代码                                            公司名称  市值(亿)                              板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1006    NDRBF                                  Nibe Industrier AB    889.09                          Building                 2025-01-23 3.5   2025-01-24 4.019999980926514      14.86
+37      BAIDF                                           Baidu Inc    287.30                             Media  2025-01-23 10.281000137329102  2025-01-24 11.399999618530273      10.88
+1436    BRCTF                                        BioArctic AB    176.12                     Biotechnology  2025-01-23 17.850000381469727  2025-01-24 19.600000381469727       9.80
+2158    BABAF                           Alibaba Group Holding Ltd   2024.65                            Retail  2025-01-23 10.612000465393066  2025-01-24 11.350000381469727       6.95
+2019    MGDDF  Compagnie Generale des Etablissements Michelin SCA    235.86                   Auto Components   2025-01-23 34.84000015258789  2025-01-24 37.150001525878906       6.63
+666     THQQD                                   Embracer Group AB    530.79                             Media  2025-01-23 17.200000762939453               2025-01-24 18.25       6.10
+1070    ACRFF                                            Accor SA    118.37     Hotels, Restaurants & Leisure  2025-01-23 47.970001220703125   2025-01-24 50.79999923706055       5.90
+3904      NEE                                  Nextera Energy Inc   1497.68                         Utilities    2025-01-23 69.2300033569336   2025-01-24 72.83000183105469       5.20
+3002      SSB                                     SouthState Corp    104.91                           Banking   2025-01-23 98.58999633789062  2025-01-24 103.66999816894531       5.15
+4142     IBKR                       Interactive Brokers Group Inc    925.28                Financial Services   2025-01-23 208.5500030517578  2025-01-24 218.99000549316406       5.01
+1852    NETTF                                         NetEase Inc    628.03                             Media   2025-01-23 18.11199951171875  2025-01-24 18.968000411987305       4.73
+1188    STMEF                               STMicroelectronics NV    220.43                    Semiconductors  2025-01-23 24.600000381469727  2025-01-24 25.700000762939453       4.47
+1898    PPRUF                                           Kering SA    303.03  Textiles, Apparel & Luxury Goods    2025-01-23 257.260009765625              2025-01-24 267.75       4.08
+3705    PGPEF                                  Publicis Groupe SA    253.32                             Media  2025-01-23 101.05000305175781               2025-01-24 105.0       3.91
+3095     LULU                             Lululemon Athletica Inc    507.64  Textiles, Apparel & Luxury Goods   2025-01-23 387.8500061035156   2025-01-24 400.0299987792969       3.14
+3157    UPMKF                                     UPM-Kymmene Oyj    143.57                    Paper & Forest  2025-01-23 29.010000228881836    2025-01-24 29.8700008392334       2.96
+2383       EL                          Estee Lauder Companies Inc    296.09                 Consumer products   2025-01-23 80.11000061035156    2025-01-24 82.4800033569336       2.96
+989      SNAP                                            Snap Inc    182.65                             Media  2025-01-23 10.579999923706055  2025-01-24 10.890000343322754       2.93
+2148      BAM                     BROOKFIELD ASSET MANAGEMENT LTD    265.72                Financial Services   2025-01-23 58.34000015258789  2025-01-24 59.959999084472656       2.78
+3138      VFC                                             VF Corp    102.51  Textiles, Apparel & Luxury Goods    2025-01-23 25.6299991607666  2025-01-24 26.329999923706055       2.73
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+     股票代码                                            公司名称  市值(亿)                              板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1006    NDRBF                                  Nibe Industrier AB    889.09                          Building                 2025-01-23 3.5   2025-01-24 4.019999980926514      14.86
+37      BAIDF                                           Baidu Inc    287.30                             Media  2025-01-23 10.281000137329102  2025-01-24 11.399999618530273      10.88
+2158    BABAF                           Alibaba Group Holding Ltd   2024.65                            Retail  2025-01-23 10.612000465393066  2025-01-24 11.350000381469727       6.95
+2019    MGDDF  Compagnie Generale des Etablissements Michelin SCA    235.86                   Auto Components   2025-01-23 34.84000015258789  2025-01-24 37.150001525878906       6.63
+666     THQQD                                   Embracer Group AB    530.79                             Media  2025-01-23 17.200000762939453               2025-01-24 18.25       6.10
+3904      NEE                                  Nextera Energy Inc   1497.68                         Utilities    2025-01-23 69.2300033569336   2025-01-24 72.83000183105469       5.20
+4142     IBKR                       Interactive Brokers Group Inc    925.28                Financial Services   2025-01-23 208.5500030517578  2025-01-24 218.99000549316406       5.01
+1852    NETTF                                         NetEase Inc    628.03                             Media   2025-01-23 18.11199951171875  2025-01-24 18.968000411987305       4.73
+1188    STMEF                               STMicroelectronics NV    220.43                    Semiconductors  2025-01-23 24.600000381469727  2025-01-24 25.700000762939453       4.47
+1898    PPRUF                                           Kering SA    303.03  Textiles, Apparel & Luxury Goods    2025-01-23 257.260009765625              2025-01-24 267.75       4.08
+3705    PGPEF                                  Publicis Groupe SA    253.32                             Media  2025-01-23 101.05000305175781               2025-01-24 105.0       3.91
+3095     LULU                             Lululemon Athletica Inc    507.64  Textiles, Apparel & Luxury Goods   2025-01-23 387.8500061035156   2025-01-24 400.0299987792969       3.14
+2383       EL                          Estee Lauder Companies Inc    296.09                 Consumer products   2025-01-23 80.11000061035156    2025-01-24 82.4800033569336       2.96
+2148      BAM                     BROOKFIELD ASSET MANAGEMENT LTD    265.72                Financial Services   2025-01-23 58.34000015258789  2025-01-24 59.959999084472656       2.78
+3471     CPNG                                         Coupang Inc    405.82                            Retail                2025-01-23 22.0  2025-01-24 22.559999465942383       2.55
+4030       BN                                     Brookfield Corp    921.22                Financial Services   2025-01-23 59.56999969482422   2025-01-24 61.06999969482422       2.52
+4178      LLY                                    Eli Lilly and Co   7456.02                   Pharmaceuticals   2025-01-23 766.5999755859375   2025-01-24 785.4099731445312       2.45
+978     LVMHF                 LVMH Moet Hennessy Louis Vuitton SE   3601.16  Textiles, Apparel & Luxury Goods   2025-01-23 753.6799926757812               2025-01-24 772.0       2.43
+123       EDR                         Endeavor Group Holdings Inc    216.26                             Media  2025-01-23 30.899999618530273  2025-01-24 31.610000610351562       2.30
+4205    EADSF                                           Airbus SE   1319.12               Aerospace & Defense   2025-01-23 171.3300018310547              2025-01-24 175.25       2.29
+
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+
+     股票代码                             公司名称  市值(亿)                              板块                       昨天收盘                       今天收盘  涨跌幅(%)
+2158    BABAF            Alibaba Group Holding Ltd   2024.65                            Retail  2025-01-23 10.612000465393066  2025-01-24 11.350000381469727       6.95
+3904      NEE                   Nextera Energy Inc   1497.68                         Utilities    2025-01-23 69.2300033569336   2025-01-24 72.83000183105469       5.20
+4178      LLY                     Eli Lilly and Co   7456.02                   Pharmaceuticals   2025-01-23 766.5999755859375   2025-01-24 785.4099731445312       2.45
+978     LVMHF  LVMH Moet Hennessy Louis Vuitton SE   3601.16  Textiles, Apparel & Luxury Goods   2025-01-23 753.6799926757812               2025-01-24 772.0       2.43
+4205    EADSF                            Airbus SE   1319.12               Aerospace & Defense   2025-01-23 171.3300018310547              2025-01-24 175.25       2.29
+1219     CHTR           Charter Communications Inc   1044.46                             Media   2025-01-23 359.9599914550781   2025-01-24 367.5799865722656       2.12
+2818    EVGGF                  Evolution AB (publ)   1763.30     Hotels, Restaurants & Leisure   2025-01-23 75.95999908447266   2025-01-24 77.55999755859375       2.11
+3881    LRLCF                           L'Oreal SA   1883.77                 Consumer products               2025-01-23 360.5               2025-01-24 368.0       2.08
+1380     AVGO                         Broadcom Inc  11469.96                    Semiconductors  2025-01-23 240.27999877929688   2025-01-24 244.6999969482422       1.84
+4112     SPOT                Spotify Technology SA   1000.41                             Media               2025-01-23 501.5  2025-01-24 510.42999267578125       1.78
+2784     META                   Meta Platforms Inc  16345.81                             Media   2025-01-23 636.4500122070312    2025-01-24 647.489990234375       1.73
+3470    EPIAF                            Epiroc AB   2488.96                         Machinery  2025-01-23 19.356000900268555  2025-01-24 19.676000595092773       1.65
+3324    ESLOF                  EssilorLuxottica SA   1161.30                       Health Care   2025-01-23 261.9599914550781   2025-01-24 265.9800109863281       1.53
+3196     SHOP                          Shopify Inc   1391.33                        Technology   2025-01-23 106.0999984741211  2025-01-24 107.68000030517578       1.49
+2753       PM      Philip Morris International Inc   1978.99                           Tobacco  2025-01-23 125.43000030517578  2025-01-24 127.27999877929688       1.47
+1947     TMUS                      T-Mobile US Inc   2536.48                 Telecommunication   2025-01-23 216.0399932861328  2025-01-24 218.57000732421875       1.17
+661      GOOG                         Alphabet Inc  24597.25                             Media   2025-01-23 199.5800018310547  2025-01-24 201.89999389648438       1.16
+2981       FI                           Fiserv Inc   1188.13                Financial Services  2025-01-23 206.49000549316406  2025-01-24 208.83999633789062       1.14
+4214    GOOGL                         Alphabet Inc  24597.25                             Media  2025-01-23 197.97999572753906   2025-01-24 200.2100067138672       1.13
+795       MDT                        Medtronic PLC   1156.49                       Health Care               2025-01-23 89.25   2025-01-24 90.19000244140625       1.05

@@ -1,0 +1,152 @@
+{
+  "USREF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Tactical Resources Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:41"
+  },
+  "VRCDF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Verici DX PLC",
+    "country": "US",
+    "added_date": "2025-01-25 14:41:42"
+  },
+  "STOSF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Santos Ltd",
+    "country": "AU",
+    "added_date": "2025-01-25 14:41:43"
+  },
+  "TYXXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Tyranna Resources Ltd",
+    "country": "AU",
+    "added_date": "2025-01-25 14:41:43"
+  },
+  "SQCF": {
+    "exchange": "OTC MARKETS",
+    "name": "Susquehanna Community Financial Inc",
+    "country": "US",
+    "added_date": "2025-01-25 14:41:44"
+  },
+  "CZGZF": {
+    "exchange": "PRAGUE STOCK EXCHANGE",
+    "name": "Colt CZ Group SE",
+    "country": "CZ",
+    "added_date": "2025-01-25 14:41:44"
+  },
+  "NOBH": {
+    "exchange": "OTC MARKETS",
+    "name": "Nobility Homes Inc",
+    "country": "US",
+    "added_date": "2025-01-25 14:41:44"
+  },
+  "SNVFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Sonoro Energy Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:45"
+  },
+  "TPLKF": {
+    "exchange": "XETRA",
+    "name": "PVA TePla AG",
+    "country": "DE",
+    "added_date": "2025-01-25 14:41:46"
+  },
+  "CHYCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Chiyoda Corp",
+    "country": "JP",
+    "added_date": "2025-01-25 14:41:46"
+  },
+  "CRSTF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Mineral Road Discovery Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:47"
+  },
+  "RDRSF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "RDARS Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:48"
+  },
+  "TDNT": {
+    "exchange": "OTC MARKETS",
+    "name": "Healthy Brain Co",
+    "country": "US",
+    "added_date": "2025-01-25 14:41:48"
+  },
+  "MHTZF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Manhattan Corp Ltd",
+    "country": "AU",
+    "added_date": "2025-01-25 14:41:49"
+  },
+  "DKSSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Daiichikosho Co Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 14:41:49"
+  },
+  "SVM": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Silvercorp Metals Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:50"
+  },
+  "XNGIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Xingda International Holdings Ltd",
+    "country": "CN",
+    "added_date": "2025-01-25 14:41:50"
+  },
+  "OEZVF": {
+    "exchange": "WIENER BOERSE AG DRITTER MARKT (THIRD MARKET)",
+    "name": "Verbund AG",
+    "country": "AT",
+    "added_date": "2025-01-25 14:41:50"
+  },
+  "CHNGQ": {
+    "exchange": "OTC MARKETS",
+    "name": "China Natural Gas Inc",
+    "country": "CN",
+    "added_date": "2025-01-25 14:41:51"
+  },
+  "TSKFF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Talisker Resources Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:52"
+  },
+  "LTHIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "InZinc Mining Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 14:41:52"
+  },
+  "BRTHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Brother Industries Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 14:42:13"
+  },
+  "GMBKF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Gunma Bank Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 14:42:14"
+  },
+  "CZBT": {
+    "exchange": "OTC MARKETS",
+    "name": "Citizens Bancorp of Virginia Inc",
+    "country": "US",
+    "added_date": "2025-01-25 14:42:15"
+  },
+  "EBCOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Ebara Corp",
+    "country": "JP",
+    "added_date": "2025-01-25 14:42:24"
+  }
+}
