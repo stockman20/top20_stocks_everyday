@@ -49,7 +49,7 @@ pd.set_option('display.max_colwidth', None)
 
     # 获取当前日期时间
 now = datetime.now()
-log_dir = os.path.join('top20_stocks_everyday', now.strftime('%Y%m%d_%H%M%S'))
+log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
 
 
 def setup_logging():
@@ -413,8 +413,9 @@ def run_git_update():
         result = subprocess.run(
             ['./update_git.sh'],
             shell=True,
-            capture_output=True,
-            text=True,
+            stdout=subprocess.PIPE,  # 替换 capture_output
+            stderr=subprocess.PIPE,  # 替换 capture_output
+            universal_newlines=True,  # 替换 text=True
             check=True
         )
         logging.info("Git更新成功完成")
