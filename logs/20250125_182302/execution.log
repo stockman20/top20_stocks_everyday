@@ -1,0 +1,107 @@
+2025-01-25 18:23:02,994 - INFO: 日志目录: logs/20250125_182302
+2025-01-25 18:23:02,994 - INFO: 日志文件: logs/20250125_182302/execution.log
+2025-01-25 18:23:02,994 - INFO: 开始获取和过滤股票列表...
+2025-01-25 18:23:02,994 - INFO: 已加载 38 个非美股记录
+2025-01-25 18:23:02,994 - INFO: 未找到需排除的股票列表文件
+2025-01-25 18:23:02,994 - INFO: 未找到已验证的有效股票列表文件
+2025-01-25 18:23:04,665 - INFO: 从 Finnhub 获取到总计 27487 个股票
+2025-01-25 18:23:04,666 - INFO: 
+=== 股票过滤结果 ===
+2025-01-25 18:23:04,666 - INFO: 原始股票数量: 27487
+2025-01-25 18:23:04,666 - INFO: 过滤后数量: 17
+2025-01-25 18:23:04,666 - INFO: 
+被排除的股票统计:
+2025-01-25 18:23:04,675 - INFO: - 非普通股: 12 只
+2025-01-25 18:23:04,675 - INFO: - 权证: 1 只
+2025-01-25 18:23:04,675 - INFO: 开始处理 17 只股票...
+2025-01-25 18:23:05,019 - INFO: 股票 DCHLF 数据不足
+2025-01-25 18:23:05,895 - INFO: 跳过非美国主要交易所上市的股票 ZPAS (交易所: OTC MARKETS)
+2025-01-25 18:23:05,895 - INFO: 股票 ZPAS 无法获取详细信息
+2025-01-25 18:23:05,923 - INFO: 跳过非美国主要交易所上市的股票 TRJNF (交易所: ASX - ALL MARKETS)
+2025-01-25 18:23:05,924 - INFO: 股票 TRJNF 无法获取详细信息
+2025-01-25 18:23:05,936 - INFO: 跳过非美国主要交易所上市的股票 RKGXF (交易所: HONG KONG EXCHANGES AND CLEARING LTD)
+2025-01-25 18:23:05,936 - INFO: 股票 RKGXF 无法获取详细信息
+2025-01-25 18:23:06,054 - INFO: 跳过非美国主要交易所上市的股票 LFPI (交易所: OTC MARKETS)
+2025-01-25 18:23:06,054 - INFO: 股票 LFPI 无法获取详细信息
+2025-01-25 18:23:06,583 - INFO: 进度: 10/17 (58.82%) 有效数据: 5
+2025-01-25 18:23:07,316 - INFO: 跳过非美国主要交易所上市的股票 CMCAF (交易所: OTC MARKETS)
+2025-01-25 18:23:07,316 - INFO: 股票 CMCAF 无法获取详细信息
+2025-01-25 18:23:07,335 - INFO: 跳过非美国主要交易所上市的股票 SGLN (交易所: OTC MARKETS)
+2025-01-25 18:23:07,335 - INFO: 股票 SGLN 无法获取详细信息
+2025-01-25 18:23:07,348 - INFO: 跳过非美国主要交易所上市的股票 QIAN (交易所: OTC MARKETS)
+2025-01-25 18:23:07,348 - INFO: 股票 QIAN 无法获取详细信息
+2025-01-25 18:23:07,390 - INFO: 跳过非美国主要交易所上市的股票 BLIDF (交易所: NASDAQ OMX NORDIC)
+2025-01-25 18:23:07,390 - INFO: 股票 BLIDF 无法获取详细信息
+2025-01-25 18:23:07,615 - INFO: 跳过非美国主要交易所上市的股票 HAIVF (交易所: TORONTO STOCK EXCHANGE)
+2025-01-25 18:23:07,615 - INFO: 股票 HAIVF 无法获取详细信息
+2025-01-25 18:23:07,665 - INFO: 跳过非美国主要交易所上市的股票 JGLDF (交易所: TSX VENTURE EXCHANGE - NEX)
+2025-01-25 18:23:07,665 - INFO: 股票 JGLDF 无法获取详细信息
+2025-01-25 18:23:07,666 - INFO: 
+处理完成!
+2025-01-25 18:23:07,666 - INFO: 总计处理: 17 只股票
+2025-01-25 18:23:07,666 - INFO: 有效数据: 6 只股票
+2025-01-25 18:23:07,666 - INFO: 无效数据: 11 只股票
+2025-01-25 18:23:07,672 - INFO: 日志目录: logs/20250125_182302
+2025-01-25 18:23:07,672 - INFO: 日志文件: logs/20250125_182302/execution.log
+2025-01-25 18:23:07,674 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-25 18:23:07,674 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-25 18:23:07,684 - INFO: 
+股票代码               公司名称              市值(亿)              板块                   昨天收盘          今天收盘     涨跌幅(%)
+  TELO           Telomir Pharmaceuticals Inc    1.50                 Pharmaceuticals   2025-01-23 4.75   2025-01-24 5.03     5.89 
+   SLP                  Simulations Plus Inc    6.79                     Health Care   2025-01-23 33.5  2025-01-24 33.78     0.84 
+   IGT     International Game Technology PLC   34.64   Hotels, Restaurants & Leisure  2025-01-23 17.11  2025-01-24 17.15     0.23 
+  TSLX    Sixth Street Specialty Lending Inc   20.57              Financial Services  2025-01-23 22.02  2025-01-24 22.04     0.09 
+  VRPX            Virpax Pharmaceuticals Inc    0.04                 Pharmaceuticals    2025-01-23 0.3   2025-01-24 0.29    -0.67 
+   NUS               NU Skin Enterprises Inc    3.43               Consumer products   2025-01-23 7.14   2025-01-24 6.89    -3.50 
+2025-01-25 18:23:07,684 - INFO: 
+股票代码               公司名称              市值(亿)              板块                   昨天收盘          今天收盘     涨跌幅(%)
+  TELO           Telomir Pharmaceuticals Inc    1.50                 Pharmaceuticals   2025-01-23 4.75   2025-01-24 5.03     5.89 
+   SLP                  Simulations Plus Inc    6.79                     Health Care   2025-01-23 33.5  2025-01-24 33.78     0.84 
+   IGT     International Game Technology PLC   34.64   Hotels, Restaurants & Leisure  2025-01-23 17.11  2025-01-24 17.15     0.23 
+  TSLX    Sixth Street Specialty Lending Inc   20.57              Financial Services  2025-01-23 22.02  2025-01-24 22.04     0.09 
+  VRPX            Virpax Pharmaceuticals Inc    0.04                 Pharmaceuticals    2025-01-23 0.3   2025-01-24 0.29    -0.67 
+   NUS               NU Skin Enterprises Inc    3.43               Consumer products   2025-01-23 7.14   2025-01-24 6.89    -3.50 
+2025-01-25 18:23:07,686 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-25 18:23:07,686 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-25 18:23:07,691 - INFO: 
+股票代码               公司名称              市值(亿)              板块                   昨天收盘          今天收盘     涨跌幅(%)
+   IGT     International Game Technology PLC   34.64   Hotels, Restaurants & Leisure  2025-01-23 17.11  2025-01-24 17.15    0.23  
+  TSLX    Sixth Street Specialty Lending Inc   20.57              Financial Services  2025-01-23 22.02  2025-01-24 22.04    0.09  
+2025-01-25 18:23:07,691 - INFO: 
+股票代码               公司名称              市值(亿)              板块                   昨天收盘          今天收盘     涨跌幅(%)
+   IGT     International Game Technology PLC   34.64   Hotels, Restaurants & Leisure  2025-01-23 17.11  2025-01-24 17.15    0.23  
+  TSLX    Sixth Street Specialty Lending Inc   20.57              Financial Services  2025-01-23 22.02  2025-01-24 22.04    0.09  
+2025-01-25 18:23:07,692 - INFO: 
+没有市值超过50亿的股票!
+2025-01-25 18:23:07,692 - INFO: 
+没有市值超过50亿的股票!
+2025-01-25 18:23:07,693 - INFO: 
+没有市值超过100亿的股票!
+2025-01-25 18:23:07,693 - INFO: 
+没有市值超过100亿的股票!
+2025-01-25 18:23:07,693 - INFO: 
+没有市值超过200亿的股票!
+2025-01-25 18:23:07,693 - INFO: 
+没有市值超过200亿的股票!
+2025-01-25 18:23:07,694 - INFO: 
+没有市值超过1000亿的股票!
+2025-01-25 18:23:07,694 - INFO: 
+没有市值超过1000亿的股票!
+2025-01-25 18:23:07,694 - INFO: 结果已保存到: logs/20250125_182302/top20_result.log
+2025-01-25 18:23:07,694 - INFO: 日志目录: logs/20250125_182302
+2025-01-25 18:23:07,694 - INFO: 日志文件: logs/20250125_182302/execution.log
+2025-01-25 18:23:07,695 - INFO: 股票数据已保存到 logs/20250125_182302/stocks_data.json
+2025-01-25 18:23:07,699 - INFO: 
+=== 板块涨跌分析 ===
+2025-01-25 18:23:07,701 - INFO: 
+                            板块  平均涨跌幅  股票数量
+4                Pharmaceuticals        2.61         2
+2                    Health Care        0.84         1
+3  Hotels, Restaurants & Leisure        0.23         1
+1             Financial Services        0.09         1
+0              Consumer products       -3.50         1
+2025-01-25 18:23:07,702 - INFO: 板块分析已保存到 logs/20250125_182302/sector_analysis.json

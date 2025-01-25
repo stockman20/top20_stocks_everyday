@@ -479,61 +479,71 @@ def display_results(df):
         result_logger.info(message)
         logging.info(message)  # 同时也记录到主日志文件
 
+    # 设置pandas显示选项以获得更好的对齐
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', 200)
+    pd.set_option('display.max_colwidth', 30)
+
+    def log_dataframe(title, dataframe):
+        log_results(f"\n{title}")
+        if not dataframe.empty:
+            # 手动格式化输出，确保对齐
+            def format_column(col):
+                if pd.api.types.is_numeric_dtype(col):
+                    return col.apply(lambda x: f'{x:.2f}' if pd.notnull(x) else str(x))
+                return col.astype(str)
+
+            # 格式化每一列
+            formatted_df = dataframe.apply(format_column)
+
+            # 转换为字符串，手动对齐
+            table_str = formatted_df.to_string(
+                index=False,
+                justify='center'  # 这个参数在to_string中是有效的
+            )
+            log_results("\n" + table_str)
+        else:
+            log_results("没有数据!")
+
     # 1. 展示前20名涨幅股票
     top_20 = df.head(20)
-    log_results("\n=== 涨幅榜前20名股票 ===")
-    log_results("\n" + str(top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    log_dataframe("=== 涨幅榜前20名股票 ===",
+                  top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']])
 
     # 2. 展示市值超过20亿的前20名涨幅股票
     billion_20 = df[df['市值(亿)'] > 20].head(20)
-    if not billion_20.empty:
-        log_results("\n=== 市值超过20亿的涨幅榜前20名股票 ===")
-        log_results(
-            "\n" + str(billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
-    else:
-        log_results("\n没有市值超过20亿的股票!")
+    log_dataframe("=== 市值超过20亿的涨幅榜前20名股票 ===",
+                  billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_20.empty else log_results("\n没有市值超过20亿的股票!")
 
     # 3. 展示市值超过50亿的前20名涨幅股票
     billion_50 = df[df['市值(亿)'] > 50].head(20)
-    if not billion_50.empty:
-        log_results("\n=== 市值超过50亿的涨幅榜前20名股票 ===")
-        log_results(
-            "\n" + str(billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
-    else:
-        log_results("\n没有市值超过50亿的股票!")
+    log_dataframe("=== 市值超过50亿的涨幅榜前20名股票 ===",
+                  billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_50.empty else log_results("\n没有市值超过50亿的股票!")
 
     # 4. 展示市值超过100亿的前20名涨幅股票
     billion_100 = df[df['市值(亿)'] > 100].head(20)
-    if not billion_100.empty:
-        log_results("\n=== 市值超过100亿的涨幅榜前20名股票 ===")
-        log_results(
-            "\n" + str(billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
-    else:
-        log_results("\n没有市值超过100亿的股票!")
+    log_dataframe("=== 市值超过100亿的涨幅榜前20名股票 ===",
+                  billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_100.empty else log_results("\n没有市值超过100亿的股票!")
 
     # 5. 展示市值超过200亿的前20名涨幅股票
     billion_200 = df[df['市值(亿)'] > 200].head(20)
-    if not billion_200.empty:
-        log_results("\n=== 市值超过200亿的涨幅榜前20名股票 ===")
-        log_results(
-            "\n" + str(billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
-    else:
-        log_results("\n没有市值超过200亿的股票!")
+    log_dataframe("=== 市值超过200亿的涨幅榜前20名股票 ===",
+                  billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_200.empty else log_results("\n没有市值超过200亿的股票!")
 
     # 6. 展示市值超过1000亿的前20名涨幅股票
     billion_1000 = df[df['市值(亿)'] > 1000].head(20)
-    if not billion_1000.empty:
-        log_results("\n=== 市值超过1000亿的涨幅榜前20名股票 ===")
-        log_results(
-            "\n" + str(billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
-    else:
-        log_results("\n没有市值超过1000亿的股票!")
+    log_dataframe("=== 市值超过1000亿的涨幅榜前20名股票 ===",
+                  billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
+        if not billion_1000.empty else log_results("\n没有市值超过1000亿的股票!")
 
     # 关闭文件处理器
     file_handler.close()
     result_logger.removeHandler(file_handler)
     logging.info(f"结果已保存到: {result_log_filename}")
-
 
 def process_final_stock_data(df):
     # 获取日志目录和文件名

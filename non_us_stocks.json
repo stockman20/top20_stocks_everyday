@@ -214,5 +214,29 @@
     "name": "NHK Spring Co Ltd",
     "country": "JP",
     "added_date": "2025-01-25 18:13:48"
+  },
+  "RCKTF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Rock Tech Lithium Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:21:12"
+  },
+  "MDALF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "MDA Space Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 18:21:13"
+  },
+  "LFPI": {
+    "exchange": "OTC MARKETS",
+    "name": "LifePoint Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:23:06"
+  },
+  "JGLDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Japan Gold Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:23:07"
   }
 }
