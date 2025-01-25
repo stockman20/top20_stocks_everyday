@@ -26,8 +26,8 @@ jobs:
 
       - name: Send Telegram Notification
         env:
-          TELEGRAM_TOKEN: '8131105167:AAFwYtL0xM6Ja0jepAP4d8TSrojpeabZUMA'
-          TELEGRAM_CHAT_ID: '684157407'
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           message="Latest commit: ${{ steps.get_commit.outputs.commit }}"
           echo "Debug: Sending message: $message"  # 添加调试信息
