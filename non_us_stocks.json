@@ -148,5 +148,17 @@
     "name": "Ebara Corp",
     "country": "JP",
     "added_date": "2025-01-25 14:42:24"
+  },
+  "BBUC": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Brookfield Business Corp",
+    "country": "US",
+    "added_date": "2025-01-25 17:43:14"
+  },
+  "PTOS": {
+    "exchange": "OTC MARKETS",
+    "name": "P2 Solar Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 17:43:25"
   }
 }

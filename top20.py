@@ -129,14 +129,14 @@ def load_or_fetch_symbols():
 
         # 转换为所需的格式，并过滤掉已知的非美股
         symbols_data = [
-            symbol for symbol in symbols
-            if symbol.get('type') == 'Common Stock' and 
-            symbol.get('symbol') not in non_us_stocks
+            symbol for symbol in symbols[:30]
+            if symbol.get('type') == 'Common Stock' and
+               symbol.get('symbol') not in non_us_stocks
         ]
 
         logging.info(f"获取到 {len(symbols_data)} 个股票 (已排除 {len(non_us_stocks)} 个已知非美股)")
         logging.info(f"实际需要处理的股票数量: {len(symbols_data)} / {total_symbols} "
-                    f"({round(len(symbols_data)/total_symbols*100, 2)}%)")
+                     f"({round(len(symbols_data) / total_symbols * 100, 2)}%)")
         return symbols_data
 
     except Exception as e:
@@ -170,7 +170,6 @@ def get_stock_details(symbol):
                 exchange = company_info.get('exchange', '').upper()
 
                 valid_exchanges = [
-                    'NASDAQ',
                     'NASDAQ NMS',
                     'NASDAQ GM',
                     'NASDAQ GS',
@@ -179,8 +178,11 @@ def get_stock_details(symbol):
                     'NASDAQ CAPITAL MARKET',
                     'NEW YORK STOCK EXCHANGE',
                     'NYSE',
-                    'NYSE ARCA',
-                    'NYSE AMERICAN'
+                    'NASDAQ CAPITAL MARKET',  # 纳斯达克资本市场
+                    'NEW YORK STOCK EXCHANGE',  # 纽约证券交易所
+                    'NYSE ARCA',  # 纽约证券交易所ARCA平台
+                    'NYSE AMERICAN',  # 纽约证券交易所AMERICAN平台
+                    'NYSE NATIONAL'  # 纽约证券交易所NATIONAL市场
                 ]
 
                 is_valid_exchange = any(
@@ -237,6 +239,7 @@ def get_stock_details(symbol):
         logging.error(f"获取 {symbol} 详细信息时出错: {e}")
         return None
 
+
 def process_stock(stock):
     symbol = stock['symbol']
 
@@ -292,8 +295,8 @@ def process_stock(stock):
             '公司名称': details['name'],
             '市值(亿)': round(details['market_cap'], 2),
             '板块': details['sector'],
-            "昨天收盘": f"{yesterday_date} {previous_close}",
-            "今天收盘": f"{today_date} {current_price}",
+            "昨天收盘": f"{yesterday_date} {round(previous_close), 2}",
+            "今天收盘": f"{today_date} {round(current_price), 2}",
             '涨跌幅(%)': round(price_change, 2)
         }
 
