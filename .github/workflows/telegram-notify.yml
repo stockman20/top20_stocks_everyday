@@ -28,14 +28,17 @@ jobs:
       - name: Get File Content and URL
         id: get_file
         run: |
-          # 检查文件是否存在
-          if [ -f "top20_result.log" ]; then
-            # 获取文件内容（限制在1000个字符以内，避免消息过长）
-            content=$(head -c 1000 top20_result.log)
+          # 获取最新 commit 的 hash
+          latest_commit=$(git rev-parse HEAD)
+          
+          # 检查该文件在最新 commit 中是否存在
+          if git cat-file -e "${latest_commit}:top20_result.log" 2>/dev/null; then
+            # 从最新 commit 中获取文件内容
+            content=$(git show "${latest_commit}:top20_result.log" | head -c 1000)
             
             # 构建文件的 GitHub URL
             repo_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}"
-            file_url="${repo_url}/blob/${GITHUB_SHA}/top20_result.log"
+            file_url="${repo_url}/blob/${latest_commit}/top20_result.log"
             
             # 将内容和URL保存到输出变量
             echo "content<<EOF" >> $GITHUB_OUTPUT
@@ -43,8 +46,8 @@ jobs:
             echo "EOF" >> $GITHUB_OUTPUT
             echo "file_url=$file_url" >> $GITHUB_OUTPUT
           else
-            echo "Warning: top20_result.log not found"
-            echo "content=File not found" >> $GITHUB_OUTPUT
+            echo "Warning: top20_result.log not found in latest commit"
+            echo "content=File not found in latest commit" >> $GITHUB_OUTPUT
             echo "file_url=Not available" >> $GITHUB_OUTPUT
           fi
 
