@@ -21,35 +21,12 @@ class APIKeyRotator:
         self.api_keys = api_keys
         self.key_index = 0
         self.lock = threading.Lock()
-        self.key_usage = {key: {'count': 0, 'last_request_time': 0} for key in api_keys}
 
     def get_next_key(self):
         with self.lock:
-            current_time = time.time()
-
-            # 遍历所有 API Keys 找到可用的
-            for _ in range(len(self.api_keys)):
-                current_key = self.api_keys[self.key_index]
-
-                # 检查上次请求时间，确保间隔至少1秒
-                if current_time - self.key_usage[current_key]['last_request_time'] >= 1:
-                    self.key_usage[current_key]['count'] += 1
-                    self.key_usage[current_key]['last_request_time'] = current_time
-
-                    # 打印当前使用的 API Key 及其请求次数
-                    logging.info(f"使用 API Key: {current_key} (已使用 {self.key_usage[current_key]['count']} 次)")
-
-                    # 准备下一个 key 的索引
-                    self.key_index = (self.key_index + 1) % len(self.api_keys)
-
-                    return current_key
-
-                # 如果这个 key 不可用，切换到下一个
-                self.key_index = (self.key_index + 1) % len(self.api_keys)
-
-            # 如果所有 key 都在1秒冷却期内，等待并重试
-            time.sleep(1)
-            return self.get_next_key()
+            current_key = self.api_keys[self.key_index]
+            self.key_index = (self.key_index + 1) % len(self.api_keys)
+            return current_key
 
 
 # API Key 列表
@@ -64,6 +41,7 @@ api_keys = [
     "cua57p9r01qkpes486r0cua57p9r01qkpes486rg",
     "cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0"
 ]
+
 key_rotator = APIKeyRotator(api_keys)
 
 # 设置 Pandas 显示选项
@@ -143,7 +121,7 @@ def load_or_fetch_symbols():
 
         # 转换为所需的格式
         symbols_data = [
-            symbol for symbol in symbols
+            symbol for symbol in symbols[:30]
             if symbol.get('type') == 'Common Stock'
         ]
 
@@ -270,8 +248,6 @@ def get_gainers_multithreaded(max_workers=None):
                 valid_count += 1
 
             if processed_count % 10 == 0:
-                # 添加详细的进度日志
-                logging.info(f"处理 {symbol}: 结果 {'成功' if result else '失败'}")
                 logging.info(f"进度: {processed_count}/{total_symbols} "
                              f"({round(processed_count / total_symbols * 100, 2)}%) "
                              f"有效数据: {valid_count}")
@@ -458,12 +434,8 @@ def run_git_update():
 
 
 if __name__ == "__main__":
-    try:
-        gainers_df = get_gainers_multithreaded()
+    gainers_df = get_gainers_multithreaded()
 
-        if not gainers_df.empty:
-            run_git_update()
-    except Exception as e:
-        logging.error(f"程序执行过程中发生致命错误: {e}")
-        logging.exception("详细错误堆栈:")
+    if not gainers_df.empty:
+        run_git_update()
 
