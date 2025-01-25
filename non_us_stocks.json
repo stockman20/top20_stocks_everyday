@@ -4,5 +4,119 @@
     "name": "Sulja Bros Building Supplies Ltd",
     "country": "US",
     "added_date": "2025-01-25 18:08:04"
+  },
+  "PTPKF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Pakuwon Jati Tbk PT",
+    "country": "ID",
+    "added_date": "2025-01-25 18:08:05"
+  },
+  "MHRE": {
+    "exchange": "OTC MARKETS",
+    "name": "Mesa Home Resources Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:08:05"
+  },
+  "CGFEF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "CF Energy Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:05"
+  },
+  "PRCX": {
+    "exchange": "OTC MARKETS",
+    "name": "Phoenix Rising Companies",
+    "country": "US",
+    "added_date": "2025-01-25 18:08:06"
+  },
+  "ORVRF": {
+    "exchange": "",
+    "name": "N/A",
+    "country": "N/A",
+    "added_date": "2025-01-25 18:08:06"
+  },
+  "SRAIF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Stadler Rail AG",
+    "country": "CH",
+    "added_date": "2025-01-25 18:08:07"
+  },
+  "UUSAF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Kraken Energy Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:07"
+  },
+  "MIDLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Midland Exploration Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:08"
+  },
+  "CNADF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "CanadaBis Capital Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:09"
+  },
+  "DNSKF": {
+    "exchange": "OMX NORDIC EXCHANGE COPENHAGEN A/S",
+    "name": "Danske Bank A/S",
+    "country": "DK",
+    "added_date": "2025-01-25 18:08:09"
+  },
+  "NDTP": {
+    "exchange": "OTC MARKETS",
+    "name": "NDT Pharmaceuticals Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:10"
+  },
+  "TCCHF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Technogym SpA",
+    "country": "IT",
+    "added_date": "2025-01-25 18:08:10"
+  },
+  "MBAKF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "mBank SA",
+    "country": "PL",
+    "added_date": "2025-01-25 18:08:10"
+  },
+  "GCEH": {
+    "exchange": "OTC MARKETS",
+    "name": "Global Clean Energy Holdings Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:08:11"
+  },
+  "NEUN": {
+    "exchange": "OTC MARKETS",
+    "name": "NeuroGenesis Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:08:11"
+  },
+  "AURQF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Aurelius Minerals Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:12"
+  },
+  "BACQ": {
+    "exchange": "",
+    "name": "N/A",
+    "country": "N/A",
+    "added_date": "2025-01-25 18:08:12"
+  },
+  "QSCGF": {
+    "exchange": "XETRA",
+    "name": "QBeyond AG",
+    "country": "DE",
+    "added_date": "2025-01-25 18:08:13"
+  },
+  "DGNMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "DiagnaMed Holdings Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:08:14"
   }
 }
