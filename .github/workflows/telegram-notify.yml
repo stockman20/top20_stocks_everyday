@@ -2,14 +2,11 @@ name: Notify Telegram of Latest Commit
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
   contents: read
-
-env:
-  TZ: Asia/Shanghai  # 在这里设置时区
 
 jobs:
   notify:
