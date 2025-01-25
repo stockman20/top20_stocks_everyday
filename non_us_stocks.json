@@ -34,5 +34,185 @@
     "name": "Usha Resources Ltd",
     "country": "CA",
     "added_date": "2025-01-25 18:09:46"
+  },
+  "GGNDF": {
+    "exchange": "OMX NORDIC EXCHANGE COPENHAGEN A/S",
+    "name": "GN Store Nord A/S",
+    "country": "DK",
+    "added_date": "2025-01-25 18:12:02"
+  },
+  "APRO": {
+    "exchange": "OTC MARKETS",
+    "name": "Conau Global Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:12:04"
+  },
+  "DGNOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Diagnos Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:14"
+  },
+  "APEUF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Atlas Engineered Products Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:15"
+  },
+  "FSV": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Firstservice Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:17"
+  },
+  "NTIOF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "National Bank of Canada",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:20"
+  },
+  "JBARF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Julius Baer Gruppe AG",
+    "country": "CH",
+    "added_date": "2025-01-25 18:12:21"
+  },
+  "TNIEF": {
+    "exchange": "XETRA",
+    "name": "tonies SE",
+    "country": "LU",
+    "added_date": "2025-01-25 18:12:22"
+  },
+  "ASHXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Progressive Planet Solutions Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:23"
+  },
+  "LINRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Liontown Resources Ltd",
+    "country": "AU",
+    "added_date": "2025-01-25 18:12:24"
+  },
+  "RDGMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Ridgeline Minerals Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:24"
+  },
+  "MTPTF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Motorpoint Group PLC",
+    "country": "GB",
+    "added_date": "2025-01-25 18:12:25"
+  },
+  "MHIFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Mineral Hill Industries Ltd",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:26"
+  },
+  "SBXD": {
+    "exchange": "",
+    "name": "N/A",
+    "country": "N/A",
+    "added_date": "2025-01-25 18:12:27"
+  },
+  "GLIIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Glacier Lake Resources Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:28"
+  },
+  "VICA": {
+    "exchange": "OTC MARKETS",
+    "name": "Omed Inc",
+    "country": "GB",
+    "added_date": "2025-01-25 18:12:28"
+  },
+  "BSPK": {
+    "exchange": "OTC MARKETS",
+    "name": "Bespoke Extracts Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:12:29"
+  },
+  "BIOE": {
+    "exchange": "OTC MARKETS",
+    "name": "Bio Essence Corp",
+    "country": "US",
+    "added_date": "2025-01-25 18:12:37"
+  },
+  "MBYMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "MTB Metals Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:37"
+  },
+  "ADDDF": {
+    "exchange": "XETRA",
+    "name": "Adidas AG",
+    "country": "DE",
+    "added_date": "2025-01-25 18:12:38"
+  },
+  "HRFEF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Harfang Exploration Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:38"
+  },
+  "NXTYQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Nexity Financial Corp",
+    "country": "US",
+    "added_date": "2025-01-25 18:12:39"
+  },
+  "DCMDF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Data Communications Management Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:39"
+  },
+  "MSGNF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Man Sang International Ltd",
+    "country": "HK",
+    "added_date": "2025-01-25 18:12:40"
+  },
+  "VGMIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Visible Gold Mines Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:40"
+  },
+  "PTEEF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Plaintree Systems Inc",
+    "country": "CA",
+    "added_date": "2025-01-25 18:12:51"
+  },
+  "GSRX": {
+    "exchange": "OTC MARKETS",
+    "name": "GSRX Industries Inc",
+    "country": "PR",
+    "added_date": "2025-01-25 18:12:52"
+  },
+  "LITRF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Lithium Royalty Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:13:25"
+  },
+  "ISVG": {
+    "exchange": "OTC MARKETS",
+    "name": "Integrated Services Group Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:13:27"
+  },
+  "NHKGF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "NHK Spring Co Ltd",
+    "country": "JP",
+    "added_date": "2025-01-25 18:13:48"
   }
 }

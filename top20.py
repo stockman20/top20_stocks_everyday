@@ -219,6 +219,7 @@ def load_or_fetch_symbols():
         logging.error(f"获取和过滤股票时出错: {e}")
         return []
 
+
 def get_stock_details(symbol):
     # 创建或加载非美股列表文件
     non_us_stocks_file = 'non_us_stocks.json'
@@ -370,8 +371,8 @@ def process_stock(stock):
             '公司名称': details['name'],
             '市值(亿)': round(details['market_cap'], 2),
             '板块': details['sector'],
-            "昨天收盘": f"{yesterday_date} {round(previous_close), 2}",
-            "今天收盘": f"{today_date} {round(current_price), 2}",
+            "昨天收盘": f"{yesterday_date} {round(previous_close, 2)}",  # 修正这里
+            "今天收盘": f"{today_date} {round(current_price, 2)}",  # 修正这里
             '涨跌幅(%)': round(price_change, 2)
         }
 
