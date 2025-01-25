@@ -15,49 +15,6 @@ import logging
 import pickle
 import subprocess
 
-# 设置 Pandas 显示选项
-pd.set_option('display.unicode.ambiguous_as_wide', True)
-pd.set_option('display.unicode.east_asian_width', True)
-pd.set_option('display.max_rows', None)
-pd.set_option('display.max_columns', None)
-pd.set_option('display.width', None)
-pd.set_option('display.max_colwidth', None)
-
-# 获取当前日期时间
-now = datetime.now()
-log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
-
-
-def setup_logging():
-    # 创建按照年月日时分秒格式的目录路径
-
-    # 确保目录存在
-    os.makedirs(log_dir, exist_ok=True)
-
-    # 生成日志文件名
-    timestamp = now.strftime('%Y%m%d_%H%M%S')
-    log_filename = os.path.join(log_dir, f'execution.log')
-
-    # 配置日志
-    logging.basicConfig(
-        filename=log_filename,
-        level=logging.INFO,
-        format='%(asctime)s - %(levelname)s: %(message)s'
-    )
-
-    logging.info(f'日志目录: {log_dir}')
-    logging.info(f'日志文件: {log_filename}')
-
-    return log_dir, log_filename  # 返回目录和文件名
-
-
-# 替换原有的日志设置
-logging.basicConfig(
-    filename=setup_logging(),
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s: %(message)s'
-)
-
 
 class APIKeyRotator:
     def __init__(self, api_keys):
@@ -108,6 +65,49 @@ api_keys = [
     "cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0"
 ]
 key_rotator = APIKeyRotator(api_keys)
+
+# 设置 Pandas 显示选项
+pd.set_option('display.unicode.ambiguous_as_wide', True)
+pd.set_option('display.unicode.east_asian_width', True)
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', None)
+pd.set_option('display.max_colwidth', None)
+
+# 获取当前日期时间
+now = datetime.now()
+log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
+
+
+def setup_logging():
+    # 创建按照年月日时分秒格式的目录路径
+
+    # 确保目录存在
+    os.makedirs(log_dir, exist_ok=True)
+
+    # 生成日志文件名
+    timestamp = now.strftime('%Y%m%d_%H%M%S')
+    log_filename = os.path.join(log_dir, f'execution.log')
+
+    # 配置日志
+    logging.basicConfig(
+        filename=log_filename,
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s: %(message)s'
+    )
+
+    logging.info(f'日志目录: {log_dir}')
+    logging.info(f'日志文件: {log_filename}')
+
+    return log_dir, log_filename  # 返回目录和文件名
+
+
+# 替换原有的日志设置
+logging.basicConfig(
+    filename=setup_logging(),
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s: %(message)s'
+)
 
 # 创建全局更新队列
 update_queue = queue.Queue()
