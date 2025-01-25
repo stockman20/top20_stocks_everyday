@@ -238,5 +238,17 @@
     "name": "Japan Gold Corp",
     "country": "CA",
     "added_date": "2025-01-25 18:23:07"
+  },
+  "XERI": {
+    "exchange": "OTC MARKETS",
+    "name": "Xeriant Inc",
+    "country": "US",
+    "added_date": "2025-01-25 18:27:41"
+  },
+  "QIMCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Quebec Innovative Materials Corp",
+    "country": "CA",
+    "added_date": "2025-01-25 18:27:42"
   }
 }
