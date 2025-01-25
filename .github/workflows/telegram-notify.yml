@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read  # 明确添加读取权限
+  contents: read
 
 jobs:
   notify:
@@ -15,28 +15,60 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
-          fetch-depth: 1  # 明确设置获取深度
+          fetch-depth: 1
 
       - name: Get Latest Commit
         id: get_commit
         run: |
           commit=$(git log -1 --pretty=format:"%h - %s")
-          echo "commit=$commit" >> $GITHUB_OUTPUT  # 更新为新的输出语法
-          echo "Debug: Latest commit is: $commit"  # 添加调试信息
+          echo "commit=$commit" >> $GITHUB_OUTPUT
+          echo "commit_hash=$(git log -1 --pretty=format:"%h")" >> $GITHUB_OUTPUT
+          echo "Debug: Latest commit is: $commit"
+
+      - name: Get File Content and URL
+        id: get_file
+        run: |
+          # 检查文件是否存在
+          if [ -f "top20_result.log" ]; then
+            # 获取文件内容（限制在1000个字符以内，避免消息过长）
+            content=$(head -c 1000 top20_result.log)
+            
+            # 构建文件的 GitHub URL
+            repo_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}"
+            file_url="${repo_url}/blob/${GITHUB_SHA}/top20_result.log"
+            
+            # 将内容和URL保存到输出变量
+            echo "content<<EOF" >> $GITHUB_OUTPUT
+            echo "$content" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+            echo "file_url=$file_url" >> $GITHUB_OUTPUT
+          else
+            echo "Warning: top20_result.log not found"
+            echo "content=File not found" >> $GITHUB_OUTPUT
+            echo "file_url=Not available" >> $GITHUB_OUTPUT
+          fi
 
       - name: Send Telegram Notification
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          message="Latest commit: ${{ steps.get_commit.outputs.commit }}"
-          echo "Debug: Sending message: $message"  # 添加调试信息
+          # 构建消息内容
+          message="Latest commit: ${{ steps.get_commit.outputs.commit }}
           
-          # 添加错误处理和响应输出
+          File URL: ${{ steps.get_file.outputs.file_url }}
+          
+          Content:
+          ${{ steps.get_file.outputs.content }}"
+          
+          echo "Debug: Sending message: $message"
+          
+          # 使用 curl 发送消息到 Telegram
           response=$(curl -s -X POST \
             "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d "chat_id=$TELEGRAM_CHAT_ID" \
             -d "text=$message" \
+            -d "parse_mode=HTML" \
             -w "\n%{http_code}")
           
           http_code=$(echo "$response" | tail -n1)
