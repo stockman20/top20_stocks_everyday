@@ -194,7 +194,7 @@ def load_or_fetch_symbols():
         filtered_symbols = []
         rejection_reasons = {}
 
-        for symbol_data in symbols[:30]:
+        for symbol_data in symbols:
             should_include, reason = should_include_symbol(symbol_data, filters)
             if should_include:
                 filtered_symbols.append(symbol_data)
