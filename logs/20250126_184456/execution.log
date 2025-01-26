@@ -1,0 +1,161 @@
+2025-01-26 18:44:56,348 - INFO: 日志目录: logs/20250126_184456
+2025-01-26 18:44:56,348 - INFO: 日志文件: logs/20250126_184456/execution.log
+2025-01-26 18:44:56,348 - INFO: 从 Finnhub 获取股票列表...
+2025-01-26 18:44:56,348 - INFO: 使用 API Key: cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg (已使用 1 次)
+2025-01-26 18:44:58,133 - INFO: 获取到 17 个股票
+2025-01-26 18:44:58,143 - INFO: 开始处理 17 只股票...
+2025-01-26 18:44:58,297 - INFO: 跳过权证: HAWWF
+2025-01-26 18:44:58,438 - INFO: 股票 NCDGF 数据不足
+2025-01-26 18:44:59,245 - INFO: 使用 API Key: cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g (已使用 1 次)
+2025-01-26 18:44:59,253 - INFO: 使用 API Key: cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg (已使用 1 次)
+2025-01-26 18:44:59,283 - INFO: 使用 API Key: cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag (已使用 1 次)
+2025-01-26 18:44:59,319 - INFO: 使用 API Key: cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g (已使用 1 次)
+2025-01-26 18:44:59,331 - INFO: 使用 API Key: cua5621r01qkpes47sagcua5621r01qkpes47sb0 (已使用 1 次)
+2025-01-26 18:44:59,348 - INFO: 使用 API Key: cua5739r01qkpes47uhgcua5739r01qkpes47ui0 (已使用 1 次)
+2025-01-26 18:44:59,383 - INFO: 使用 API Key: cua57p9r01qkpes486r0cua57p9r01qkpes486rg (已使用 1 次)
+2025-01-26 18:44:59,423 - INFO: 使用 API Key: cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0 (已使用 1 次)
+2025-01-26 18:44:59,479 - INFO: 使用 API Key: cu8b0u1r01qhqu5ciok0cu8b0u1r01qhqu5ciokg (已使用 2 次)
+2025-01-26 18:44:59,659 - INFO: 处理 TCBC: 结果 成功
+2025-01-26 18:44:59,659 - INFO: 进度: 10/17 (58.82%) 有效数据: 8
+2025-01-26 18:45:00,434 - INFO: 使用 API Key: cu9kb2hr01qnf5nn8c30cu9kb2hr01qnf5nn8c3g (已使用 2 次)
+2025-01-26 18:45:00,483 - INFO: 使用 API Key: cu9kbbpr01qnf5nn8cp0cu9kbbpr01qnf5nn8cpg (已使用 2 次)
+2025-01-26 18:45:00,506 - INFO: 使用 API Key: cu9kbipr01qnf5nn8da0cu9kbipr01qnf5nn8dag (已使用 2 次)
+2025-01-26 18:45:00,586 - INFO: 使用 API Key: cu9kbthr01qnf5nn8e20cu9kbthr01qnf5nn8e2g (已使用 2 次)
+2025-01-26 18:45:00,730 - INFO: 使用 API Key: cua5621r01qkpes47sagcua5621r01qkpes47sb0 (已使用 2 次)
+2025-01-26 18:45:00,813 - INFO: 股票 RCTY 市值数据无效
+2025-01-26 18:45:00,825 - INFO: 使用 API Key: cua5739r01qkpes47uhgcua5739r01qkpes47ui0 (已使用 2 次)
+2025-01-26 18:45:01,064 - INFO: 
+处理完成!
+2025-01-26 18:45:01,065 - INFO: 总计处理: 17 只股票
+2025-01-26 18:45:01,065 - INFO: 有效数据: 14 只股票
+2025-01-26 18:45:01,065 - INFO: 无效数据: 3 只股票
+2025-01-26 18:45:01,070 - INFO: 日志目录: logs/20250126_184456
+2025-01-26 18:45:01,070 - INFO: 日志文件: logs/20250126_184456/execution.log
+2025-01-26 18:45:01,071 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-26 18:45:01,071 - INFO: 
+=== 涨幅榜前20名股票 ===
+2025-01-26 18:45:01,088 - INFO: 
+   股票代码                      公司名称  市值(亿)                      板块                          昨天收盘                          今天收盘  涨跌幅(%)
+9      EYEN                  Eyenovia Inc      0.06           Pharmaceuticals    2025-01-23 0.05400000140070915    2025-01-24 0.05700000002980232       5.56
+3        MX  MagnaChip Semiconductor Corp      1.54            Semiconductors      2025-01-23 4.090000152587891      2025-01-24 4.130000114440918       0.98
+4        EG             Everest Group Ltd    156.93                 Insurance                 2025-01-23 363.25      2025-01-24 365.1400146484375       0.52
+0      ITPC         Intrepid Capital Corp      0.01        Financial Services                   2025-01-23 85.0                   2025-01-24 85.0       0.00
+1     UHOIF                     Ushio Inc   2121.91      Electrical Equipment     2025-01-23 12.479999542236328     2025-01-24 12.479999542236328       0.00
+2     NLTBF                     Nolato AB    149.37  Industrial Conglomerates      2025-01-23 5.270599842071533      2025-01-24 5.270599842071533       0.00
+6     JDHIF   JD Health International Inc    954.77                    Retail                  2025-01-23 3.125                  2025-01-24 3.125       0.00
+10    SEHKF             Seahawk Gold Corp      0.08                       N/A    2025-01-23 0.17900000512599945    2025-01-24 0.17900000512599945       0.00
+11     STDE          Standard Energy Corp      0.00                    Energy  2025-01-23 9.999999747378752e-05  2025-01-24 9.999999747378752e-05       0.00
+12    APMSF                     Aperam SA     18.15           Metals & Mining      2025-01-23 26.34000015258789      2025-01-24 26.34000015258789       0.00
+13    SIOLF  Sino-Ocean Group Holding Ltd     17.47               Real Estate    2025-01-23 0.04769999906420708    2025-01-24 0.04769999906420708       0.00
+5      VECO         Veeco Instruments Inc     14.71            Semiconductors     2025-01-23 26.290000915527344      2025-01-24 25.90999984741211      -1.45
+8      PASG               Passage Bio Inc      0.37             Biotechnology     2025-01-23 0.6169999837875366     2025-01-24 0.6060000061988831      -1.78
+7      TCBC             TC Bancshares Inc      0.72                   Banking     2025-01-23 17.489999771118164                   2025-01-24 17.0      -2.80
+2025-01-26 18:45:01,088 - INFO: 
+   股票代码                      公司名称  市值(亿)                      板块                          昨天收盘                          今天收盘  涨跌幅(%)
+9      EYEN                  Eyenovia Inc      0.06           Pharmaceuticals    2025-01-23 0.05400000140070915    2025-01-24 0.05700000002980232       5.56
+3        MX  MagnaChip Semiconductor Corp      1.54            Semiconductors      2025-01-23 4.090000152587891      2025-01-24 4.130000114440918       0.98
+4        EG             Everest Group Ltd    156.93                 Insurance                 2025-01-23 363.25      2025-01-24 365.1400146484375       0.52
+0      ITPC         Intrepid Capital Corp      0.01        Financial Services                   2025-01-23 85.0                   2025-01-24 85.0       0.00
+1     UHOIF                     Ushio Inc   2121.91      Electrical Equipment     2025-01-23 12.479999542236328     2025-01-24 12.479999542236328       0.00
+2     NLTBF                     Nolato AB    149.37  Industrial Conglomerates      2025-01-23 5.270599842071533      2025-01-24 5.270599842071533       0.00
+6     JDHIF   JD Health International Inc    954.77                    Retail                  2025-01-23 3.125                  2025-01-24 3.125       0.00
+10    SEHKF             Seahawk Gold Corp      0.08                       N/A    2025-01-23 0.17900000512599945    2025-01-24 0.17900000512599945       0.00
+11     STDE          Standard Energy Corp      0.00                    Energy  2025-01-23 9.999999747378752e-05  2025-01-24 9.999999747378752e-05       0.00
+12    APMSF                     Aperam SA     18.15           Metals & Mining      2025-01-23 26.34000015258789      2025-01-24 26.34000015258789       0.00
+13    SIOLF  Sino-Ocean Group Holding Ltd     17.47               Real Estate    2025-01-23 0.04769999906420708    2025-01-24 0.04769999906420708       0.00
+5      VECO         Veeco Instruments Inc     14.71            Semiconductors     2025-01-23 26.290000915527344      2025-01-24 25.90999984741211      -1.45
+8      PASG               Passage Bio Inc      0.37             Biotechnology     2025-01-23 0.6169999837875366     2025-01-24 0.6060000061988831      -1.78
+7      TCBC             TC Bancshares Inc      0.72                   Banking     2025-01-23 17.489999771118164                   2025-01-24 17.0      -2.80
+2025-01-26 18:45:01,089 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,089 - INFO: 
+=== 市值超过20亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,096 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,096 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,097 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,097 - INFO: 
+=== 市值超过50亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,102 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,102 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,103 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,103 - INFO: 
+=== 市值超过100亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,109 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,109 - INFO: 
+  股票代码                     公司名称  市值(亿)                      板块                       昨天收盘                       今天收盘  涨跌幅(%)
+4       EG            Everest Group Ltd    156.93                 Insurance              2025-01-23 363.25   2025-01-24 365.1400146484375       0.52
+1    UHOIF                    Ushio Inc   2121.91      Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328       0.00
+2    NLTBF                    Nolato AB    149.37  Industrial Conglomerates   2025-01-23 5.270599842071533   2025-01-24 5.270599842071533       0.00
+6    JDHIF  JD Health International Inc    954.77                    Retail               2025-01-23 3.125               2025-01-24 3.125       0.00
+2025-01-26 18:45:01,110 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,110 - INFO: 
+=== 市值超过200亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,115 - INFO: 
+  股票代码                     公司名称  市值(亿)                  板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1    UHOIF                    Ushio Inc   2121.91  Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328        0.0
+6    JDHIF  JD Health International Inc    954.77                Retail               2025-01-23 3.125               2025-01-24 3.125        0.0
+2025-01-26 18:45:01,115 - INFO: 
+  股票代码                     公司名称  市值(亿)                  板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1    UHOIF                    Ushio Inc   2121.91  Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328        0.0
+6    JDHIF  JD Health International Inc    954.77                Retail               2025-01-23 3.125               2025-01-24 3.125        0.0
+2025-01-26 18:45:01,116 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,116 - INFO: 
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+2025-01-26 18:45:01,120 - INFO: 
+  股票代码   公司名称  市值(亿)                  板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1    UHOIF  Ushio Inc   2121.91  Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328        0.0
+2025-01-26 18:45:01,120 - INFO: 
+  股票代码   公司名称  市值(亿)                  板块                       昨天收盘                       今天收盘  涨跌幅(%)
+1    UHOIF  Ushio Inc   2121.91  Electrical Equipment  2025-01-23 12.479999542236328  2025-01-24 12.479999542236328        0.0
+2025-01-26 18:45:01,120 - INFO: 结果已保存到: logs/20250126_184456/top20_result.log
+2025-01-26 18:45:01,121 - INFO: 日志目录: logs/20250126_184456
+2025-01-26 18:45:01,121 - INFO: 日志文件: logs/20250126_184456/execution.log
+2025-01-26 18:45:01,122 - INFO: 股票数据已保存到 logs/20250126_184456/stocks_data.json
+2025-01-26 18:45:01,125 - INFO: 
+=== 板块涨跌分析 ===
+2025-01-26 18:45:01,129 - INFO: 
+                        板块  平均涨跌幅  股票数量
+9            Pharmaceuticals       5.560         1
+6                  Insurance       0.520         1
+2       Electrical Equipment       0.000         1
+3                     Energy       0.000         1
+4         Financial Services       0.000         1
+5   Industrial Conglomerates       0.000         1
+7            Metals & Mining       0.000         1
+8                        N/A       0.000         1
+10               Real Estate       0.000         1
+11                    Retail       0.000         1
+12            Semiconductors      -0.235         2
+1              Biotechnology      -1.780         1
+0                    Banking      -2.800         1
+2025-01-26 18:45:01,130 - INFO: 板块分析已保存到 logs/20250126_184456/sector_analysis.json

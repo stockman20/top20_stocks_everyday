@@ -5,6 +5,7 @@ import concurrent.futures
 import time
 import json
 import os
+import sys
 import fcntl
 import queue
 import random
@@ -21,12 +22,35 @@ class APIKeyRotator:
         self.api_keys = api_keys
         self.key_index = 0
         self.lock = threading.Lock()
+        self.key_usage = {key: {'count': 0, 'last_request_time': 0} for key in api_keys}
 
     def get_next_key(self):
         with self.lock:
-            current_key = self.api_keys[self.key_index]
-            self.key_index = (self.key_index + 1) % len(self.api_keys)
-            return current_key
+            current_time = time.time()
+
+            # 遍历所有 API Keys 找到可用的
+            for _ in range(len(self.api_keys)):
+                current_key = self.api_keys[self.key_index]
+
+                # 检查上次请求时间，确保间隔至少1秒
+                if current_time - self.key_usage[current_key]['last_request_time'] >= 1:
+                    self.key_usage[current_key]['count'] += 1
+                    self.key_usage[current_key]['last_request_time'] = current_time
+
+                    # 打印当前使用的 API Key 及其请求次数
+                    logging.info(f"使用 API Key: {current_key} (已使用 {self.key_usage[current_key]['count']} 次)")
+
+                    # 准备下一个 key 的索引
+                    self.key_index = (self.key_index + 1) % len(self.api_keys)
+
+                    return current_key
+
+                # 如果这个 key 不可用，切换到下一个
+                self.key_index = (self.key_index + 1) % len(self.api_keys)
+
+            # 如果所有 key 都在1秒冷却期内，等待并重试
+            time.sleep(1)
+            return self.get_next_key()
 
 
 # API Key 列表
@@ -41,7 +65,6 @@ api_keys = [
     "cua57p9r01qkpes486r0cua57p9r01qkpes486rg",
     "cua58lpr01qkpes48ccgcua58lpr01qkpes48cd0"
 ]
-
 key_rotator = APIKeyRotator(api_keys)
 
 # 设置 Pandas 显示选项
@@ -115,204 +138,44 @@ def get_finnhub_client():
 
 
 def load_or_fetch_symbols():
-    logging.info("开始获取和过滤股票列表...")
-
-    def load_filter_files():
-        """加载所有过滤文件"""
-        filters = {
-            'non_us_stocks': {},
-            'excluded_stocks': set(),
-            'valid_stocks': set()
-        }
-
-        # 加载非美股列表
-        try:
-            with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
-                filters['non_us_stocks'] = json.load(f)
-                logging.info(f"已加载 {len(filters['non_us_stocks'])} 个非美股记录")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到非美股记录文件或文件格式错误")
-
-        # 加载需要排除的股票列表（如果有）
-        try:
-            with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
-                filters['excluded_stocks'] = set(json.load(f))
-                logging.info(f"已加载 {len(filters['excluded_stocks'])} 个需排除的股票")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到需排除的股票列表文件")
-
-        # 加载已验证的有效股票列表（如果有）
-        try:
-            with open('valid_stocks.json', 'r', encoding='utf-8') as f:
-                filters['valid_stocks'] = set(json.load(f))
-                logging.info(f"已加载 {len(filters['valid_stocks'])} 个已验证的有效股票")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到已验证的有效股票列表文件")
-
-        return filters
-
-    def should_include_symbol(symbol_data, filters):
-        """判断是否应该包含某个股票"""
-        symbol = symbol_data.get('symbol', '')
-
-        # 基本格式检查
-        if not symbol.isalpha() or len(symbol) > 5:
-            return False, "非标准股票代码"
-
-        # 检查是否为权证
-        if any(x in symbol for x in ['.WS', 'WS', 'W', '-W', '.W']):
-            return False, "权证"
-
-        # 检查是否在非美股列表中
-        if symbol in filters['non_us_stocks']:
-            return False, "非美股"
-
-        # 检查是否在排除列表中
-        if symbol in filters['excluded_stocks']:
-            return False, "在排除列表中"
-
-        # 检查股票类型
-        if symbol_data.get('type') != 'Common Stock':
-            return False, "非普通股"
-
-        # 如果有已验证的有效股票列表，且不为空，则只包含这些股票
-        if filters['valid_stocks'] and symbol not in filters['valid_stocks']:
-            return False, "不在已验证的有效股票列表中"
-
-        return True, "通过"
-
+    logging.info("从 Finnhub 获取股票列表...")
     try:
-        # 加载过滤条件
-        filters = load_filter_files()
-
-        # 获取所有股票
         symbols = get_finnhub_client().stock_symbols('US')
-        total_symbols = len(symbols)
-        logging.info(f"从 Finnhub 获取到总计 {total_symbols} 个股票")
 
-        # 过滤股票
-        filtered_symbols = []
-        rejection_reasons = {}
+        # 转换为所需的格式
+        symbols_data = [
+            symbol for symbol in symbols[:30]
+            if symbol.get('type') == 'Common Stock'
+        ]
 
-        for symbol_data in symbols:
-            should_include, reason = should_include_symbol(symbol_data, filters)
-            if should_include:
-                filtered_symbols.append(symbol_data)
-            else:
-                symbol = symbol_data.get('symbol', '')
-                if reason not in rejection_reasons:
-                    rejection_reasons[reason] = []
-                rejection_reasons[reason].append(symbol)
-
-        # 记录过滤结果
-        logging.info("\n=== 股票过滤结果 ===")
-        logging.info(f"原始股票数量: {total_symbols}")
-        logging.info(f"过滤后数量: {len(filtered_symbols)}")
-        logging.info("\n被排除的股票统计:")
-        for reason, symbols in rejection_reasons.items():
-            logging.info(f"- {reason}: {len(symbols)} 只")
-            logging.debug(f"  示例: {', '.join(symbols[:5])}...")
-
-        return filtered_symbols
+        logging.info(f"获取到 {len(symbols_data)} 个股票")
+        return symbols_data
 
     except Exception as e:
-        logging.error(f"获取和过滤股票时出错: {e}")
+        logging.info(f"从 Finnhub 获取数据时出错: {e}")
         return []
 
 
 def get_stock_details(symbol):
-    # 创建或加载非美股列表文件
-    non_us_stocks_file = 'non_us_stocks.json'
-    try:
-        with open(non_us_stocks_file, 'r', encoding='utf-8') as f:
-            non_us_stocks = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        non_us_stocks = {}
-
-    # 如果股票已知是非美股，直接返回None
-    if symbol in non_us_stocks:
-        logging.info(f"跳过已知的非美股: {symbol} (交易所: {non_us_stocks[symbol]['exchange']})")
-        return None
-
     try:
         stock = yf.Ticker(symbol)
         info = stock.info
-        max_retries = 5
-        retries = 0
 
-        while retries < max_retries:
-            try:
-                company_info = get_finnhub_client().company_profile2(symbol=symbol)
-                exchange = company_info.get('exchange', '').upper()
-
-                valid_exchanges = [
-                    'NASDAQ NMS',
-                    'NASDAQ GM',
-                    'NASDAQ GS',
-                    'NASDAQ GLOBAL',
-                    'NASDAQ GLOBAL SELECT',
-                    'NASDAQ CAPITAL MARKET',
-                    'NEW YORK STOCK EXCHANGE',
-                    'NYSE',
-                    'NASDAQ CAPITAL MARKET',  # 纳斯达克资本市场
-                    'NEW YORK STOCK EXCHANGE',  # 纽约证券交易所
-                    'NYSE ARCA',  # 纽约证券交易所ARCA平台
-                    'NYSE AMERICAN',  # 纽约证券交易所AMERICAN平台
-                    'NYSE NATIONAL'  # 纽约证券交易所NATIONAL市场
-                ]
-
-                is_valid_exchange = any(
-                    valid_ex in exchange.replace('-', ' ').replace(',', ' ')
-                    for valid_ex in valid_exchanges
-                )
-
-                if not is_valid_exchange:
-                    # 记录非美股信息
-                    non_us_stocks[symbol] = {
-                        'exchange': exchange,
-                        'name': company_info.get('name', 'N/A'),
-                        'country': company_info.get('country', 'N/A'),
-                        'added_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                    }
-
-                    # 使用文件锁来安全地写入文件
-                    with open(non_us_stocks_file, 'w', encoding='utf-8') as f:
-                        fcntl.flock(f.fileno(), fcntl.LOCK_EX)
-                        json.dump(non_us_stocks, f, ensure_ascii=False, indent=2)
-                        fcntl.flock(f.fileno(), fcntl.LOCK_UN)
-
-                    logging.info(f"跳过非美国主要交易所上市的股票 {symbol} (交易所: {exchange})")
-                    return None
-
-                market_cap = company_info.get('marketCapitalization', 0) / 100 if company_info.get(
-                    'marketCapitalization') else 0
-
-                return {
-                    'name': company_info.get('name', 'N/A'),
-                    'market_cap': market_cap,
-                    'sector': company_info.get('finnhubIndustry', 'N/A'),
-                    'exchange': exchange
-                }
-
-            except Exception as e:
-                if "429" in str(e):
-                    logging.warning(f"从 Finnhub 获取 {symbol} 市值失败: {e}. 稍等 10 秒后重试...")
-                    time.sleep(10)
-                    retries += 1
-                else:
-                    raise e
-
-        logging.error(f"从 Finnhub 获取 {symbol} 市值失败: 超过最大重试次数 ({max_retries}).")
-        market_cap = info.get('marketCap', 0) / 100_000_000 if info.get('marketCap') else 0
+        try:
+            company_info = get_finnhub_client().company_profile2(symbol=symbol)
+            market_cap = company_info.get('marketCapitalization', 0) / 100 if company_info.get(
+                'marketCapitalization') else 0
+        except Exception as e:
+            logging.info(f"从 Finnhub 获取 {symbol} 市值失败: {e}")
+            market_cap = info.get('marketCap', 0) / 100_000_000 if info.get('marketCap') else 0
 
         return {
-            'name': info.get('longName', 'N/A'),
+            'name': company_info.get('name', 'N/A'),
             'market_cap': market_cap,
-            'sector': info.get('sector', 'N/A')
+            'sector': company_info.get('finnhubIndustry', 'N/A')
         }
-
     except Exception as e:
-        logging.error(f"获取 {symbol} 详细信息时出错: {e}")
+        logging.info(f"获取 {symbol} 详细信息时出错: {e}")
         return None
 
 
@@ -371,8 +234,8 @@ def process_stock(stock):
             '公司名称': details['name'],
             '市值(亿)': round(details['market_cap'], 2),
             '板块': details['sector'],
-            "昨天收盘": f"{yesterday_date} {round(previous_close, 2)}",  # 修正这里
-            "今天收盘": f"{today_date} {round(current_price, 2)}",  # 修正这里
+            "昨天收盘": f"{yesterday_date} {previous_close}",
+            "今天收盘": f"{today_date} {current_price}",
             '涨跌幅(%)': round(price_change, 2)
         }
 
@@ -386,6 +249,10 @@ def get_gainers_multithreaded(max_workers=None):
     total_symbols = len(stock_symbols)
     logging.info(f"开始处理 {total_symbols} 只股票...")
 
+    # 新增：记录连续相同价格的股票数量
+    same_price_count = 0
+    last_price_check = None
+
     stock_data = ThreadSafeList()
 
     if max_workers is None:
@@ -396,18 +263,48 @@ def get_gainers_multithreaded(max_workers=None):
     progress_lock = threading.Lock()
 
     def process_stock_wrapper(stock):
-        nonlocal processed_count, valid_count
+        nonlocal processed_count, valid_count, same_price_count, last_price_check
 
         symbol = stock.get('symbol', '')
         result = process_stock({'symbol': symbol})
 
         with progress_lock:
             processed_count += 1
+
+            # 新增：检查股票价格是否相同
             if result:
+                current_price_info = result.get("今天收盘", "").split(" ")[-1]
+                current_price = float(current_price_info) if current_price_info else None
+
+                if last_price_check is not None and current_price is not None:
+                    if abs(current_price - last_price_check) < 0.001:  # 使用很小的阈值比较浮点数
+                        same_price_count += 1
+                    else:
+                        same_price_count = 0
+
+                last_price_check = current_price
+
+                # 如果连续10支股票价格相同，认为市场未开盘
+                if same_price_count >= 10:
+                    logging.warning("连续10支股票价格相同，判断今日未开盘！")
+
+                    # 删除当前日志目录
+                    try:
+                        import shutil
+                        current_log_dir = os.path.dirname(logging.getLoggerClass().root.handlers[0].baseFilename)
+                        shutil.rmtree(current_log_dir, ignore_errors=True)
+                        logging.warning(f"已删除日志目录: {current_log_dir}")
+                    except Exception as e:
+                        logging.error(f"删除日志目录时出错: {e}")
+
+                    # 异常退出
+                    sys.exit("市场未开盘")
+
                 stock_data.append(result)
                 valid_count += 1
 
             if processed_count % 10 == 0:
+                logging.info(f"处理 {symbol}: 结果 {'成功' if result else '失败'}")
                 logging.info(f"进度: {processed_count}/{total_symbols} "
                              f"({round(processed_count / total_symbols * 100, 2)}%) "
                              f"有效数据: {valid_count}")
@@ -479,71 +376,61 @@ def display_results(df):
         result_logger.info(message)
         logging.info(message)  # 同时也记录到主日志文件
 
-    # 设置pandas显示选项以获得更好的对齐
-    pd.set_option('display.max_columns', None)
-    pd.set_option('display.width', 200)
-    pd.set_option('display.max_colwidth', 30)
-
-    def log_dataframe(title, dataframe):
-        log_results(f"\n{title}")
-        if not dataframe.empty:
-            # 手动格式化输出，确保对齐
-            def format_column(col):
-                if pd.api.types.is_numeric_dtype(col):
-                    return col.apply(lambda x: f'{x:.2f}' if pd.notnull(x) else str(x))
-                return col.astype(str)
-
-            # 格式化每一列
-            formatted_df = dataframe.apply(format_column)
-
-            # 转换为字符串，手动对齐
-            table_str = formatted_df.to_string(
-                index=False,
-                justify='center'  # 这个参数在to_string中是有效的
-            )
-            log_results("\n" + table_str)
-        else:
-            log_results("没有数据!")
-
     # 1. 展示前20名涨幅股票
     top_20 = df.head(20)
-    log_dataframe("=== 涨幅榜前20名股票 ===",
-                  top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']])
+    log_results("\n=== 涨幅榜前20名股票 ===")
+    log_results("\n" + str(top_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
 
     # 2. 展示市值超过20亿的前20名涨幅股票
     billion_20 = df[df['市值(亿)'] > 20].head(20)
-    log_dataframe("=== 市值超过20亿的涨幅榜前20名股票 ===",
-                  billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
-        if not billion_20.empty else log_results("\n没有市值超过20亿的股票!")
+    if not billion_20.empty:
+        log_results("\n=== 市值超过20亿的涨幅榜前20名股票 ===")
+        log_results(
+            "\n" + str(billion_20[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    else:
+        log_results("\n没有市值超过20亿的股票!")
 
     # 3. 展示市值超过50亿的前20名涨幅股票
     billion_50 = df[df['市值(亿)'] > 50].head(20)
-    log_dataframe("=== 市值超过50亿的涨幅榜前20名股票 ===",
-                  billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
-        if not billion_50.empty else log_results("\n没有市值超过50亿的股票!")
+    if not billion_50.empty:
+        log_results("\n=== 市值超过50亿的涨幅榜前20名股票 ===")
+        log_results(
+            "\n" + str(billion_50[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    else:
+        log_results("\n没有市值超过50亿的股票!")
 
     # 4. 展示市值超过100亿的前20名涨幅股票
     billion_100 = df[df['市值(亿)'] > 100].head(20)
-    log_dataframe("=== 市值超过100亿的涨幅榜前20名股票 ===",
-                  billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
-        if not billion_100.empty else log_results("\n没有市值超过100亿的股票!")
+    if not billion_100.empty:
+        log_results("\n=== 市值超过100亿的涨幅榜前20名股票 ===")
+        log_results(
+            "\n" + str(billion_100[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    else:
+        log_results("\n没有市值超过100亿的股票!")
 
     # 5. 展示市值超过200亿的前20名涨幅股票
     billion_200 = df[df['市值(亿)'] > 200].head(20)
-    log_dataframe("=== 市值超过200亿的涨幅榜前20名股票 ===",
-                  billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
-        if not billion_200.empty else log_results("\n没有市值超过200亿的股票!")
+    if not billion_200.empty:
+        log_results("\n=== 市值超过200亿的涨幅榜前20名股票 ===")
+        log_results(
+            "\n" + str(billion_200[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    else:
+        log_results("\n没有市值超过200亿的股票!")
 
     # 6. 展示市值超过1000亿的前20名涨幅股票
     billion_1000 = df[df['市值(亿)'] > 1000].head(20)
-    log_dataframe("=== 市值超过1000亿的涨幅榜前20名股票 ===",
-                  billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]) \
-        if not billion_1000.empty else log_results("\n没有市值超过1000亿的股票!")
+    if not billion_1000.empty:
+        log_results("\n=== 市值超过1000亿的涨幅榜前20名股票 ===")
+        log_results(
+            "\n" + str(billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']]))
+    else:
+        log_results("\n没有市值超过1000亿的股票!")
 
     # 关闭文件处理器
     file_handler.close()
     result_logger.removeHandler(file_handler)
     logging.info(f"结果已保存到: {result_log_filename}")
+
 
 def process_final_stock_data(df):
     # 获取日志目录和文件名
@@ -604,8 +491,12 @@ def run_git_update():
 
 
 if __name__ == "__main__":
-    gainers_df = get_gainers_multithreaded()
+    try:
+        gainers_df = get_gainers_multithreaded()
 
-    if not gainers_df.empty:
-        run_git_update()
+        if not gainers_df.empty:
+            run_git_update()
+    except Exception as e:
+        logging.error(f"程序执行过程中发生致命错误: {e}")
+        logging.exception("详细错误堆栈:")
 
