@@ -11,10 +11,12 @@ import queue
 import random
 import threading
 from threading import Thread
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 import logging
 import pickle
 import subprocess
+import pytz
+import sys
 
 
 class APIKeyRotator:
@@ -78,6 +80,36 @@ pd.set_option('display.max_colwidth', None)
 # 获取当前日期时间
 now = datetime.now()
 log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
+
+
+def is_market_open():
+    # 获取美国东部时间的今天日期
+    eastern_tz = pytz.timezone('America/New_York')
+    today = datetime.now(eastern_tz).date()
+
+    # 判断是否是工作日（周一到周五）
+    if today.weekday() >= 5:  # 周六日
+        return False
+
+    # 硬编码一些主要的美股假日
+    us_holidays = [
+        # 固定日期的节日
+        f"{today.year}-01-01",  # 元旦
+        f"{today.year}-07-04",  # 独立日
+        f"{today.year}-12-25",  # 圣诞节
+
+        # 变动日期的节日（需要根据具体年份调整）
+        f"{today.year}-01-{15 if today.year >= 2022 else 18}",  # 马丁·路德·金纪念日
+        f"{today.year}-02-{20 if today.year >= 2022 else 21}",  # 总统日
+        f"{today.year}-05-{30 if today.year >= 2022 else 31}",  # 阵亡将士纪念日
+        f"{today.year}-09-{5 if today.year >= 2022 else 6}",  # 劳动节
+        f"{today.year}-11-{24 if today.year >= 2022 else 25}",  # 感恩节
+    ]
+
+    # 转换为日期对象并检查
+    holiday_dates = [datetime.strptime(h, "%Y-%m-%d").date() for h in us_holidays]
+
+    return today not in holiday_dates
 
 
 def setup_logging():
@@ -263,47 +295,19 @@ def get_gainers_multithreaded(max_workers=None):
     progress_lock = threading.Lock()
 
     def process_stock_wrapper(stock):
-        nonlocal processed_count, valid_count, same_price_count, last_price_check
+        nonlocal processed_count, valid_count
 
         symbol = stock.get('symbol', '')
         result = process_stock({'symbol': symbol})
 
         with progress_lock:
             processed_count += 1
-
-            # 新增：检查股票价格是否相同
             if result:
-                current_price_info = result.get("今天收盘", "").split(" ")[-1]
-                current_price = float(current_price_info) if current_price_info else None
-
-                if last_price_check is not None and current_price is not None:
-                    if abs(current_price - last_price_check) < 0.001:  # 使用很小的阈值比较浮点数
-                        same_price_count += 1
-                    else:
-                        same_price_count = 0
-
-                last_price_check = current_price
-
-                # 如果连续10支股票价格相同，认为市场未开盘
-                if same_price_count >= 10:
-                    logging.warning("连续10支股票价格相同，判断今日未开盘！")
-
-                    # 删除当前日志目录
-                    try:
-                        import shutil
-                        current_log_dir = os.path.dirname(logging.getLoggerClass().root.handlers[0].baseFilename)
-                        shutil.rmtree(current_log_dir, ignore_errors=True)
-                        logging.warning(f"已删除日志目录: {current_log_dir}")
-                    except Exception as e:
-                        logging.error(f"删除日志目录时出错: {e}")
-
-                    # 异常退出
-                    sys.exit("市场未开盘")
-
                 stock_data.append(result)
                 valid_count += 1
 
             if processed_count % 10 == 0:
+                # 添加详细的进度日志
                 logging.info(f"处理 {symbol}: 结果 {'成功' if result else '失败'}")
                 logging.info(f"进度: {processed_count}/{total_symbols} "
                              f"({round(processed_count / total_symbols * 100, 2)}%) "
@@ -491,6 +495,10 @@ def run_git_update():
 
 
 if __name__ == "__main__":
+    # 首先检查市场是否开放
+    if not is_market_open():
+        logging.warning("今日非交易日，程序终止")
+        sys.exit("非交易日")
     try:
         gainers_df = get_gainers_multithreaded()
 
