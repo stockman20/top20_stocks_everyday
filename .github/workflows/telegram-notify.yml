@@ -17,7 +17,26 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check commit time
+        id: time_check
+        run: |
+          # 获取最新提交的时间戳（UTC）
+          commit_time=$(git log -1 --pretty=format:"%ct")
+          # 获取当前时间戳（UTC）
+          current_time=$(date +%s)
+          # 计算时间差（小时）
+          time_diff=$(( ($current_time - $commit_time) / 3600 ))
+          
+          if [ $time_diff -lt 12 ]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "Time difference is $time_diff hours - Will proceed with execution"
+          else
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            echo "Time difference is $time_diff hours - Skipping execution"
+          fi
+
       - name: Get Latest Commit
+        if: steps.time_check.outputs.should_run == 'true'
         id: get_commit
         run: |
           commit=$(git log -1 --pretty=format:"%h - %s")
@@ -26,6 +45,7 @@ jobs:
           echo "Debug: Latest commit is: $commit"
 
       - name: Get File Content and URL
+        if: steps.time_check.outputs.should_run == 'true'
         id: get_file
         run: |
           # 获取最新 commit 中被修改或新增的文件列表
@@ -55,6 +75,7 @@ jobs:
           fi
 
       - name: Send Telegram Notification
+        if: steps.time_check.outputs.should_run == 'true'
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
