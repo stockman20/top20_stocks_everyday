@@ -1,200 +1,20 @@
 {
-  "LBRMF": {
+  "FRSB": {
     "exchange": "OTC MARKETS",
-    "name": "Labrador Iron Mines Holdings Ltd",
-    "country": "CA",
-    "added_date": "2025-01-30 06:13:53"
-  },
-  "AMYZF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "RecycLiCo Battery Materials Inc",
-    "country": "CA",
-    "added_date": "2025-01-30 06:13:54"
-  },
-  "TGGI": {
-    "exchange": "OTC MARKETS",
-    "name": "Trans Global Group Inc",
-    "country": "CN",
-    "added_date": "2025-01-30 06:13:54"
-  },
-  "NXE": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Nexgen Energy Ltd",
-    "country": "CA",
-    "added_date": "2025-01-30 06:13:56"
-  },
-  "ROYL": {
-    "exchange": "OTC MARKETS",
-    "name": "Royale Energy Funds Inc",
+    "name": "First Resource Bank (Pennsylvania)",
     "country": "US",
-    "added_date": "2025-01-30 06:13:56"
+    "added_date": "2025-01-31 06:14:23"
   },
-  "AASP": {
+  "NUVR": {
     "exchange": "OTC MARKETS",
-    "name": "Global Acquisitions Corp",
+    "name": "Nuvera Communications Inc",
     "country": "US",
-    "added_date": "2025-01-30 06:13:58"
+    "added_date": "2025-01-31 06:14:25"
   },
-  "BMNR": {
+  "KLYG": {
     "exchange": "OTC MARKETS",
-    "name": "Bitmine Immersion Technologies Inc",
+    "name": "Kelyniam Global Inc",
     "country": "US",
-    "added_date": "2025-01-30 06:13:59"
-  },
-  "PYBX": {
-    "exchange": "OTC MARKETS",
-    "name": "Hydro Power Technologies Inc",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:01"
-  },
-  "PCTL": {
-    "exchange": "OTC MARKETS",
-    "name": "PCT Ltd",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:02"
-  },
-  "BACHF": {
-    "exchange": "SHANGHAI STOCK EXCHANGE",
-    "name": "Bank of China Ltd",
-    "country": "CN",
-    "added_date": "2025-01-30 06:14:04"
-  },
-  "BZAI": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-01-30 06:14:05"
-  },
-  "PURE": {
-    "exchange": "OTC MARKETS",
-    "name": "PURE Biosciences Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:06"
-  },
-  "BEGI": {
-    "exchange": "OTC MARKETS",
-    "name": "Blackstar Enterprise Group Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:06"
-  },
-  "MEDVF": {
-    "exchange": "OTC MARKETS",
-    "name": "Medivolve Inc",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:07"
-  },
-  "IMCC": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "IM Cannabis Corp",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:08"
-  },
-  "TRKUF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Tarku Resources Ltd",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:09"
-  },
-  "FMCXF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Foran Mining Corp",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:10"
-  },
-  "CGRA": {
-    "exchange": "OTC MARKETS",
-    "name": "Cgrowth Capital Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:10"
-  },
-  "HGYN": {
-    "exchange": "OTC MARKETS",
-    "name": "Hong Yuan Holding Group",
-    "country": "CN",
-    "added_date": "2025-01-30 06:14:12"
-  },
-  "NDATF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "nDatalyze Corp",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:12"
-  },
-  "LOMLF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Lion One Metals Ltd",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:14"
-  },
-  "FFBB": {
-    "exchange": "OTC MARKETS",
-    "name": "Ffb Bancorp",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:14"
-  },
-  "TMSH": {
-    "exchange": "OTC MARKETS",
-    "name": "Transglobal Assets Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:15"
-  },
-  "FHELF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "First Helium Inc",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:15"
-  },
-  "CURLF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Curaleaf Holdings Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:17"
-  },
-  "INTK": {
-    "exchange": "OTC MARKETS",
-    "name": "Industrial Nanotech Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:19"
-  },
-  "BSNLF": {
-    "exchange": "ASX - ALL MARKETS",
-    "name": "Blue Star Helium Ltd",
-    "country": "AU",
-    "added_date": "2025-01-30 06:14:19"
-  },
-  "CLNFF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Calian Group Ltd",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:20"
-  },
-  "SCTH": {
-    "exchange": "OTC MARKETS",
-    "name": "Securetech Innovations Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:21"
-  },
-  "AMFL": {
-    "exchange": "OTC MARKETS",
-    "name": "American Films Inc",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:23"
-  },
-  "FBAK": {
-    "exchange": "OTC MARKETS",
-    "name": "First National Bank Alaska",
-    "country": "US",
-    "added_date": "2025-01-30 06:14:24"
-  },
-  "JNDAF": {
-    "exchange": "ASX - ALL MARKETS",
-    "name": "Jindalee Lithium Ltd",
-    "country": "AU",
-    "added_date": "2025-01-30 06:14:25"
-  },
-  "GLBXF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Globex Mining Enterprise Inc",
-    "country": "CA",
-    "added_date": "2025-01-30 06:14:26"
+    "added_date": "2025-01-31 06:14:25"
   }
 }

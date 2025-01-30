@@ -1,0 +1,144 @@
+
+=== 涨幅榜前20名股票 ===
+
+股票代码                 公司名称                 市值(亿)                板块                    昨天收盘          今天收盘     涨跌幅(%)
+  NTBLQ                          Notable Labs Ltd   0.00                       Biotechnology    2025-01-29 0.0   2025-01-30 0.02  19800.00
+   FOXX             Foxx Development Holdings Inc   0.21                          Technology   2025-01-29 2.89   2025-01-30 6.39    121.11
+  NCNCF                             noco-noco Inc   0.01                Electrical Equipment    2025-01-29 0.0   2025-01-30 0.01    120.00
+   BHIL                           Benson Hill Inc   0.11                       Food Products    2025-01-29 1.8   2025-01-30 3.95    119.44
+   TECX                  Tectonic Therapeutic Inc   3.79                       Biotechnology  2025-01-29 25.72  2025-01-30 54.84    113.22
+   AMOD                  Insight Acquisition Corp   0.21                                 N/A   2025-01-29 1.54   2025-01-30 3.14    103.90
+   DOMH                     Dominari Holdings Inc   0.14                  Financial Services   2025-01-29 2.27   2025-01-30 3.58     57.71
+   NAOV                          Nanovibronix Inc   0.01                         Health Care   2025-01-29 0.38   2025-01-30 0.59     53.65
+   SPGC                    Sacks Parente Golf Inc   0.05                    Leisure Products   2025-01-29 0.59    2025-01-30 0.9     52.78
+   ZAPP          Zapp Electric Vehicles Group Ltd   0.04                         Automobiles   2025-01-29 1.03   2025-01-30 1.41     36.89
+   MINM                                 Minim Inc   0.01                      Communications   2025-01-29 0.22   2025-01-30 0.28     27.64
+     JL                          J-Long Group Ltd   0.14                        Distributors   2025-01-29 4.37   2025-01-30 5.55     27.00
+   LTBR                          Lightbridge Corp   1.10                              Energy   2025-01-29 6.95   2025-01-30 8.76     26.04
+   HYZN                          Hyzon Motors Inc   0.04                           Machinery   2025-01-29 0.51   2025-01-30 0.64     24.98
+   CASK   Heritage Distilling Holding Company Inc   0.11                           Beverages   2025-01-29 1.06    2025-01-30 1.3     22.63
+   CREV                     Carbon Revolution PLC   0.06                     Auto Components    2025-01-29 3.2   2025-01-30 3.91     22.19
+   GLST               Global Star Acquisition Inc   0.39                                 N/A   2025-01-29 11.9   2025-01-30 14.5     21.85
+   DOGZ                Dogness International Corp   3.19    Textiles, Apparel & Luxury Goods  2025-01-29 25.05  2025-01-30 30.43     21.48
+    TOI                    Oncology Institute Inc   0.63                         Health Care   2025-01-29 0.84   2025-01-30 1.01     20.24
+   SNAL                                 Snail Inc   0.72                               Media   2025-01-29 1.96   2025-01-30 2.35     19.90
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+股票代码                公司名称               市值(亿)               板块                   昨天收盘           今天收盘      涨跌幅(%)
+  OKLO                                Oklo Inc    43.10                       Utilities    2025-01-29 35.3   2025-01-30 41.91    18.73 
+   OSK                            Oshkosh Corp    62.22                       Machinery   2025-01-29 95.63  2025-01-30 113.26    18.44 
+   FLG                  Flagstar Financial Inc    39.85                         Banking     2025-01-29 9.6   2025-01-30 11.06    15.21 
+  CORT                Corcept Therapeutics Inc    64.47                 Pharmaceuticals   2025-01-29 61.53    2025-01-30 69.9    13.60 
+   VST                             Vistra Corp   528.07                       Utilities  2025-01-29 155.21   2025-01-30 176.3    13.59 
+   IBM    International Business Machines Corp  2114.02                      Technology  2025-01-29 228.63  2025-01-30 258.27    12.96 
+   TEM                           Tempus AI Inc    79.94  Life Sciences Tools & Services   2025-01-29 50.77   2025-01-30 57.19    12.65 
+  SMTC                            Semtech Corp    51.97                  Semiconductors    2025-01-29 60.3   2025-01-30 67.69    12.26 
+   ABG             Asbury Automotive Group Inc    53.73                          Retail  2025-01-29 274.31  2025-01-30 305.86    11.50 
+   LVS                    Las Vegas Sands Corp   314.88   Hotels, Restaurants & Leisure   2025-01-29 43.43   2025-01-30 48.24    11.08 
+  CRDO      Credo Technology Group Holding Ltd    98.32                  Semiconductors   2025-01-29 58.79    2025-01-30 64.6     9.88 
+  IBRX                         Immunitybio Inc    23.07                   Biotechnology    2025-01-29 3.16    2025-01-30 3.47     9.81 
+  CALX                               Calix Inc    24.45                  Communications   2025-01-29 36.87   2025-01-30 40.18     8.98 
+   GEV                          Ge Vernova Inc   973.74            Electrical Equipment  2025-01-29 353.25  2025-01-30 382.94     8.40 
+  PAGS                   PagSeguro Digital Ltd    23.27              Financial Services    2025-01-29 7.06    2025-01-30 7.65     8.36 
+   DLB                  Dolby Laboratories Inc    77.09                      Technology   2025-01-29 80.63   2025-01-30 87.32     8.30 
+  LITE                   Lumentum Holdings Inc    53.52                  Communications   2025-01-29 77.91   2025-01-30 83.98     7.79 
+   CDE                        Coeur Mining Inc    25.40                 Metals & Mining    2025-01-29 6.36    2025-01-30 6.85     7.70 
+  CVLT                   Commvault Systems Inc    64.20                      Technology  2025-01-29 146.82   2025-01-30 157.9     7.55 
+  LUNR                  Intuitive Machines Inc    31.28             Aerospace & Defense   2025-01-29 20.87   2025-01-30 22.42     7.43 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+股票代码                公司名称                市值(亿)               板块                   昨天收盘           今天收盘      涨跌幅(%)
+   OSK                             Oshkosh Corp    62.22                       Machinery   2025-01-29 95.63  2025-01-30 113.26    18.44 
+  CORT                 Corcept Therapeutics Inc    64.47                 Pharmaceuticals   2025-01-29 61.53    2025-01-30 69.9    13.60 
+   VST                              Vistra Corp   528.07                       Utilities  2025-01-29 155.21   2025-01-30 176.3    13.59 
+   IBM     International Business Machines Corp  2114.02                      Technology  2025-01-29 228.63  2025-01-30 258.27    12.96 
+   TEM                            Tempus AI Inc    79.94  Life Sciences Tools & Services   2025-01-29 50.77   2025-01-30 57.19    12.65 
+  SMTC                             Semtech Corp    51.97                  Semiconductors    2025-01-29 60.3   2025-01-30 67.69    12.26 
+   ABG              Asbury Automotive Group Inc    53.73                          Retail  2025-01-29 274.31  2025-01-30 305.86    11.50 
+   LVS                     Las Vegas Sands Corp   314.88   Hotels, Restaurants & Leisure   2025-01-29 43.43   2025-01-30 48.24    11.08 
+  CRDO       Credo Technology Group Holding Ltd    98.32                  Semiconductors   2025-01-29 58.79    2025-01-30 64.6     9.88 
+   GEV                           Ge Vernova Inc   973.74            Electrical Equipment  2025-01-29 353.25  2025-01-30 382.94     8.40 
+   DLB                   Dolby Laboratories Inc    77.09                      Technology   2025-01-29 80.63   2025-01-30 87.32     8.30 
+  LITE                    Lumentum Holdings Inc    53.52                  Communications   2025-01-29 77.91   2025-01-30 83.98     7.79 
+  CVLT                    Commvault Systems Inc    64.20                      Technology  2025-01-29 146.82   2025-01-30 157.9     7.55 
+  LRCX                        Lam Research Corp   966.94                  Semiconductors   2025-01-29 75.15   2025-01-30 80.73     7.43 
+  CHKP    Check Point Software Technologies Ltd   224.25                      Technology   2025-01-29 203.9  2025-01-30 218.99     7.40 
+   SMR                       Nuscale Power Corp    60.24            Electrical Equipment    2025-01-29 22.0   2025-01-30 23.58     7.18 
+  ALAB                          Astera Labs Inc   143.43                  Semiconductors   2025-01-29 90.43   2025-01-30 96.87     7.12 
+    NU                          Nu Holdings Ltd   596.03                         Banking   2025-01-29 12.55   2025-01-30 13.44     7.09 
+  ONTO                      Onto Innovation Inc    94.74                  Semiconductors  2025-01-29 191.81  2025-01-30 205.18     6.97 
+  NBIS                          Nebius Group NV    70.00                           Media   2025-01-29 29.73    2025-01-30 31.8     6.96 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+股票代码                公司名称                市值(亿)               板块                   昨天收盘           今天收盘      涨跌幅(%)
+    VST                             Vistra Corp   528.07                       Utilities  2025-01-29 155.21   2025-01-30 176.3    13.59 
+    IBM    International Business Machines Corp  2114.02                      Technology  2025-01-29 228.63  2025-01-30 258.27    12.96 
+    LVS                    Las Vegas Sands Corp   314.88   Hotels, Restaurants & Leisure   2025-01-29 43.43   2025-01-30 48.24    11.08 
+    GEV                          Ge Vernova Inc   973.74            Electrical Equipment  2025-01-29 353.25  2025-01-30 382.94     8.40 
+   LRCX                       Lam Research Corp   966.94                  Semiconductors   2025-01-29 75.15   2025-01-30 80.73     7.43 
+   CHKP   Check Point Software Technologies Ltd   224.25                      Technology   2025-01-29 203.9  2025-01-30 218.99     7.40 
+   ALAB                         Astera Labs Inc   143.43                  Semiconductors   2025-01-29 90.43   2025-01-30 96.87     7.12 
+     NU                         Nu Holdings Ltd   596.03                         Banking   2025-01-29 12.55   2025-01-30 13.44     7.09 
+    TMO            Thermo Fisher Scientific Inc  2173.48  Life Sciences Tools & Services  2025-01-29 568.23  2025-01-30 606.74     6.78 
+    DUO                Fangdd Network Group Ltd   194.81                           Media    2025-01-29 0.58    2025-01-30 0.61     6.23 
+     PH                    Parker-Hannifin Corp   857.03                       Machinery  2025-01-29 665.81  2025-01-30 703.89     5.72 
+    CEG               Constellation Energy Corp   913.14                       Utilities  2025-01-29 291.89  2025-01-30 308.55     5.71 
+    DGX                   Quest Diagnostics Inc   173.49                     Health Care  2025-01-29 155.44  2025-01-30 164.17     5.62 
+   ANET                     Arista Networks Inc  1358.52                  Communications  2025-01-29 107.84  2025-01-30 113.86     5.58 
+  BABAF               Alibaba Group Holding Ltd  2156.37                          Retail   2025-01-29 12.23    2025-01-30 12.9     5.52 
+  DUAVF                    Dassault Aviation SA   165.97             Aerospace & Defense   2025-01-29 209.5   2025-01-30 221.0     5.49 
+    DPZ                      Domino's Pizza Inc   147.73   Hotels, Restaurants & Leisure  2025-01-29 427.78   2025-01-30 450.8     5.38 
+   AFRM                     Affirm Holdings Inc   185.14              Financial Services   2025-01-29 58.95    2025-01-30 62.1     5.34 
+    MTZ                              MasTec Inc   110.59                    Construction  2025-01-29 139.57  2025-01-30 146.93     5.27 
+   ORCL                             Oracle Corp  4531.63                      Technology  2025-01-29 162.02  2025-01-30 170.38     5.16 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+股票代码                公司名称                市值(亿)               板块                   昨天收盘           今天收盘      涨跌幅(%)
+    VST                             Vistra Corp   528.07                       Utilities  2025-01-29 155.21   2025-01-30 176.3    13.59 
+    IBM    International Business Machines Corp  2114.02                      Technology  2025-01-29 228.63  2025-01-30 258.27    12.96 
+    LVS                    Las Vegas Sands Corp   314.88   Hotels, Restaurants & Leisure   2025-01-29 43.43   2025-01-30 48.24    11.08 
+    GEV                          Ge Vernova Inc   973.74            Electrical Equipment  2025-01-29 353.25  2025-01-30 382.94     8.40 
+   LRCX                       Lam Research Corp   966.94                  Semiconductors   2025-01-29 75.15   2025-01-30 80.73     7.43 
+   CHKP   Check Point Software Technologies Ltd   224.25                      Technology   2025-01-29 203.9  2025-01-30 218.99     7.40 
+     NU                         Nu Holdings Ltd   596.03                         Banking   2025-01-29 12.55   2025-01-30 13.44     7.09 
+    TMO            Thermo Fisher Scientific Inc  2173.48  Life Sciences Tools & Services  2025-01-29 568.23  2025-01-30 606.74     6.78 
+     PH                    Parker-Hannifin Corp   857.03                       Machinery  2025-01-29 665.81  2025-01-30 703.89     5.72 
+    CEG               Constellation Energy Corp   913.14                       Utilities  2025-01-29 291.89  2025-01-30 308.55     5.71 
+   ANET                     Arista Networks Inc  1358.52                  Communications  2025-01-29 107.84  2025-01-30 113.86     5.58 
+  BABAF               Alibaba Group Holding Ltd  2156.37                          Retail   2025-01-29 12.23    2025-01-30 12.9     5.52 
+   ORCL                             Oracle Corp  4531.63                      Technology  2025-01-29 162.02  2025-01-30 170.38     5.16 
+    ROP                  Roper Technologies Inc   582.28                      Technology  2025-01-29 543.02   2025-01-30 570.6     5.08 
+    PHM                          Pultegroup Inc   231.72               Consumer products  2025-01-29 112.99  2025-01-30 118.51     4.89 
+   NTRA                              Natera Inc   222.09                   Biotechnology  2025-01-29 168.22  2025-01-30 176.27     4.79 
+   AVGO                            Broadcom Inc  9672.36                  Semiconductors  2025-01-29 206.35  2025-01-30 215.66     4.51 
+    NRG                          NRG Energy Inc   203.72                       Utilities  2025-01-29 100.57   2025-01-30 105.0     4.40 
+   KLAC                                KLA Corp   953.67                  Semiconductors  2025-01-29 712.97  2025-01-30 742.43     4.13 
+  ASMLF                         ASML Holding NV  2506.66                  Semiconductors  2025-01-29 710.75  2025-01-30 739.85     4.09 
+
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+
+股票代码                公司名称               市值(亿)                 板块                    昨天收盘           今天收盘      涨跌幅(%)
+    IBM   International Business Machines Corp   2114.02                        Technology  2025-01-29 228.63  2025-01-30 258.27    12.96 
+    TMO           Thermo Fisher Scientific Inc   2173.48    Life Sciences Tools & Services  2025-01-29 568.23  2025-01-30 606.74     6.78 
+   ANET                    Arista Networks Inc   1358.52                    Communications  2025-01-29 107.84  2025-01-30 113.86     5.58 
+  BABAF              Alibaba Group Holding Ltd   2156.37                            Retail   2025-01-29 12.23    2025-01-30 12.9     5.52 
+   ORCL                            Oracle Corp   4531.63                        Technology  2025-01-29 162.02  2025-01-30 170.38     5.16 
+   AVGO                           Broadcom Inc   9672.36                    Semiconductors  2025-01-29 206.35  2025-01-30 215.66     4.51 
+  ASMLF                        ASML Holding NV   2506.66                    Semiconductors  2025-01-29 710.75  2025-01-30 739.85     4.09 
+   AMAT                  Applied Materials Inc   1424.50                    Semiconductors  2025-01-29 175.28  2025-01-30 181.72     3.67 
+     BA                              Boeing Co   1299.28               Aerospace & Defense  2025-01-29 173.66  2025-01-30 179.53     3.38 
+     GE                    General Electric Co   2154.85               Aerospace & Defense   2025-01-29 199.1  2025-01-30 205.57     3.25 
+     MA                         Mastercard Inc   5037.06                Financial Services   2025-01-29 548.8  2025-01-30 566.01     3.14 
+    RTX                               RTX Corp   1665.50               Aerospace & Defense  2025-01-29 125.13  2025-01-30 128.98     3.08 
+    ETN                  Eaton Corporation PLC   1255.16              Electrical Equipment   2025-01-29 317.6   2025-01-30 327.1     2.99 
+   TSLA                              Tesla Inc  12490.34                       Automobiles   2025-01-29 389.1  2025-01-30 400.28     2.87 
+  GOOGL                           Alphabet Inc  24018.15                             Media  2025-01-29 195.41  2025-01-30 200.87     2.79 
+    TXN                  Texas Instruments Inc   1644.45                    Semiconductors  2025-01-29 180.27  2025-01-30 185.27     2.77 
+   GOOG                           Alphabet Inc  24018.15                             Media  2025-01-29 197.18  2025-01-30 202.63     2.76 
+    LLY                       Eli Lilly and Co   7633.26                   Pharmaceuticals  2025-01-29 804.08  2025-01-30 823.23     2.38 
+  LRLCF                             L'Oreal SA   1953.10                 Consumer products  2025-01-29 376.23   2025-01-30 385.0     2.33 
+    NKE                               Nike Inc   1132.72  Textiles, Apparel & Luxury Goods   2025-01-29 76.58   2025-01-30 78.33     2.29 
