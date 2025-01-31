@@ -1,0 +1,144 @@
+
+=== 涨幅榜前20名股票 ===
+
+股票代码                公司名称               市值(亿)              板块                  昨天收盘          今天收盘     涨跌幅(%)
+  NTBLQ                       Notable Labs Ltd    0.00                   Biotechnology   2025-01-30 0.0   2025-01-31 0.02  19800.00
+   REBN                      Reborn Coffee Inc    0.13                          Retail  2025-01-30 2.03    2025-01-31 3.3     62.56
+   SOPA                       Society Pass Inc    0.05                           Media  2025-01-30 0.98   2025-01-31 1.52     54.47
+   CYCN             Cyclerion Therapeutics Inc    0.10                   Biotechnology  2025-01-30 2.54   2025-01-31 3.92     54.33
+    SGN                 Signing Day Sports Inc    0.03                      Technology  2025-01-30 2.56   2025-01-31 3.78     47.66
+   CLEU   China Liberal Education Holdings Ltd    0.05   Diversified Consumer Services  2025-01-30 0.15    2025-01-31 0.2     35.14
+   INKT                  Mink Therapeutics Inc    0.32                   Biotechnology  2025-01-30 6.89   2025-01-31 9.16     32.95
+   EVTV                Envirotech Vehicles Inc    0.07                     Automobiles  2025-01-30 0.35   2025-01-31 0.45     30.84
+    ICU           SeaStar Medical Holding Corp    0.09                     Health Care  2025-01-30 1.73   2025-01-31 2.24     29.48
+   RIME                Algorhythm Holdings Inc    0.03               Consumer products  2025-01-30 0.02   2025-01-31 0.03     28.00
+   ORKT             Orangekloud Technology Inc    0.40                      Technology  2025-01-30 1.37   2025-01-31 1.73     26.28
+   NLSP                   NLS Pharmaceutics AG    0.06                 Pharmaceuticals  2025-01-30 1.98   2025-01-31 2.49     25.76
+   ALPP                  Alpine 4 Holdings Inc    0.00            Electrical Equipment   2025-01-30 0.0    2025-01-31 0.0     25.00
+    NXU                               NXU Inc.    0.08                          Retail  2025-01-30 0.24    2025-01-31 0.3     24.12
+   CIFR                      Cipher Mining Inc   20.73                      Technology   2025-01-30 4.7   2025-01-31 5.73     21.91
+    SLS         Sellas Life Sciences Group Inc    1.05                   Biotechnology  2025-01-30 1.33   2025-01-31 1.62     21.80
+   CLDI             Calidi Biotherapeutics Inc    0.20                   Biotechnology  2025-01-30 0.63   2025-01-31 0.76     21.12
+    LVO                            LiveOne Inc    1.43                           Media   2025-01-30 1.2   2025-01-31 1.45     20.83
+   VIAV                    Viavi Solutions Inc   27.01                  Communications  2025-01-30 9.99  2025-01-31 12.04     20.52
+   SRTS                  Sensus Healthcare Inc    1.35                     Health Care  2025-01-30 6.87   2025-01-31 8.23     19.87
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+股票代码               公司名称              市值(亿)          板块               昨天收盘           今天收盘      涨跌幅(%)
+   CIFR                    Cipher Mining Inc    20.73             Technology     2025-01-30 4.7    2025-01-31 5.73    21.91 
+   VIAV                  Viavi Solutions Inc    27.01         Communications    2025-01-30 9.99   2025-01-31 12.04    20.52 
+  VRLAF                          Verallia SA    32.40              Packaging    2025-01-30 25.0    2025-01-31 29.2    16.80 
+   TEAM                       Atlassian Corp   812.69             Technology  2025-01-30 266.95  2025-01-31 306.78    14.92 
+   ASTS                  AST SpaceMobile Inc    60.43      Telecommunication   2025-01-30 18.21   2025-01-31 20.24    11.15 
+    BEN               Franklin Resources Inc   115.56     Financial Services   2025-01-30 20.15   2025-01-31 22.24    10.37 
+   HIMS               Hims & Hers Health Inc    80.12            Health Care   2025-01-30 33.96   2025-01-31 37.28     9.78 
+   CRDO   Credo Technology Group Holding Ltd   119.31         Semiconductors    2025-01-30 64.6   2025-01-31 70.02     8.39 
+    RBC                     RBC Bearings Inc   111.57              Machinery  2025-01-30 322.02  2025-01-31 348.75     8.30 
+    EMN                  Eastman Chemical Co   117.16              Chemicals   2025-01-30 92.67   2025-01-31 99.65     7.53 
+   TFSL                   TFS Financial Corp    38.67                Banking   2025-01-30 12.79   2025-01-31 13.72     7.27 
+   RGTI                Rigetti Computing Inc    34.33         Semiconductors    2025-01-30 12.3   2025-01-31 13.17     7.07 
+    FLG               Flagstar Financial Inc    48.90                Banking   2025-01-30 11.06   2025-01-31 11.83     6.96 
+   CVCO                 Cavco Industries Inc    41.21      Consumer products  2025-01-30 476.82  2025-01-31 508.64     6.67 
+   TBBK                          Bancorp Inc    29.21                Banking   2025-01-30 57.64   2025-01-31 61.06     5.93 
+   MNDY                       Monday.Com Ltd   126.88             Technology  2025-01-30 241.86  2025-01-31 255.46     5.62 
+  LBRDB               Liberty Broadband Corp   111.51                  Media    2025-01-30 73.0    2025-01-31 77.0     5.48 
+   VRTX           Vertex Pharmaceuticals Inc  1208.43          Biotechnology   2025-01-30 438.4  2025-01-31 461.68     5.31 
+   GTLB                           GitLab Inc   119.71             Technology   2025-01-30 69.38   2025-01-31 72.76     4.87 
+   AMTM                 Amentum Holdings Inc    51.71  Professional Services   2025-01-30 20.01   2025-01-31 20.97     4.80 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+股票代码               公司名称              市值(亿)          板块               昨天收盘           今天收盘      涨跌幅(%)
+   TEAM                       Atlassian Corp   812.69             Technology  2025-01-30 266.95  2025-01-31 306.78    14.92 
+   ASTS                  AST SpaceMobile Inc    60.43      Telecommunication   2025-01-30 18.21   2025-01-31 20.24    11.15 
+    BEN               Franklin Resources Inc   115.56     Financial Services   2025-01-30 20.15   2025-01-31 22.24    10.37 
+   HIMS               Hims & Hers Health Inc    80.12            Health Care   2025-01-30 33.96   2025-01-31 37.28     9.78 
+   CRDO   Credo Technology Group Holding Ltd   119.31         Semiconductors    2025-01-30 64.6   2025-01-31 70.02     8.39 
+    RBC                     RBC Bearings Inc   111.57              Machinery  2025-01-30 322.02  2025-01-31 348.75     8.30 
+    EMN                  Eastman Chemical Co   117.16              Chemicals   2025-01-30 92.67   2025-01-31 99.65     7.53 
+   MNDY                       Monday.Com Ltd   126.88             Technology  2025-01-30 241.86  2025-01-31 255.46     5.62 
+  LBRDB               Liberty Broadband Corp   111.51                  Media    2025-01-30 73.0    2025-01-31 77.0     5.48 
+   VRTX           Vertex Pharmaceuticals Inc  1208.43          Biotechnology   2025-01-30 438.4  2025-01-31 461.68     5.31 
+   GTLB                           GitLab Inc   119.71             Technology   2025-01-30 69.38   2025-01-31 72.76     4.87 
+   AMTM                 Amentum Holdings Inc    51.71  Professional Services   2025-01-30 20.01   2025-01-31 20.97     4.80 
+   AVAV                    AeroVironment Inc    51.25    Aerospace & Defense  2025-01-30 171.98  2025-01-31 180.15     4.75 
+   ALAB                      Astera Labs Inc   165.91         Semiconductors   2025-01-30 96.87  2025-01-31 101.42     4.70 
+   ABBV                           AbbVie Inc  3320.28          Biotechnology  2025-01-30 175.65   2025-01-31 183.9     4.70 
+   KEYS            Keysight Technologies Inc   310.54   Electrical Equipment  2025-01-30 170.52  2025-01-31 178.35     4.59 
+     CI                          Cigna Group   826.81            Health Care  2025-01-30 282.98  2025-01-31 294.21     3.97 
+   SIRI               Sirius XM Holdings Inc    81.44                  Media   2025-01-30 23.11   2025-01-31 24.01     3.89 
+     EA                  Electronic Arts Inc   324.90                  Media  2025-01-30 118.68  2025-01-31 122.91     3.56 
+    BKR                      Baker Hughes Co   465.57                 Energy    2025-01-30 44.6   2025-01-31 46.18     3.54 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+股票代码               公司名称              市值(亿)           板块              昨天收盘           今天收盘      涨跌幅(%)
+   TEAM                       Atlassian Corp    812.69            Technology  2025-01-30 266.95  2025-01-31 306.78    14.92 
+    BEN               Franklin Resources Inc    115.56    Financial Services   2025-01-30 20.15   2025-01-31 22.24    10.37 
+   CRDO   Credo Technology Group Holding Ltd    119.31        Semiconductors    2025-01-30 64.6   2025-01-31 70.02     8.39 
+    RBC                     RBC Bearings Inc    111.57             Machinery  2025-01-30 322.02  2025-01-31 348.75     8.30 
+    EMN                  Eastman Chemical Co    117.16             Chemicals   2025-01-30 92.67   2025-01-31 99.65     7.53 
+   MNDY                       Monday.Com Ltd    126.88            Technology  2025-01-30 241.86  2025-01-31 255.46     5.62 
+  LBRDB               Liberty Broadband Corp    111.51                 Media    2025-01-30 73.0    2025-01-31 77.0     5.48 
+   VRTX           Vertex Pharmaceuticals Inc   1208.43         Biotechnology   2025-01-30 438.4  2025-01-31 461.68     5.31 
+   GTLB                           GitLab Inc    119.71            Technology   2025-01-30 69.38   2025-01-31 72.76     4.87 
+   ALAB                      Astera Labs Inc    165.91        Semiconductors   2025-01-30 96.87  2025-01-31 101.42     4.70 
+   ABBV                           AbbVie Inc   3320.28         Biotechnology  2025-01-30 175.65   2025-01-31 183.9     4.70 
+   KEYS            Keysight Technologies Inc    310.54  Electrical Equipment  2025-01-30 170.52  2025-01-31 178.35     4.59 
+     CI                          Cigna Group    826.81           Health Care  2025-01-30 282.98  2025-01-31 294.21     3.97 
+     EA                  Electronic Arts Inc    324.90                 Media  2025-01-30 118.68  2025-01-31 122.91     3.56 
+    BKR                      Baker Hughes Co    465.57                Energy    2025-01-30 44.6   2025-01-31 46.18     3.54 
+   CIEN                           Ciena Corp    123.77        Communications   2025-01-30 84.65   2025-01-31 87.14     2.94 
+  LBRDA               Liberty Broadband Corp    111.51                 Media   2025-01-30 73.96   2025-01-31 76.03     2.80 
+  LBRDK               Liberty Broadband Corp    111.51                 Media   2025-01-30 74.61   2025-01-31 76.66     2.75 
+   CHTR           Charter Communications Inc    997.42                 Media  2025-01-30 336.62  2025-01-31 345.49     2.64 
+   AVGO                         Broadcom Inc  10574.32        Semiconductors  2025-01-30 215.66  2025-01-31 221.27     2.60 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+股票代码           公司名称          市值(亿)           板块              昨天收盘           今天收盘      涨跌幅(%)
+   TEAM               Atlassian Corp    812.69            Technology  2025-01-30 266.95  2025-01-31 306.78    14.92 
+   VRTX   Vertex Pharmaceuticals Inc   1208.43         Biotechnology   2025-01-30 438.4  2025-01-31 461.68     5.31 
+   ABBV                   AbbVie Inc   3320.28         Biotechnology  2025-01-30 175.65   2025-01-31 183.9     4.70 
+   KEYS    Keysight Technologies Inc    310.54  Electrical Equipment  2025-01-30 170.52  2025-01-31 178.35     4.59 
+     CI                  Cigna Group    826.81           Health Care  2025-01-30 282.98  2025-01-31 294.21     3.97 
+     EA          Electronic Arts Inc    324.90                 Media  2025-01-30 118.68  2025-01-31 122.91     3.56 
+    BKR              Baker Hughes Co    465.57                Energy    2025-01-30 44.6   2025-01-31 46.18     3.54 
+   CHTR   Charter Communications Inc    997.42                 Media  2025-01-30 336.62  2025-01-31 345.49     2.64 
+   AVGO                 Broadcom Inc  10574.32        Semiconductors  2025-01-30 215.66  2025-01-31 221.27     2.60 
+   MRVL       Marvell Technology Inc    988.26        Semiconductors  2025-01-30 110.33  2025-01-31 112.86     2.29 
+    VRT           Vertiv Holdings Co    445.15  Electrical Equipment   2025-01-30 114.6  2025-01-31 117.02     2.11 
+    XYL                    Xylem Inc    301.30             Machinery  2025-01-30 121.79  2025-01-31 124.04     1.85 
+  ADYYF                     Adyen NV    492.11    Financial Services  2025-01-30 1599.0  2025-01-31 1625.0     1.63 
+  GOOGL                 Alphabet Inc  25146.75                 Media  2025-01-30 200.87  2025-01-31 204.02     1.57 
+   PLTR    Palantir Technologies Inc   1928.80            Technology   2025-01-30 81.22   2025-01-31 82.49     1.56 
+   TOST                    Toast Inc    236.00    Financial Services   2025-01-30 40.31   2025-01-31 40.92     1.51 
+   GOOG                 Alphabet Inc  25146.75                 Media  2025-01-30 202.63   2025-01-31 205.6     1.47 
+   CVNA                   Carvana Co    518.33                Retail  2025-01-30 243.94  2025-01-31 247.48     1.45 
+   LPLA   LPL Financial Holdings Inc    276.79    Financial Services   2025-01-30 361.8  2025-01-31 366.89     1.41 
+     MO             Altria Group Inc    888.42               Tobacco   2025-01-30 51.54   2025-01-31 52.23     1.34 
+
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+
+股票代码           公司名称          市值(亿)          板块               昨天收盘           今天收盘      涨跌幅(%)
+   VRTX   Vertex Pharmaceuticals Inc   1208.43        Biotechnology    2025-01-30 438.4  2025-01-31 461.68    5.31  
+   ABBV                   AbbVie Inc   3320.28        Biotechnology   2025-01-30 175.65   2025-01-31 183.9    4.70  
+   AVGO                 Broadcom Inc  10574.32       Semiconductors   2025-01-30 215.66  2025-01-31 221.27    2.60  
+  GOOGL                 Alphabet Inc  25146.75                Media   2025-01-30 200.87  2025-01-31 204.02    1.57  
+   PLTR    Palantir Technologies Inc   1928.80           Technology    2025-01-30 81.22   2025-01-31 82.49    1.56  
+   GOOG                 Alphabet Inc  25146.75                Media   2025-01-30 202.63   2025-01-31 205.6    1.47  
+   AMZN               Amazon.com Inc  25180.30               Retail   2025-01-30 234.64  2025-01-31 237.68    1.30  
+  CMCSA                 Comcast Corp   1289.35                Media    2025-01-30 33.25   2025-01-31 33.66    1.23  
+   ANET          Arista Networks Inc   1473.10       Communications   2025-01-30 113.86  2025-01-31 115.23    1.20  
+    APP                Applovin Corp   1256.30           Technology   2025-01-30 365.51  2025-01-31 369.59    1.12  
+    ACN                Accenture PLC   2419.23           Technology   2025-01-30 380.75  2025-01-31 384.95    1.10  
+   TSLA                    Tesla Inc  13432.50          Automobiles   2025-01-30 400.28   2025-01-31 404.6    1.08  
+  EADSF                    Airbus SE   1316.43  Aerospace & Defense    2025-01-30 173.0  2025-01-31 174.44    0.83  
+    LMT         Lockheed Martin Corp   1088.93  Aerospace & Defense   2025-01-30 459.65  2025-01-31 462.95    0.72  
+   QCOM                 Qualcomm Inc   1951.46       Semiconductors   2025-01-30 171.93  2025-01-31 172.93    0.58  
+   AMGN                    Amgen Inc   1539.82        Biotechnology   2025-01-30 284.02  2025-01-31 285.42    0.49  
+   LRCX            Lam Research Corp   1078.95       Semiconductors    2025-01-30 80.73   2025-01-31 81.05    0.40  
+   UBER        Uber Technologies Inc   1416.30          Road & Rail    2025-01-30 66.59   2025-01-31 66.85    0.39  
+    BLK                BlackRock Inc   1674.89   Financial Services  2025-01-30 1071.52  2025-01-31 1075.5    0.37  
+   NFLX                  Netflix Inc   4228.38                Media   2025-01-30 973.24  2025-01-31 976.76    0.36  
