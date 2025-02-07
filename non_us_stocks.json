@@ -1,842 +1,182 @@
 {
-  "TROYF": {
+  "CTSDF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Converge Technology Solutions Corp",
+    "country": "CA",
+    "added_date": "2025-02-08 06:13:49"
+  },
+  "BBLC": {
+    "exchange": "OTC MARKETS",
+    "name": "Belle Bonica Luxe Corp",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:50"
+  },
+  "YERBF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Yerbae Brands Corp",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:51"
+  },
+  "CPPTL": {
+    "exchange": "OTC MARKETS",
+    "name": "Copper Property CTL Pass Through Trust",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:52"
+  },
+  "IGPK": {
+    "exchange": "OTC MARKETS",
+    "name": "Integrated Cannabis Solutions Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:53"
+  },
+  "LMRMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Lomiko Metals Inc",
+    "country": "CA",
+    "added_date": "2025-02-08 06:13:54"
+  },
+  "FRGGF": {
     "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Troy Minerals Inc",
+    "name": "Forge Resources Corp",
     "country": "CA",
-    "added_date": "2025-02-07 06:12:13"
+    "added_date": "2025-02-08 06:13:55"
   },
-  "MATEF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Blockmate Ventures Inc",
-    "country": "GB",
-    "added_date": "2025-02-07 06:12:13"
-  },
-  "CPKF": {
+  "AIAD": {
     "exchange": "OTC MARKETS",
-    "name": "Chesapeake Financial Shares Inc",
+    "name": "Aiadvertising Inc",
     "country": "US",
-    "added_date": "2025-02-07 06:12:14"
+    "added_date": "2025-02-08 06:13:55"
   },
-  "AMFL": {
+  "SFTBF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "SoftBank Group Corp",
+    "country": "JP",
+    "added_date": "2025-02-08 06:13:56"
+  },
+  "DRCR": {
     "exchange": "OTC MARKETS",
-    "name": "American Films Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:15"
-  },
-  "PNTRF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Pantera Silver Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:16"
-  },
-  "FNRN": {
-    "exchange": "OTC MARKETS",
-    "name": "First Northern Community Bancorp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:18"
-  },
-  "KPGHF": {
-    "exchange": "ASX - ALL MARKETS",
-    "name": "Kelly Partners Group Holdings Ltd",
-    "country": "AU",
-    "added_date": "2025-02-07 06:12:19"
-  },
-  "SYZLF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Sylogist Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:19"
-  },
-  "MTRT": {
-    "exchange": "OTC MARKETS",
-    "name": "Metal Arts Company Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:20"
-  },
-  "APXCF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Apex Critical Metals Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:21"
-  },
-  "ICL": {
-    "exchange": "TEL AVIV STOCK EXCHANGE",
-    "name": "ICL Group Ltd",
-    "country": "IL",
-    "added_date": "2025-02-07 06:12:21"
-  },
-  "AUMC": {
-    "exchange": "OTC MARKETS",
-    "name": "Auryn Mining Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:22"
-  },
-  "PCLB": {
-    "exchange": "OTC MARKETS",
-    "name": "Pinnacle Bancshares Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:23"
-  },
-  "BUDZ": {
-    "exchange": "OTC MARKETS",
-    "name": "Weed Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:24"
-  },
-  "ADBRF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Aldebaran Resources Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:24"
-  },
-  "ESBS": {
-    "exchange": "OTC MARKETS",
-    "name": "ES Bancshares Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:25"
-  },
-  "NFLDF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Exploits Discovery Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:26"
-  },
-  "TARSF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Silver North Resources Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:27"
-  },
-  "FNNZF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Fincanna Capital Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:27"
-  },
-  "IRVRF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Irving Resources Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:29"
-  },
-  "ILIM": {
-    "exchange": "OTC MARKETS",
-    "name": "Il2m International Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:31"
-  },
-  "CLEV": {
-    "exchange": "OTC MARKETS",
-    "name": "Concrete Leveling Systems Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:33"
-  },
-  "MSRM": {
-    "exchange": "OTC MARKETS",
-    "name": "Mushrooms Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:33"
-  },
-  "DGMLF": {
-    "exchange": "ASX - ALL MARKETS",
-    "name": "De Grey Mining Ltd",
-    "country": "AU",
-    "added_date": "2025-02-07 06:12:34"
-  },
-  "MFC": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Manulife Financial Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:34"
-  },
-  "BIREF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Birchcliff Energy Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:35"
-  },
-  "MCOM": {
-    "exchange": "OTC MARKETS",
-    "name": "micromobility.com inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:37"
-  },
-  "GCXXF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Granite Creek Copper Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:38"
-  },
-  "NGMC": {
-    "exchange": "OTC MARKETS",
-    "name": "Next Generation Management Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:38"
-  },
-  "STAL": {
-    "exchange": "OTC MARKETS",
-    "name": "Star Alliance International Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:40"
-  },
-  "TRII": {
-    "exchange": "OTC MARKETS",
-    "name": "Trio Resources Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:41"
-  },
-  "RVVTF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Revive Therapeutics Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:42"
-  },
-  "FABP": {
-    "exchange": "OTC MARKETS",
-    "name": "Farmers Bancorp Frankfort Indiana",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:44"
-  },
-  "ALVOF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Alvopetro Energy Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:45"
-  },
-  "ORLA": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Orla Mining Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:45"
-  },
-  "ICTY": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:12:47"
-  },
-  "IDGR": {
-    "exchange": "OTC MARKETS",
-    "name": "Ideal Group of Companies Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:48"
-  },
-  "ELEEF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Element Fleet Management Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:49"
-  },
-  "SNRY": {
-    "exchange": "OTC MARKETS",
-    "name": "Solar Energy Initiatives Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:50"
-  },
-  "PSRHF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Pulsar Helium Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:12:52"
-  },
-  "BYRG": {
-    "exchange": "OTC MARKETS",
-    "name": "Buyer Group International Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:52"
-  },
-  "TSOI": {
-    "exchange": "OTC MARKETS",
-    "name": "Therapeutic Solutions International Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:54"
-  },
-  "SITS": {
-    "exchange": "OTC MARKETS",
-    "name": "Corp HQ Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:55"
-  },
-  "DCSX": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Direct Communication Solutions Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:56"
-  },
-  "JNSH": {
-    "exchange": "OTC MARKETS",
-    "name": "JNS Holdings Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:57"
-  },
-  "IBTN": {
-    "exchange": "OTC MARKETS",
-    "name": "Inscorp Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:57"
-  },
-  "OZSC": {
-    "exchange": "OTC MARKETS",
-    "name": "Ozop Energy Solutions Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:58"
-  },
-  "BCII": {
-    "exchange": "OTC MARKETS",
-    "name": "Blockchain Industries Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:12:59"
-  },
-  "SHASF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "ShaMaran Petroleum Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:00"
-  },
-  "FRMO": {
-    "exchange": "OTC MARKETS",
-    "name": "FRMO Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:01"
-  },
-  "GMINF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "G Mining Ventures Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:01"
-  },
-  "JACS": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:03"
-  },
-  "DRNG": {
-    "exchange": "OTC MARKETS",
-    "name": "Drone Guarder Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:04"
-  },
-  "DUKR": {
-    "exchange": "OTC MARKETS",
-    "name": "DUKE Robotics Corp",
-    "country": "IL",
-    "added_date": "2025-02-07 06:13:05"
-  },
-  "NFTM": {
-    "exchange": "OTC MARKETS",
-    "name": "NFT Marketplace Inc",
-    "country": "GB",
-    "added_date": "2025-02-07 06:13:06"
-  },
-  "PTEL": {
-    "exchange": "OTC MARKETS",
-    "name": "Pegasus Tel Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:10"
-  },
-  "ABQQ": {
-    "exchange": "OTC MARKETS",
-    "name": "AB International Group Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:11"
-  },
-  "BADEF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Hercules Metals Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:11"
-  },
-  "JAMGF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Tuktu Resources Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:12"
-  },
-  "ZTSTF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Ztest Electronics Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:13"
-  },
-  "VRTC": {
-    "exchange": "OTC MARKETS",
-    "name": "Veritec Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:13"
-  },
-  "NMEX": {
-    "exchange": "OTC MARKETS",
-    "name": "Northern Minerals & Exploration Ltd",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:13"
-  },
-  "ELRA": {
-    "exchange": "OTC MARKETS",
-    "name": "Elray Resources Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:14"
-  },
-  "LEMIF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Leading Edge Materials Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:15"
-  },
-  "HDIUF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "ADENTRA Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:16"
-  },
-  "FNV": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Franco-Nevada Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:16"
-  },
-  "EDVMF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Endeavour Mining plc",
-    "country": "GB",
-    "added_date": "2025-02-07 06:13:18"
-  },
-  "FNFI": {
-    "exchange": "OTC MARKETS",
-    "name": "First Niles Financial Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:19"
-  },
-  "GTLL": {
-    "exchange": "OTC MARKETS",
-    "name": "Global Technologies Ltd",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:20"
-  },
-  "MKSEF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Marksmen Energy Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:20"
-  },
-  "VYST": {
-    "exchange": "OTC MARKETS",
-    "name": "Vystar Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:21"
-  },
-  "CRSB": {
-    "exchange": "OTC MARKETS",
-    "name": "Cornerstone Community Bancorp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:22"
-  },
-  "SKPO": {
-    "exchange": "OTC MARKETS",
-    "name": "Skye Petroleum Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:22"
-  },
-  "PVCT": {
-    "exchange": "OTC MARKETS",
-    "name": "Provectus Biopharmaceuticals Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:23"
-  },
-  "SCPX": {
-    "exchange": "OTC MARKETS",
-    "name": "Scorpius Holdings Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:24"
-  },
-  "CRMZ": {
-    "exchange": "OTC MARKETS",
-    "name": "CreditRiskMonitor.Com Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:25"
-  },
-  "SQCF": {
-    "exchange": "OTC MARKETS",
-    "name": "Susquehanna Community Financial Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:26"
-  },
-  "UEEC": {
-    "exchange": "OTC MARKETS",
-    "name": "United Health Products Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:27"
-  },
-  "USNU": {
-    "exchange": "OTC MARKETS",
-    "name": "Elite Health Systems Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:28"
-  },
-  "ATCUF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Alta Copper Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:28"
-  },
-  "DSVSF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Discovery Silver Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:29"
-  },
-  "CXCQ": {
-    "exchange": "OTC MARKETS",
-    "name": "CardXX Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:30"
-  },
-  "GP": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "GreenPower Motor Company Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:31"
-  },
-  "RGFC": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:31"
-  },
-  "SOLCF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "SOL Global Investments Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:32"
-  },
-  "YHNA": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:32"
-  },
-  "MRAI": {
-    "exchange": "OTC MARKETS",
-    "name": "Marpai Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:34"
-  },
-  "HBM": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Hudbay Minerals Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:35"
-  },
-  "VNTH": {
-    "exchange": "OTC MARKETS",
-    "name": "Nano Mobile Healthcare Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:36"
-  },
-  "EXOD": {
-    "exchange": "OTC MARKETS",
-    "name": "Exodus Movement Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:36"
-  },
-  "INVRF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Inverite Insights Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:37"
-  },
-  "FFDF": {
-    "exchange": "OTC MARKETS",
-    "name": "FFD Financial Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:38"
-  },
-  "BZAI": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:39"
-  },
-  "GCUMF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Gunnison Copper Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:40"
-  },
-  "EMOTF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Emerita Resources Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:41"
-  },
-  "AIXN": {
-    "exchange": "OTC MARKETS",
-    "name": "AiXin Life International Inc",
+    "name": "Dear Cashmere Group Holding Co",
     "country": "CN",
-    "added_date": "2025-02-07 06:13:41"
+    "added_date": "2025-02-08 06:13:57"
   },
-  "PYNKF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Perimeter Medical Imaging AI Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:42"
-  },
-  "NICH": {
+  "CGRA": {
     "exchange": "OTC MARKETS",
-    "name": "Nitches Inc",
+    "name": "Cgrowth Capital Inc",
     "country": "US",
-    "added_date": "2025-02-07 06:13:42"
+    "added_date": "2025-02-08 06:13:57"
   },
-  "FOBIF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Fobi AI Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:43"
-  },
-  "VIVC": {
-    "exchange": "OTC MARKETS",
-    "name": "Vivic Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:44"
-  },
-  "ACOG": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:45"
-  },
-  "CBNT": {
-    "exchange": "OTC MARKETS",
-    "name": "C-Bond Systems Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:46"
-  },
-  "QUISF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Quisitive Technology Solutions Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:46"
-  },
-  "REZZF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Global Battery Metals Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:47"
-  },
-  "QNBC": {
-    "exchange": "OTC MARKETS",
-    "name": "QNB Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:48"
-  },
-  "BTQQF": {
-    "exchange": "AEQUITAS NEO EXCHANGE",
-    "name": "BTQ Technologies Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:48"
-  },
-  "PNPNF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Power Nickel Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:49"
-  },
-  "NTIOF": {
+  "URG": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "National Bank of Canada",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:50"
+    "name": "Ur-Energy Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:58"
   },
-  "BCE": {
+  "GSDT": {
+    "exchange": "OTC MARKETS",
+    "name": "Gsdt Fintech Group Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:13:59"
+  },
+  "VNUE": {
+    "exchange": "OTC MARKETS",
+    "name": "VNUE Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:14:00"
+  },
+  "ADXS": {
+    "exchange": "OTC MARKETS",
+    "name": "Ayala Pharmaceuticals Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:14:02"
+  },
+  "SMOFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Sonoro Gold Corp",
+    "country": "CA",
+    "added_date": "2025-02-08 06:14:03"
+  },
+  "EHVVF": {
+    "exchange": "OTC MARKETS",
+    "name": "Ehave Inc",
+    "country": "CA",
+    "added_date": "2025-02-08 06:14:04"
+  },
+  "BURCA": {
+    "exchange": "OTC MARKETS",
+    "name": "Burnham Holdings Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:14:04"
+  },
+  "GMBXF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Mexico SAB de CV",
+    "country": "MX",
+    "added_date": "2025-02-08 06:14:05"
+  },
+  "AETUF": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "BCE Inc",
+    "name": "ARC Resources Ltd",
     "country": "CA",
-    "added_date": "2025-02-07 06:13:50"
+    "added_date": "2025-02-08 06:14:06"
   },
-  "YGTFF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Gold Terra Resource Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:51"
-  },
-  "GBLX": {
+  "STBI": {
     "exchange": "OTC MARKETS",
-    "name": "GB Sciences Inc",
+    "name": "Sturgis Bancorp Inc",
     "country": "US",
-    "added_date": "2025-02-07 06:13:52"
+    "added_date": "2025-02-08 06:14:06"
   },
-  "AAPI": {
+  "MHUBF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Minehub Technologies Inc",
+    "country": "CA",
+    "added_date": "2025-02-08 06:14:07"
+  },
+  "SRCRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Scorpio Gold Corp",
+    "country": "CA",
+    "added_date": "2025-02-08 06:14:08"
+  },
+  "ZRFY": {
     "exchange": "OTC MARKETS",
-    "name": "Apple iSports Group Inc",
-    "country": "AU",
-    "added_date": "2025-02-07 06:13:52"
+    "name": "Zerify Inc",
+    "country": "US",
+    "added_date": "2025-02-08 06:14:09"
   },
-  "TAVI": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:53"
-  },
-  "PAAS": {
+  "STKL": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Pan American Silver Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:54"
-  },
-  "SPMTF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Spearmint Resources Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:55"
-  },
-  "QNCCF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Quantum eMotion Corp",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:57"
-  },
-  "BEVVF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Bee Vectoring Technologies International Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:57"
-  },
-  "BMXI": {
-    "exchange": "OTC MARKETS",
-    "name": "Brookmount Explorations Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:13:58"
-  },
-  "RHEP": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-07 06:13:58"
-  },
-  "SCTH": {
-    "exchange": "OTC MARKETS",
-    "name": "Securetech Innovations Inc",
+    "name": "Sunopta Inc",
     "country": "US",
-    "added_date": "2025-02-07 06:13:59"
+    "added_date": "2025-02-08 06:14:10"
   },
-  "STTX": {
+  "MRES": {
     "exchange": "OTC MARKETS",
-    "name": "Stratex Oil & Gas Holdings Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:13:59"
+    "name": "Canclean Inc",
+    "country": "ME",
+    "added_date": "2025-02-08 06:14:10"
   },
-  "ONTTF": {
-    "exchange": "LONDON STOCK EXCHANGE",
-    "name": "Oxford Nanopore Technologies PLC",
-    "country": "GB",
-    "added_date": "2025-02-07 06:14:01"
-  },
-  "NNAX": {
-    "exchange": "OTC MARKETS",
-    "name": "New Momentum Corp",
-    "country": "SG",
-    "added_date": "2025-02-07 06:14:02"
-  },
-  "BIOF": {
-    "exchange": "OTC MARKETS",
-    "name": "Blue Biofuels Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:03"
-  },
-  "SING": {
-    "exchange": "BATS EXCHANGE",
-    "name": "SinglePoint Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:04"
-  },
-  "NSAV": {
-    "exchange": "OTC MARKETS",
-    "name": "Net Savings Link Inc",
-    "country": "GB",
-    "added_date": "2025-02-07 06:14:05"
-  },
-  "SMDRF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Sierra Madre Gold and Silver Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:14:06"
-  },
-  "HYSR": {
-    "exchange": "OTC MARKETS",
-    "name": "SunHydrogen Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:06"
-  },
-  "OLKR": {
-    "exchange": "OTC MARKETS",
-    "name": "Openlocker Holdings Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:07"
-  },
-  "OMQS": {
-    "exchange": "OTC MARKETS",
-    "name": "Omniq Corp",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:08"
-  },
-  "SGCFF": {
+  "CP": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Sagicor Financial Company Ltd",
-    "country": "BB",
-    "added_date": "2025-02-07 06:14:09"
-  },
-  "KRKNF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Kraken Robotics Inc",
+    "name": "Canadian Pacific Kansas City Ltd",
     "country": "CA",
-    "added_date": "2025-02-07 06:14:10"
+    "added_date": "2025-02-08 06:14:11"
   },
-  "CBCYB": {
+  "AMLH": {
     "exchange": "OTC MARKETS",
-    "name": "Central Bancompany Inc",
+    "name": "American Leisure Holdings Inc",
     "country": "US",
-    "added_date": "2025-02-07 06:14:10"
+    "added_date": "2025-02-08 06:14:13"
   },
-  "SXNTF": {
-    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Sixty North Gold Mining Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:14:11"
+  "PCRFF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Panasonic Holdings Corp",
+    "country": "JP",
+    "added_date": "2025-02-08 06:14:13"
   },
-  "ALMU": {
-    "exchange": "OTC MARKETS",
-    "name": "Aeluma Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:12"
-  },
-  "THM": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "International Tower Hill Mines Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:14:12"
-  },
-  "PYRGF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "PyroGenesis Inc",
-    "country": "CA",
-    "added_date": "2025-02-07 06:14:13"
-  },
-  "SBBCF": {
+  "SASKF": {
     "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Simply Better Brands Corp",
+    "name": "ATHA Energy Corp",
     "country": "CA",
-    "added_date": "2025-02-07 06:14:13"
-  },
-  "MDMP": {
-    "exchange": "OTC MARKETS",
-    "name": "Mdm Permian Inc",
-    "country": "US",
-    "added_date": "2025-02-07 06:14:14"
-  },
-  "EGPLF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Eagle Plains Resources Ltd",
-    "country": "CA",
-    "added_date": "2025-02-07 06:14:14"
+    "added_date": "2025-02-08 06:14:17"
   }
 }
