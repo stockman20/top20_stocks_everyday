@@ -15697,3 +15697,24 @@
 44  Transportation Infrastructure   -2.073333         3
 24  Life Sciences Tools & Serv...   -2.942075        53
 2025-02-11 06:14:23,798 - INFO: 板块分析已保存到 logs/20250211_060002/sector_analysis.json
+2025-02-11 06:14:32,886 - ERROR: Git更新脚本执行失败: Command '['./update_git.sh']' returned non-zero exit status 1.
+2025-02-11 06:14:32,886 - ERROR: 错误输出: From github.com:stockman20/top20_stocks_everyday
+   55c1042..c7c0595  master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to rebase against.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+To github.com:stockman20/top20_stocks_everyday.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'github.com:stockman20/top20_stocks_everyday.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
