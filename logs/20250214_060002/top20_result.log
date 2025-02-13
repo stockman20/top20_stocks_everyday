@@ -1,0 +1,144 @@
+
+=== 涨幅榜前20名股票 ===
+
+股票代码             公司名称             市值(亿)                板块                    昨天收盘          今天收盘     涨跌幅(%)
+   BSLK        Bolt Projects Holdings Inc    0.10                          Chemicals   2025-02-12 0.31   2025-02-13 1.23   303.28 
+   MBRX             Moleculin Biotech Inc    0.01                      Biotechnology   2025-02-12 0.42   2025-02-13 1.27   202.38 
+  EGIOQ                         Edgio Inc    0.00                         Technology    2025-02-12 0.0    2025-02-13 0.0   100.00 
+    PEV                 Phoenix Motor Inc    0.09                        Automobiles   2025-02-12 0.25    2025-02-13 0.5    97.62 
+   AMOD          Insight Acquisition Corp    0.25                                N/A   2025-02-12 1.84   2025-02-13 3.62    96.74 
+   DOMH             Dominari Holdings Inc    0.44                 Financial Services   2025-02-12 6.87   2025-02-13 13.0    89.23 
+   MGOL                    MGO Global Inc    0.04   Textiles, Apparel & Luxury Goods   2025-02-12 0.46   2025-02-13 0.85    85.31 
+   EDSA                 Edesa Biotech Inc    0.06                      Biotechnology   2025-02-12 1.86   2025-02-13 3.25    74.73 
+   VIRX          Viracta Therapeutics Inc    0.00                      Biotechnology   2025-02-12 0.01   2025-02-13 0.02    69.00 
+   SPAI                Safe Pro Group Inc    0.35                Aerospace & Defense   2025-02-12 2.57   2025-02-13 4.26    65.76 
+   INLF                         INLIF Ltd    0.87                          Machinery   2025-02-12 5.99   2025-02-13 9.01    50.42 
+    AUR             Aurora Innovation Inc  110.84                         Technology   2025-02-12 6.45   2025-02-13 9.42    46.05 
+   GRAL                         Grail Inc   13.19                      Biotechnology  2025-02-12 39.26  2025-02-13 52.58    33.93 
+   AVGR                       Avinger Inc    0.02                        Health Care   2025-02-12 0.46    2025-02-13 0.6    30.00 
+   BROS                    Dutch Bros Inc   99.78      Hotels, Restaurants & Leisure  2025-02-12 64.71  2025-02-13 83.54    29.10 
+   ENTA        Enanta Pharmaceuticals Inc    1.25                      Biotechnology   2025-02-12 5.86    2025-02-13 7.5    27.99 
+   HIMS            Hims & Hers Health Inc  101.24                        Health Care  2025-02-12 46.34  2025-02-13 59.18    27.71 
+   CDIO   Cardio Diagnostics Holdings Inc    0.28                      Biotechnology   2025-02-12 0.53   2025-02-13 0.68    27.07 
+   CRSR                Corsair Gaming Inc   10.41                         Technology   2025-02-12 9.94  2025-02-13 12.51    25.86 
+   GRRR      Gorilla Technology Group Inc    4.47                         Technology   2025-02-12 24.2  2025-02-13 30.34    25.37 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+
+股票代码             公司名称            市值(亿)                板块                    昨天收盘            今天收盘      涨跌幅(%)
+    AUR            Aurora Innovation Inc   110.84                        Technology    2025-02-12 6.45     2025-02-13 9.42    46.05 
+   BROS                   Dutch Bros Inc    99.78     Hotels, Restaurants & Leisure   2025-02-12 64.71    2025-02-13 83.54    29.10 
+   HIMS           Hims & Hers Health Inc   101.24                       Health Care   2025-02-12 46.34    2025-02-13 59.18    27.71 
+    SOC              Sable Offshore Corp    21.80                            Energy   2025-02-12 24.47    2025-02-13 30.63    25.17 
+    APP                    Applovin Corp  1276.32                        Technology  2025-02-12 380.32   2025-02-13 471.67    24.02 
+   CROX                        Crocs Inc    51.77  Textiles, Apparel & Luxury Goods   2025-02-12 88.83   2025-02-13 110.05    23.89 
+    MGM        MGM Resorts International   102.33     Hotels, Restaurants & Leisure   2025-02-12 34.37    2025-02-13 40.37    17.46 
+   IRDM       Iridium Communications Inc    31.56                 Telecommunication   2025-02-12 27.72    2025-02-13 31.99    15.40 
+  ADYYF                         Adyen NV   488.34                Financial Services  2025-02-12 1634.5  2025-02-13 1879.38    14.98 
+   LMND                     Lemonade Inc    23.11                         Insurance   2025-02-12 32.36    2025-02-13 37.16    14.83 
+   PLMR             Palomar Holdings Inc    28.85                         Insurance  2025-02-12 108.99   2025-02-13 125.04    14.73 
+   HOOD            Robinhood Markets Inc   494.23                Financial Services   2025-02-12 55.91     2025-02-13 63.8    14.11 
+   LCID                  Lucid Group Inc    86.44                       Automobiles    2025-02-12 2.87     2025-02-13 3.26    13.59 
+    TEM                    Tempus AI Inc   116.32    Life Sciences Tools & Services   2025-02-12 73.88    2025-02-13 83.75    13.36 
+   SMMT          Summit Therapeutics Inc   144.32                     Biotechnology   2025-02-12 19.57    2025-02-13 21.82    11.50 
+   AEIS   Advanced Energy Industries Inc    41.88              Electrical Equipment  2025-02-12 111.17   2025-02-13 123.49    11.08 
+    OGN                     Organon & Co    37.86                   Pharmaceuticals    2025-02-12 14.7    2025-02-13 16.32    11.02 
+   PTON          Peloton Interactive Inc    35.80                  Leisure Products    2025-02-12 9.18    2025-02-13 10.15    10.57 
+    IAC                          IAC Inc    37.43                             Media   2025-02-12 43.39    2025-02-13 47.97    10.56 
+  KBCSF                     Kbc Groep NV   322.59                           Banking   2025-02-12 77.66     2025-02-13 85.7    10.35 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+
+股票代码             公司名称            市值(亿)                板块                    昨天收盘            今天收盘      涨跌幅(%)
+    AUR            Aurora Innovation Inc   110.84                        Technology    2025-02-12 6.45     2025-02-13 9.42    46.05 
+   BROS                   Dutch Bros Inc    99.78     Hotels, Restaurants & Leisure   2025-02-12 64.71    2025-02-13 83.54    29.10 
+   HIMS           Hims & Hers Health Inc   101.24                       Health Care   2025-02-12 46.34    2025-02-13 59.18    27.71 
+    APP                    Applovin Corp  1276.32                        Technology  2025-02-12 380.32   2025-02-13 471.67    24.02 
+   CROX                        Crocs Inc    51.77  Textiles, Apparel & Luxury Goods   2025-02-12 88.83   2025-02-13 110.05    23.89 
+    MGM        MGM Resorts International   102.33     Hotels, Restaurants & Leisure   2025-02-12 34.37    2025-02-13 40.37    17.46 
+  ADYYF                         Adyen NV   488.34                Financial Services  2025-02-12 1634.5  2025-02-13 1879.38    14.98 
+   HOOD            Robinhood Markets Inc   494.23                Financial Services   2025-02-12 55.91     2025-02-13 63.8    14.11 
+   LCID                  Lucid Group Inc    86.44                       Automobiles    2025-02-12 2.87     2025-02-13 3.26    13.59 
+    TEM                    Tempus AI Inc   116.32    Life Sciences Tools & Services   2025-02-12 73.88    2025-02-13 83.75    13.36 
+   SMMT          Summit Therapeutics Inc   144.32                     Biotechnology   2025-02-12 19.57    2025-02-13 21.82    11.50 
+  KBCSF                     Kbc Groep NV   322.59                           Banking   2025-02-12 77.66     2025-02-13 85.7    10.35 
+   LECO    Lincoln Electric Holdings Inc   109.47                         Machinery   2025-02-12 194.0   2025-02-13 213.81    10.21 
+   ZETA        Zeta Global Holdings Corp    50.60                        Technology   2025-02-12 21.31    2025-02-13 23.39     9.76 
+   NVMI                         Nova Ltd    71.86                    Semiconductors  2025-02-12 245.43    2025-02-13 269.0     9.60 
+    TAP         Molson Coors Beverage Co   110.21                         Beverages   2025-02-12 53.45    2025-02-13 58.54     9.52 
+    CZR        Caesars Entertainment Inc    75.64     Hotels, Restaurants & Leisure    2025-02-12 35.6    2025-02-13 38.87     9.19 
+   SOUN                SoundHound AI Inc    54.97                        Technology   2025-02-12 13.97    2025-02-13 15.25     9.16 
+   ASTS              AST SpaceMobile Inc    80.00                 Telecommunication   2025-02-12 27.61    2025-02-13 30.05     8.84 
+   GEHC   GE Healthcare Technologies Inc   392.45                       Health Care    2025-02-12 85.9    2025-02-13 93.48     8.82 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+
+股票代码              公司名称              市值(亿)               板块                   昨天收盘            今天收盘      涨跌幅(%)
+    AUR               Aurora Innovation Inc   110.84                      Technology    2025-02-12 6.45     2025-02-13 9.42    46.05 
+   HIMS              Hims & Hers Health Inc   101.24                     Health Care   2025-02-12 46.34    2025-02-13 59.18    27.71 
+    APP                       Applovin Corp  1276.32                      Technology  2025-02-12 380.32   2025-02-13 471.67    24.02 
+    MGM           MGM Resorts International   102.33   Hotels, Restaurants & Leisure   2025-02-12 34.37    2025-02-13 40.37    17.46 
+  ADYYF                            Adyen NV   488.34              Financial Services  2025-02-12 1634.5  2025-02-13 1879.38    14.98 
+   HOOD               Robinhood Markets Inc   494.23              Financial Services   2025-02-12 55.91     2025-02-13 63.8    14.11 
+    TEM                       Tempus AI Inc   116.32  Life Sciences Tools & Services   2025-02-12 73.88    2025-02-13 83.75    13.36 
+   SMMT             Summit Therapeutics Inc   144.32                   Biotechnology   2025-02-12 19.57    2025-02-13 21.82    11.50 
+  KBCSF                        Kbc Groep NV   322.59                         Banking   2025-02-12 77.66     2025-02-13 85.7    10.35 
+   LECO       Lincoln Electric Holdings Inc   109.47                       Machinery   2025-02-12 194.0   2025-02-13 213.81    10.21 
+    TAP            Molson Coors Beverage Co   110.21                       Beverages   2025-02-12 53.45    2025-02-13 58.54     9.52 
+   GEHC      GE Healthcare Technologies Inc   392.45                     Health Care    2025-02-12 85.9    2025-02-13 93.48     8.82 
+   CYBR               Cyberark Software Ltd   187.73                      Technology  2025-02-12 380.86   2025-02-13 414.31     8.78 
+   COIN                 Coinbase Global Inc   688.21              Financial Services   2025-02-12 274.9   2025-02-13 298.11     8.44 
+   DUOL                        Duolingo Inc   175.11   Diversified Consumer Services  2025-02-12 398.11   2025-02-13 430.32     8.09 
+   INTC                          Intel Corp   973.38                  Semiconductors   2025-02-12 22.48    2025-02-13 24.13     7.34 
+    TRU                          TransUnion   182.17           Professional Services   2025-02-12 93.47   2025-02-13 100.25     7.25 
+    SCI   Service Corporation International   109.90   Diversified Consumer Services   2025-02-12 75.99    2025-02-13 81.48     7.22 
+    PAG         Penske Automotive Group Inc   109.93                          Retail  2025-02-12 164.64   2025-02-13 175.89     6.83 
+   RIVN               Rivian Automotive Inc   127.38                     Automobiles   2025-02-12 12.48     2025-02-13 13.3     6.57 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+
+股票代码             公司名称             市值(亿)           板块              昨天收盘            今天收盘      涨跌幅(%)
+    APP                     Applovin Corp   1276.32            Technology  2025-02-12 380.32   2025-02-13 471.67    24.02 
+  ADYYF                          Adyen NV    488.34    Financial Services  2025-02-12 1634.5  2025-02-13 1879.38    14.98 
+   HOOD             Robinhood Markets Inc    494.23    Financial Services   2025-02-12 55.91     2025-02-13 63.8    14.11 
+  KBCSF                      Kbc Groep NV    322.59               Banking   2025-02-12 77.66     2025-02-13 85.7    10.35 
+   GEHC    GE Healthcare Technologies Inc    392.45           Health Care    2025-02-12 85.9    2025-02-13 93.48     8.82 
+   COIN               Coinbase Global Inc    688.21    Financial Services   2025-02-12 274.9   2025-02-13 298.11     8.44 
+   INTC                        Intel Corp    973.38        Semiconductors   2025-02-12 22.48    2025-02-13 24.13     7.34 
+   SMCI          Super Micro Computer Inc    232.35            Technology   2025-02-12 39.68    2025-02-13 42.28     6.55 
+  ESLOF               EssilorLuxottica SA   1263.96           Health Care  2025-02-12 290.06    2025-02-13 308.2     6.25 
+    TYL            Tyler Technologies Inc    261.19            Technology  2025-02-12 610.27   2025-02-13 646.74     5.98 
+    FCX              Freeport-McMoRan Inc    545.46       Metals & Mining   2025-02-12 37.96    2025-02-13 40.22     5.95 
+   SHOP                       Shopify Inc   1556.95            Technology  2025-02-12 120.49   2025-02-13 127.65     5.94 
+   CPNG                       Coupang Inc    425.07                Retail   2025-02-12 23.63     2025-02-13 25.0     5.80 
+   TSLA                         Tesla Inc  10823.90           Automobiles  2025-02-12 336.51   2025-02-13 355.94     5.77 
+    RKT              Rocket Companies Inc    243.16    Financial Services   2025-02-12 12.19    2025-02-13 12.86     5.50 
+    CVS                   CVS Health Corp    795.57           Health Care   2025-02-12 63.22    2025-02-13 66.37     4.98 
+   AFRM               Affirm Holdings Inc    240.64    Financial Services   2025-02-12 75.66    2025-02-13 79.28     4.78 
+     ES                 Eversource Energy    218.82             Utilities   2025-02-12 59.72     2025-02-13 62.5     4.66 
+    TEL               TE Connectivity PLC    437.06  Electrical Equipment  2025-02-12 146.49   2025-02-13 153.22     4.59 
+    BAM   BROOKFIELD ASSET MANAGEMENT LTD    902.44    Financial Services   2025-02-12 55.12    2025-02-13 57.57     4.44 
+
+=== 市值超过1000亿的涨幅榜前20名股票 ===
+
+股票代码               公司名称               市值(亿)                 板块                     昨天收盘            今天收盘      涨跌幅(%)
+    APP                         Applovin Corp   1276.32                        Technology   2025-02-12 380.32   2025-02-13 471.67    24.02 
+  ESLOF                   EssilorLuxottica SA   1263.96                       Health Care   2025-02-12 290.06    2025-02-13 308.2     6.25 
+   SHOP                           Shopify Inc   1556.95                        Technology   2025-02-12 120.49   2025-02-13 127.65     5.94 
+   TSLA                             Tesla Inc  10823.90                       Automobiles   2025-02-12 336.51   2025-02-13 355.94     5.77 
+     MU                 Micron Technology Inc   1021.47                    Semiconductors    2025-02-12 91.68    2025-02-13 95.66     4.34 
+   TMUS                       T-Mobile US Inc   2914.65                 Telecommunication   2025-02-12 255.28   2025-02-13 265.08     3.84 
+   NVDA                           NVIDIA Corp  32116.19                    Semiconductors   2025-02-12 131.14   2025-02-13 135.29     3.16 
+  ASMLF                       ASML Holding NV   2805.16                    Semiconductors   2025-02-12 752.49   2025-02-13 776.16     3.15 
+  HESAF              Hermes International SCA   2876.65  Textiles, Apparel & Luxury Goods  2025-02-12 2870.43  2025-02-13 2956.08     2.98 
+  BABAF             Alibaba Group Holding Ltd   2558.17                            Retail    2025-02-12 14.58    2025-02-13 14.96     2.61 
+   GILD                   Gilead Sciences Inc   1287.52                     Biotechnology   2025-02-12 103.31   2025-02-13 105.96     2.57 
+   MELI                      MercadoLibre Inc   1022.43                            Retail  2025-02-12 2016.73  2025-02-13 2066.15     2.45 
+  LVMHF   LVMH Moet Hennessy Louis Vuitton SE   3422.88  Textiles, Apparel & Luxury Goods    2025-02-12 725.4   2025-02-13 743.04     2.43 
+   LRCX                     Lam Research Corp   1047.08                    Semiconductors    2025-02-12 81.57     2025-02-13 83.3     2.12 
+   CSCO                     Cisco Systems Inc   2490.42                    Communications    2025-02-12 62.53    2025-02-13 63.84     2.09 
+    PGR                      Progressive Corp   1504.31                         Insurance   2025-02-12 256.79   2025-02-13 262.13     2.08 
+   VRTX            Vertex Pharmaceuticals Inc   1167.12                     Biotechnology    2025-02-12 453.2   2025-02-13 462.58     2.07 
+    ADI                    Analog Devices Inc   1017.67                    Semiconductors   2025-02-12 205.13   2025-02-13 209.34     2.05 
+   SPGI                        S&P Global Inc   1649.28                Financial Services   2025-02-12 531.51   2025-02-13 542.32     2.03 
+   AAPL                             Apple Inc  35582.78                        Technology   2025-02-12 236.87   2025-02-13 241.53     1.97 
