@@ -1,134 +1,182 @@
 {
-  "NUBC": {
-    "exchange": "OTC MARKETS",
-    "name": "Northumberland Bancorp",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:07"
-  },
-  "MRRDF": {
+  "GLATF": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Meridian Mining UK Societas",
-    "country": "GB",
-    "added_date": "2025-02-14 06:15:07"
+    "name": "Global Atomic Corp",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:26"
   },
-  "NNXPF": {
+  "TTNMF": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "NanoXplore Inc",
+    "name": "Titanium Transportation Group Inc",
     "country": "CA",
-    "added_date": "2025-02-14 06:15:09"
+    "added_date": "2025-02-15 06:14:26"
   },
-  "IKTO": {
-    "exchange": "OTC MARKETS",
-    "name": "Itokk Inc",
-    "country": "CA",
-    "added_date": "2025-02-14 06:15:10"
-  },
-  "ATHOF": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Athabasca Oil Corp",
-    "country": "CA",
-    "added_date": "2025-02-14 06:15:11"
-  },
-  "IMO": {
-    "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Imperial Oil Ltd",
-    "country": "CA",
-    "added_date": "2025-02-14 06:15:12"
-  },
-  "CYVF": {
-    "exchange": "OTC MARKETS",
-    "name": "Crystal Valley Financial Corp",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:12"
-  },
-  "RLAIF": {
+  "CLGCF": {
     "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
-    "name": "Railtown AI Technologies Inc",
+    "name": "Clarity Metals Corp",
     "country": "CA",
-    "added_date": "2025-02-14 06:15:14"
+    "added_date": "2025-02-15 06:14:29"
   },
-  "UNEH": {
+  "NASB": {
     "exchange": "OTC MARKETS",
-    "name": "Universal New Energy Holding Group Inc",
+    "name": "Nasb Financial Inc",
     "country": "US",
-    "added_date": "2025-02-14 06:15:14"
+    "added_date": "2025-02-15 06:14:29"
   },
-  "AONC": {
+  "EHVVF": {
     "exchange": "OTC MARKETS",
-    "name": "American Oncology Network Inc",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:15"
+    "name": "Ehave Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:30"
   },
-  "RBA": {
+  "BASA": {
+    "exchange": "OTC MARKETS",
+    "name": "Basanite Inc",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:31"
+  },
+  "SCZMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Santacruz Silver Mining Ltd",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:33"
+  },
+  "RYES": {
+    "exchange": "OTC MARKETS",
+    "name": "Rise Gold Corp",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:35"
+  },
+  "MGPHF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Mason Resources Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:36"
+  },
+  "EFXT": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "RB Global Inc",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:16"
-  },
-  "SMREF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Sun Summit Minerals Corp",
+    "name": "Enerflex Ltd",
     "country": "CA",
-    "added_date": "2025-02-14 06:15:16"
+    "added_date": "2025-02-15 06:14:37"
   },
-  "JGLDF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Japan Gold Corp",
-    "country": "CA",
-    "added_date": "2025-02-14 06:15:17"
-  },
-  "CNGGF": {
-    "exchange": "ASX - ALL MARKETS",
-    "name": "Cann Group Ltd",
-    "country": "AU",
-    "added_date": "2025-02-14 06:15:18"
-  },
-  "SPHA": {
-    "exchange": "",
-    "name": "N/A",
-    "country": "N/A",
-    "added_date": "2025-02-14 06:15:19"
-  },
-  "PPTA": {
+  "IAUX": {
     "exchange": "TORONTO STOCK EXCHANGE",
-    "name": "Perpetua Resources Corp",
+    "name": "I-80 Gold Corp",
     "country": "US",
-    "added_date": "2025-02-14 06:15:22"
+    "added_date": "2025-02-15 06:14:38"
   },
-  "HSTOQ": {
-    "exchange": "OTC MARKETS",
-    "name": "Histogen Inc",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:23"
-  },
-  "TDSGF": {
-    "exchange": "TSX VENTURE EXCHANGE - NEX",
-    "name": "Telo Genomics Corp",
+  "APAAF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Appia Rare Earths & Uranium Corp",
     "country": "CA",
-    "added_date": "2025-02-14 06:15:23"
+    "added_date": "2025-02-15 06:14:40"
   },
-  "LTUM": {
+  "BLIS": {
     "exchange": "OTC MARKETS",
-    "name": "Lithium Corp",
+    "name": "NAPC Defense Inc",
     "country": "US",
-    "added_date": "2025-02-14 06:15:25"
+    "added_date": "2025-02-15 06:14:42"
   },
-  "FFDF": {
+  "GRLF": {
     "exchange": "OTC MARKETS",
-    "name": "FFD Financial Corp",
+    "name": "Green Leaf Innovations Inc",
     "country": "US",
-    "added_date": "2025-02-14 06:15:26"
+    "added_date": "2025-02-15 06:14:43"
   },
-  "CHUC": {
-    "exchange": "OTC MARKETS",
-    "name": "Charlie's Holdings Inc",
-    "country": "US",
-    "added_date": "2025-02-14 06:15:28"
+  "IFCZF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Intact Financial Corp",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:45"
   },
-  "AMBZ": {
+  "PCLI": {
     "exchange": "OTC MARKETS",
-    "name": "American Business Bank",
+    "name": "Protocall Technologies Inc",
     "country": "US",
-    "added_date": "2025-02-14 06:15:29"
+    "added_date": "2025-02-15 06:14:46"
+  },
+  "ABCP": {
+    "exchange": "OTC MARKETS",
+    "name": "AmBase Corp",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:47"
+  },
+  "DMGGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "DMG Blockchain Solutions Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:48"
+  },
+  "TGEN": {
+    "exchange": "OTC MARKETS",
+    "name": "Tecogen Inc",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:49"
+  },
+  "ELFIF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "E-L Financial Corp Ltd",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:50"
+  },
+  "LTRPA": {
+    "exchange": "OTC MARKETS",
+    "name": "Liberty TripAdvisor Holdings Inc",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:51"
+  },
+  "BNT": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Brookfield Wealth Solutions Ltd",
+    "country": "BM",
+    "added_date": "2025-02-15 06:14:52"
+  },
+  "TCEFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Terra Clean Energy Corp",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:53"
+  },
+  "MCCRF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "McCoy Global Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:54"
+  },
+  "LNMG": {
+    "exchange": "OTC MARKETS",
+    "name": "Linike Medical Group Ltd",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:56"
+  },
+  "PROBF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Probe Gold Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:57"
+  },
+  "VMHG": {
+    "exchange": "OTC MARKETS",
+    "name": "Victory Marine Holdings Corp",
+    "country": "US",
+    "added_date": "2025-02-15 06:14:58"
+  },
+  "AVCNF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Avicanna Inc",
+    "country": "CA",
+    "added_date": "2025-02-15 06:14:58"
+  },
+  "SITS": {
+    "exchange": "OTC MARKETS",
+    "name": "Corp HQ Inc",
+    "country": "US",
+    "added_date": "2025-02-15 06:15:01"
+  },
+  "SSII": {
+    "exchange": "OTC MARKETS",
+    "name": "SS Innovations International Inc",
+    "country": "US",
+    "added_date": "2025-02-15 06:15:02"
   }
 }
