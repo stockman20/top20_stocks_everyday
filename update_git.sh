@@ -16,7 +16,7 @@ git add .
 git commit -m "Commit at $CURRENT_TIME"
 
 # 拉取并变基
-git pull -r
+git pull origin master -r
 
 # 推送到master分支
 git push origin master
