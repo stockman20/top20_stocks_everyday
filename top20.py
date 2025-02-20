@@ -284,8 +284,8 @@ def process_stock(stock):
             logging.info(f"股票 {symbol} 数据不足")
             return None
 
-        current_price = hist['Close'][-1]
-        previous_close = hist['Close'][-2]
+        current_price = hist['Close'].iloc[-1]
+        previous_close = hist['Close'].iloc[-2]
 
         yesterday_date = hist.index[-2].strftime('%Y-%m-%d')
         today_date = hist.index[-1].strftime('%Y-%m-%d')
