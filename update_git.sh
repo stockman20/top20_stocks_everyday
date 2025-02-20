@@ -1,28 +1,21 @@
 #!/bin/bash
 
-# 指定仓库目录
-REPO_DIR="/root/top20_stocks_everyday"
+# 进入 GitHub Actions 运行的代码仓库目录
+cd "$GITHUB_WORKSPACE" || { echo "Error: 目录不存在"; exit 1; }
 
-# 切换到指定目录
-cd "$REPO_DIR"
-
-# 保存当前工作目录的更改
-git stash
+# 设置 Git 用户（从 GitHub Secrets 读取）
+git config --global user.name "$GIT_USERNAME"
+git config --global user.email "$GIT_EMAIL"
 
 # 拉取最新代码
-git pull origin master
+git stash
+git pull origin master --rebase
+git stash pop || echo "No changes to pop"
 
-# 恢复之前的更改
-git stash pop
-
-# 获取当前时间
-CURRENT_TIME=$(date "+%Y-%m-%d %H:%M:%S")
-
-# 添加所有修改
+# 提交 & 推送
 git add .
+CURRENT_TIME=$(date "+%Y-%m-%d %H:%M:%S")
+git commit -m "Auto update at $CURRENT_TIME" || echo "No changes to commit"
 
-# 使用当前时间作为提交信息
-git commit -m "Commit at $CURRENT_TIME"
-
-# 推送到master分支
-git push origin master
+# GitHub Actions 推送（使用 GITHUB_TOKEN 认证）
+git push https://x-access-token:$GITHUB_TOKEN@github.com/stockman20/top20_stocks_everyday.git HEAD:test_git_flow
