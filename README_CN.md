@@ -1,5 +1,6 @@
-[Project Repository - GitHub](https://github.com/stockman20/top20_stocks_everyday)
 
+
+---
 - [项目介绍 (项目概述)](#项目介绍-项目概述)
 - [功能特点](#功能特点)
 - [安装与运行](#安装与运行)
@@ -8,74 +9,71 @@
 - [贡献](#贡献)
 - [许可证](#许可证)
 
-## 项目介绍 (Project Overview)
+---
+# 项目介绍 (项目概述)
 
 本项目旨在每日获取并分析美股市场表现最佳的 20 只股票，并将结果存储到日志文件中，同时自动更新 Git 仓库，并向 Telegram 发送通知。
 
-This project aims to retrieve and analyze the top 20 performing stocks in the US market daily, storing the results in log files, updating the Git repository, and sending a notification to Telegram.
+---
+
+## 功能特点
+
+- **股票筛选**: 通过 `Finnhub` API 获取股票数据，并应用筛选规则。
+- **数据获取**: 使用 `yfinance` 获取股票的历史价格。
+- **多线程处理**: 提高数据处理速度。
+- **速率限制**: 确保对 `Finnhub` 和 `yfinance` 的请求不会超出 API 限制。
+- **日志记录**: 详细记录执行过程和结果。
+- **GitHub Actions 自动化**: 每天自动运行脚本，并提交最新结果到 GitHub。
+- **Telegram 通知**: 运行结束后自动发送最新 `top20_result.log` 文件的 URL 到 Telegram。
 
 ---
 
-## 功能特点 (Features)
+## 安装与运行
 
-- **股票筛选 (Stock Filtering)**: 通过 `Finnhub` API 获取股票数据，并应用筛选规则。
-- **数据获取 (Data Retrieval)**: 使用 `yfinance` 获取股票的历史价格。
-- **多线程处理 (Multithreading Processing)**: 提高数据处理速度。
-- **速率限制 (Rate Limiting)**: 确保对 `Finnhub` 和 `yfinance` 的请求不会超出 API 限制。
-- **日志记录 (Logging)**: 详细记录执行过程和结果。
-- **GitHub Actions 自动化 (GitHub Actions Automation)**: 每天自动运行脚本，并提交最新结果到 GitHub。
-- **Telegram 通知 (Telegram Notification)**: 运行结束后自动发送最新 `top20_result.log` 文件的 URL 到 Telegram。
-
----
-
-## 安装与运行 (Installation & Execution)
-
-### 1. 克隆项目 (Clone the repository)
+### 1. 克隆项目
 ```sh
 $ git clone https://github.com/stockman20/top20_stocks_everyday.git
 $ cd top20_stocks_everyday
 ```
 
-### 2. 安装依赖 (Install dependencies)
+### 2. 安装依赖
 ```sh
 $ pip install -r requirements.txt
 ```
 
-### 3. 配置 API Keys (Configure API Keys)
+### 3. 配置 API Keys
 请确保在运行前设置 `Finnhub` API Key，并以 JSON 格式存储在环境变量 `API_KEYS_JSON` 中。例如：
-
-Ensure you set up your `Finnhub` API Key in the environment variable `API_KEYS_JSON` in JSON format:
 ```sh
 export API_KEYS_JSON='["your_api_key1", "your_api_key2"]'
 ```
 
-### 4. 运行程序 (Run the script)
+### 4. 运行程序
 ```sh
 $ python top20.py
 ```
 
 ---
 
-## GitHub Actions 自动化 (GitHub Actions Automation)
+## GitHub Actions 自动化
 
 本项目使用 GitHub Actions 自动执行以下任务：
 - 每天美股交易结束后 (UTC 23:00) 运行 `top20.py`。
 - 运行完成后，执行 `update_git.sh`，将最新结果推送到 GitHub。
 - 更新完成后，自动发送 `top20_result.log` 的 GitHub URL 到 Telegram。
 
-### 配置 GitHub Secrets (Configure GitHub Secrets)
+### 配置 GitHub Secrets
 请在 GitHub 仓库的 `Settings -> Secrets and variables -> Actions` 页面添加以下 Secrets：
 - `SECRET_API_KEYS` (存储 `Finnhub` API Keys，JSON 格式)
 - `GITHUB_TOKEN` (用于 GitHub 提交权限)
 - `TELEGRAM_TOKEN` (Telegram Bot Token)
 - `TELEGRAM_CHAT_IDS` (Telegram 接收通知的 Chat ID，多个 ID 用 `,` 分隔)
 
-### 手动触发 (Manual Trigger)
+### 手动触发
 可以通过 GitHub Actions 的 `workflow_dispatch` 选项手动运行该工作流。
 
 ---
 
-## 结果存储 (Result Storage)
+## 结果存储
 
 每次运行后，以下文件将被更新并存储：
 - `logs/YYYYMMDD_HHMMSS/top20_result.log` (当日 Top 20 股票结果)
@@ -88,15 +86,12 @@ $ python top20.py
 
 ---
 
-## 贡献 (Contributing)
-欢迎提交 Issue 或 Pull Request 以改进本项目。
+## 贡献
 
-Feel free to submit an issue or pull request to improve this project!
+欢迎提交 Issue 或 Pull Request 以改进本项目。
 
 ---
 
-## 许可证 (License)
+## 许可证
+
 本项目采用 MIT 许可证。
-
-This project is licensed under the MIT License.
-
