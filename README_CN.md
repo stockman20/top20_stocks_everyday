@@ -1,6 +1,12 @@
-# Top 20 Stocks Everyday
-
 [Project Repository - GitHub](https://github.com/stockman20/top20_stocks_everyday)
+
+- [项目介绍 (项目概述)](#项目介绍-项目概述)
+- [功能特点](#功能特点)
+- [安装与运行](#安装与运行)
+- [GitHub Actions 自动化](#github-actions-自动化)
+- [结果存储](#结果存储-1)
+- [贡献](#贡献)
+- [许可证](#许可证)
 
 ## 项目介绍 (Project Overview)
 
