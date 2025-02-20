@@ -1,8 +1,10 @@
 name: Notify Telegram of Latest Commit
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  workflow_run:
+    workflows: ["Run Stock Analysis and Update Git"]  # 依赖的 workflow 名称
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -11,9 +13,10 @@ permissions:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}  # 仅当前一个 workflow 成功时运行
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -48,27 +51,18 @@ jobs:
         if: steps.time_check.outputs.should_run == 'true'
         id: get_file
         run: |
-          # 获取最新 commit 中被修改或新增的文件列表
           changed_files=$(git diff-tree --no-commit-id --name-only -r ${{ steps.get_commit.outputs.commit_hash }})
-          
-          # 筛选出包含 top20_result.log 的文件路径
           target_file=$(echo "$changed_files" | grep "logs/.*/top20_result.log" | head -n 1)
           
           if [ -n "$target_file" ]; then
-            # 如果找到目标文件，读取文件内容
             content=$(head -c 1000 "$target_file")
-            
-            # 构建文件的 GitHub URL
             repo_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}"
             file_url="${repo_url}/blob/${GITHUB_SHA}/${target_file}"
-            
-            # 保存内容和 URL 到输出变量
             echo "content<<EOF" >> $GITHUB_OUTPUT
             echo "$content" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
             echo "file_url=$file_url" >> $GITHUB_OUTPUT
           else
-            # 如果未找到目标文件
             echo "Warning: top20_result.log not found in the latest commit"
             echo "content=File not found in the latest commit" >> $GITHUB_OUTPUT
             echo "file_url=Not available" >> $GITHUB_OUTPUT
@@ -87,20 +81,18 @@ jobs:
           Content:
           ${{ steps.get_file.outputs.content }}"
           
-          IFS=',' read -r -a ids <<< "$TELEGRAM_CHAT_IDS"  # 将字符串分割成数组
+          IFS=',' read -r -a ids <<< "$TELEGRAM_CHAT_IDS"
           for id in "${ids[@]}"; do
               echo "Debug: Sending message to chat ID: $id"
-              
-              # 将 curl 命令拆分成多行，以提高可读性，并确保 -w 选项的正确使用
               response=$(curl -s -X POST \
                 "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
                 -d "chat_id=$id" \
                 -d "text=$message" \
                 -d "parse_mode=HTML" \
-                -w '\n%{http_code}') # 将 -w 和参数放在一起
+                -w '\n%{http_code}')
 
               http_code=$(echo "$response" | tail -n1)
-              content=$(echo "$response" | head -n-1) # 获取除了最后一行的所有内容
+              content=$(echo "$response" | head -n-1)
             
               echo "Debug: HTTP Status Code: $http_code"
               echo "Debug: Response: $content"
