@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 23 * * 1-5"
+    - cron: "10 21 * * *"  # 每天北京时间 5:10 AM 运行
   workflow_dispatch:
 
 jobs:
