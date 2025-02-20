@@ -1,0 +1,42 @@
+name: Run Stock Analysis and Update Git
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 23 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 赋予 GITHUB_TOKEN 写入权限
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python Script
+        env:
+          API_KEYS_JSON: ${{ secrets.SECRET_API_KEYS }}  # 传递 JSON 数组
+        run: python top20.py
+
+      - name: Make Shell Script Executable
+        run: chmod +x update_git.sh
+
+      - name: Run Shell Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        run: ./update_git.sh
