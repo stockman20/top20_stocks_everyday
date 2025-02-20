@@ -12,7 +12,6 @@ import threading
 from threading import Thread
 from datetime import date, datetime, timedelta
 import logging
-import pickle
 import subprocess
 import pytz
 import sys
@@ -147,16 +146,107 @@ def get_finnhub_client():
 def load_or_fetch_symbols():
     logging.info("开始获取和过滤股票列表...")
 
-    # 使用固定的测试股票列表
-    test_symbols = [
-        {'symbol': 'AAPL', 'type': 'Common Stock'},
-        {'symbol': 'GOOG', 'type': 'Common Stock'},
-        {'symbol': 'TSLA', 'type': 'Common Stock'},
-        {'symbol': 'META', 'type': 'Common Stock'}
-    ]
-    
-    logging.info(f"使用测试股票列表，共 {len(test_symbols)} 个股票")
-    return test_symbols
+    def load_filter_files():
+        """加载所有过滤文件"""
+        filters = {
+            'non_us_stocks': {},
+            'excluded_stocks': set(),
+            'valid_stocks': set()
+        }
+
+        # 加载非美股列表
+        try:
+            with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
+                filters['non_us_stocks'] = json.load(f)
+                logging.info(f"已加载 {len(filters['non_us_stocks'])} 个非美股记录")
+        except (FileNotFoundError, json.JSONDecodeError):
+            logging.info("未找到非美股记录文件或文件格式错误")
+
+        # 加载需要排除的股票列表（如果有）
+        try:
+            with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
+                filters['excluded_stocks'] = set(json.load(f))
+                logging.info(f"已加载 {len(filters['excluded_stocks'])} 个需排除的股票")
+        except (FileNotFoundError, json.JSONDecodeError):
+            logging.info("未找到需排除的股票列表文件")
+
+        # 加载已验证的有效股票列表（如果有）
+        try:
+            with open('valid_stocks.json', 'r', encoding='utf-8') as f:
+                filters['valid_stocks'] = set(json.load(f))
+                logging.info(f"已加载 {len(filters['valid_stocks'])} 个已验证的有效股票")
+        except (FileNotFoundError, json.JSONDecodeError):
+            logging.info("未找到已验证的有效股票列表文件")
+
+        return filters
+
+    def should_include_symbol(symbol_data, filters):
+        """判断是否应该包含某个股票"""
+        symbol = symbol_data.get('symbol', '')
+
+        # 基本格式检查
+        if not symbol.isalpha() or len(symbol) > 5:
+            return False, "非标准股票代码"
+
+        # 检查是否为权证
+        if any(x in symbol for x in ['.WS', 'WS', 'W', '-W', '.W']):
+            return False, "权证"
+
+        # 检查是否在非美股列表中
+        if symbol in filters['non_us_stocks']:
+            return False, "非美股"
+
+        # 检查是否在排除列表中
+        if symbol in filters['excluded_stocks']:
+            return False, "在排除列表中"
+
+        # 检查股票类型
+        if symbol_data.get('type') != 'Common Stock':
+            return False, "非普通股"
+
+        # 如果有已验证的有效股票列表，且不为空，则只包含这些股票
+        if filters['valid_stocks'] and symbol not in filters['valid_stocks']:
+            return False, "不在已验证的有效股票列表中"
+
+        return True, "通过"
+
+    try:
+        # 加载过滤条件
+        filters = load_filter_files()
+
+        # 获取所有股票
+        symbols = get_finnhub_client().stock_symbols('US')
+        total_symbols = len(symbols)
+        logging.info(f"从 Finnhub 获取到总计 {total_symbols} 个股票")
+
+        # 过滤股票
+        filtered_symbols = []
+        rejection_reasons = {}
+
+        for symbol_data in symbols:
+            should_include, reason = should_include_symbol(symbol_data, filters)
+            if should_include:
+                filtered_symbols.append(symbol_data)
+            else:
+                symbol = symbol_data.get('symbol', '')
+                if reason not in rejection_reasons:
+                    rejection_reasons[reason] = []
+                rejection_reasons[reason].append(symbol)
+
+        # 记录过滤结果
+        logging.info("\n=== 股票过滤结果 ===")
+        logging.info(f"原始股票数量: {total_symbols}")
+        logging.info(f"过滤后数量: {len(filtered_symbols)}")
+        logging.info("\n被排除的股票统计:")
+        for reason, symbols in rejection_reasons.items():
+            logging.info(f"- {reason}: {len(symbols)} 只")
+            logging.debug(f"  示例: {', '.join(symbols[:5])}...")
+
+        return filtered_symbols
+
+    except Exception as e:
+        logging.error(f"获取和过滤股票时出错: {e}")
+        return []
 
 
 def get_stock_details(symbol):
