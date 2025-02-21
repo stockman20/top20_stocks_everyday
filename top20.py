@@ -34,18 +34,16 @@ class ThreadSafeList:
         with self._lock:
             return self._list.copy()
 
-
 class RateLimiter:
     def __init__(self, max_calls, period):
-        self.max_calls = max_calls    # 最大调用次数
-        self.period = period          # 周期（秒）
-        self.calls = []               # 保存调用时间戳
+        self.max_calls = max_calls
+        self.period = period
+        self.calls = []
         self.lock = Lock()
         
     def acquire(self):
         with self.lock:
             now_time = time.time()
-            # 移除周期外的调用记录
             while self.calls and self.calls[0] <= now_time - self.period:
                 self.calls.pop(0)
             if len(self.calls) >= self.max_calls:
@@ -54,27 +52,36 @@ class RateLimiter:
                 time.sleep(sleep_time)
             self.calls.append(time.time())
 
-# 针对 yfinance 的速率限制：每分钟最多 60 次请求
 yfinance_rate_limiter = RateLimiter(60, 60)
 
 # =============================================================================
-# 1. 初始化日志和环境
+# 1. 初始化日志（初始仅输出到屏幕）
 # =============================================================================
 
-now = datetime.now()
-log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
-os.makedirs(log_dir, exist_ok=True)
-log_filename = os.path.join(log_dir, 'execution.log')
+# 初始只配置屏幕输出
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s: %(message)s',
-    handlers=[
-        logging.FileHandler(log_filename),
-        logging.StreamHandler(sys.stdout)
-    ]
+    handlers=[logging.StreamHandler(sys.stdout)]
 )
-logging.info(f'日志目录: {log_dir}')
-logging.info(f'日志文件: {log_filename}')
+
+# 日志缓冲区，用于在需要时保存到文件
+log_buffer = []
+buffer_handler = logging.StreamHandler()
+buffer_handler.setLevel(logging.INFO)
+buffer_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
+logging.getLogger().addHandler(buffer_handler)
+
+class BufferHandler(logging.Handler):
+    def __init__(self):
+        super().__init__()
+        self.buffer = []
+    def emit(self, record):
+        self.buffer.append(self.format(record))
+
+buffer_handler = BufferHandler()
+buffer_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
+logging.getLogger().addHandler(buffer_handler)
 
 # =============================================================================
 # 2. API Key 及轮换逻辑（用于 Finnhub）
@@ -115,13 +122,10 @@ def is_market_open():
     return today not in us_holidays
 
 # =============================================================================
-# 4. 股票数据获取与处理（包含缓存/过滤逻辑及限流重试）
+# 4. 股票数据获取与处理
 # =============================================================================
 
-# 定义全局变量保存过滤文件内容，以便在程序结束后更新缓存
 global_filters = {}
-
-# 定义线程安全的 invalid_stocks 列表
 invalid_stocks = ThreadSafeList()
 
 def load_or_fetch_symbols():
@@ -172,7 +176,7 @@ def load_or_fetch_symbols():
     try:
         filters = load_filter_files()
         global global_filters
-        global_filters = filters  # 保存到全局变量，便于后续更新
+        global_filters = filters
         symbols = get_finnhub_client().stock_symbols('US')
         total = len(symbols)
         logging.info(f"从 Finnhub 获取到 {total} 个股票")
@@ -216,7 +220,7 @@ def get_stock_details(symbol):
             )
             
             if not is_valid_exchange:
-                with global_filters_lock:  # 加锁保护
+                with global_filters_lock:
                     global global_filters
                     global_filters.setdefault('non_us_stocks', {})[symbol] = {
                         'exchange': exchange,
@@ -251,7 +255,6 @@ def process_stock(stock):
     time.sleep(random.uniform(0.1, 0.3))
     try:
         ticker = yf.Ticker(symbol)
-        # yfinance 部分：获取历史数据
         yf_retries = 5
         hist = None
         while yf_retries > 0:
@@ -280,21 +283,20 @@ def process_stock(stock):
                     return None
         if hist is None or len(hist) < 2:
             logging.info(f"{symbol} 历史数据不足")
-            invalid_stocks.append(symbol)  # 记录无效股票
+            invalid_stocks.append(symbol)
             return None
         current_price = hist['Close'].iloc[-1]
         previous_close = hist['Close'].iloc[-2]
         if current_price <= 0 or previous_close <= 0:
             logging.info(f"{symbol} 价格数据无效")
-            invalid_stocks.append(symbol)  # 记录无效股票
+            invalid_stocks.append(symbol)
             return None
         price_change = ((current_price - previous_close) / previous_close) * 100
 
-        # Finnhub 部分：获取详细信息
         details = get_stock_details(symbol)
         if not details or details['market_cap'] <= 0:
             logging.info(f"{symbol} 无法获取有效详细信息")
-            invalid_stocks.append(symbol)  # 记录无效股票
+            invalid_stocks.append(symbol)
             return None
 
         return {
@@ -308,7 +310,7 @@ def process_stock(stock):
         }
     except Exception as e:
         logging.info(f"处理 {symbol} 时出错: {e}")
-        invalid_stocks.append(symbol)  # 记录无效股票
+        invalid_stocks.append(symbol)
         return None
 
 def get_gainers_multithreaded(symbols, max_workers=None):
@@ -337,27 +339,38 @@ def get_gainers_multithreaded(symbols, max_workers=None):
     data = results.get_list()
     if not data:
         logging.info("没有获取到有效股票数据！")
-        return pd.DataFrame(), invalid_stocks.get_list()  # 返回无效股票列表
+        return pd.DataFrame(), invalid_stocks.get_list()
     df = pd.DataFrame(data)
     if '涨跌幅(%)' not in df.columns:
         logging.info("数据中缺少涨跌幅信息！")
-        return df, invalid_stocks.get_list()  # 返回无效股票列表
-    return df.sort_values(by='涨跌幅(%)', ascending=False), invalid_stocks.get_list()  # 返回无效股票列表
+        return df, invalid_stocks.get_list()
+    return df.sort_values(by='涨跌幅(%)', ascending=False), invalid_stocks.get_list()
 
 # =============================================================================
-# 5. 结果展示与数据保存（包含各 top20 分组和聚合结果）
+# 5. 结果展示与数据保存（延迟创建目录）
 # =============================================================================
 
-def setup_logging_again():
+def setup_logging_with_file():
+    now = datetime.now()
+    log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
     os.makedirs(log_dir, exist_ok=True)
+    log_filename = os.path.join(log_dir, 'execution.log')
+    file_handler = logging.FileHandler(log_filename)
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
+    logging.getLogger().addHandler(file_handler)
+    # 将缓冲区的日志写入文件
+    for record in buffer_handler.buffer:
+        file_handler.emit(logging.makeLogRecord({'msg': record}))
+    logging.info(f'日志目录: {log_dir}')
+    logging.info(f'日志文件: {log_filename}')
     return log_dir, log_filename
 
 def display_results(df):
     if df.empty:
         logging.info("没有数据可供显示!")
-        return
-    current_dir, _ = setup_logging_again()
-    aggregated_results = ""  # 用于聚合所有 top20 分组结果
+        return False  # 表示没有生成 top20_result.log
+    aggregated_results = ""
 
     def log_dataframe(title, dataframe):
         nonlocal aggregated_results
@@ -389,16 +402,19 @@ def display_results(df):
     billion_1000 = df[df['市值(亿)'] > 1000].head(20)
     log_dataframe("=== 市值超过1000亿的涨跌榜前20名股票 ===", billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']])
     
-    # 保存聚合结果到一个文件
-    aggregated_file = os.path.join(current_dir, 'top20_result.log')
-    with open(aggregated_file, 'w', encoding='utf-8') as f:
-        f.write(aggregated_results)
-    logging.info(f"聚合结果已保存到: {aggregated_file}")
+    # 只有在有数据时才创建目录并保存文件
+    if aggregated_results.strip():
+        current_dir, _ = setup_logging_with_file()
+        aggregated_file = os.path.join(current_dir, 'top20_result.log')
+        with open(aggregated_file, 'w', encoding='utf-8') as f:
+            f.write(aggregated_results)
+        logging.info(f"聚合结果已保存到: {aggregated_file}")
+        return True  # 表示成功生成 top20_result.log
+    return False
 
-def process_final_stock_data(df):
-    current_dir, _ = setup_logging_again()
-    output_file = os.path.join(current_dir, 'stocks_data.json')
-    sector_file = os.path.join(current_dir, 'sector_analysis.json')
+def process_final_stock_data(df, log_dir):
+    output_file = os.path.join(log_dir, 'stocks_data.json')
+    sector_file = os.path.join(log_dir, 'sector_analysis.json')
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(df.to_dict('records'), f, ensure_ascii=False, indent=2)
     logging.info(f"股票数据已保存到 {output_file}")
@@ -436,13 +452,12 @@ def run_git_update():
         logging.error(f"执行git更新时发生未知错误: {e}")
 
 # =============================================================================
-# 7. 更新缓存文件：non_us_stocks.json, excluded_stocks.json, valid_stocks.json
+# 7. 更新缓存文件
 # =============================================================================
 
 def update_filter_files():
     global global_filters
     if global_filters:
-        # 更新 non_us_stocks.json，合并现有数据
         try:
             with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
                 existing_non_us = json.load(f)
@@ -452,7 +467,6 @@ def update_filter_files():
         with open('non_us_stocks.json', 'w', encoding='utf-8') as f:
             json.dump(existing_non_us, f, ensure_ascii=False, indent=2)
         
-        # 更新 excluded_stocks.json，合并现有数据
         try:
             with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
                 existing_excluded = set(json.load(f))
@@ -462,7 +476,6 @@ def update_filter_files():
         with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
             json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
         
-        # 更新 valid_stocks.json，合并现有数据
         try:
             with open('valid_stocks.json', 'r', encoding='utf-8') as f:
                 existing_valid = set(json.load(f))
@@ -487,15 +500,18 @@ if __name__ == "__main__":
         if not symbols:
             logging.warning("没有获取到任何股票代码！")
             sys.exit("无有效股票")
-        gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)  # 接收无效股票列表
+        gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)
         if not gainers_df.empty:
-            run_git_update()
-            display_results(gainers_df)
-            process_final_stock_data(gainers_df)
+            generated_top20 = display_results(gainers_df)
+            if generated_top20:
+                run_git_update()
+                log_dir, _ = setup_logging_with_file()  # 确保目录已创建
+                process_final_stock_data(gainers_df, log_dir)
+            else:
+                logging.warning("没有生成 top20_result.log 文件")
         else:
             logging.warning("没有获取到有效的股票数据")
         
-        # 更新 excluded_stocks.json
         if invalid_stock_list:
             try:
                 with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
@@ -507,7 +523,6 @@ if __name__ == "__main__":
                 json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
             logging.info(f"已将 {len(invalid_stock_list)} 个无效股票添加到 excluded_stocks.json")
         
-        # 更新其他缓存文件
         update_filter_files()
     except Exception as e:
         logging.error(f"程序执行过程中发生致命错误: {e}")
