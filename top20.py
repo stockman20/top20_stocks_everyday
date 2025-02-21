@@ -11,8 +11,14 @@ import logging
 import subprocess
 import pytz
 import sys
+import holidays
 from datetime import datetime
 from threading import Lock
+
+# 美国全年假期
+us_holidays = holidays.US(years=datetime.now().year)
+# 全局锁，用于保护 global_filters 的修改
+global_filters_lock = Lock()
 
 # =============================================================================
 # 0. 全局速率限制器（针对 yfinance 请求）
@@ -106,9 +112,7 @@ def is_market_open():
     today = datetime.now(eastern_tz).date()
     if today.weekday() >= 5:
         return False
-    us_holidays = [f"{today.year}-01-01", f"{today.year}-07-04", f"{today.year}-12-25"]
-    holiday_dates = [datetime.strptime(h, "%Y-%m-%d").date() for h in us_holidays]
-    return today not in holiday_dates
+    return today not in us_holidays
 
 # =============================================================================
 # 4. 股票数据获取与处理（包含缓存/过滤逻辑及限流重试）
@@ -191,6 +195,12 @@ def load_or_fetch_symbols():
 
 def get_stock_details(symbol):
     retries = 5
+    valid_exchanges = [
+        'NASDAQ NMS', 'NASDAQ GM', 'NASDAQ GS', 'NASDAQ GLOBAL', 'NASDAQ GLOBAL SELECT',
+        'NASDAQ CAPITAL MARKET', 'NEW YORK STOCK EXCHANGE', 'NYSE', 'NYSE ARCA',
+        'NYSE AMERICAN', 'NYSE NATIONAL'
+    ]
+    
     while retries > 0:
         try:
             client = get_finnhub_client()
@@ -198,12 +208,31 @@ def get_stock_details(symbol):
             company_info = client.company_profile2(symbol=symbol)
             if not company_info:
                 return None
+            
+            exchange = company_info.get('exchange', '').upper()
+            is_valid_exchange = any(
+                valid_ex in exchange.replace('-', ' ').replace(',', ' ')
+                for valid_ex in valid_exchanges
+            )
+            
+            if not is_valid_exchange:
+                with global_filters_lock:  # 加锁保护
+                    global global_filters
+                    global_filters.setdefault('non_us_stocks', {})[symbol] = {
+                        'exchange': exchange,
+                        'name': company_info.get('name', 'N/A'),
+                        'country': company_info.get('country', 'N/A'),
+                        'added_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    }
+                logging.info(f"跳过非美国主要交易所上市的股票 {symbol} (交易所: {exchange})")
+                return None
+            
             return {
                 'name': company_info.get('name', 'N/A'),
                 'market_cap': (company_info.get('marketCapitalization', 0) / 100)
                               if company_info.get('marketCapitalization') else 0,
                 'sector': company_info.get('finnhubIndustry', 'N/A'),
-                'exchange': company_info.get('exchange', 'N/A')
+                'exchange': exchange
             }
         except Exception as e:
             msg = str(e)
@@ -237,9 +266,17 @@ def process_stock(stock):
                     logging.warning(f"[yfinance] 限流 {symbol}：{e}。等待 10 秒后重试...（剩余 {yf_retries} 次）")
                     time.sleep(10)
                     yf_retries -= 1
+                elif "No data found" in msg:
+                    logging.info(f"{symbol} 无数据，可能是退市股票")
+                    invalid_stocks.append(symbol)
+                    return None
+                elif "timeout" in msg.lower():
+                    logging.warning(f"{symbol} 请求超时")
+                    invalid_stocks.append(symbol)
+                    return None
                 else:
                     logging.error(f"[yfinance] 获取 {symbol} 历史数据失败: {e}")
-                    invalid_stocks.append(symbol)  # 记录无效股票
+                    invalid_stocks.append(symbol)
                     return None
         if hist is None or len(hist) < 2:
             logging.info(f"{symbol} 历史数据不足")
@@ -405,15 +442,36 @@ def run_git_update():
 def update_filter_files():
     global global_filters
     if global_filters:
-        # 写入 non_us_stocks.json
+        # 更新 non_us_stocks.json，合并现有数据
+        try:
+            with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
+                existing_non_us = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_non_us = {}
+        existing_non_us.update(global_filters.get('non_us_stocks', {}))
         with open('non_us_stocks.json', 'w', encoding='utf-8') as f:
-            json.dump(global_filters.get('non_us_stocks', {}), f, ensure_ascii=False, indent=2)
-        # 写入 excluded_stocks.json（将 set 转换为 list）
+            json.dump(existing_non_us, f, ensure_ascii=False, indent=2)
+        
+        # 更新 excluded_stocks.json，合并现有数据
+        try:
+            with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
+                existing_excluded = set(json.load(f))
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_excluded = set()
+        updated_excluded = existing_excluded.union(global_filters.get('excluded_stocks', set()))
         with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
-            json.dump(list(global_filters.get('excluded_stocks', set())), f, ensure_ascii=False, indent=2)
-        # 写入 valid_stocks.json（将 set 转换为 list）
+            json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
+        
+        # 更新 valid_stocks.json，合并现有数据
+        try:
+            with open('valid_stocks.json', 'r', encoding='utf-8') as f:
+                existing_valid = set(json.load(f))
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_valid = set()
+        updated_valid = existing_valid.union(global_filters.get('valid_stocks', set()))
         with open('valid_stocks.json', 'w', encoding='utf-8') as f:
-            json.dump(list(global_filters.get('valid_stocks', set())), f, ensure_ascii=False, indent=2)
+            json.dump(list(updated_valid), f, ensure_ascii=False, indent=2)
+        
         logging.info("过滤文件已更新")
 
 # =============================================================================
