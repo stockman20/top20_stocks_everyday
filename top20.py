@@ -5,7 +5,6 @@ import concurrent.futures
 import time
 import json
 import os
-import fcntl
 import random
 import threading
 import logging
@@ -18,6 +17,17 @@ from threading import Lock
 # =============================================================================
 # 0. 全局速率限制器（针对 yfinance 请求）
 # =============================================================================
+class ThreadSafeList:
+    def __init__(self):
+        self._list = []
+        self._lock = threading.Lock()
+    def append(self, item):
+        with self._lock:
+            self._list.append(item)
+    def get_list(self):
+        with self._lock:
+            return self._list.copy()
+
 
 class RateLimiter:
     def __init__(self, max_calls, period):
@@ -106,6 +116,9 @@ def is_market_open():
 
 # 定义全局变量保存过滤文件内容，以便在程序结束后更新缓存
 global_filters = {}
+
+# 定义线程安全的 invalid_stocks 列表
+invalid_stocks = ThreadSafeList()
 
 def load_or_fetch_symbols():
     logging.info("开始获取和过滤股票列表...")
@@ -226,14 +239,17 @@ def process_stock(stock):
                     yf_retries -= 1
                 else:
                     logging.error(f"[yfinance] 获取 {symbol} 历史数据失败: {e}")
+                    invalid_stocks.append(symbol)  # 记录无效股票
                     return None
         if hist is None or len(hist) < 2:
             logging.info(f"{symbol} 历史数据不足")
+            invalid_stocks.append(symbol)  # 记录无效股票
             return None
         current_price = hist['Close'].iloc[-1]
         previous_close = hist['Close'].iloc[-2]
         if current_price <= 0 or previous_close <= 0:
             logging.info(f"{symbol} 价格数据无效")
+            invalid_stocks.append(symbol)  # 记录无效股票
             return None
         price_change = ((current_price - previous_close) / previous_close) * 100
 
@@ -241,6 +257,7 @@ def process_stock(stock):
         details = get_stock_details(symbol)
         if not details or details['market_cap'] <= 0:
             logging.info(f"{symbol} 无法获取有效详细信息")
+            invalid_stocks.append(symbol)  # 记录无效股票
             return None
 
         return {
@@ -254,18 +271,8 @@ def process_stock(stock):
         }
     except Exception as e:
         logging.info(f"处理 {symbol} 时出错: {e}")
+        invalid_stocks.append(symbol)  # 记录无效股票
         return None
-
-class ThreadSafeList:
-    def __init__(self):
-        self._list = []
-        self._lock = threading.Lock()
-    def append(self, item):
-        with self._lock:
-            self._list.append(item)
-    def get_list(self):
-        with self._lock:
-            return self._list.copy()
 
 def get_gainers_multithreaded(symbols, max_workers=None):
     total = len(symbols)
@@ -293,12 +300,12 @@ def get_gainers_multithreaded(symbols, max_workers=None):
     data = results.get_list()
     if not data:
         logging.info("没有获取到有效股票数据！")
-        return pd.DataFrame()
+        return pd.DataFrame(), invalid_stocks.get_list()  # 返回无效股票列表
     df = pd.DataFrame(data)
     if '涨跌幅(%)' not in df.columns:
         logging.info("数据中缺少涨跌幅信息！")
-        return df
-    return df.sort_values(by='涨跌幅(%)', ascending=False)
+        return df, invalid_stocks.get_list()  # 返回无效股票列表
+    return df.sort_values(by='涨跌幅(%)', ascending=False), invalid_stocks.get_list()  # 返回无效股票列表
 
 # =============================================================================
 # 5. 结果展示与数据保存（包含各 top20 分组和聚合结果）
@@ -422,14 +429,27 @@ if __name__ == "__main__":
         if not symbols:
             logging.warning("没有获取到任何股票代码！")
             sys.exit("无有效股票")
-        gainers_df = get_gainers_multithreaded(symbols)
+        gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)  # 接收无效股票列表
         if not gainers_df.empty:
             run_git_update()
             display_results(gainers_df)
             process_final_stock_data(gainers_df)
         else:
             logging.warning("没有获取到有效的股票数据")
-        # 更新缓存文件，减少下次请求量
+        
+        # 更新 excluded_stocks.json
+        if invalid_stock_list:
+            try:
+                with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
+                    existing_excluded = set(json.load(f))
+            except (FileNotFoundError, json.JSONDecodeError):
+                existing_excluded = set()
+            updated_excluded = existing_excluded.union(set(invalid_stock_list))
+            with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
+                json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
+            logging.info(f"已将 {len(invalid_stock_list)} 个无效股票添加到 excluded_stocks.json")
+        
+        # 更新其他缓存文件
         update_filter_files()
     except Exception as e:
         logging.error(f"程序执行过程中发生致命错误: {e}")
