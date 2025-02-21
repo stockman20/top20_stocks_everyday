@@ -11242,3 +11242,60 @@ ESLOF             EssilorLuxottica SA 1334.69                    Health Care  20
 2025-02-21 22:37:57,529 - INFO: 日志目录: logs/20250221_223757
 2025-02-21 22:37:57,529 - INFO: 日志文件: logs/20250221_223757/execution.log
 2025-02-21 22:37:57,529 - INFO: 聚合结果已保存到: logs/20250221_223757/top20_result.log
+2025-02-21 22:37:58,971 - INFO: Git更新成功完成
+2025-02-21 22:37:59,122 - INFO: 日志目录: logs/20250221_223758
+2025-02-21 22:37:59,123 - INFO: 日志文件: logs/20250221_223758/execution.log
+2025-02-21 22:37:59,187 - INFO: 股票数据已保存到 logs/20250221_223758/stocks_data.json
+2025-02-21 22:37:59,191 - INFO: 
+=== 板块涨跌分析 ===
+2025-02-21 22:37:59,196 - INFO: 
+                                  板块      平均涨跌幅  股票数量
+32                    Paper & Forest   3.490000     5
+5                          Beverages   1.728421    19
+18                     Food Products   0.593562    73
+45                         Utilities  -0.286866    67
+42                           Tobacco  -0.465000     6
+31                         Packaging  -0.861364    22
+25        Logistics & Transportation  -0.982000    15
+44     Transportation Infrastructure  -1.133333     3
+30                               N/A  -1.157419    62
+39                        Technology  -1.196452   310
+40                 Telecommunication  -1.224138    29
+13                      Distributors  -1.406429    14
+22                         Insurance  -1.481915    94
+33                   Pharmaceuticals  -1.536346   156
+41  Textiles, Apparel & Luxury Goods  -1.631087    46
+6                      Biotechnology  -1.716162   495
+12                 Consumer products  -1.775500   100
+34             Professional Services  -1.798293    82
+8                          Chemicals  -1.870429    70
+4                            Banking  -1.914456   294
+20     Hotels, Restaurants & Leisure  -2.033478   115
+2                    Auto Components  -2.033611    36
+7                           Building  -2.101765    34
+27                            Marine  -2.108148    27
+28                             Media  -2.118315   178
+17                Financial Services  -2.234257   249
+35                       Real Estate  -2.327143    56
+9     Commercial Services & Supplies  -2.519589    73
+10                    Communications  -2.639787    47
+37                       Road & Rail  -2.740588    34
+24    Life Sciences Tools & Services  -2.752115    52
+3                        Automobiles  -2.786800    25
+0                Aerospace & Defense  -2.895091    55
+15              Electrical Equipment  -2.948895   190
+16                            Energy  -3.001889   180
+19                       Health Care  -3.004484   310
+26                         Machinery  -3.317193   114
+36                            Retail  -3.394662   148
+29                   Metals & Mining  -3.508974    78
+43  Trading Companies & Distributors  -3.603333    36
+23                  Leisure Products  -3.790400    25
+14     Diversified Consumer Services  -3.890667    45
+38                    Semiconductors  -3.993913    92
+11                      Construction  -4.325581    43
+1                           Airlines  -7.852632    19
+21          Industrial Conglomerates -16.058000     5
+2025-02-21 22:37:59,198 - INFO: 板块分析已保存到 logs/20250221_223758/sector_analysis.json
+2025-02-21 22:37:59,205 - INFO: 已将 219 个无效股票添加到 excluded_stocks.json
+2025-02-21 22:37:59,239 - INFO: 过滤文件已更新
