@@ -346,7 +346,7 @@ def display_results(df):
     log_dataframe("=== 市值超过1000亿的涨跌榜前20名股票 ===", billion_1000[['股票代码', '公司名称', '市值(亿)', '板块', '昨天收盘', '今天收盘', '涨跌幅(%)']])
     
     # 保存聚合结果到一个文件
-    aggregated_file = os.path.join(current_dir, 'aggregated_top20_results.log')
+    aggregated_file = os.path.join(current_dir, 'top20_result.log')
     with open(aggregated_file, 'w', encoding='utf-8') as f:
         f.write(aggregated_results)
     logging.info(f"聚合结果已保存到: {aggregated_file}")
