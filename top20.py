@@ -514,28 +514,34 @@ if __name__ == "__main__":
             sys.exit("无有效股票")
         
         gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)
+        
         if not gainers_df.empty:
-            generated_top20 = display_results(gainers_df)
+            generated_top20 = display_results(gainers_df)  # 生成 top20_result.log
+            process_final_stock_data(gainers_df, log_dir)  # 生成 stocks_data.json 和 sector_analysis.json
+            
+            # 更新 excluded_stocks.json（在根目录）
+            if invalid_stock_list:
+                try:
+                    with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
+                        existing_excluded = set(json.load(f))
+                except (FileNotFoundError, json.JSONDecodeError):
+                    existing_excluded = set()
+                updated_excluded = existing_excluded.union(set(invalid_stock_list))
+                with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
+                    json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
+                logging.info(f"已将 {len(invalid_stock_list)} 个无效股票添加到 excluded_stocks.json")
+            
+            # 更新过滤文件（在根目录）
+            update_filter_files()
+            
+            # 在所有文件生成和更新后调用 Git 提交
             if generated_top20:
                 run_git_update()
-                process_final_stock_data(gainers_df, log_dir)  # 直接传递 log_dir
             else:
                 logging.warning("没有生成 top20_result.log 文件")
         else:
             logging.warning("没有获取到有效的股票数据")
         
-        if invalid_stock_list:
-            try:
-                with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
-                    existing_excluded = set(json.load(f))
-            except (FileNotFoundError, json.JSONDecodeError):
-                existing_excluded = set()
-            updated_excluded = existing_excluded.union(set(invalid_stock_list))
-            with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
-                json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
-            logging.info(f"已将 {len(invalid_stock_list)} 个无效股票添加到 excluded_stocks.json")
-        
-        update_filter_files()
     except Exception as e:
         logging.error(f"程序执行过程中发生致命错误: {e}")
         logging.exception("详细错误堆栈:")
