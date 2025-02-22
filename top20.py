@@ -20,6 +20,9 @@ us_holidays = holidays.US(years=datetime.now().year)
 # 全局锁，用于保护 global_filters 的修改
 global_filters_lock = Lock()
 
+# 在文件顶部添加全局变量
+global_log_dir = None
+
 # =============================================================================
 # 0. 全局速率限制器（针对 yfinance 请求）
 # =============================================================================
@@ -350,28 +353,33 @@ def get_gainers_multithreaded(symbols, max_workers=None):
 # 5. 结果展示与数据保存（延迟创建目录）
 # =============================================================================
 
+# 修改 setup_logging_with_file 函数，使其只生成一次目录
 def setup_logging_with_file():
+    global global_log_dir
+    if global_log_dir is not None:
+        return global_log_dir, os.path.join(global_log_dir, 'execution.log')
+    
     now = datetime.now()
-    log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
-    os.makedirs(log_dir, exist_ok=True)
-    log_filename = os.path.join(log_dir, 'execution.log')
+    global_log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
+    os.makedirs(global_log_dir, exist_ok=True)
+    log_filename = os.path.join(global_log_dir, 'execution.log')
     file_handler = logging.FileHandler(log_filename)
     file_handler.setLevel(logging.INFO)
     file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
     logging.getLogger().addHandler(file_handler)
-    # 将缓冲区的日志写入文件
     for record in buffer_handler.buffer:
         file_handler.emit(logging.makeLogRecord({'msg': record}))
-    logging.info(f'日志目录: {log_dir}')
+    logging.info(f'日志目录: {global_log_dir}')
     logging.info(f'日志文件: {log_filename}')
-    return log_dir, log_filename
+    return global_log_dir, log_filename
 
+# 修改 display_results 函数，使用全局目录
 def display_results(df):
     if df.empty:
         logging.info("没有数据可供显示!")
-        return False  # 表示没有生成 top20_result.log
+        return False
+    
     aggregated_results = ""
-
     def log_dataframe(title, dataframe):
         nonlocal aggregated_results
         section = f"\n{title}\n"
@@ -404,12 +412,12 @@ def display_results(df):
     
     # 只有在有数据时才创建目录并保存文件
     if aggregated_results.strip():
-        current_dir, _ = setup_logging_with_file()
-        aggregated_file = os.path.join(current_dir, 'top20_result.log')
+        log_dir, _ = setup_logging_with_file()  # 使用全局目录
+        aggregated_file = os.path.join(log_dir, 'top20_result.log')
         with open(aggregated_file, 'w', encoding='utf-8') as f:
             f.write(aggregated_results)
         logging.info(f"聚合结果已保存到: {aggregated_file}")
-        return True  # 表示成功生成 top20_result.log
+        return True
     return False
 
 def process_final_stock_data(df, log_dir):
@@ -491,22 +499,26 @@ def update_filter_files():
 # 8. 主程序入口
 # =============================================================================
 
+# 主程序入口调整
 if __name__ == "__main__":
     if not is_market_open():
         logging.warning("今日非交易日，程序终止")
         sys.exit("非交易日")
     try:
+        # 在程序开始时初始化日志目录
+        log_dir, _ = setup_logging_with_file()
+        
         symbols = load_or_fetch_symbols()
         if not symbols:
             logging.warning("没有获取到任何股票代码！")
             sys.exit("无有效股票")
+        
         gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)
         if not gainers_df.empty:
             generated_top20 = display_results(gainers_df)
             if generated_top20:
                 run_git_update()
-                log_dir, _ = setup_logging_with_file()  # 确保目录已创建
-                process_final_stock_data(gainers_df, log_dir)
+                process_final_stock_data(gainers_df, log_dir)  # 直接传递 log_dir
             else:
                 logging.warning("没有生成 top20_result.log 文件")
         else:
