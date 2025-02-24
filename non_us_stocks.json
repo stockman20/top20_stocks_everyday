@@ -22618,5 +22618,17 @@
     "name": "Elcom International Inc",
     "country": "US",
     "added_date": "2025-02-21 07:09:40"
+  },
+  "PEXZF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Pacific Ridge Exploration Ltd",
+    "country": "CA",
+    "added_date": "2025-02-24 21:54:22"
+  },
+  "VIPRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Silver Viper Minerals Corp",
+    "country": "CA",
+    "added_date": "2025-02-24 21:59:24"
   }
 }
