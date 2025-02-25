@@ -23,11 +23,6 @@ global_filters_lock = Lock()
 # 在文件顶部添加全局变量
 global_log_dir = None
 
-# 获取根 logger，并清空已有的 handlers
-logger = logging.getLogger()
-if logger.hasHandlers():
-    logger.handlers.clear()
-
 # =============================================================================
 # 0. 全局速率限制器（针对 yfinance 请求）
 # =============================================================================
@@ -63,23 +58,16 @@ class RateLimiter:
 yfinance_rate_limiter = RateLimiter(60, 60)
 
 # =============================================================================
-# 1. 初始化日志（初始仅输出到屏幕）
+# 1. 初始化日志（仅输出到屏幕）
 # =============================================================================
-
-# 初始只配置屏幕输出
+# 只配置屏幕输出，不写入文件
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s: %(message)s',
-    stream=sys.stdout
+    handlers=[logging.StreamHandler(sys.stdout)]
 )
 
-# 日志缓冲区，用于在需要时保存到文件
-log_buffer = []
-buffer_handler = logging.StreamHandler()
-buffer_handler.setLevel(logging.INFO)
-buffer_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
-logging.getLogger().addHandler(buffer_handler)
-
+# 定义自定义日志缓冲处理器，用于后续聚合写入其他日志文件（但不输出到屏幕）
 class BufferHandler(logging.Handler):
     def __init__(self):
         super().__init__()
@@ -358,27 +346,18 @@ def get_gainers_multithreaded(symbols, max_workers=None):
 # 5. 结果展示与数据保存（延迟创建目录）
 # =============================================================================
 
-# 修改 setup_logging_with_file 函数，使其只生成一次目录
+# 修改 setup_logging_with_file 函数，使其只生成日志目录，不添加文件处理器
 def setup_logging_with_file():
     global global_log_dir
     if global_log_dir is not None:
-        return global_log_dir, os.path.join(global_log_dir, 'execution.log')
+        return global_log_dir, None  # 不返回 execution.log 文件名
     
     now = datetime.now()
     global_log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
     os.makedirs(global_log_dir, exist_ok=True)
-    log_filename = os.path.join(global_log_dir, 'execution.log')
-    file_handler = logging.FileHandler(log_filename)
-    file_handler.setLevel(logging.INFO)
-    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
-    logging.getLogger().addHandler(file_handler)
-    for record in buffer_handler.buffer:
-        file_handler.emit(logging.makeLogRecord({'msg': record}))
     logging.info(f'日志目录: {global_log_dir}')
-    logging.info(f'日志文件: {log_filename}')
-    return global_log_dir, log_filename
+    return global_log_dir, None
 
-# 修改 display_results 函数，使用全局目录
 def display_results(df):
     if df.empty:
         logging.info("没有数据可供显示!")
@@ -504,13 +483,12 @@ def update_filter_files():
 # 8. 主程序入口
 # =============================================================================
 
-# 主程序入口调整
 if __name__ == "__main__":
     if not is_market_open():
         logging.warning("今日非交易日，程序终止")
         sys.exit("非交易日")
     try:
-        # 在程序开始时初始化日志目录
+        # 在程序开始时初始化日志目录（仅用于保存其他文件，不再生成 execution.log）
         log_dir, _ = setup_logging_with_file()
         
         symbols = load_or_fetch_symbols()
