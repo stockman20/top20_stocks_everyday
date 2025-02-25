@@ -34,3 +34,5 @@ wheels/
 
 # Misc
 .DS_Store 
+
+logs/*/execution.log
