@@ -20,9 +20,6 @@ us_holidays = holidays.US(years=datetime.now().year)
 # 全局锁，用于保护 global_filters 的修改
 global_filters_lock = Lock()
 
-# 在文件顶部添加全局变量
-global_log_dir = None
-
 # =============================================================================
 # 0. 全局速率限制器（针对 yfinance 请求）
 # =============================================================================
@@ -58,38 +55,17 @@ class RateLimiter:
 yfinance_rate_limiter = RateLimiter(60, 60)
 
 # =============================================================================
-# 1. 初始化日志（初始仅输出到屏幕）
+# 1. 初始化日志（仅输出到屏幕）
 # =============================================================================
-
-# 初始只配置屏幕输出
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s: %(message)s',
-    handlers=[logging.StreamHandler(sys.stdout)]
+    handlers=[logging.StreamHandler(sys.stdout)]  # 只输出到屏幕
 )
-
-# 日志缓冲区，用于在需要时保存到文件
-log_buffer = []
-buffer_handler = logging.StreamHandler()
-buffer_handler.setLevel(logging.INFO)
-buffer_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
-logging.getLogger().addHandler(buffer_handler)
-
-class BufferHandler(logging.Handler):
-    def __init__(self):
-        super().__init__()
-        self.buffer = []
-    def emit(self, record):
-        self.buffer.append(self.format(record))
-
-buffer_handler = BufferHandler()
-buffer_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
-logging.getLogger().addHandler(buffer_handler)
 
 # =============================================================================
 # 2. API Key 及轮换逻辑（用于 Finnhub）
 # =============================================================================
-
 api_keys_json = os.getenv("API_KEYS_JSON", "[]")
 try:
     api_keys = json.loads(api_keys_json)
@@ -116,7 +92,6 @@ def get_finnhub_client():
 # =============================================================================
 # 3. 市场判断函数
 # =============================================================================
-
 def is_market_open():
     eastern_tz = pytz.timezone('America/New_York')
     today = datetime.now(eastern_tz).date()
@@ -127,7 +102,6 @@ def is_market_open():
 # =============================================================================
 # 4. 股票数据获取与处理
 # =============================================================================
-
 global_filters = {}
 invalid_stocks = ThreadSafeList()
 
@@ -352,28 +326,17 @@ def get_gainers_multithreaded(symbols, max_workers=None):
 # =============================================================================
 # 5. 结果展示与数据保存（延迟创建目录）
 # =============================================================================
-
-# 修改 setup_logging_with_file 函数，使其只生成一次目录
 def setup_logging_with_file():
     global global_log_dir
     if global_log_dir is not None:
-        return global_log_dir, os.path.join(global_log_dir, 'execution.log')
-    
+        return global_log_dir, None  # 不返回 log_filename
+
     now = datetime.now()
     global_log_dir = os.path.join('logs', now.strftime('%Y%m%d_%H%M%S'))
     os.makedirs(global_log_dir, exist_ok=True)
-    log_filename = os.path.join(global_log_dir, 'execution.log')
-    file_handler = logging.FileHandler(log_filename)
-    file_handler.setLevel(logging.INFO)
-    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s: %(message)s'))
-    logging.getLogger().addHandler(file_handler)
-    for record in buffer_handler.buffer:
-        file_handler.emit(logging.makeLogRecord({'msg': record}))
     logging.info(f'日志目录: {global_log_dir}')
-    logging.info(f'日志文件: {log_filename}')
-    return global_log_dir, log_filename
+    return global_log_dir, None  # 不创建日志文件
 
-# 修改 display_results 函数，使用全局目录
 def display_results(df):
     if df.empty:
         logging.info("没有数据可供显示!")
@@ -439,7 +402,6 @@ def process_final_stock_data(df, log_dir):
 # =============================================================================
 # 6. 调用外部 Shell 脚本进行 Git 更新
 # =============================================================================
-
 def run_git_update():
     try:
         subprocess.run(['chmod', '+x', 'update_git.sh'], check=True)
@@ -462,7 +424,6 @@ def run_git_update():
 # =============================================================================
 # 7. 更新缓存文件
 # =============================================================================
-
 def update_filter_files():
     global global_filters
     if global_filters:
@@ -498,28 +459,24 @@ def update_filter_files():
 # =============================================================================
 # 8. 主程序入口
 # =============================================================================
-
-# 主程序入口调整
 if __name__ == "__main__":
     if not is_market_open():
         logging.warning("今日非交易日，程序终止")
         sys.exit("非交易日")
     try:
-        # 在程序开始时初始化日志目录
-        log_dir, _ = setup_logging_with_file()
-        
+        log_dir, _ = setup_logging_with_file()  # 不使用 log_filename
+
         symbols = load_or_fetch_symbols()
         if not symbols:
             logging.warning("没有获取到任何股票代码！")
             sys.exit("无有效股票")
-        
+
         gainers_df, invalid_stock_list = get_gainers_multithreaded(symbols)
-        
+
         if not gainers_df.empty:
-            generated_top20 = display_results(gainers_df)  # 生成 top20_result.log
-            process_final_stock_data(gainers_df, log_dir)  # 生成 stocks_data.json 和 sector_analysis.json
-            
-            # 更新 excluded_stocks.json（在根目录）
+            generated_top20 = display_results(gainers_df)
+            process_final_stock_data(gainers_df, log_dir)
+
             if invalid_stock_list:
                 try:
                     with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
@@ -530,18 +487,16 @@ if __name__ == "__main__":
                 with open('excluded_stocks.json', 'w', encoding='utf-8') as f:
                     json.dump(list(updated_excluded), f, ensure_ascii=False, indent=2)
                 logging.info(f"已将 {len(invalid_stock_list)} 个无效股票添加到 excluded_stocks.json")
-            
-            # 更新过滤文件（在根目录）
+
             update_filter_files()
-            
-            # 在所有文件生成和更新后调用 Git 提交
+
             if generated_top20:
                 run_git_update()
             else:
                 logging.warning("没有生成 top20_result.log 文件")
         else:
             logging.warning("没有获取到有效的股票数据")
-        
+
     except Exception as e:
         logging.error(f"程序执行过程中发生致命错误: {e}")
         logging.exception("详细错误堆栈:")
