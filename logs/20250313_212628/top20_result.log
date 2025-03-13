@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                公司名称               市值(亿)                板块                      昨天收盘             今天收盘       涨跌幅(%)
+  RGC Regencell Bioscience Holdings Ltd  0.75                  Pharmaceuticals   2025-03-12 4.2 2025-03-13 14.09 235.48
+ ALCE         Alternus Clean Energy Inc  0.00                        Utilities  2025-03-12 0.04  2025-03-13 0.06  47.50
+ ICON                  Icon Energy Corp  0.02                           Marine  2025-03-12 0.09  2025-03-13 0.14  46.24
+ AVAH   Aveanna Healthcare Holdings Inc  8.70                      Health Care  2025-03-12 3.74  2025-03-13 5.14  37.43
+BIORQ            Biora Therapeutics Inc  0.01                    Biotechnology  2025-03-12 0.12  2025-03-13 0.16  33.82
+  SSP                    E W Scripps Co  2.29                            Media  2025-03-12 2.05  2025-03-13 2.73  33.17
+ QMCO                      Quantum Corp  0.70                       Technology 2025-03-12 11.26 2025-03-13 14.82  31.62
+ SPGC            Sacks Parente Golf Inc  0.02                 Leisure Products  2025-03-12 0.11  2025-03-13 0.14  29.63
+ FOSL                  Fossil Group Inc  0.79 Textiles, Apparel & Luxury Goods  2025-03-12 1.27  2025-03-13 1.64  29.13
+ MGTX             MeiraGTx Holdings PLC  6.17                    Biotechnology  2025-03-12 6.41  2025-03-13 8.25  28.71
+ LPTV                    Loop Media Inc  0.04                            Media  2025-03-12 0.04  2025-03-13 0.05  25.38
+ XCUR                       Exicure Inc  0.32                    Biotechnology 2025-03-12 10.57 2025-03-13 13.22  25.07
+ MIRA          Mira Pharmaceuticals Inc  0.16                  Pharmaceuticals   2025-03-12 1.0  2025-03-13 1.25  25.00
+ STSS             Sharps Technology Inc  0.04                      Health Care   2025-03-12 0.3  2025-03-13 0.37  23.58
+ CLIK            Click Holdings Limited  0.14            Professional Services  2025-03-12 0.99  2025-03-13 1.22  23.23
+ UBXG               U-BX Technology Ltd  0.11                       Technology  2025-03-12 3.12  2025-03-13 3.84  23.08
+ MCTR                    CTRL Group Ltd  0.88                            Media  2025-03-12 5.75  2025-03-13 7.01  21.87
+   AP             Ampco-Pittsburgh Corp  0.37                  Metals & Mining  2025-03-12 1.79  2025-03-13 2.17  21.23
+ YOSH               Yoshiharu Global Co  0.15    Hotels, Restaurants & Leisure 2025-03-12 14.88  2025-03-13 18.0  20.97
+ YHGJ             Yunhong Green CTI Ltd  0.17                Consumer products  2025-03-12 0.85  2025-03-13 1.02  20.00
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+QBTS         D-Wave Quantum Inc   20.89                       Technology   2025-03-12 5.82   2025-03-13 6.91 18.73 
+INTC                 Intel Corp 1040.93                   Semiconductors  2025-03-12 20.68   2025-03-13 23.7 14.60 
+  FN                   Fabrinet   81.58             Electrical Equipment 2025-03-12 201.88 2025-03-13 223.66 10.79 
+CPRI         Capri Holdings Ltd   23.56 Textiles, Apparel & Luxury Goods  2025-03-12 19.48  2025-03-13 21.12  8.42 
+MRCY        Mercury Systems Inc   26.26              Aerospace & Defense   2025-03-12 42.1  2025-03-13 45.08  7.08 
+  DG        Dollar General Corp  169.96                           Retail  2025-03-12 74.85  2025-03-13 79.95  6.81 
+DLTR            Dollar Tree Inc  141.56                           Retail  2025-03-12 61.92   2025-03-13 66.0  6.59 
+ALGM   Allegro Microsystems Inc   49.27                   Semiconductors  2025-03-12 24.94  2025-03-13 26.24  5.21 
+SLNO    Soleno Therapeutics Inc   21.94                    Biotechnology   2025-03-12 46.7  2025-03-13 49.03  4.99 
+ NEM        Newmont Corporation  510.13                  Metals & Mining  2025-03-12 43.63  2025-03-13 45.65  4.63 
+SSRM             SSR Mining Inc   21.40                  Metals & Mining  2025-03-12 10.24   2025-03-13 10.7  4.49 
+ CDE           Coeur Mining Inc   37.13                  Metals & Mining   2025-03-12 5.71   2025-03-13 5.94  4.03 
+ALKT      Alkami Technology Inc   25.38                       Technology  2025-03-12 24.28  2025-03-13 25.25  4.00 
+ AES                   AES Corp   88.13                        Utilities  2025-03-12 11.83  2025-03-13 12.28  3.80 
+  HL            Hecla Mining Co   35.82                  Metals & Mining   2025-03-12 5.57   2025-03-13 5.77  3.59 
+ ABM         ABM Industries Inc   28.44   Commercial Services & Supplies  2025-03-12 45.51  2025-03-13 47.06  3.41 
+ ZBH Zimmer Biomet Holdings Inc  209.65                      Health Care 2025-03-12 104.03 2025-03-13 107.57  3.40 
+SARO         StandardAero, Inc.   95.12              Aerospace & Defense  2025-03-12 28.06  2025-03-13 28.98  3.28 
+ NOC      Northrop Grumman Corp  695.14              Aerospace & Defense  2025-03-12 475.1 2025-03-13 490.59  3.26 
+ LUV      Southwest Airlines Co  180.91                         Airlines   2025-03-12 30.1   2025-03-13 31.0  2.99 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                     市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+INTC                                 Intel Corp 1040.93       Semiconductors  2025-03-12 20.68   2025-03-13 23.7 14.60 
+  FN                                   Fabrinet   81.58 Electrical Equipment 2025-03-12 201.88 2025-03-13 223.66 10.79 
+  DG                        Dollar General Corp  169.96               Retail  2025-03-12 74.85  2025-03-13 79.95  6.81 
+DLTR                            Dollar Tree Inc  141.56               Retail  2025-03-12 61.92   2025-03-13 66.0  6.59 
+ NEM                        Newmont Corporation  510.13      Metals & Mining  2025-03-12 43.63  2025-03-13 45.65  4.63 
+ AES                                   AES Corp   88.13            Utilities  2025-03-12 11.83  2025-03-13 12.28  3.80 
+ ZBH                 Zimmer Biomet Holdings Inc  209.65          Health Care 2025-03-12 104.03 2025-03-13 107.57  3.40 
+SARO                         StandardAero, Inc.   95.12  Aerospace & Defense  2025-03-12 28.06  2025-03-13 28.98  3.28 
+ NOC                      Northrop Grumman Corp  695.14  Aerospace & Defense  2025-03-12 475.1 2025-03-13 490.59  3.26 
+ LUV                      Southwest Airlines Co  180.91             Airlines   2025-03-12 30.1   2025-03-13 31.0  2.99 
+NUVL                               Nuvalent Inc   52.53        Biotechnology  2025-03-12 72.52  2025-03-13 74.48  2.70 
+  VZ                 Verizon Communications Inc 1838.59    Telecommunication  2025-03-12 42.59  2025-03-13 43.71  2.63 
+  AU                      Anglogold Ashanti PLC  159.36      Metals & Mining  2025-03-12 31.65  2025-03-13 32.46  2.56 
+ FNF            Fidelity National Financial Inc  172.25            Insurance  2025-03-12 61.67  2025-03-13 63.21  2.50 
+MKTX                   Marketaxess Holdings Inc   78.90   Financial Services 2025-03-12 206.95 2025-03-13 212.01  2.45 
+  FE                           FirstEnergy Corp  223.64            Utilities  2025-03-12 38.21  2025-03-13 39.14  2.43 
+ FIS Fidelity National Information Services Inc  368.45   Financial Services  2025-03-12 68.12  2025-03-13 69.75  2.39 
+SCCO                       Southern Copper Corp  749.13      Metals & Mining  2025-03-12 90.34  2025-03-13 92.41  2.29 
+ FCX                       Freeport-McMoRan Inc  542.78      Metals & Mining  2025-03-12 36.78  2025-03-13 37.58  2.18 
+ EXC                                Exelon Corp  435.66            Utilities  2025-03-12 42.61  2025-03-13 43.47  2.02 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                     市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+INTC                                 Intel Corp 1040.93                   Semiconductors  2025-03-12 20.68   2025-03-13 23.7 14.60 
+  DG                        Dollar General Corp  169.96                           Retail  2025-03-12 74.85  2025-03-13 79.95  6.81 
+DLTR                            Dollar Tree Inc  141.56                           Retail  2025-03-12 61.92   2025-03-13 66.0  6.59 
+ NEM                        Newmont Corporation  510.13                  Metals & Mining  2025-03-12 43.63  2025-03-13 45.65  4.63 
+ ZBH                 Zimmer Biomet Holdings Inc  209.65                      Health Care 2025-03-12 104.03 2025-03-13 107.57  3.40 
+ NOC                      Northrop Grumman Corp  695.14              Aerospace & Defense  2025-03-12 475.1 2025-03-13 490.59  3.26 
+ LUV                      Southwest Airlines Co  180.91                         Airlines   2025-03-12 30.1   2025-03-13 31.0  2.99 
+  VZ                 Verizon Communications Inc 1838.59                Telecommunication  2025-03-12 42.59  2025-03-13 43.71  2.63 
+  AU                      Anglogold Ashanti PLC  159.36                  Metals & Mining  2025-03-12 31.65  2025-03-13 32.46  2.56 
+ FNF            Fidelity National Financial Inc  172.25                        Insurance  2025-03-12 61.67  2025-03-13 63.21  2.50 
+  FE                           FirstEnergy Corp  223.64                        Utilities  2025-03-12 38.21  2025-03-13 39.14  2.43 
+ FIS Fidelity National Information Services Inc  368.45               Financial Services  2025-03-12 68.12  2025-03-13 69.75  2.39 
+SCCO                       Southern Copper Corp  749.13                  Metals & Mining  2025-03-12 90.34  2025-03-13 92.41  2.29 
+ FCX                       Freeport-McMoRan Inc  542.78                  Metals & Mining  2025-03-12 36.78  2025-03-13 37.58  2.18 
+ EXC                                Exelon Corp  435.66                        Utilities  2025-03-12 42.61  2025-03-13 43.47  2.02 
+ AER                         AerCap Holdings NV  181.77 Trading Companies & Distributors  2025-03-12 97.11  2025-03-13 99.07  2.02 
+ ALL                              Allstate Corp  531.06                        Insurance 2025-03-12 198.25  2025-03-13 202.0  1.89 
+  ED                    Consolidated Edison Inc  369.95                        Utilities 2025-03-12 102.64 2025-03-13 104.57  1.88 
+ RKT                       Rocket Companies Inc  290.01               Financial Services  2025-03-12 14.25  2025-03-13 14.51  1.82 
+  KR                                  Kroger Co  475.41                           Retail  2025-03-12 64.99   2025-03-13 66.1  1.71 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                     市值(亿)           板块                昨天收盘              今天收盘       涨跌幅(%)
+INTC                                 Intel Corp 1040.93      Semiconductors  2025-03-12 20.68   2025-03-13 23.7 14.60 
+ NEM                        Newmont Corporation  510.13     Metals & Mining  2025-03-12 43.63  2025-03-13 45.65  4.63 
+ ZBH                 Zimmer Biomet Holdings Inc  209.65         Health Care 2025-03-12 104.03 2025-03-13 107.57  3.40 
+ NOC                      Northrop Grumman Corp  695.14 Aerospace & Defense  2025-03-12 475.1 2025-03-13 490.59  3.26 
+  VZ                 Verizon Communications Inc 1838.59   Telecommunication  2025-03-12 42.59  2025-03-13 43.71  2.63 
+  FE                           FirstEnergy Corp  223.64           Utilities  2025-03-12 38.21  2025-03-13 39.14  2.43 
+ FIS Fidelity National Information Services Inc  368.45  Financial Services  2025-03-12 68.12  2025-03-13 69.75  2.39 
+SCCO                       Southern Copper Corp  749.13     Metals & Mining  2025-03-12 90.34  2025-03-13 92.41  2.29 
+ FCX                       Freeport-McMoRan Inc  542.78     Metals & Mining  2025-03-12 36.78  2025-03-13 37.58  2.18 
+ EXC                                Exelon Corp  435.66           Utilities  2025-03-12 42.61  2025-03-13 43.47  2.02 
+ ALL                              Allstate Corp  531.06           Insurance 2025-03-12 198.25  2025-03-13 202.0  1.89 
+  ED                    Consolidated Edison Inc  369.95           Utilities 2025-03-12 102.64 2025-03-13 104.57  1.88 
+ RKT                       Rocket Companies Inc  290.01  Financial Services  2025-03-12 14.25  2025-03-13 14.51  1.82 
+  KR                                  Kroger Co  475.41              Retail  2025-03-12 64.99   2025-03-13 66.1  1.71 
+  CB                                  Chubb Ltd 1148.96           Insurance 2025-03-12 283.98 2025-03-13 288.55  1.61 
+ TRV                    Travelers Companies Inc  580.71           Insurance 2025-03-12 251.99 2025-03-13 255.94  1.57 
+ ELV                        Elevance Health Inc  944.49         Health Care 2025-03-12 411.04 2025-03-13 417.25  1.51 
+VRTX                 Vertex Pharmaceuticals Inc 1309.94       Biotechnology 2025-03-12 495.42 2025-03-13 502.92  1.51 
+ MRK                             Merck & Co Inc 2412.81     Pharmaceuticals  2025-03-12 93.35  2025-03-13 94.71  1.46 
+ AIG           American International Group Inc  483.57           Insurance  2025-03-12 80.38  2025-03-13 81.55  1.46 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码             公司名称             市值(亿)             板块                   昨天收盘              今天收盘       涨跌幅(%)
+INTC                  Intel Corp 1040.93           Semiconductors  2025-03-12 20.68   2025-03-13 23.7 14.60 
+  VZ  Verizon Communications Inc 1838.59        Telecommunication  2025-03-12 42.59  2025-03-13 43.71  2.63 
+  CB                   Chubb Ltd 1148.96                Insurance 2025-03-12 283.98 2025-03-13 288.55  1.61 
+VRTX  Vertex Pharmaceuticals Inc 1309.94            Biotechnology 2025-03-12 495.42 2025-03-13 502.92  1.51 
+ MRK              Merck & Co Inc 2412.81          Pharmaceuticals  2025-03-12 93.35  2025-03-13 94.71  1.46 
+   T                    AT&T Inc 1890.37        Telecommunication  2025-03-12 25.72  2025-03-13 26.09  1.44 
+ LMT        Lockheed Martin Corp 1091.10      Aerospace & Defense  2025-03-12 461.5 2025-03-13 467.93  1.39 
+TMUS             T-Mobile US Inc 2983.15        Telecommunication 2025-03-12 255.61  2025-03-13 259.1  1.37 
+ RTX                    RTX Corp 1718.39      Aerospace & Defense 2025-03-12 127.96  2025-03-13 129.2  0.97 
+ MDT               Medtronic PLC 1184.17              Health Care  2025-03-12 91.51  2025-03-13 92.33  0.90 
+ BMY     Bristol-Myers Squibb Co 1224.99          Pharmaceuticals  2025-03-12 59.81  2025-03-13 60.28  0.79 
+ PGR            Progressive Corp 1630.24                Insurance 2025-03-12 277.55  2025-03-13 279.4  0.67 
+ CVX                Chevron Corp 2706.04                   Energy 2025-03-12 152.67 2025-03-13 153.61  0.62 
+AMAT       Applied Materials Inc 1231.86           Semiconductors 2025-03-12 149.06 2025-03-13 149.95  0.60 
+ LIN                   Linde PLC 2138.74                Chemicals 2025-03-12 451.17 2025-03-13 453.26  0.46 
+SPOT       Spotify Technology SA 1075.23                    Media 2025-03-12 535.84 2025-03-13 537.91  0.39 
+  BA                   Boeing Co 1203.06      Aerospace & Defense  2025-03-12 158.8 2025-03-13 159.32  0.33 
+SPGI              S&P Global Inc 1468.99       Financial Services 2025-03-12 478.26 2025-03-13 479.85  0.33 
+ HON Honeywell International Inc 1344.54 Industrial Conglomerates 2025-03-12 206.35 2025-03-13 206.69  0.16 
+  PG         Procter & Gamble Co 3938.41        Consumer products 2025-03-12 168.37 2025-03-13 168.59  0.13 
