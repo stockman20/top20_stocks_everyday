@@ -22648,5 +22648,113 @@
     "name": "Chrysos Corporation Ltd",
     "country": "AU",
     "added_date": "2025-03-12 22:01:41"
+  },
+  "IMAQ": {
+    "exchange": "OTC MARKETS",
+    "name": "International Media Acquisition Corp",
+    "country": "US",
+    "added_date": "2025-03-17 21:28:25"
+  },
+  "CEIN": {
+    "exchange": "OTC MARKETS",
+    "name": "Camber Energy Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:29:23"
+  },
+  "BSFC": {
+    "exchange": "OTC MARKETS",
+    "name": "Blue Star Foods Corp",
+    "country": "US",
+    "added_date": "2025-03-17 21:30:24"
+  },
+  "DBGI": {
+    "exchange": "OTC MARKETS",
+    "name": "Digital Brands Group Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:33:25"
+  },
+  "XELA": {
+    "exchange": "OTC MARKETS",
+    "name": "Exela Technologies Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:38:23"
+  },
+  "ORGS": {
+    "exchange": "OTC MARKETS",
+    "name": "Orgenesis Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:39:22"
+  },
+  "DZSI": {
+    "exchange": "OTC MARKETS",
+    "name": "DZS Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:40:27"
+  },
+  "LPTV": {
+    "exchange": "OTC MARKETS",
+    "name": "Loop Media Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:42:23"
+  },
+  "NVOS": {
+    "exchange": "OTC MARKETS",
+    "name": "Novo Integrated Sciences Inc",
+    "country": "US",
+    "added_date": "2025-03-17 21:43:23"
+  },
+  "DEVS": {
+    "exchange": "",
+    "name": "DevvStream Corp",
+    "country": "US",
+    "added_date": "2025-03-17 21:58:31"
+  },
+  "VLDX": {
+    "exchange": "OTC MARKETS",
+    "name": "Velo3D Inc",
+    "country": "US",
+    "added_date": "2025-03-17 22:09:30"
+  },
+  "ATIP": {
+    "exchange": "OTC MARKETS",
+    "name": "ATI Physical Therapy Inc",
+    "country": "US",
+    "added_date": "2025-03-17 22:11:31"
+  },
+  "LEVGQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Lion Electric Co",
+    "country": "CA",
+    "added_date": "2025-03-17 22:12:24"
+  },
+  "BTCY": {
+    "exchange": "OTC MARKETS",
+    "name": "Biotricity Inc",
+    "country": "US",
+    "added_date": "2025-03-17 22:12:29"
+  },
+  "DNMR": {
+    "exchange": "OTC MARKETS",
+    "name": "Danimer Scientific Inc",
+    "country": "US",
+    "added_date": "2025-03-17 22:13:32"
+  },
+  "LILMF": {
+    "exchange": "OTC MARKETS",
+    "name": "Lilium NV",
+    "country": "DE",
+    "added_date": "2025-03-17 22:14:24"
+  },
+  "AUMN": {
+    "exchange": "OTC MARKETS",
+    "name": "Golden Minerals Co",
+    "country": "US",
+    "added_date": "2025-03-17 22:25:26"
+  },
+  "AKTSQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Akoustis Technologies Inc",
+    "country": "US",
+    "added_date": "2025-03-17 22:27:24"
   }
 }
