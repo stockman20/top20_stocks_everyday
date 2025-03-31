@@ -281,8 +281,8 @@ def process_stock(stock):
             logging.info(f"{symbol} 历史数据不足")
             invalid_stocks.append(symbol)
             return None
-        current_price = hist['Close'].iloc[-1]
-        previous_close = hist['Close'].iloc[-2]
+        current_price = float(hist['Close'].iloc[-1])
+        previous_close = float(hist['Close'].iloc[-2])
         if current_price <= 0 or previous_close <= 0:
             logging.info(f"{symbol} 价格数据无效")
             invalid_stocks.append(symbol)

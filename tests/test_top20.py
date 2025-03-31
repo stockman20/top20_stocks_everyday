@@ -206,7 +206,7 @@ class TestIntegration(unittest.TestCase):
         mock_yfinance.side_effect = get_mock_ticker
 
         # Setup get_stock_details mock with logging
-        def mock_get_details(symbol_dict):
+        def mock_get_details_impl(symbol_dict): # Renamed function
             if isinstance(symbol_dict, dict):
                 symbol = symbol_dict.get('symbol')
             else:
@@ -223,7 +223,8 @@ class TestIntegration(unittest.TestCase):
             debug_log(f"Returning details for {symbol}: {details}")
             return details
 
-        mock_get_details.side_effect = mock_get_details
+        # Assign the renamed local function to the side_effect of the mock object
+        mock_get_details.side_effect = mock_get_details_impl
 
         # Test multithreaded processing with detailed logging
         with self.assertLogs(level='INFO') as log:
