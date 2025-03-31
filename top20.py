@@ -486,7 +486,8 @@ def update_filter_files():
 if __name__ == "__main__":
     if not is_market_open():
         logging.warning("今日非交易日，程序终止")
-        sys.exit("非交易日")
+        logging.info("非交易日")
+        sys.exit(0)
     try:
         # 在程序开始时初始化日志目录（仅用于保存其他文件，不再生成 execution.log）
         log_dir, _ = setup_logging_with_file()
