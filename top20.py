@@ -124,50 +124,50 @@ def is_market_open():
 global_filters = {}
 invalid_stocks = ThreadSafeList()
 
+def load_filter_files():
+    filters = {
+        'non_us_stocks': {},
+        'excluded_stocks': set(),
+        'valid_stocks': set()
+    }
+    try:
+        with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
+            filters['non_us_stocks'] = json.load(f)
+            logging.info(f"已加载 {len(filters['non_us_stocks'])} 个非美股记录")
+    except (FileNotFoundError, json.JSONDecodeError):
+        logging.info("未找到非美股记录文件或文件格式错误")
+    try:
+        with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
+            filters['excluded_stocks'] = set(json.load(f))
+            logging.info(f"已加载 {len(filters['excluded_stocks'])} 个需排除的股票")
+    except (FileNotFoundError, json.JSONDecodeError):
+        logging.info("未找到需排除的股票列表文件")
+    try:
+        with open('valid_stocks.json', 'r', encoding='utf-8') as f:
+            filters['valid_stocks'] = set(json.load(f))
+            logging.info(f"已加载 {len(filters['valid_stocks'])} 个已验证的有效股票")
+    except (FileNotFoundError, json.JSONDecodeError):
+        logging.info("未找到已验证的有效股票列表文件")
+    return filters
+
+def should_include_symbol(symbol_data, filters):
+    symbol = symbol_data.get('symbol', '')
+    if not symbol.isalpha() or len(symbol) > 5:
+        return False, "非标准股票代码"
+    if any(x in symbol for x in ['.WS', 'WS', 'W', '-W', '.W']):
+        return False, "权证"
+    if symbol in filters['non_us_stocks']:
+        return False, "非美股"
+    if symbol in filters['excluded_stocks']:
+        return False, "在排除列表中"
+    if symbol_data.get('type') != 'Common Stock':
+        return False, "非普通股"
+    if filters['valid_stocks'] and symbol not in filters['valid_stocks']:
+        return False, "不在已验证的有效股票列表中"
+    return True, "通过"
+
 def load_or_fetch_symbols():
     logging.info("开始获取和过滤股票列表...")
-    
-    def load_filter_files():
-        filters = {
-            'non_us_stocks': {},
-            'excluded_stocks': set(),
-            'valid_stocks': set()
-        }
-        try:
-            with open('non_us_stocks.json', 'r', encoding='utf-8') as f:
-                filters['non_us_stocks'] = json.load(f)
-                logging.info(f"已加载 {len(filters['non_us_stocks'])} 个非美股记录")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到非美股记录文件或文件格式错误")
-        try:
-            with open('excluded_stocks.json', 'r', encoding='utf-8') as f:
-                filters['excluded_stocks'] = set(json.load(f))
-                logging.info(f"已加载 {len(filters['excluded_stocks'])} 个需排除的股票")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到需排除的股票列表文件")
-        try:
-            with open('valid_stocks.json', 'r', encoding='utf-8') as f:
-                filters['valid_stocks'] = set(json.load(f))
-                logging.info(f"已加载 {len(filters['valid_stocks'])} 个已验证的有效股票")
-        except (FileNotFoundError, json.JSONDecodeError):
-            logging.info("未找到已验证的有效股票列表文件")
-        return filters
-
-    def should_include_symbol(symbol_data, filters):
-        symbol = symbol_data.get('symbol', '')
-        if not symbol.isalpha() or len(symbol) > 5:
-            return False, "非标准股票代码"
-        if any(x in symbol for x in ['.WS', 'WS', 'W', '-W', '.W']):
-            return False, "权证"
-        if symbol in filters['non_us_stocks']:
-            return False, "非美股"
-        if symbol in filters['excluded_stocks']:
-            return False, "在排除列表中"
-        if symbol_data.get('type') != 'Common Stock':
-            return False, "非普通股"
-        if filters['valid_stocks'] and symbol not in filters['valid_stocks']:
-            return False, "不在已验证的有效股票列表中"
-        return True, "通过"
 
     try:
         filters = load_filter_files()

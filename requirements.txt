@@ -4,3 +4,6 @@ finnhub-python
 python-dateutil
 pytz 
 holidays
+pytest
+pytest-mock
+pytest-cov
