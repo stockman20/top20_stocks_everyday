@@ -22762,5 +22762,29 @@
     "name": "Leonteq AG",
     "country": "CH",
     "added_date": "2025-03-31 22:38:05"
+  },
+  "GOEVQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Canoo Inc",
+    "country": "US",
+    "added_date": "2025-04-23 21:35:45"
+  },
+  "TTOO": {
+    "exchange": "OTC MARKETS",
+    "name": "T2 Biosystems Inc",
+    "country": "US",
+    "added_date": "2025-04-23 21:41:50"
+  },
+  "VIRX": {
+    "exchange": "OTC MARKETS",
+    "name": "Viracta Therapeutics Inc",
+    "country": "US",
+    "added_date": "2025-04-23 21:47:48"
+  },
+  "VISL": {
+    "exchange": "OTC MARKETS",
+    "name": "Vislink Technologies Inc",
+    "country": "US",
+    "added_date": "2025-04-23 22:10:48"
   }
 }
