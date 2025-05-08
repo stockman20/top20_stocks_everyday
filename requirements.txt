@@ -2,7 +2,7 @@ yfinance
 pandas
 finnhub-python
 python-dateutil
-pytz 
+pytz
 holidays
 pytest
 pytest-mock
