@@ -8,8 +8,8 @@ echo "🔍 GIT_USERNAME: $GIT_USERNAME"
 echo "🔍 GIT_EMAIL: $GIT_EMAIL"
 
 # 设置 Git 用户信息（如果变量为空，则使用默认值）
-git config --global user.name "${GIT_USERNAME:-github-actions}"
-git config --global user.email "${GIT_EMAIL:-github-actions@github.com}"
+git config --global user.name "wenisy"
+git config --global user.email "wenisy@gmail.com"
 
 git config --global --list  # 检查 Git 配置是否正确
 
