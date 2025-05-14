@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)               板块                      昨天收盘             今天收盘       涨跌幅(%)
+IXHL        Incannex Healthcare Inc  0.02                Pharmaceuticals   2025-05-13 0.09   2025-05-14 0.7 723.53
+KLTO       Klotho Neurosciences Inc  0.04                  Biotechnology   2025-05-13 0.13  2025-05-14 0.29 122.46
+PGHL     Primega Group Holdings Ltd  0.13                    Road & Rail   2025-05-13 0.51  2025-05-14 0.99  95.80
+ AKA        AKA Brands Holding Corp  0.93                         Retail    2025-05-13 8.7 2025-05-14 13.88  59.54
+NEGG            Newegg Commerce Inc  1.01                         Retail    2025-05-13 5.2  2025-05-14 7.99  53.65
+SEPN                   Septerna Inc  3.00                Pharmaceuticals   2025-05-13 6.73 2025-05-14 10.16  50.97
+BLUE               bluebird bio Inc  0.32                  Biotechnology   2025-05-13 3.31  2025-05-14 4.98  50.45
+LUCY         Innovative Eyewear Inc  0.06                    Health Care   2025-05-13 1.98   2025-05-14 2.9  46.46
+VEEA                       Veea Inc  0.61                     Technology   2025-05-13 1.68  2025-05-14 2.35  39.88
+ADCT            ADC Therapeutics SA  1.31                  Biotechnology   2025-05-13 1.32  2025-05-14 1.81  37.12
+YIBO Planet Image International Ltd  0.81 Commercial Services & Supplies   2025-05-13 1.72   2025-05-14 2.3  33.72
+GCTS  GCT Semiconductor Holding Inc  0.81                 Semiconductors   2025-05-13 1.68   2025-05-14 2.2  30.95
+FTHM            Fathom Holdings Inc  0.26                    Real Estate   2025-05-13 0.96  2025-05-14 1.24  29.44
+ INM      InMed Pharmaceuticals Inc  0.03                Pharmaceuticals   2025-05-13 2.62  2025-05-14 3.36  28.24
+NUTX               Nutex Health Inc  6.96                    Health Care 2025-05-13 125.93 2025-05-14 158.8  26.10
+DHAI             DIH Holding US Inc  0.09                    Health Care   2025-05-13 0.19  2025-05-14 0.24  24.58
+GNLN         Greenlane Holdings Inc  0.04                   Distributors    2025-05-13 0.0  2025-05-14 0.01  24.00
+INZY             Inozyme Pharma Inc  0.70                  Biotechnology   2025-05-13 1.09  2025-05-14 1.35  23.85
+ALUR      Allurion Technologies Inc  0.18  Diversified Consumer Services   2025-05-13 2.36  2025-05-14 2.92  23.73
+TNFA        TNF Pharmaceuticals Inc  0.02                Pharmaceuticals   2025-05-13 0.18  2025-05-14 0.22  23.18
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ EXEL                       Exelixis Inc 101.83                    Biotechnology  2025-05-13 36.95  2025-05-14 44.65 20.84 
+ RGTI              Rigetti Computing Inc  28.64                   Semiconductors   2025-05-13 9.86  2025-05-14 11.64 17.99 
+  ECG      Everus Construction Group Inc  26.22                     Construction  2025-05-13 51.42   2025-05-14 60.3 17.27 
+ SMCI           Super Micro Computer Inc 232.10                       Technology  2025-05-13 38.89   2025-05-14 45.0 15.71 
+ OKLO                           Oklo Inc  44.59                        Utilities  2025-05-13 32.03  2025-05-14 37.01 15.55 
+ SATS                      EchoStar Corp  56.68                            Media  2025-05-13 19.78  2025-05-14 22.78 15.19 
+ RDDT                         Reddit Inc 208.21                            Media 2025-05-13 112.84 2025-05-14 125.32 11.06 
+ RKLB                 Rocket Lab USA Inc 100.73              Aerospace & Defense  2025-05-13 21.83  2025-05-14 24.13 10.54 
+  RGC  Regencell Bioscience Holdings Ltd  40.63                  Pharmaceuticals  2025-05-13 312.2 2025-05-14 342.99  9.86 
+  PVH                           PVH Corp  38.63 Textiles, Apparel & Luxury Goods   2025-05-13 80.5  2025-05-14 87.28  8.42 
+ KRMN                Karman Holdings Inc  53.08              Aerospace & Defense  2025-05-13 40.16  2025-05-14 43.37  7.99 
+LBTYK                 Liberty Global Ltd  31.77                Telecommunication   2025-05-13 9.32  2025-05-14 10.06  7.94 
+ CCEC Capital Clean Energy Carriers Corp  23.30                           Marine  2025-05-13 19.95  2025-05-14 21.39  7.22 
+  RUN                         Sunrun Inc  27.19             Electrical Equipment   2025-05-13 11.9   2025-05-14 12.7  6.72 
+ ALHC           Alignment Healthcare Inc  27.80                      Health Care  2025-05-13 14.05  2025-05-14 14.91  6.12 
+ ACHR                Archer Aviation Inc  61.27              Aerospace & Defense  2025-05-13 11.16  2025-05-14 11.84  6.09 
+  SMR                 Nuscale Power Corp  61.46             Electrical Equipment  2025-05-13 21.64  2025-05-14 22.94  6.01 
+   DT                      Dynatrace Inc 151.29                       Technology  2025-05-13 50.54   2025-05-14 53.5  5.86 
+ ENPH                 Enphase Energy Inc  59.87                   Semiconductors  2025-05-13 45.63  2025-05-14 48.27  5.79 
+   BE                  Bloom Energy Corp  44.50             Electrical Equipment  2025-05-13 19.16  2025-05-14 20.25  5.69 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+EXEL               Exelixis Inc   101.83                 Biotechnology  2025-05-13 36.95  2025-05-14 44.65 20.84 
+SMCI   Super Micro Computer Inc   232.10                    Technology  2025-05-13 38.89   2025-05-14 45.0 15.71 
+SATS              EchoStar Corp    56.68                         Media  2025-05-13 19.78  2025-05-14 22.78 15.19 
+RDDT                 Reddit Inc   208.21                         Media 2025-05-13 112.84 2025-05-14 125.32 11.06 
+RKLB         Rocket Lab USA Inc   100.73           Aerospace & Defense  2025-05-13 21.83  2025-05-14 24.13 10.54 
+KRMN        Karman Holdings Inc    53.08           Aerospace & Defense  2025-05-13 40.16  2025-05-14 43.37  7.99 
+ACHR        Archer Aviation Inc    61.27           Aerospace & Defense  2025-05-13 11.16  2025-05-14 11.84  6.09 
+ SMR         Nuscale Power Corp    61.46          Electrical Equipment  2025-05-13 21.64  2025-05-14 22.94  6.01 
+  DT              Dynatrace Inc   151.29                    Technology  2025-05-13 50.54   2025-05-14 53.5  5.86 
+ENPH         Enphase Energy Inc    59.87                Semiconductors  2025-05-13 45.63  2025-05-14 48.27  5.79 
+LITE      Lumentum Holdings Inc    51.71                Communications  2025-05-13 74.51  2025-05-14 78.29  5.07 
+ SYM               Symbotic Inc   157.10                     Machinery   2025-05-13 26.7   2025-05-14 28.0  4.87 
+AFRM        Affirm Holdings Inc   174.01            Financial Services  2025-05-13 53.94  2025-05-14 56.55  4.84 
+  IP     International Paper Co   253.39                     Packaging   2025-05-13 48.0  2025-05-14 50.32  4.83 
+ AMD Advanced Micro Devices Inc  1823.43                Semiconductors 2025-05-13 112.46 2025-05-14 117.72  4.68 
+PLNT         Planet Fitness Inc    79.00 Hotels, Restaurants & Leisure  2025-05-13 93.83  2025-05-14 97.97  4.41 
+GRAB          Grab Holdings Ltd   204.95                   Road & Rail   2025-05-13 5.03   2025-05-14 5.25  4.37 
+CVNA                 Carvana Co   627.57                        Retail 2025-05-13 293.06 2025-05-14 305.52  4.25 
+NVDA                NVIDIA Corp 31686.75                Semiconductors 2025-05-13 129.93 2025-05-14 135.34  4.16 
+LCID            Lucid Group Inc    80.83                   Automobiles   2025-05-13 2.65   2025-05-14 2.76  4.15 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ EXEL               Exelixis Inc   101.83                 Biotechnology  2025-05-13 36.95  2025-05-14 44.65 20.84 
+ SMCI   Super Micro Computer Inc   232.10                    Technology  2025-05-13 38.89   2025-05-14 45.0 15.71 
+ RDDT                 Reddit Inc   208.21                         Media 2025-05-13 112.84 2025-05-14 125.32 11.06 
+ RKLB         Rocket Lab USA Inc   100.73           Aerospace & Defense  2025-05-13 21.83  2025-05-14 24.13 10.54 
+   DT              Dynatrace Inc   151.29                    Technology  2025-05-13 50.54   2025-05-14 53.5  5.86 
+  SYM               Symbotic Inc   157.10                     Machinery   2025-05-13 26.7   2025-05-14 28.0  4.87 
+ AFRM        Affirm Holdings Inc   174.01            Financial Services  2025-05-13 53.94  2025-05-14 56.55  4.84 
+   IP     International Paper Co   253.39                     Packaging   2025-05-13 48.0  2025-05-14 50.32  4.83 
+  AMD Advanced Micro Devices Inc  1823.43                Semiconductors 2025-05-13 112.46 2025-05-14 117.72  4.68 
+ GRAB          Grab Holdings Ltd   204.95                   Road & Rail   2025-05-13 5.03   2025-05-14 5.25  4.37 
+ CVNA                 Carvana Co   627.57                        Retail 2025-05-13 293.06 2025-05-14 305.52  4.25 
+ NVDA                NVIDIA Corp 31686.75                Semiconductors 2025-05-13 129.93 2025-05-14 135.34  4.16 
+ TSLA                  Tesla Inc 10745.42                   Automobiles 2025-05-13 334.07 2025-05-14 347.68  4.07 
+  VRT         Vertiv Holdings Co   402.37          Electrical Equipment 2025-05-13 105.58 2025-05-14 109.48  3.69 
+ GOOG               Alphabet Inc 19433.21                         Media 2025-05-13 160.89 2025-05-14 166.81  3.68 
+GOOGL               Alphabet Inc 19433.21                         Media 2025-05-13 159.53 2025-05-14 165.37  3.66 
+ SHOP                Shopify Inc  1397.02                    Technology 2025-05-13 107.68 2025-05-14 111.45  3.50 
+ ALAB            Astera Labs Inc   144.73                Semiconductors  2025-05-13 87.76  2025-05-14 90.66  3.30 
+ RBLX                Roblox Corp   522.41                         Media  2025-05-13 77.02  2025-05-14 79.45  3.16 
+  CMG Chipotle Mexican Grill Inc   682.44 Hotels, Restaurants & Leisure  2025-05-13 50.65  2025-05-14 52.24  3.14 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ SMCI   Super Micro Computer Inc   232.10                    Technology  2025-05-13 38.89   2025-05-14 45.0 15.71 
+ RDDT                 Reddit Inc   208.21                         Media 2025-05-13 112.84 2025-05-14 125.32 11.06 
+   IP     International Paper Co   253.39                     Packaging   2025-05-13 48.0  2025-05-14 50.32  4.83 
+  AMD Advanced Micro Devices Inc  1823.43                Semiconductors 2025-05-13 112.46 2025-05-14 117.72  4.68 
+ GRAB          Grab Holdings Ltd   204.95                   Road & Rail   2025-05-13 5.03   2025-05-14 5.25  4.37 
+ CVNA                 Carvana Co   627.57                        Retail 2025-05-13 293.06 2025-05-14 305.52  4.25 
+ NVDA                NVIDIA Corp 31686.75                Semiconductors 2025-05-13 129.93 2025-05-14 135.34  4.16 
+ TSLA                  Tesla Inc 10745.42                   Automobiles 2025-05-13 334.07 2025-05-14 347.68  4.07 
+  VRT         Vertiv Holdings Co   402.37          Electrical Equipment 2025-05-13 105.58 2025-05-14 109.48  3.69 
+ GOOG               Alphabet Inc 19433.21                         Media 2025-05-13 160.89 2025-05-14 166.81  3.68 
+GOOGL               Alphabet Inc 19433.21                         Media 2025-05-13 159.53 2025-05-14 165.37  3.66 
+ SHOP                Shopify Inc  1397.02                    Technology 2025-05-13 107.68 2025-05-14 111.45  3.50 
+ RBLX                Roblox Corp   522.41                         Media  2025-05-13 77.02  2025-05-14 79.45  3.16 
+  CMG Chipotle Mexican Grill Inc   682.44 Hotels, Restaurants & Leisure  2025-05-13 50.65  2025-05-14 52.24  3.14 
+ DELL      Dell Technologies Inc   752.62                    Technology 2025-05-13 107.85 2025-05-14 111.02  2.94 
+ DXCM                 Dexcom Inc   329.80                   Health Care  2025-05-13 84.11  2025-05-14 86.52  2.87 
+  NET             Cloudflare Inc   521.16                    Technology 2025-05-13 150.36 2025-05-14 154.49  2.75 
+   NU            Nu Holdings Ltd   637.47                       Banking  2025-05-13 13.14  2025-05-14 13.49  2.66 
+  CCJ                Cameco Corp   226.19                        Energy  2025-05-13 51.96   2025-05-14 53.3  2.58 
+ TOST                  Toast Inc   254.32            Financial Services  2025-05-13 43.96  2025-05-14 45.09  2.57 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)           板块                昨天收盘               今天收盘        涨跌幅(%)
+  AMD Advanced Micro Devices Inc  1823.43     Semiconductors  2025-05-13 112.46  2025-05-14 117.72  4.68 
+ NVDA                NVIDIA Corp 31686.75     Semiconductors  2025-05-13 129.93  2025-05-14 135.34  4.16 
+ TSLA                  Tesla Inc 10745.42        Automobiles  2025-05-13 334.07  2025-05-14 347.68  4.07 
+ GOOG               Alphabet Inc 19433.21              Media  2025-05-13 160.89  2025-05-14 166.81  3.68 
+GOOGL               Alphabet Inc 19433.21              Media  2025-05-13 159.53  2025-05-14 165.37  3.66 
+ SHOP                Shopify Inc  1397.02         Technology  2025-05-13 107.68  2025-05-14 111.45  3.50 
+ SPOT      Spotify Technology SA  1245.00              Media  2025-05-13 620.07  2025-05-14 633.23  2.12 
+ MELI           MercadoLibre Inc  1275.10             Retail 2025-05-13 2515.12  2025-05-14 2564.0  1.94 
+  APP              Applovin Corp  1252.37         Technology   2025-05-13 370.1  2025-05-14 376.54  1.74 
+  KKR               KKR & Co Inc  1130.22 Financial Services   2025-05-13 126.9  2025-05-14 129.03  1.68 
+ PLTR  Palantir Technologies Inc  3023.05         Technology   2025-05-13 128.1  2025-05-14 130.18  1.62 
+  DIS             Walt Disney Co  2002.33              Media  2025-05-13 111.38  2025-05-14 112.94  1.40 
+   MS             Morgan Stanley  2075.19 Financial Services  2025-05-13 129.35  2025-05-14 131.04  1.31 
+   GS    Goldman Sachs Group Inc  1852.74 Financial Services  2025-05-13 603.81   2025-05-14 611.6  1.29 
+ KLAC                   KLA Corp  1052.51     Semiconductors   2025-05-13 795.9   2025-05-14 805.0  1.14 
+ NFLX                Netflix Inc  4844.87              Media 2025-05-13 1138.44 2025-05-14 1150.99  1.10 
+ QCOM               Qualcomm Inc  1661.71     Semiconductors  2025-05-13 151.34  2025-05-14 152.98  1.08 
+  BAC       Bank of America Corp  3335.11            Banking   2025-05-13 44.28   2025-05-14 44.74  1.04 
+  JPM        JPMorgan Chase & Co  7309.30            Banking  2025-05-13 263.01  2025-05-14 265.64  1.00 
+ ANET        Arista Networks Inc  1221.38     Communications   2025-05-13 97.25   2025-05-14 98.22  1.00 
