@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                       公司名称                       市值(亿)             板块                   昨天收盘             今天收盘       涨跌幅(%)
+PTIX                      Protagenic Therapeutics Inc  0.02              Biotechnology  2025-05-16 3.03  2025-05-19 11.1 266.34
+MULN                            Mullen Automotive Inc  0.05                Automobiles  2025-05-16 0.17  2025-05-19 0.34 100.00
+FAAS                                    DigiAsia Corp  0.12         Financial Services  2025-05-16 0.19  2025-05-19 0.36  83.14
+SYTA                                Siyata Mobile Inc  0.07             Communications  2025-05-16 2.31  2025-05-19 4.07  76.19
+ARMP                       Armata Pharmaceuticals Inc  0.49              Biotechnology  2025-05-16 1.35  2025-05-19 2.37  75.56
+TNGX                           Tango Therapeutics Inc  1.63              Biotechnology   2025-05-16 1.5  2025-05-19 2.29  52.67
+ OMH                                     Ohmyhome Ltd  0.04                Real Estate   2025-05-16 1.5  2025-05-19 2.09  39.33
+SXTC                    China SXT Pharmaceuticals Inc  0.19            Pharmaceuticals   2025-05-16 1.2  2025-05-19 1.59  32.50
+ARQQ                                Arqit Quantum Inc  2.36                 Technology 2025-05-16 18.48 2025-05-19 24.27  31.33
+HKPD Hong Kong Pharma Digital Technology Holdings Ltd  0.12 Logistics & Transportation  2025-05-16 1.02  2025-05-19 1.29  26.47
+GUTS                               Fractyl Health Inc  0.83                Health Care  2025-05-16 1.69  2025-05-19 2.12  25.44
+QMCO                                     Quantum Corp  0.71                 Technology 2025-05-16 10.94 2025-05-19 13.65  24.77
+CTNM                       Contineum Therapeutics Inc  0.91            Pharmaceuticals  2025-05-16 3.51  2025-05-19 4.37  24.50
+AREN                         Arena Group Holdings Inc  3.74                      Media  2025-05-16 7.87  2025-05-19 9.76  24.02
+ADCT                              ADC Therapeutics SA  1.87              Biotechnology  2025-05-16 1.89  2025-05-19 2.34  23.81
+ NFE                          New Fortress Energy Inc  7.29                     Energy  2025-05-16 2.66  2025-05-19 3.29  23.68
+ TMC                       TMC the metals company Inc 13.51            Metals & Mining  2025-05-16 3.64  2025-05-19 4.45  22.25
+AISP                          Airship AI Holdings Inc  1.41                 Technology  2025-05-16 4.43  2025-05-19 5.37  21.22
+LAES                                      Sealsq Corp  3.15             Semiconductors  2025-05-16 2.58   2025-05-19 3.1  20.16
+ELEV                           Elevation Oncology Inc  0.17              Biotechnology  2025-05-16 0.28  2025-05-19 0.34  20.14
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码             公司名称             市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ SOC         Sable Offshore Corp   25.80                           Energy  2025-05-16 28.86  2025-05-19 33.02 14.41 
+ BGC               Bgc Group Inc   44.96               Financial Services   2025-05-16 9.21  2025-05-19 10.03  8.90 
+ UNH      UnitedHealth Group Inc 2648.03                      Health Care 2025-05-16 291.91 2025-05-19 315.89  8.21 
+QBTS          D-Wave Quantum Inc   35.79                       Technology  2025-05-16 12.25  2025-05-19 13.15  7.35 
+TXNM             TXNM Energy Inc   49.00                        Utilities  2025-05-16 52.88  2025-05-19 56.57  6.98 
+MRNA                 Moderna Inc   96.14                    Biotechnology  2025-05-16 24.86  2025-05-19 26.39  6.15 
+OKLO                    Oklo Inc   52.51                        Utilities  2025-05-16 37.72  2025-05-19 39.73  5.33 
+SEZL                  Sezzle Inc   31.22               Financial Services  2025-05-16 93.79  2025-05-19 98.75  5.29 
+  DG         Dollar General Corp  205.76                           Retail  2025-05-16 93.55  2025-05-19 98.18  4.95 
+ GEO               Geo Group Inc   38.01   Commercial Services & Supplies  2025-05-16 26.37  2025-05-19 27.55  4.47 
+ GEV              GE Vernova Inc 1168.32             Electrical Equipment 2025-05-16 428.06  2025-05-19 446.6  4.33 
+ QXO                     QXO Inc   87.09 Trading Companies & Distributors  2025-05-16 16.79  2025-05-19 17.51  4.29 
+MLTX MoonLake Immunotherapeutics   24.15                    Biotechnology  2025-05-16 37.62   2025-05-19 39.2  4.20 
+SRPT    Sarepta Therapeutics Inc   35.80                    Biotechnology  2025-05-16 36.43  2025-05-19 37.94  4.14 
+HOOD       Robinhood Markets Inc  545.01               Financial Services  2025-05-16 61.76  2025-05-19 64.27  4.06 
+  MQ                 Marqeta Inc   23.60               Financial Services   2025-05-16 5.04   2025-05-19 5.24  3.97 
+ HUM                  Humana Inc  287.20                      Health Care 2025-05-16 237.96 2025-05-19 247.34  3.94 
+GLOB                  Globant SA   44.69                       Technology 2025-05-16 101.47 2025-05-19 105.46  3.93 
+FTAI           FTAI Aviation Ltd  121.00 Trading Companies & Distributors 2025-05-16 117.98  2025-05-19 122.4  3.75 
+PLNT          Planet Fitness Inc   83.23    Hotels, Restaurants & Leisure  2025-05-16 98.86 2025-05-19 102.46  3.64 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ UNH             UnitedHealth Group Inc 2648.03                      Health Care  2025-05-16 291.91  2025-05-19 315.89  8.21 
+MRNA                        Moderna Inc   96.14                    Biotechnology   2025-05-16 24.86   2025-05-19 26.39  6.15 
+OKLO                           Oklo Inc   52.51                        Utilities   2025-05-16 37.72   2025-05-19 39.73  5.33 
+  DG                Dollar General Corp  205.76                           Retail   2025-05-16 93.55   2025-05-19 98.18  4.95 
+ GEV                     GE Vernova Inc 1168.32             Electrical Equipment  2025-05-16 428.06   2025-05-19 446.6  4.33 
+ QXO                            QXO Inc   87.09 Trading Companies & Distributors   2025-05-16 16.79   2025-05-19 17.51  4.29 
+HOOD              Robinhood Markets Inc  545.01               Financial Services   2025-05-16 61.76   2025-05-19 64.27  4.06 
+ HUM                         Humana Inc  287.20                      Health Care  2025-05-16 237.96  2025-05-19 247.34  3.94 
+FTAI                  FTAI Aviation Ltd  121.00 Trading Companies & Distributors  2025-05-16 117.98   2025-05-19 122.4  3.75 
+PLNT                 Planet Fitness Inc   83.23    Hotels, Restaurants & Leisure   2025-05-16 98.86  2025-05-19 102.46  3.64 
+GILD                Gilead Sciences Inc 1275.03                    Biotechnology   2025-05-16 102.5  2025-05-19 106.16  3.57 
+  AU              Anglogold Ashanti PLC  203.68                  Metals & Mining   2025-05-16 40.74   2025-05-19 42.18  3.53 
+MSTR                  Microstrategy Inc 1093.07                       Technology   2025-05-16 399.8  2025-05-19 413.42  3.41 
+  VG                 Venture Global Inc  236.90                           Energy    2025-05-16 9.79   2025-05-19 10.11  3.27 
+STVN                Stevanato Group SpA   65.55   Life Sciences Tools & Services   2025-05-16 24.02   2025-05-19 24.78  3.16 
+   X           United States Steel Corp   91.36                  Metals & Mining   2025-05-16 40.35   2025-05-19 41.62  3.15 
+BIIB                         Biogen Inc  184.02                    Biotechnology  2025-05-16 125.59  2025-05-19 129.44  3.07 
+RIVN              Rivian Automotive Inc  181.25                      Automobiles   2025-05-16 15.81   2025-05-19 16.29  3.04 
+CRDO Credo Technology Group Holding Ltd  102.10                   Semiconductors   2025-05-16 60.13   2025-05-19 61.96  3.04 
+ AZO                       Autozone Inc  633.42                           Retail 2025-05-16 3786.42 2025-05-19 3879.97  2.47 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ UNH             UnitedHealth Group Inc 2648.03                      Health Care  2025-05-16 291.91  2025-05-19 315.89  8.21 
+  DG                Dollar General Corp  205.76                           Retail   2025-05-16 93.55   2025-05-19 98.18  4.95 
+ GEV                     GE Vernova Inc 1168.32             Electrical Equipment  2025-05-16 428.06   2025-05-19 446.6  4.33 
+HOOD              Robinhood Markets Inc  545.01               Financial Services   2025-05-16 61.76   2025-05-19 64.27  4.06 
+ HUM                         Humana Inc  287.20                      Health Care  2025-05-16 237.96  2025-05-19 247.34  3.94 
+FTAI                  FTAI Aviation Ltd  121.00 Trading Companies & Distributors  2025-05-16 117.98   2025-05-19 122.4  3.75 
+GILD                Gilead Sciences Inc 1275.03                    Biotechnology   2025-05-16 102.5  2025-05-19 106.16  3.57 
+  AU              Anglogold Ashanti PLC  203.68                  Metals & Mining   2025-05-16 40.74   2025-05-19 42.18  3.53 
+MSTR                  Microstrategy Inc 1093.07                       Technology   2025-05-16 399.8  2025-05-19 413.42  3.41 
+  VG                 Venture Global Inc  236.90                           Energy    2025-05-16 9.79   2025-05-19 10.11  3.27 
+BIIB                         Biogen Inc  184.02                    Biotechnology  2025-05-16 125.59  2025-05-19 129.44  3.07 
+RIVN              Rivian Automotive Inc  181.25                      Automobiles   2025-05-16 15.81   2025-05-19 16.29  3.04 
+CRDO Credo Technology Group Holding Ltd  102.10                   Semiconductors   2025-05-16 60.13   2025-05-19 61.96  3.04 
+ AZO                       Autozone Inc  633.42                           Retail 2025-05-16 3786.42 2025-05-19 3879.97  2.47 
+ RBC                   RBC Bearings Inc  115.77                        Machinery  2025-05-16 368.17  2025-05-19 377.14  2.44 
+FRHC               Freedom Holding Corp  106.69               Financial Services   2025-05-16 176.0  2025-05-19 180.28  2.43 
+ALNY        Alnylam Pharmaceuticals Inc  372.01                    Biotechnology  2025-05-16 285.31  2025-05-19 291.86  2.30 
+ APP                      Applovin Corp 1226.11                       Technology  2025-05-16 362.34  2025-05-19 370.63  2.29 
+ SYM                       Symbotic Inc  162.81                        Machinery   2025-05-16 27.67    2025-05-19 28.3  2.28 
+SOLV                     Solventum Corp  128.22                      Health Care   2025-05-16 74.11   2025-05-19 75.77  2.24 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+ UNH          UnitedHealth Group Inc 2648.03           Health Care  2025-05-16 291.91  2025-05-19 315.89  8.21 
+  DG             Dollar General Corp  205.76                Retail   2025-05-16 93.55   2025-05-19 98.18  4.95 
+ GEV                  GE Vernova Inc 1168.32  Electrical Equipment  2025-05-16 428.06   2025-05-19 446.6  4.33 
+HOOD           Robinhood Markets Inc  545.01    Financial Services   2025-05-16 61.76   2025-05-19 64.27  4.06 
+ HUM                      Humana Inc  287.20           Health Care  2025-05-16 237.96  2025-05-19 247.34  3.94 
+GILD             Gilead Sciences Inc 1275.03         Biotechnology   2025-05-16 102.5  2025-05-19 106.16  3.57 
+  AU           Anglogold Ashanti PLC  203.68       Metals & Mining   2025-05-16 40.74   2025-05-19 42.18  3.53 
+MSTR               Microstrategy Inc 1093.07            Technology   2025-05-16 399.8  2025-05-19 413.42  3.41 
+  VG              Venture Global Inc  236.90                Energy    2025-05-16 9.79   2025-05-19 10.11  3.27 
+ AZO                    Autozone Inc  633.42                Retail 2025-05-16 3786.42 2025-05-19 3879.97  2.47 
+ALNY     Alnylam Pharmaceuticals Inc  372.01         Biotechnology  2025-05-16 285.31  2025-05-19 291.86  2.30 
+ APP                   Applovin Corp 1226.11            Technology  2025-05-16 362.34  2025-05-19 370.63  2.29 
+ FCX            Freeport-McMoRan Inc  546.04       Metals & Mining   2025-05-16 38.02    2025-05-19 38.8  2.05 
+CVNA                      Carvana Co  642.19                Retail  2025-05-16 299.89  2025-05-19 305.21  1.77 
+DXCM                      Dexcom Inc  335.17           Health Care   2025-05-16 85.48   2025-05-19 86.96  1.73 
+ NEM             Newmont Corporation  557.61       Metals & Mining    2025-05-16 50.1   2025-05-19 50.93  1.66 
+  PM Philip Morris International Inc 2652.93               Tobacco  2025-05-16 170.44  2025-05-19 173.17  1.60 
+ MRK                  Merck & Co Inc 1909.89       Pharmaceuticals   2025-05-16 76.06   2025-05-19 77.23  1.54 
+VRSK            Verisk Analytics Inc  433.04 Professional Services  2025-05-16 309.57  2025-05-19 314.35  1.54 
+  GE                    GE Aerospace 2471.67   Aerospace & Defense  2025-05-16 231.78  2025-05-19 235.29  1.51 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码               公司名称               市值(亿)                 板块                     昨天收盘               今天收盘       涨跌幅(%)
+ UNH          UnitedHealth Group Inc  2648.03                   Health Care  2025-05-16 291.91 2025-05-19 315.89  8.21 
+ GEV                  GE Vernova Inc  1168.32          Electrical Equipment  2025-05-16 428.06  2025-05-19 446.6  4.33 
+GILD             Gilead Sciences Inc  1275.03                 Biotechnology   2025-05-16 102.5 2025-05-19 106.16  3.57 
+MSTR               Microstrategy Inc  1093.07                    Technology   2025-05-16 399.8 2025-05-19 413.42  3.41 
+ APP                   Applovin Corp  1226.11                    Technology  2025-05-16 362.34 2025-05-19 370.63  2.29 
+  PM Philip Morris International Inc  2652.93                       Tobacco  2025-05-16 170.44 2025-05-19 173.17  1.60 
+ MRK                  Merck & Co Inc  1909.89               Pharmaceuticals   2025-05-16 76.06  2025-05-19 77.23  1.54 
+  GE                    GE Aerospace  2471.67           Aerospace & Defense  2025-05-16 231.78 2025-05-19 235.29  1.51 
+SPOT           Spotify Technology SA  1317.74                         Media   2025-05-16 656.3 2025-05-19 664.62  1.27 
+ TJX               TJX Companies Inc  1488.73                        Retail  2025-05-16 133.34 2025-05-19 135.03  1.27 
+ RTX                        RTX Corp  1809.95           Aerospace & Defense  2025-05-16 135.48  2025-05-19 137.2  1.27 
+AMGN                       Amgen Inc  1464.77                 Biotechnology  2025-05-16 272.41 2025-05-19 275.85  1.26 
+BKNG            Booking Holdings Inc  1730.19 Hotels, Restaurants & Leisure 2025-05-16 5317.07 2025-05-19 5378.0  1.15 
+ ADP   Automatic Data Processing Inc  1296.40         Professional Services  2025-05-16 319.37 2025-05-19 322.96  1.12 
+   T                        AT&T Inc  1994.62             Telecommunication   2025-05-16 27.72  2025-05-19 28.02  1.08 
+ LMT            Lockheed Martin Corp  1097.25           Aerospace & Defense  2025-05-16 468.32 2025-05-19 473.06  1.01 
+MSFT                  Microsoft Corp 33763.82                    Technology  2025-05-16 454.27 2025-05-19 458.87  1.01 
+ HON     Honeywell International Inc  1432.41      Industrial Conglomerates  2025-05-16 222.88 2025-05-19 224.94  0.92 
+ABBV                      AbbVie Inc  3250.53                 Biotechnology  2025-05-16 184.02 2025-05-19 185.71  0.92 
+  PG             Procter & Gamble Co  3828.17             Consumer products  2025-05-16 163.28 2025-05-19 164.77  0.91 
