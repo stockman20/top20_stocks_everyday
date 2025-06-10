@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                公司名称               市值(亿)                 板块                      昨天收盘             今天收盘       涨跌幅(%)
+INUV                         Inuvo Inc   0.57                       Technology   2025-06-09 0.4  2025-06-10 3.54 785.00
+CARM          Carisma Therapeutics Inc   0.09                    Biotechnology  2025-06-09 0.23  2025-06-10 1.11 388.99
+EVGN                       Evogene Ltd   0.08                    Biotechnology  2025-06-09 1.13  2025-06-10 2.26 100.00
+MRIN                Marin Software Inc   0.03                       Technology  2025-06-09 0.85   2025-06-10 1.7 100.00
+GELS                        Gelteq Ltd   0.16                  Pharmaceuticals   2025-06-09 1.7  2025-06-10 2.95  73.53
+MEGL           Magic Empire Global Ltd   0.10               Financial Services  2025-06-09 1.28  2025-06-10 2.05  60.03
+QTRX                    Quanterix Corp   1.96   Life Sciences Tools & Services  2025-06-09 5.06  2025-06-10 6.58  30.04
+NKTR               Nektar Therapeutics  18.59                  Pharmaceuticals  2025-06-09 8.79 2025-06-10 11.35  29.12
+INSM                        Insmed Inc 128.74                    Biotechnology 2025-06-09 70.68 2025-06-10 90.93  28.65
+BODI             Beachbody Company Inc   0.25    Diversified Consumer Services  2025-06-09 3.63   2025-06-10 4.6  26.72
+ RFL               Rafael Holdings Inc   1.14                      Real Estate  2025-06-09 2.25  2025-06-10 2.85  26.67
+MDIA               Mediaco Holding Inc   0.55                            Media  2025-06-09 1.03  2025-06-10 1.29  25.24
+TNMG                     TNL Mediagene   0.15                            Media  2025-06-09 0.52  2025-06-10 0.64  22.96
+BBLG               Bone Biologics Corp   0.02                    Biotechnology  2025-06-09 4.52  2025-06-10 5.56  22.88
+BIRD                      Allbirds Inc   0.81 Textiles, Apparel & Luxury Goods 2025-06-09 10.09 2025-06-10 12.29  21.80
+IMNN                        Imunon Inc   0.23                    Biotechnology  2025-06-09 1.33  2025-06-10 1.62  21.80
+ZYBT Zhengye Biotechnology Holding Ltd   2.43                  Pharmaceuticals  2025-06-09 5.16  2025-06-10 6.25  21.12
+ABCL           Abcellera Biologics Inc   7.49   Life Sciences Tools & Services  2025-06-09 2.51  2025-06-10 3.02  20.32
+AKYA             Akoya Biosciences Inc   0.56   Life Sciences Tools & Services  2025-06-09 1.12  2025-06-10 1.33  18.75
+XTIA                 XTI Aerospace Inc   0.16                       Technology  2025-06-09 2.57  2025-06-10 3.05  18.68
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码              公司名称               市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+INSM                     Insmed Inc  128.74                  Biotechnology  2025-06-09 70.68  2025-06-10 90.93 28.65 
+MTSR                    Metsera Inc   31.93                  Biotechnology  2025-06-09 30.39   2025-06-10 35.1 15.50 
+CASY      Caseys General Stores Inc  163.06                         Retail 2025-06-09 439.29  2025-06-10 490.2 11.59 
+NAMS NewAmsterdam Pharma Company NV   22.63                  Biotechnology  2025-06-09 20.16  2025-06-10 21.84  8.33 
+  VG             Venture Global Inc  380.89                         Energy  2025-06-09 15.74  2025-06-10 17.04  8.26 
+INTC                     Intel Corp  893.34                 Semiconductors  2025-06-09 20.48  2025-06-10 22.08  7.81 
+ RIG                 Transocean Ltd   25.35                         Energy   2025-06-09 2.87   2025-06-10 3.08  7.32 
+ PBF                 PBF Energy Inc   21.97                         Energy   2025-06-09 19.0  2025-06-10 20.24  6.53 
+  VC                   Visteon Corp   23.04                Auto Components  2025-06-09 84.53  2025-06-10 90.04  6.52 
+ CZR      Caesars Entertainment Inc   55.61  Hotels, Restaurants & Leisure  2025-06-09 26.74  2025-06-10 28.26  5.70 
+VKTX        Viking Therapeutics Inc   30.96                  Biotechnology  2025-06-09 27.57  2025-06-10 29.14  5.69 
+TSLA                      Tesla Inc 9925.53                    Automobiles 2025-06-09 308.58 2025-06-10 326.09  5.67 
+ DFH        Dream Finders Homes Inc   21.72              Consumer products  2025-06-09 23.22  2025-06-10 24.52  5.60 
+STVN            Stevanato Group SpA   63.72 Life Sciences Tools & Services  2025-06-09 23.35  2025-06-10 24.64  5.52 
+QUBT          Quantum Computing Inc   20.21                     Technology  2025-06-09 14.34  2025-06-10 15.13  5.51 
+PRGO            Perrigo Company PLC   35.98                Pharmaceuticals  2025-06-09 26.17   2025-06-10 27.6  5.46 
+ LEA                      Lear Corp   48.33                Auto Components   2025-06-09 90.4  2025-06-10 95.23  5.34 
+BLCO             Bausch + Lomb Corp   42.34                    Health Care  2025-06-09 11.98  2025-06-10 12.58  5.01 
+APPF                   Appfolio Inc   78.52                     Technology 2025-06-09 217.95 2025-06-10 228.44  4.81 
+APTV                      Aptiv PLC  146.29                Auto Components  2025-06-09 67.19  2025-06-10 70.37  4.73 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+INSM                Insmed Inc  128.74                  Biotechnology  2025-06-09 70.68  2025-06-10 90.93 28.65 
+CASY Caseys General Stores Inc  163.06                         Retail 2025-06-09 439.29  2025-06-10 490.2 11.59 
+  VG        Venture Global Inc  380.89                         Energy  2025-06-09 15.74  2025-06-10 17.04  8.26 
+INTC                Intel Corp  893.34                 Semiconductors  2025-06-09 20.48  2025-06-10 22.08  7.81 
+ CZR Caesars Entertainment Inc   55.61  Hotels, Restaurants & Leisure  2025-06-09 26.74  2025-06-10 28.26  5.70 
+TSLA                 Tesla Inc 9925.53                    Automobiles 2025-06-09 308.58 2025-06-10 326.09  5.67 
+STVN       Stevanato Group SpA   63.72 Life Sciences Tools & Services  2025-06-09 23.35  2025-06-10 24.64  5.52 
+APPF              Appfolio Inc   78.52                     Technology 2025-06-09 217.95 2025-06-10 228.44  4.81 
+APTV                 Aptiv PLC  146.29                Auto Components  2025-06-09 67.19  2025-06-10 70.37  4.73 
+NUVL              Nuvalent Inc   54.63                  Biotechnology  2025-06-09 76.08  2025-06-10 79.46  4.44 
+  CE             Celanese Corp   62.26                      Chemicals  2025-06-09 56.91  2025-06-10 59.36  4.31 
+ENPH        Enphase Energy Inc   56.76                 Semiconductors  2025-06-09 43.26  2025-06-10 45.08  4.21 
+ SLB           Schlumberger NV  464.09                         Energy  2025-06-09 34.12  2025-06-10 35.52  4.10 
+ LAD         Lithia Motors Inc   84.22                         Retail 2025-06-09 323.56 2025-06-10 336.75  4.08 
+ALGN      Align Technology Inc  131.15                    Health Care 2025-06-09 180.93 2025-06-10 188.07  3.95 
+BLDR  Builders FirstSource Inc  124.84                       Building 2025-06-09 112.96 2025-06-10 117.33  3.87 
+ AES                  AES Corp   77.46                      Utilities  2025-06-09 10.88  2025-06-10 11.29  3.77 
+BRKR               Bruker Corp   59.42 Life Sciences Tools & Services  2025-06-09 39.21  2025-06-10 40.66  3.70 
+SIRI    Sirius XM Holdings Inc   74.34                          Media   2025-06-09 22.0  2025-06-10 22.81  3.68 
+ IQV        IQVIA Holdings Inc  266.68 Life Sciences Tools & Services 2025-06-09 154.15 2025-06-10 159.77  3.65 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码             公司名称              市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+INSM                   Insmed Inc  128.74                  Biotechnology   2025-06-09 70.68   2025-06-10 90.93 28.65 
+CASY    Caseys General Stores Inc  163.06                         Retail  2025-06-09 439.29   2025-06-10 490.2 11.59 
+  VG           Venture Global Inc  380.89                         Energy   2025-06-09 15.74   2025-06-10 17.04  8.26 
+INTC                   Intel Corp  893.34                 Semiconductors   2025-06-09 20.48   2025-06-10 22.08  7.81 
+TSLA                    Tesla Inc 9925.53                    Automobiles  2025-06-09 308.58  2025-06-10 326.09  5.67 
+APTV                    Aptiv PLC  146.29                Auto Components   2025-06-09 67.19   2025-06-10 70.37  4.73 
+ SLB              Schlumberger NV  464.09                         Energy   2025-06-09 34.12   2025-06-10 35.52  4.10 
+ALGN         Align Technology Inc  131.15                    Health Care  2025-06-09 180.93  2025-06-10 188.07  3.95 
+BLDR     Builders FirstSource Inc  124.84                       Building  2025-06-09 112.96  2025-06-10 117.33  3.87 
+ IQV           IQVIA Holdings Inc  266.68 Life Sciences Tools & Services  2025-06-09 154.15  2025-06-10 159.77  3.65 
+ TEM                Tempus AI Inc  115.88 Life Sciences Tools & Services   2025-06-09 66.94   2025-06-10 69.38  3.65 
+ NVR                      NVR Inc  208.72              Consumer products 2025-06-09 7138.62 2025-06-10 7398.68  3.64 
+RVTY                  Revvity Inc  109.48 Life Sciences Tools & Services   2025-06-09 92.88   2025-06-10 96.25  3.63 
+ICLR                     ICON PLC  112.83 Life Sciences Tools & Services  2025-06-09 139.71  2025-06-10 144.73  3.59 
+ LYB LyondellBasell Industries NV  187.95                      Chemicals   2025-06-09 58.48   2025-06-10 60.58  3.59 
+ HAL               Halliburton Co  180.54                         Energy    2025-06-09 21.0   2025-06-10 21.75  3.57 
+ COP               ConocoPhillips 1111.43                         Energy   2025-06-09 88.04   2025-06-10 91.18  3.57 
+ILMN                 Illumina Inc  134.52 Life Sciences Tools & Services   2025-06-09 84.98   2025-06-10 87.98  3.53 
+ PHM               Pultegroup Inc  203.37              Consumer products  2025-06-09 101.47  2025-06-10 105.03  3.51 
+ TGT                  Target Corp  442.33                         Retail   2025-06-09 97.35  2025-06-10 100.77  3.51 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码              公司名称               市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+  VG             Venture Global Inc  380.89                           Energy   2025-06-09 15.74   2025-06-10 17.04  8.26 
+INTC                     Intel Corp  893.34                   Semiconductors   2025-06-09 20.48   2025-06-10 22.08  7.81 
+TSLA                      Tesla Inc 9925.53                      Automobiles  2025-06-09 308.58  2025-06-10 326.09  5.67 
+ SLB                Schlumberger NV  464.09                           Energy   2025-06-09 34.12   2025-06-10 35.52  4.10 
+ IQV             IQVIA Holdings Inc  266.68   Life Sciences Tools & Services  2025-06-09 154.15  2025-06-10 159.77  3.65 
+ NVR                        NVR Inc  208.72                Consumer products 2025-06-09 7138.62 2025-06-10 7398.68  3.64 
+ COP                 ConocoPhillips 1111.43                           Energy   2025-06-09 88.04   2025-06-10 91.18  3.57 
+ PHM                 Pultegroup Inc  203.37                Consumer products  2025-06-09 101.47  2025-06-10 105.03  3.51 
+ TGT                    Target Corp  442.33                           Retail   2025-06-09 97.35  2025-06-10 100.77  3.51 
+ DHI                  DR Horton Inc  376.76                Consumer products  2025-06-09 122.65  2025-06-10 126.94  3.50 
+ODFL  Old Dominion Freight Line Inc  342.79                      Road & Rail  2025-06-09 162.21  2025-06-10 167.89  3.50 
+KLAC                       KLA Corp 1096.67                   Semiconductors  2025-06-09 829.29  2025-06-10 856.59  3.29 
+   A       Agilent Technologies Inc  331.62   Life Sciences Tools & Services  2025-06-09 116.74  2025-06-10 120.52  3.24 
+ NKE                       Nike Inc  913.79 Textiles, Apparel & Luxury Goods   2025-06-09 61.91   2025-06-10 63.87  3.17 
+ UPS      United Parcel Service Inc  840.95       Logistics & Transportation   2025-06-09 99.31  2025-06-10 102.46  3.17 
+GEHC GE Healthcare Technologies Inc  328.17                      Health Care   2025-06-09 71.67   2025-06-10 73.92  3.14 
+ EOG              EOG Resources Inc  624.00                           Energy  2025-06-09 114.33  2025-06-10 117.88  3.11 
+CBRE                 CBRE Group Inc  384.08                      Real Estate  2025-06-09 128.84  2025-06-10 132.85  3.11 
+CHTR     Charter Communications Inc 1090.05                            Media  2025-06-09 394.56  2025-06-10 406.77  3.09 
+LRCX              Lam Research Corp 1129.46                   Semiconductors    2025-06-09 88.3    2025-06-10 91.0  3.06 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ TSLA                            Tesla Inc 9925.53                    Automobiles 2025-06-09 308.58 2025-06-10 326.09  5.67 
+  COP                       ConocoPhillips 1111.43                         Energy  2025-06-09 88.04  2025-06-10 91.18  3.57 
+ KLAC                             KLA Corp 1096.67                 Semiconductors 2025-06-09 829.29 2025-06-10 856.59  3.29 
+ CHTR           Charter Communications Inc 1090.05                          Media 2025-06-09 394.56 2025-06-10 406.77  3.09 
+ LRCX                    Lam Research Corp 1129.46                 Semiconductors   2025-06-09 88.3   2025-06-10 91.0  3.06 
+CMCSA                         Comcast Corp 1291.86                          Media   2025-06-09 34.6  2025-06-10 35.62  2.95 
+   MU                Micron Technology Inc 1239.95                 Semiconductors 2025-06-09 110.95 2025-06-10 114.14  2.88 
+  DIS                       Walt Disney Co 2079.27                          Media 2025-06-09 115.66 2025-06-10 118.73  2.65 
+  MRK                       Merck & Co Inc 1992.00                Pharmaceuticals  2025-06-09 79.33  2025-06-10 81.35  2.55 
+  ADI                   Analog Devices Inc 1129.76                 Semiconductors 2025-06-09 227.66 2025-06-10 233.34  2.49 
+ QCOM                         Qualcomm Inc 1706.40                 Semiconductors 2025-06-09 155.41 2025-06-10 159.13  2.39 
+ AMAT                Applied Materials Inc 1362.56                 Semiconductors 2025-06-09 169.79 2025-06-10 173.77  2.34 
+ SHOP                          Shopify Inc 1398.58                     Technology  2025-06-09 107.8 2025-06-10 110.26  2.28 
+  XOM                     Exxon Mobil Corp 4523.83                         Energy 2025-06-09 104.97 2025-06-10 107.22  2.14 
+   BX                       Blackstone Inc 1698.27             Financial Services 2025-06-09 139.98 2025-06-10 142.96  2.13 
+    T                             AT&T Inc 2004.69              Telecommunication  2025-06-09 27.86  2025-06-10 28.42  2.01 
+  CVX                         Chevron Corp 2458.22                         Energy 2025-06-09 140.76 2025-06-10 143.35  1.84 
+  DHR                         Danaher Corp 1425.61 Life Sciences Tools & Services  2025-06-09 199.2 2025-06-10 202.62  1.72 
+  TXN                Texas Instruments Inc 1809.77                 Semiconductors 2025-06-09 199.21 2025-06-10 202.29  1.55 
+  IBM International Business Machines Corp 2528.70                     Technology 2025-06-09 272.08 2025-06-10 276.24  1.53 
