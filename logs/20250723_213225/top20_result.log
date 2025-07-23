@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)               板块                    昨天收盘             今天收盘       涨跌幅(%)
+  AGH     Aureus Greenway Holdings Inc  0.09 Hotels, Restaurants & Leisure  2025-07-22 0.62  2025-07-23 1.91 207.57
+ ANEB      Anebulo Pharmaceuticals Inc  1.31               Pharmaceuticals  2025-07-22 1.83  2025-07-23 3.33  81.97
+NOVAQ Sunnova Energy International Inc  0.00                     Utilities   2025-07-22 0.0   2025-07-23 0.0  80.00
+ YYAI  Connexa Sports Technologies Inc  0.23              Leisure Products  2025-07-22 1.41  2025-07-23 2.45  73.76
+ PAPL          Pineapple Financial Inc  0.03            Financial Services   2025-07-22 3.5  2025-07-23 5.95  70.00
+ CLSD         Clearside Biomedical Inc  0.42               Pharmaceuticals  2025-07-22 0.35  2025-07-23 0.58  66.67
+ AMOD         Alpha Modus Holdings Inc  0.25                    Technology  2025-07-22 1.16  2025-07-23 1.85  59.48
+ PTNT         Palatin Technologies Inc  0.06                 Biotechnology  2025-07-22 0.17  2025-07-23 0.27  58.24
+ FOXO            Foxo Technologies Inc  0.02                    Technology  2025-07-22 0.11  2025-07-23 0.16  43.12
+ PALI                 Palisade Bio Inc  0.06                 Biotechnology  2025-07-22 0.86  2025-07-23 1.22  41.86
+ UAVS       Ageagle Aerial Systems Inc  0.35                     Machinery  2025-07-22 2.12  2025-07-23 2.97  40.09
+  TBH          Brag House Holdings Inc  0.10                         Media  2025-07-22 0.81  2025-07-23 1.12  38.79
+ ZSPC                     zSpace, Inc.  0.79 Diversified Consumer Services  2025-07-22 2.89  2025-07-23 3.87  33.91
+ HCTI          Healthcare Triangle Inc  0.10                   Health Care  2025-07-22 0.02  2025-07-23 0.03  32.63
+ CYCC     Cyclacel Pharmaceuticals Inc  0.20                 Biotechnology 2025-07-22 10.76  2025-07-23 14.0  30.11
+ SHOT                  Safety Shot Inc  1.00             Consumer products  2025-07-22 0.74  2025-07-23 0.96  29.73
+ PLRZ                    Polyrizon Ltd  0.10                 Biotechnology  2025-07-22 1.45  2025-07-23 1.88  29.66
+ VYNE            Vyne Therapeutics Inc  0.22               Pharmaceuticals  2025-07-22 1.12  2025-07-23 1.45  29.46
+ SCLX                Scilex Holding Co  0.80               Pharmaceuticals  2025-07-22 8.84 2025-07-23 11.36  28.51
+ HEPA       Hepion Pharmaceuticals Inc  0.01               Pharmaceuticals  2025-07-22 0.05  2025-07-23 0.06  28.00
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                公司名称                市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+LUNR            Intuitive Machines Inc   23.36            Aerospace & Defense  2025-07-22 11.28  2025-07-23 13.37 18.53 
+LBRT                Liberty Energy Inc   21.99                         Energy  2025-07-22 11.25  2025-07-23 13.25 17.78 
+VICR                        Vicor Corp   23.67           Electrical Equipment   2025-07-22 45.2  2025-07-23 52.68 16.55 
+HIMS            Hims & Hers Health Inc  127.32                    Health Care  2025-07-22 50.01  2025-07-23 58.02 16.02 
+QBTS                D-Wave Quantum Inc   59.67                     Technology  2025-07-22 17.59   2025-07-23 20.3 15.41 
+ GEV                    GE Vernova Inc 1722.03           Electrical Equipment 2025-07-22 548.99 2025-07-23 629.03 14.58 
+PEGA                   Pegasystems Inc   95.95                     Technology  2025-07-22 50.92  2025-07-23 58.01 13.92 
+CALM               Cal-Maine Foods Inc   66.08                  Food Products 2025-07-22 104.71 2025-07-23 119.16 13.80 
+ TEL               TE Connectivity PLC  580.13           Electrical Equipment 2025-07-22 180.47 2025-07-23 202.04 11.95 
+ BKR                   Baker Hughes Co  431.03                         Energy  2025-07-22 40.02  2025-07-23 44.68 11.64 
+EVEX                   Eve Holding Inc   21.21            Aerospace & Defense   2025-07-22 6.57   2025-07-23 7.28 10.81 
+NNNN               Anbio Biotechnology   61.66                  Biotechnology  2025-07-22 39.98  2025-07-23 44.22 10.61 
+IBRX                   Immunitybio Inc   25.45                  Biotechnology   2025-07-22 2.71   2025-07-23 2.99 10.33 
+ SYM                      Symbotic Inc  311.84                      Machinery   2025-07-22 49.4  2025-07-23 54.08  9.47 
+OKLO                          Oklo Inc  100.82                      Utilities  2025-07-22 61.32  2025-07-23 66.97  9.21 
+ TMO      Thermo Fisher Scientific Inc 1806.08 Life Sciences Tools & Services 2025-07-22 427.62 2025-07-23 466.71  9.14 
+  GM                 General Motors Co  489.75                    Automobiles  2025-07-22 48.89  2025-07-23 53.13  8.67 
+ETOR                   eToro Group Ltd   49.35             Financial Services  2025-07-22 57.61  2025-07-23 62.36  8.25 
+ RGC Regencell Bioscience Holdings Ltd   72.20                Pharmaceuticals  2025-07-22 13.67  2025-07-23 14.79  8.19 
+ TLN                 Talen Energy Corp  158.34                      Utilities 2025-07-22 313.58 2025-07-23 339.24  8.18 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称                市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+HIMS            Hims & Hers Health Inc  127.32                    Health Care  2025-07-22 50.01  2025-07-23 58.02 16.02 
+QBTS                D-Wave Quantum Inc   59.67                     Technology  2025-07-22 17.59   2025-07-23 20.3 15.41 
+ GEV                    GE Vernova Inc 1722.03           Electrical Equipment 2025-07-22 548.99 2025-07-23 629.03 14.58 
+PEGA                   Pegasystems Inc   95.95                     Technology  2025-07-22 50.92  2025-07-23 58.01 13.92 
+CALM               Cal-Maine Foods Inc   66.08                  Food Products 2025-07-22 104.71 2025-07-23 119.16 13.80 
+ TEL               TE Connectivity PLC  580.13           Electrical Equipment 2025-07-22 180.47 2025-07-23 202.04 11.95 
+ BKR                   Baker Hughes Co  431.03                         Energy  2025-07-22 40.02  2025-07-23 44.68 11.64 
+NNNN               Anbio Biotechnology   61.66                  Biotechnology  2025-07-22 39.98  2025-07-23 44.22 10.61 
+ SYM                      Symbotic Inc  311.84                      Machinery   2025-07-22 49.4  2025-07-23 54.08  9.47 
+OKLO                          Oklo Inc  100.82                      Utilities  2025-07-22 61.32  2025-07-23 66.97  9.21 
+ TMO      Thermo Fisher Scientific Inc 1806.08 Life Sciences Tools & Services 2025-07-22 427.62 2025-07-23 466.71  9.14 
+  GM                 General Motors Co  489.75                    Automobiles  2025-07-22 48.89  2025-07-23 53.13  8.67 
+ RGC Regencell Bioscience Holdings Ltd   72.20                Pharmaceuticals  2025-07-22 13.67  2025-07-23 14.79  8.19 
+ TLN                 Talen Energy Corp  158.34                      Utilities 2025-07-22 313.58 2025-07-23 339.24  8.18 
+ SMR                Nuscale Power Corp  134.92           Electrical Equipment  2025-07-22 44.44  2025-07-23 47.85  7.67 
+MANH          Manhattan Associates Inc  130.40                     Technology 2025-07-22 202.79 2025-07-23 217.71  7.36 
+CHYM               Chime Financial Inc  129.21             Financial Services  2025-07-22 33.47   2025-07-23 35.8  6.96 
+CSGP                  CoStar Group Inc  380.58                    Real Estate  2025-07-22 85.16   2025-07-23 91.0  6.86 
+ LII          Lennox International Inc  238.93                       Building 2025-07-22 619.97  2025-07-23 660.8  6.59 
+  GD             General Dynamics Corp  848.38            Aerospace & Defense  2025-07-22 297.6 2025-07-23 316.94  6.50 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+HIMS             Hims & Hers Health Inc  127.32                    Health Care  2025-07-22 50.01  2025-07-23 58.02 16.02 
+ GEV                     GE Vernova Inc 1722.03           Electrical Equipment 2025-07-22 548.99 2025-07-23 629.03 14.58 
+ TEL                TE Connectivity PLC  580.13           Electrical Equipment 2025-07-22 180.47 2025-07-23 202.04 11.95 
+ BKR                    Baker Hughes Co  431.03                         Energy  2025-07-22 40.02  2025-07-23 44.68 11.64 
+ SYM                       Symbotic Inc  311.84                      Machinery   2025-07-22 49.4  2025-07-23 54.08  9.47 
+OKLO                           Oklo Inc  100.82                      Utilities  2025-07-22 61.32  2025-07-23 66.97  9.21 
+ TMO       Thermo Fisher Scientific Inc 1806.08 Life Sciences Tools & Services 2025-07-22 427.62 2025-07-23 466.71  9.14 
+  GM                  General Motors Co  489.75                    Automobiles  2025-07-22 48.89  2025-07-23 53.13  8.67 
+ TLN                  Talen Energy Corp  158.34                      Utilities 2025-07-22 313.58 2025-07-23 339.24  8.18 
+ SMR                 Nuscale Power Corp  134.92           Electrical Equipment  2025-07-22 44.44  2025-07-23 47.85  7.67 
+MANH           Manhattan Associates Inc  130.40                     Technology 2025-07-22 202.79 2025-07-23 217.71  7.36 
+CHYM                Chime Financial Inc  129.21             Financial Services  2025-07-22 33.47   2025-07-23 35.8  6.96 
+CSGP                   CoStar Group Inc  380.58                    Real Estate  2025-07-22 85.16   2025-07-23 91.0  6.86 
+ LII           Lennox International Inc  238.93                       Building 2025-07-22 619.97  2025-07-23 660.8  6.59 
+  GD              General Dynamics Corp  848.38            Aerospace & Defense  2025-07-22 297.6 2025-07-23 316.94  6.50 
+ TEM                      Tempus AI Inc  109.13 Life Sciences Tools & Services  2025-07-22 61.08  2025-07-23 64.86  6.19 
+MRNA                        Moderna Inc  135.13                  Biotechnology  2025-07-22 32.73  2025-07-23 34.67  5.93 
+JOBY                  Joby Aviation Inc  136.19                       Airlines  2025-07-22 16.61  2025-07-23 17.59  5.90 
+CRDO Credo Technology Group Holding Ltd  167.93                 Semiconductors  2025-07-22 92.93  2025-07-23 98.41  5.90 
+ VST                        Vistra Corp  698.40                      Utilities 2025-07-22 189.09 2025-07-23 200.12  5.83 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  GEV                      GE Vernova Inc 1722.03             Electrical Equipment 2025-07-22 548.99 2025-07-23 629.03 14.58 
+  TEL                 TE Connectivity PLC  580.13             Electrical Equipment 2025-07-22 180.47 2025-07-23 202.04 11.95 
+  BKR                     Baker Hughes Co  431.03                           Energy  2025-07-22 40.02  2025-07-23 44.68 11.64 
+  SYM                        Symbotic Inc  311.84                        Machinery   2025-07-22 49.4  2025-07-23 54.08  9.47 
+  TMO        Thermo Fisher Scientific Inc 1806.08   Life Sciences Tools & Services 2025-07-22 427.62 2025-07-23 466.71  9.14 
+   GM                   General Motors Co  489.75                      Automobiles  2025-07-22 48.89  2025-07-23 53.13  8.67 
+ CSGP                    CoStar Group Inc  380.58                      Real Estate  2025-07-22 85.16   2025-07-23 91.0  6.86 
+  LII            Lennox International Inc  238.93                         Building 2025-07-22 619.97  2025-07-23 660.8  6.59 
+   GD               General Dynamics Corp  848.38              Aerospace & Defense  2025-07-22 297.6 2025-07-23 316.94  6.50 
+  VST                         Vistra Corp  698.40                        Utilities 2025-07-22 189.09 2025-07-23 200.12  5.83 
+ SMMT             Summit Therapeutics Inc  205.90                    Biotechnology  2025-07-22 26.54  2025-07-23 28.01  5.54 
+  ELV                 Elevance Health Inc  645.27                      Health Care 2025-07-22 281.72  2025-07-23 296.6  5.28 
+  RTX                            RTX Corp 2033.99              Aerospace & Defense 2025-07-22 149.17 2025-07-23 156.49  4.91 
+ RKLB                  Rocket Lab USA Inc  231.76              Aerospace & Defense  2025-07-22 46.88  2025-07-23 49.15  4.84 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE 2325.63 Textiles, Apparel & Luxury Goods  2025-07-22 548.8  2025-07-23 575.0  4.77 
+  BSX              Boston Scientific Corp 1573.91                      Health Care 2025-07-22 103.16 2025-07-23 107.76  4.46 
+  NRG                      NRG Energy Inc  321.95                        Utilities 2025-07-22 153.96 2025-07-23 160.55  4.28 
+  STX     Seagate Technology Holdings PLC  321.23                       Technology 2025-07-22 146.59 2025-07-23 152.76  4.21 
+  DHR                        Danaher Corp 1406.47   Life Sciences Tools & Services 2025-07-22 189.91 2025-07-23 197.89  4.20 
+ CARR                 Carrier Global Corp  685.08                         Building  2025-07-22 76.42  2025-07-23 79.61  4.17 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  GEV                      GE Vernova Inc 1722.03             Electrical Equipment 2025-07-22 548.99 2025-07-23 629.03 14.58 
+  TMO        Thermo Fisher Scientific Inc 1806.08   Life Sciences Tools & Services 2025-07-22 427.62 2025-07-23 466.71  9.14 
+  RTX                            RTX Corp 2033.99              Aerospace & Defense 2025-07-22 149.17 2025-07-23 156.49  4.91 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE 2325.63 Textiles, Apparel & Luxury Goods  2025-07-22 548.8  2025-07-23 575.0  4.77 
+  BSX              Boston Scientific Corp 1573.91                      Health Care 2025-07-22 103.16 2025-07-23 107.76  4.46 
+  DHR                        Danaher Corp 1406.47   Life Sciences Tools & Services 2025-07-22 189.91 2025-07-23 197.89  4.20 
+ PLTR           Palantir Technologies Inc 3566.77                       Technology 2025-07-22 149.07 2025-07-23 154.63  3.73 
+  APP                       Applovin Corp 1224.38                       Technology  2025-07-22 350.0 2025-07-23 362.12  3.46 
+ GILD                 Gilead Sciences Inc 1390.22                    Biotechnology 2025-07-22 110.17 2025-07-23 113.56  3.08 
+ ANET                 Arista Networks Inc 1420.20                   Communications 2025-07-22 109.78 2025-07-23 113.04  2.97 
+  MRK                      Merck & Co Inc 2091.19                  Pharmaceuticals  2025-07-22 81.61  2025-07-23 83.98  2.90 
+  LLY                    Eli Lilly and Co 7480.15                  Pharmaceuticals 2025-07-22 776.44 2025-07-23 798.89  2.89 
+  BAM     BROOKFIELD ASSET MANAGEMENT LTD 1002.85               Financial Services  2025-07-22 60.74  2025-07-23 62.43  2.78 
+   TT              Trane Technologies PLC 1018.43                         Building 2025-07-22 447.68 2025-07-23 459.35  2.61 
+  UNH              UnitedHealth Group Inc 2604.22                      Health Care 2025-07-22 285.13 2025-07-23 292.51  2.59 
+  AMD          Advanced Micro Devices Inc 2564.23                   Semiconductors 2025-07-22 154.72 2025-07-23 158.65  2.54 
+  CAT                     Caterpillar Inc 1998.84                        Machinery 2025-07-22 417.19 2025-07-23 427.59  2.49 
+   GS             Goldman Sachs Group Inc 2161.73               Financial Services 2025-07-22 700.41 2025-07-23 717.52  2.44 
+   BA                           Boeing Co 1745.82              Aerospace & Defense 2025-07-22 228.48 2025-07-23 233.88  2.36 
+  KKR                        KKR & Co Inc 1304.66               Financial Services 2025-07-22 144.97 2025-07-23 148.26  2.27 
