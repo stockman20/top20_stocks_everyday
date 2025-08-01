@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)               板块                      昨天收盘              今天收盘       涨跌幅(%)
+LOBO         LOBO EV Technologies Ltd  0.04                    Automobiles   2025-07-31 0.36   2025-08-01 0.79 118.44
+PHLT        Performant Healthcare Inc  2.78                    Health Care   2025-07-31 3.55   2025-08-01 7.64 115.21
+  EQ                    Equillium Inc  0.14                  Biotechnology   2025-07-31 0.39   2025-08-01 0.71  82.05
+EZGO            EZGO Technologies Ltd  0.02                    Automobiles   2025-07-31 0.34   2025-08-01 0.51  51.79
+TNON                Tenon Medical Inc  0.08                    Health Care   2025-07-31 1.02   2025-08-01 1.46  43.14
+FDMT    4D Molecular Therapeutics Inc  2.08                  Biotechnology    2025-07-31 4.5   2025-08-01 6.42  42.67
+RAYA  Erayak Power Solution Group Inc  0.04           Electrical Equipment   2025-07-31 0.06   2025-08-01 0.08  42.37
+SNSE       Sensei Biotherapeutics Inc  0.09                  Biotechnology   2025-07-31 7.48  2025-08-01 10.32  38.03
+CETY    Clean Energy Technologies Inc  0.14                         Energy   2025-07-31 0.21   2025-08-01 0.28  33.80
+ATEC            Alphatec Holdings Inc 15.47                    Health Care  2025-07-31 10.58  2025-08-01 13.77  30.15
+EVOK                 Evoke Pharma Inc  0.05                Pharmaceuticals   2025-07-31 3.63   2025-08-01 4.69  29.20
+SHOT                  Safety Shot Inc  0.96              Consumer products   2025-07-31 0.79   2025-08-01 1.01  27.85
+BNZI         Banzai International Inc  0.08                     Technology   2025-07-31 2.89    2025-08-01 3.6  24.57
+LIXT Lixte Biotechnology Holdings Inc  0.11                  Biotechnology   2025-07-31 3.97   2025-08-01 4.87  22.67
+PSTV            Plus Therapeutics Inc  0.29                  Biotechnology   2025-07-31 0.48   2025-08-01 0.58  21.87
+VVOS           Vivos Therapeutics Inc  0.26                    Health Care   2025-07-31 4.33   2025-08-01 5.18  19.63
+APPF                     Appfolio Inc 96.33                     Technology 2025-07-31 267.38 2025-08-01 319.15  19.36
+TILE                    Interface Inc 12.09 Commercial Services & Supplies  2025-07-31 20.62  2025-08-01 24.61  19.35
+ AGH     Aureus Greenway Holdings Inc  0.87  Hotels, Restaurants & Leisure   2025-07-31 2.48   2025-08-01 2.95  18.95
+SABS          SAB Biotherapeutics Inc  0.17                  Biotechnology   2025-07-31 1.88   2025-08-01 2.23  18.62
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                   市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+APPF                              Appfolio Inc  96.33                     Technology 2025-07-31 267.38 2025-08-01 319.15 19.36 
+IRTC                  iRhythm Technologies Inc  44.75                    Health Care 2025-07-31 140.18 2025-08-01 164.97 17.68 
+ BIO                  Bio Rad Laboratories Inc  65.82 Life Sciences Tools & Services 2025-07-31 241.95  2025-08-01 284.6 17.63 
+RDDT                                Reddit Inc 296.32                          Media 2025-07-31 160.59 2025-08-01 188.64 17.47 
+ NVT                        nVent Electric PLC 129.11           Electrical Equipment  2025-07-31 78.42  2025-08-01 89.88 14.61 
+ RKT                      Rocket Companies Inc 310.71             Financial Services  2025-07-31 14.77  2025-08-01 16.54 11.98 
+COOP                       Mr Cooper Group Inc  99.65             Financial Services 2025-07-31 155.72 2025-08-01 174.26 11.91 
+BFAM      Bright Horizons Family Solutions Inc  64.75  Diversified Consumer Services  2025-07-31 113.1  2025-08-01 125.1 10.61 
+NVST                     Envista Holdings Corp  32.02                    Health Care  2025-07-31 18.89  2025-08-01 20.83 10.27 
+SPXC                      SPX Technologies Inc  85.19                      Machinery 2025-07-31 182.39 2025-08-01 196.36  7.66 
+UTHR                  United Therapeutics Corp 124.24                  Biotechnology  2025-07-31 274.7 2025-08-01 294.28  7.13 
+AVNT                               Avient Corp  28.90                      Chemicals  2025-07-31 31.57  2025-08-01 33.79  7.03 
+ SKY                        Champion Homes Inc  34.89              Consumer products   2025-07-31 60.9  2025-08-01 64.84  6.47 
+ALGN                      Align Technology Inc  93.51                    Health Care 2025-07-31 129.01 2025-08-01 136.52  5.82 
+MTSR                               Metsera Inc  34.66                  Biotechnology  2025-07-31 32.99  2025-08-01 34.89  5.76 
+KNSA Kiniksa Pharmaceuticals International PLC  22.42                  Biotechnology  2025-07-31 30.26  2025-08-01 31.98  5.68 
+ MTH                       Meritage Homes Corp  47.92              Consumer products  2025-07-31 67.34  2025-08-01 71.13  5.63 
+  AU                     Anglogold Ashanti PLC 232.88                Metals & Mining  2025-07-31 46.25  2025-08-01 48.76  5.43 
+FSLR                           First Solar Inc 187.39                 Semiconductors 2025-07-31 174.73 2025-08-01 183.97  5.29 
+ DHI                             DR Horton Inc 425.84              Consumer products 2025-07-31 142.84  2025-08-01 150.3  5.22 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+APPF                         Appfolio Inc  96.33                     Technology 2025-07-31 267.38 2025-08-01 319.15 19.36 
+ BIO             Bio Rad Laboratories Inc  65.82 Life Sciences Tools & Services 2025-07-31 241.95  2025-08-01 284.6 17.63 
+RDDT                           Reddit Inc 296.32                          Media 2025-07-31 160.59 2025-08-01 188.64 17.47 
+ NVT                   nVent Electric PLC 129.11           Electrical Equipment  2025-07-31 78.42  2025-08-01 89.88 14.61 
+ RKT                 Rocket Companies Inc 310.71             Financial Services  2025-07-31 14.77  2025-08-01 16.54 11.98 
+COOP                  Mr Cooper Group Inc  99.65             Financial Services 2025-07-31 155.72 2025-08-01 174.26 11.91 
+BFAM Bright Horizons Family Solutions Inc  64.75  Diversified Consumer Services  2025-07-31 113.1  2025-08-01 125.1 10.61 
+SPXC                 SPX Technologies Inc  85.19                      Machinery 2025-07-31 182.39 2025-08-01 196.36  7.66 
+UTHR             United Therapeutics Corp 124.24                  Biotechnology  2025-07-31 274.7 2025-08-01 294.28  7.13 
+ALGN                 Align Technology Inc  93.51                    Health Care 2025-07-31 129.01 2025-08-01 136.52  5.82 
+  AU                Anglogold Ashanti PLC 232.88                Metals & Mining  2025-07-31 46.25  2025-08-01 48.76  5.43 
+FSLR                      First Solar Inc 187.39                 Semiconductors 2025-07-31 174.73 2025-08-01 183.97  5.29 
+ DHI                        DR Horton Inc 425.84              Consumer products 2025-07-31 142.84  2025-08-01 150.3  5.22 
+ KMB                  Kimberly-Clark Corp 413.51              Consumer products 2025-07-31 124.62 2025-08-01 130.64  4.83 
+TMHC            Taylor Morrison Home Corp  58.59              Consumer products  2025-07-31 59.28  2025-08-01 61.71  4.10 
+  BJ     BJ's Wholesale Club Holdings Inc 139.84                         Retail  2025-07-31 105.9 2025-08-01 109.98  3.85 
+RYTM           Rhythm Pharmaceuticals Inc  55.98                  Biotechnology  2025-07-31 85.23   2025-08-01 88.3  3.60 
+  MP                    MP Materials Corp 108.90                Metals & Mining   2025-07-31 61.5  2025-08-01 63.69  3.56 
+PARA                     Paramount Global  87.40                          Media  2025-07-31 12.57  2025-08-01 13.01  3.50 
+  DG                  Dollar General Corp 230.85                         Retail  2025-07-31 104.9 2025-08-01 108.53  3.46 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称                市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+RDDT                       Reddit Inc  296.32                Media 2025-07-31 160.59 2025-08-01 188.64 17.47 
+ NVT               nVent Electric PLC  129.11 Electrical Equipment  2025-07-31 78.42  2025-08-01 89.88 14.61 
+ RKT             Rocket Companies Inc  310.71   Financial Services  2025-07-31 14.77  2025-08-01 16.54 11.98 
+UTHR         United Therapeutics Corp  124.24        Biotechnology  2025-07-31 274.7 2025-08-01 294.28  7.13 
+  AU            Anglogold Ashanti PLC  232.88      Metals & Mining  2025-07-31 46.25  2025-08-01 48.76  5.43 
+FSLR                  First Solar Inc  187.39       Semiconductors 2025-07-31 174.73 2025-08-01 183.97  5.29 
+ DHI                    DR Horton Inc  425.84    Consumer products 2025-07-31 142.84  2025-08-01 150.3  5.22 
+ KMB              Kimberly-Clark Corp  413.51    Consumer products 2025-07-31 124.62 2025-08-01 130.64  4.83 
+  BJ BJ's Wholesale Club Holdings Inc  139.84               Retail  2025-07-31 105.9 2025-08-01 109.98  3.85 
+  MP                MP Materials Corp  108.90      Metals & Mining   2025-07-31 61.5  2025-08-01 63.69  3.56 
+  DG              Dollar General Corp  230.85               Retail  2025-07-31 104.9 2025-08-01 108.53  3.46 
+ PHM                   Pultegroup Inc  222.79    Consumer products 2025-07-31 112.92 2025-08-01 116.75  3.39 
+ LEN                      Lennar Corp  288.98    Consumer products 2025-07-31 112.18 2025-08-01 115.98  3.39 
+ CRS        Carpenter Technology Corp  124.14      Metals & Mining 2025-07-31 249.39 2025-08-01 257.78  3.36 
+   D              Dominion Energy Inc  498.46            Utilities  2025-07-31 58.45  2025-08-01 60.41  3.35 
+ABBV                       AbbVie Inc 3338.85        Biotechnology 2025-07-31 189.02 2025-08-01 195.22  3.28 
+ RBC                 RBC Bearings Inc  122.26            Machinery 2025-07-31 387.34  2025-08-01 399.8  3.22 
+BIIB                       Biogen Inc  187.56        Biotechnology  2025-07-31 128.0 2025-08-01 131.95  3.09 
+  EA              Electronic Arts Inc  383.16                Media 2025-07-31 152.49 2025-08-01 157.08  3.01 
+ LLY                 Eli Lilly and Co 7013.91      Pharmaceuticals 2025-07-31 740.07 2025-08-01 762.33  3.01 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)          板块                昨天收盘               今天收盘        涨跌幅(%)
+RDDT                    Reddit Inc  296.32              Media  2025-07-31 160.59  2025-08-01 188.64 17.47 
+ RKT          Rocket Companies Inc  310.71 Financial Services   2025-07-31 14.77   2025-08-01 16.54 11.98 
+  AU         Anglogold Ashanti PLC  232.88    Metals & Mining   2025-07-31 46.25   2025-08-01 48.76  5.43 
+ DHI                 DR Horton Inc  425.84  Consumer products  2025-07-31 142.84   2025-08-01 150.3  5.22 
+ KMB           Kimberly-Clark Corp  413.51  Consumer products  2025-07-31 124.62  2025-08-01 130.64  4.83 
+  DG           Dollar General Corp  230.85             Retail   2025-07-31 104.9  2025-08-01 108.53  3.46 
+ PHM                Pultegroup Inc  222.79  Consumer products  2025-07-31 112.92  2025-08-01 116.75  3.39 
+ LEN                   Lennar Corp  288.98  Consumer products  2025-07-31 112.18  2025-08-01 115.98  3.39 
+   D           Dominion Energy Inc  498.46          Utilities   2025-07-31 58.45   2025-08-01 60.41  3.35 
+ABBV                    AbbVie Inc 3338.85      Biotechnology  2025-07-31 189.02  2025-08-01 195.22  3.28 
+  EA           Electronic Arts Inc  383.16              Media  2025-07-31 152.49  2025-08-01 157.08  3.01 
+ LLY              Eli Lilly and Co 7013.91    Pharmaceuticals  2025-07-31 740.07  2025-08-01 762.33  3.01 
+ NVR                       NVR Inc  220.73  Consumer products 2025-07-31 7549.49 2025-08-01 7760.68  2.80 
+ RMD                    Resmed Inc  398.74        Health Care  2025-07-31 271.94   2025-08-01 279.2  2.67 
+REGN Regeneron Pharmaceuticals Inc  588.91      Biotechnology  2025-07-31 545.46  2025-08-01 558.87  2.46 
+ALNY   Alnylam Pharmaceuticals Inc  511.44      Biotechnology  2025-07-31 392.24   2025-08-01 401.8  2.44 
+ AZO                  Autozone Inc  630.40             Retail 2025-07-31 3768.38 2025-08-01 3858.86  2.40 
+ACGL        Arch Capital Group Ltd  322.51          Insurance   2025-07-31 86.06    2025-08-01 88.0  2.25 
+ BMY       Bristol-Myers Squibb Co  881.39    Pharmaceuticals   2025-07-31 43.31   2025-08-01 44.23  2.12 
+ KDP          Keurig Dr Pepper Inc  443.53          Beverages   2025-07-31 32.65   2025-08-01 33.32  2.05 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码            公司名称             市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ABBV                 AbbVie Inc 3338.85                 Biotechnology 2025-07-31 189.02 2025-08-01 195.22  3.28 
+ LLY           Eli Lilly and Co 7013.91               Pharmaceuticals 2025-07-31 740.07 2025-08-01 762.33  3.01 
+  HD             Home Depot Inc 3656.46                        Retail 2025-07-31 367.51 2025-08-01 373.66  1.67 
+LRCX          Lam Research Corp 1213.12                Semiconductors  2025-07-31 94.84  2025-08-01 96.37  1.61 
+ JNJ          Johnson & Johnson 3967.50               Pharmaceuticals 2025-07-31 164.74 2025-08-01 167.33  1.57 
+ MRK             Merck & Co Inc 1961.62               Pharmaceuticals  2025-07-31 78.12  2025-08-01 79.29  1.50 
+  KO               Coca-Cola Co 2921.76                     Beverages  2025-07-31 67.89  2025-08-01 68.86  1.43 
+COST      Costco Wholesale Corp 4167.09                        Retail 2025-07-31 939.64 2025-08-01 952.52  1.37 
+   T                   AT&T Inc 1959.92             Telecommunication  2025-07-31 27.41  2025-08-01 27.75  1.24 
+ TJX          TJX Companies Inc 1389.28                        Retail 2025-07-31 124.53  2025-08-01 126.0  1.18 
+VRTX Vertex Pharmaceuticals Inc 1173.23                 Biotechnology 2025-07-31 456.87 2025-08-01 462.13  1.15 
+ PEP                PepsiCo Inc 1888.23                     Beverages 2025-07-31 137.92 2025-08-01 139.28  0.99 
+QCOM               Qualcomm Inc 1583.54                Semiconductors 2025-07-31 146.76 2025-08-01 148.19  0.97 
+ MCD            McDonald's Corp 2145.60 Hotels, Restaurants & Leisure 2025-07-31 300.07 2025-08-01 302.89  0.94 
+ CME              CME Group Inc 1002.87            Financial Services 2025-07-31 278.28 2025-08-01 280.76  0.89 
+ ABT        Abbott Laboratories 2196.29                   Health Care 2025-07-31 126.19 2025-08-01 127.29  0.87 
+KLAC                   KLA Corp 1162.44                Semiconductors 2025-07-31 879.03 2025-08-01 886.64  0.87 
+ PFE                 Pfizer Inc 1324.12               Pharmaceuticals  2025-07-31 23.29  2025-08-01 23.49  0.86 
+GILD        Gilead Sciences Inc 1396.81                 Biotechnology 2025-07-31 112.29 2025-08-01 113.18  0.79 
+AMGN                  Amgen Inc 1586.77                 Biotechnology  2025-07-31 295.1 2025-08-01 296.88  0.60 
