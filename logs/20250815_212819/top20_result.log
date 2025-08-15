@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                  公司名称                  市值(亿)                板块                      昨天收盘             今天收盘       涨跌幅(%)
+PMNT                     Perfect Moment Ltd  0.09 Textiles, Apparel & Luxury Goods  2025-08-14 0.29  2025-08-15 0.56 91.83 
+SRXH               SRx Health Solutions Inc  0.09                    Food Products  2025-08-14 0.27   2025-08-15 0.5 84.50 
+IOBT                         IO Biotech Inc  0.87                    Biotechnology  2025-08-14 1.28  2025-08-15 2.16 68.75 
+PGEN                           Precigen Inc  5.50                    Biotechnology  2025-08-14 1.85  2025-08-15 2.94 58.92 
+MTNB         Matinas BioPharma Holdings Inc  0.08                    Biotechnology  2025-08-14 1.65  2025-08-15 2.36 43.03 
+PPSI            Pioneer Power Solutions Inc  0.36             Electrical Equipment  2025-08-14 3.11  2025-08-15 4.35 39.87 
+ RUN                             Sunrun Inc 23.80             Electrical Equipment 2025-08-14 10.48 2025-08-15 13.92 32.82 
+FOSL                       Fossil Group Inc  1.26 Textiles, Apparel & Luxury Goods  2025-08-14 2.35   2025-08-15 3.1 31.91 
+FLYX                       Flyexclusive Inc  2.40                         Airlines  2025-08-14 2.72  2025-08-15 3.49 28.31 
+KPTI            Karyopharm Therapeutics Inc  0.40                    Biotechnology  2025-08-14 4.65  2025-08-15 5.92 27.31 
+  UP               Wheels Up Experience Inc  9.71                         Airlines  2025-08-14 1.42   2025-08-15 1.8 26.76 
+GSUN Golden Sun Health Technology Group Ltd  0.05    Diversified Consumer Services  2025-08-14 2.32  2025-08-15 2.92 25.86 
+NERV              Minerva Neurosciences Inc  0.13                    Biotechnology  2025-08-14 1.79  2025-08-15 2.25 25.35 
+ARRY                 Array Technologies Inc  9.29             Electrical Equipment  2025-08-14 6.08  2025-08-15 7.62 25.33 
+VERB            Verb Technology Company Inc 11.32                       Technology 2025-08-14 18.15 2025-08-15 22.45 23.69 
+IMRX                       Immuneering Corp  1.09                    Biotechnology  2025-08-14 3.04  2025-08-15 3.76 23.68 
+CASI               CASI Pharmaceuticals Inc  0.30                    Biotechnology  2025-08-14 1.94  2025-08-15 2.38 22.68 
+TNYA                Tenaya Therapeutics Inc  1.53                    Biotechnology  2025-08-14 0.95  2025-08-15 1.16 22.49 
+COEP      Coeptis Therapeutics Holdings Inc  0.40                    Biotechnology 2025-08-14 11.48 2025-08-15 13.97 21.69 
+HCTI                Healthcare Triangle Inc  0.19                      Health Care   2025-08-14 3.3  2025-08-15 3.99 20.91 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ RUN                Sunrun Inc   23.80             Electrical Equipment  2025-08-14 10.48  2025-08-15 13.92 32.82 
+ NXT            Nextracker Inc   80.06             Electrical Equipment  2025-08-14 53.99  2025-08-15 60.58 12.21 
+ UNH    UnitedHealth Group Inc 2460.26                      Health Care 2025-08-14 271.49 2025-08-15 304.01 11.98 
+FSLR           First Solar Inc  193.15                   Semiconductors 2025-08-14 180.05 2025-08-15 199.95 11.05 
+  NU           Nu Holdings Ltd  574.14                          Banking  2025-08-14 12.01   2025-08-15 13.1  9.08 
+LYFT                  Lyft Inc   59.69                      Road & Rail  2025-08-14 14.62  2025-08-15 15.82  8.21 
+ENPH        Enphase Energy Inc   41.62                   Semiconductors  2025-08-14 32.22  2025-08-15 34.84  8.13 
+GTLB                GitLab Inc   67.50                       Technology  2025-08-14 40.95  2025-08-15 44.28  8.13 
+ICUI           ICU Medical Inc   27.64                      Health Care  2025-08-14 111.9 2025-08-15 120.95  8.09 
+ZETA Zeta Global Holdings Corp   36.65                       Technology  2025-08-14 17.81  2025-08-15 19.13  7.41 
+CRCL Circle Internet Group Inc  315.72                              N/A 2025-08-14 139.23 2025-08-15 149.26  7.20 
+  OS             OneStream Inc   45.93                       Technology  2025-08-14 19.79  2025-08-15 21.15  6.87 
+ MDB               MongoDB Inc  167.72                       Technology 2025-08-14 204.37 2025-08-15 218.26  6.80 
+OSCR          Oscar Health Inc   37.15                        Insurance  2025-08-14 14.68  2025-08-15 15.64  6.54 
+ SEE           Sealed Air Corp   43.95                        Packaging  2025-08-14 29.84  2025-08-15 31.58  5.83 
+ CNC              Centene Corp  132.04                      Health Care  2025-08-14 26.93  2025-08-15 28.49  5.79 
+FROG                 Jfrog Ltd   49.47                       Technology  2025-08-14 42.73  2025-08-15 45.11  5.57 
+ TPR              Tapestry Inc  199.92 Textiles, Apparel & Luxury Goods  2025-08-14 95.69 2025-08-15 100.74  5.28 
+  UA          Under Armour Inc   20.65 Textiles, Apparel & Luxury Goods   2025-08-14 4.76   2025-08-15 5.01  5.25 
+BBAI   BigBear.ai Holdings Inc   21.71                       Technology   2025-08-14 5.84   2025-08-15 6.14  5.14 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ NXT            Nextracker Inc   80.06             Electrical Equipment  2025-08-14 53.99  2025-08-15 60.58 12.21 
+ UNH    UnitedHealth Group Inc 2460.26                      Health Care 2025-08-14 271.49 2025-08-15 304.01 11.98 
+FSLR           First Solar Inc  193.15                   Semiconductors 2025-08-14 180.05 2025-08-15 199.95 11.05 
+  NU           Nu Holdings Ltd  574.14                          Banking  2025-08-14 12.01   2025-08-15 13.1  9.08 
+LYFT                  Lyft Inc   59.69                      Road & Rail  2025-08-14 14.62  2025-08-15 15.82  8.21 
+GTLB                GitLab Inc   67.50                       Technology  2025-08-14 40.95  2025-08-15 44.28  8.13 
+CRCL Circle Internet Group Inc  315.72                              N/A 2025-08-14 139.23 2025-08-15 149.26  7.20 
+ MDB               MongoDB Inc  167.72                       Technology 2025-08-14 204.37 2025-08-15 218.26  6.80 
+ CNC              Centene Corp  132.04                      Health Care  2025-08-14 26.93  2025-08-15 28.49  5.79 
+ TPR              Tapestry Inc  199.92 Textiles, Apparel & Luxury Goods  2025-08-14 95.69 2025-08-15 100.74  5.28 
+MRNA               Moderna Inc  103.61                    Biotechnology  2025-08-14 26.69  2025-08-15 28.02  4.98 
+ MOH     Molina Healthcare Inc   86.17                      Health Care 2025-08-14 159.63 2025-08-15 167.49  4.92 
+SPOT     Spotify Technology SA 1419.59                            Media  2025-08-14 698.5 2025-08-15 732.81  4.91 
+ ELV       Elevance Health Inc  666.60                      Health Care 2025-08-14 295.43 2025-08-15 309.57  4.79 
+NBIS           Nebius Group NV  164.30                       Technology  2025-08-14 68.46  2025-08-15 71.62  4.62 
+MMYT            MakeMyTrip Ltd   89.67    Hotels, Restaurants & Leisure  2025-08-14 94.33  2025-08-15 98.61  4.54 
+ NEE        Nextera Energy Inc 1489.49                        Utilities  2025-08-14 72.24  2025-08-15 75.41  4.39 
+ IOT               Samsara Inc  184.44                       Technology  2025-08-14 32.22  2025-08-15 33.53  4.07 
+ CRM            Salesforce Inc 2234.94                       Technology 2025-08-14 233.37 2025-08-15 242.44  3.89 
+OKTA                  Okta Inc  155.48                       Technology  2025-08-14 88.61  2025-08-15 92.02  3.85 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ UNH    UnitedHealth Group Inc 2460.26                      Health Care 2025-08-14 271.49 2025-08-15 304.01 11.98 
+FSLR           First Solar Inc  193.15                   Semiconductors 2025-08-14 180.05 2025-08-15 199.95 11.05 
+  NU           Nu Holdings Ltd  574.14                          Banking  2025-08-14 12.01   2025-08-15 13.1  9.08 
+CRCL Circle Internet Group Inc  315.72                              N/A 2025-08-14 139.23 2025-08-15 149.26  7.20 
+ MDB               MongoDB Inc  167.72                       Technology 2025-08-14 204.37 2025-08-15 218.26  6.80 
+ CNC              Centene Corp  132.04                      Health Care  2025-08-14 26.93  2025-08-15 28.49  5.79 
+ TPR              Tapestry Inc  199.92 Textiles, Apparel & Luxury Goods  2025-08-14 95.69 2025-08-15 100.74  5.28 
+MRNA               Moderna Inc  103.61                    Biotechnology  2025-08-14 26.69  2025-08-15 28.02  4.98 
+SPOT     Spotify Technology SA 1419.59                            Media  2025-08-14 698.5 2025-08-15 732.81  4.91 
+ ELV       Elevance Health Inc  666.60                      Health Care 2025-08-14 295.43 2025-08-15 309.57  4.79 
+NBIS           Nebius Group NV  164.30                       Technology  2025-08-14 68.46  2025-08-15 71.62  4.62 
+ NEE        Nextera Energy Inc 1489.49                        Utilities  2025-08-14 72.24  2025-08-15 75.41  4.39 
+ IOT               Samsara Inc  184.44                       Technology  2025-08-14 32.22  2025-08-15 33.53  4.07 
+ CRM            Salesforce Inc 2234.94                       Technology 2025-08-14 233.37 2025-08-15 242.44  3.89 
+OKTA                  Okta Inc  155.48                       Technology  2025-08-14 88.61  2025-08-15 92.02  3.85 
+RKLB        Rocket Lab USA Inc  207.29              Aerospace & Defense  2025-08-14 42.81  2025-08-15 44.27  3.41 
+SAIL             SailPoint Inc  110.65                       Technology  2025-08-14 19.83  2025-08-15 20.47  3.23 
+ROKU                  Roku Inc  128.78                            Media  2025-08-14 87.51  2025-08-15 90.29  3.18 
+MELI          MercadoLibre Inc 1175.46                           Retail 2025-08-14 2319.8 2025-08-15 2392.3  3.13 
+HOOD     Robinhood Markets Inc  986.96               Financial Services 2025-08-14 110.71 2025-08-15 114.17  3.13 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ UNH        UnitedHealth Group Inc 2460.26                   Health Care 2025-08-14 271.49 2025-08-15 304.01 11.98 
+  NU               Nu Holdings Ltd  574.14                       Banking  2025-08-14 12.01   2025-08-15 13.1  9.08 
+CRCL     Circle Internet Group Inc  315.72                           N/A 2025-08-14 139.23 2025-08-15 149.26  7.20 
+SPOT         Spotify Technology SA 1419.59                         Media  2025-08-14 698.5 2025-08-15 732.81  4.91 
+ ELV           Elevance Health Inc  666.60                   Health Care 2025-08-14 295.43 2025-08-15 309.57  4.79 
+ NEE            Nextera Energy Inc 1489.49                     Utilities  2025-08-14 72.24  2025-08-15 75.41  4.39 
+ CRM                Salesforce Inc 2234.94                    Technology 2025-08-14 233.37 2025-08-15 242.44  3.89 
+RKLB            Rocket Lab USA Inc  207.29           Aerospace & Defense  2025-08-14 42.81  2025-08-15 44.27  3.41 
+MELI              MercadoLibre Inc 1175.46                        Retail 2025-08-14 2319.8 2025-08-15 2392.3  3.13 
+HOOD         Robinhood Markets Inc  986.96            Financial Services 2025-08-14 110.71 2025-08-15 114.17  3.13 
+INTC                    Intel Corp 1048.88                Semiconductors  2025-08-14 23.86  2025-08-15 24.56  2.93 
+DKNG                Draftkings Inc  217.38 Hotels, Restaurants & Leisure  2025-08-14 43.67  2025-08-15 44.94  2.91 
+NTRA                    Natera Inc  216.73                 Biotechnology 2025-08-14 158.44 2025-08-15 163.02  2.89 
+ NET                Cloudflare Inc  681.39                    Technology 2025-08-14 195.38 2025-08-15 200.91  2.83 
+ CVS               CVS Health Corp  845.59                   Health Care  2025-08-14 66.73   2025-08-15 68.6  2.80 
+ TTD                Trade Desk Inc  246.67                         Media  2025-08-14 50.76  2025-08-15 52.12  2.68 
+REGN Regeneron Pharmaceuticals Inc  601.43                 Biotechnology 2025-08-14 565.97 2025-08-15 580.41  2.55 
+ LLY              Eli Lilly and Co 6461.22               Pharmaceuticals 2025-08-14 684.43 2025-08-15 701.23  2.45 
+FTNT                  Fortinet Inc  595.31                    Technology  2025-08-14 77.25  2025-08-15 79.11  2.41 
+EBAY                      eBay Inc  452.00                        Retail  2025-08-14 98.48  2025-08-15 100.7  2.25 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  UNH              UnitedHealth Group Inc 2460.26                      Health Care 2025-08-14 271.49 2025-08-15 304.01 11.98 
+ SPOT               Spotify Technology SA 1419.59                            Media  2025-08-14 698.5 2025-08-15 732.81  4.91 
+  NEE                  Nextera Energy Inc 1489.49                        Utilities  2025-08-14 72.24  2025-08-15 75.41  4.39 
+  CRM                      Salesforce Inc 2234.94                       Technology 2025-08-14 233.37 2025-08-15 242.44  3.89 
+ MELI                    MercadoLibre Inc 1175.46                           Retail 2025-08-14 2319.8 2025-08-15 2392.3  3.13 
+ INTC                          Intel Corp 1048.88                   Semiconductors  2025-08-14 23.86  2025-08-15 24.56  2.93 
+  LLY                    Eli Lilly and Co 6461.22                  Pharmaceuticals 2025-08-14 684.43 2025-08-15 701.23  2.45 
+ AMGN                           Amgen Inc 1564.69                    Biotechnology 2025-08-14 290.29 2025-08-15 296.47  2.13 
+   DE                          Deere & Co 1301.16                        Machinery 2025-08-14 478.84  2025-08-15 488.8  2.08 
+  ABT                 Abbott Laboratories 2253.55                      Health Care 2025-08-14 129.28 2025-08-15 131.75  1.91 
+ ADBE                           Adobe Inc 1477.06                       Technology 2025-08-14 348.58 2025-08-15 354.85  1.80 
+  MRK                      Merck & Co Inc 2067.04                  Pharmaceuticals  2025-08-14 82.76  2025-08-15 84.21  1.75 
+ TMUS                     T-Mobile US Inc 2822.89                Telecommunication 2025-08-14 250.31 2025-08-15 254.63  1.73 
+   VZ          Verizon Communications Inc 1810.91                Telecommunication   2025-08-14 43.5  2025-08-15 44.24  1.70 
+CMCSA                        Comcast Corp 1215.66                            Media   2025-08-14 32.9  2025-08-15 33.45  1.67 
+EADSF                           Airbus SE 1421.22              Aerospace & Defense 2025-08-14 214.77  2025-08-15 218.0  1.50 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE 2345.86 Textiles, Apparel & Luxury Goods  2025-08-14 552.0  2025-08-15 560.0  1.45 
+ ORCL                         Oracle Corp 6879.53                       Technology 2025-08-14 244.96 2025-08-15 248.28  1.36 
+ UBER               Uber Technologies Inc 1912.85                      Road & Rail   2025-08-14 91.4   2025-08-15 92.6  1.31 
+  APP                       Applovin Corp 1459.41                       Technology 2025-08-14 433.34 2025-08-15 438.68  1.23 
