@@ -39562,5 +39562,17 @@
     "name": "Anfield Energy Inc",
     "country": "CA",
     "added_date": "2025-08-04 22:01:04"
+  },
+  "TUNGF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "American Tungsten Corp",
+    "country": "CA",
+    "added_date": "2025-08-25 22:05:36"
+  },
+  "CNRCD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Canter Resources Corp",
+    "country": "CA",
+    "added_date": "2025-08-25 22:18:35"
   }
 }
