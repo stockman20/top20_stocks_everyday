@@ -39574,5 +39574,17 @@
     "name": "Canter Resources Corp",
     "country": "CA",
     "added_date": "2025-08-25 22:18:35"
+  },
+  "BYRRD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Bayridge Resources Corp",
+    "country": "CA",
+    "added_date": "2025-09-02 21:51:57"
+  },
+  "SRTA": {
+    "exchange": "OTC MARKETS",
+    "name": "Serta Simmons Bedding LLC",
+    "country": "US",
+    "added_date": "2025-09-02 22:15:00"
   }
 }
