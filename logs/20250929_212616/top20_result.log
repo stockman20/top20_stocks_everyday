@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                    公司名称                    市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+   BQ                          Boqii Holding Ltd  0.08                         Retail  2025-09-26 2.93  2025-09-29 9.75 233.22
+ YCBD                                  cbdMD Inc  0.06                Pharmaceuticals  2025-09-26 0.62  2025-09-29 1.38 121.15
+ ENTA                 Enanta Pharmaceuticals Inc  1.69                  Biotechnology   2025-09-26 7.9 2025-09-29 15.16  91.90
+ TLRY                          Tilray Brands Inc 12.86                Pharmaceuticals  2025-09-26 1.15  2025-09-29 1.85  60.87
+ POAI                    Predictive Oncology Inc  0.09                    Health Care  2025-09-26 0.77   2025-09-29 1.2  54.84
+NOVAQ           Sunnova Energy International Inc  0.00                      Utilities   2025-09-26 0.0   2025-09-29 0.0  50.00
+ SCOR                               Comscore Inc  0.31                          Media  2025-09-26 6.12  2025-09-29 8.95  46.24
+ CYCU                               Cycurion Inc  0.24          Professional Services  2025-09-26 0.34  2025-09-29 0.47  38.99
+  IBG              Innovation Beverage Group Ltd  0.06                      Beverages  2025-09-26 2.39  2025-09-29 3.15  31.80
+ STKS                  One Group Hospitality Inc  0.76  Hotels, Restaurants & Leisure  2025-09-26 2.46  2025-09-29 3.12  26.83
+ APDN                   Applied DNA Sciences Inc  0.05 Life Sciences Tools & Services  2025-09-26 4.14  2025-09-29 5.23  26.33
+ BREA                         Brera Holdings PLC  0.60                          Media 2025-09-26 24.71  2025-09-29 30.4  23.03
+ AKAN                                Akanda Corp  0.03                Pharmaceuticals  2025-09-26 3.88  2025-09-29 4.77  22.94
+  GDC                       GD Culture Group Ltd  0.80                          Media  2025-09-26 4.75  2025-09-29 5.76  21.26
+ AVTX                     Avalo Therapeutics Inc  1.42                  Biotechnology  2025-09-26 10.8 2025-09-29 13.02  20.56
+ HYFM               Hydrofarm Holdings Group Inc  0.13                      Machinery  2025-09-26 2.88  2025-09-29 3.47  20.49
+ LNZA                       Lanzatech Global Inc  0.55 Commercial Services & Supplies 2025-09-26 23.52 2025-09-29 28.03  19.15
+ ZYBT          Zhengye Biotechnology Holding Ltd  4.36                Pharmaceuticals  2025-09-26 1.84  2025-09-29 2.19  19.02
+ CCTG CCSC Technology International Holdings Ltd  0.08           Electrical Equipment  2025-09-26 1.17  2025-09-29 1.39  18.80
+  VOR                          Vor Biopharma Inc  2.30                  Biotechnology 2025-09-26 33.62 2025-09-29 39.89  18.65
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+SNDK                              Sandisk Corp  141.61            Technology  2025-09-26 97.12  2025-09-29 113.5 16.87 
+ETSY                                  ETSY Inc   63.61                Retail  2025-09-26 64.18  2025-09-29 74.34 15.83 
+HOOD                     Robinhood Markets Inc 1082.23    Financial Services 2025-09-26 121.78 2025-09-29 136.72 12.27 
+RIOT                        Riot Platforms Inc   65.39            Technology  2025-09-26 17.69  2025-09-29 19.78 11.81 
+QURE                                Uniqure NV   29.80         Biotechnology  2025-09-26 54.31   2025-09-29 59.4  9.37 
+ BTU                       Peabody Energy Corp   29.83                Energy  2025-09-26 24.53  2025-09-29 26.81  9.29 
+INOD                              Innodata Inc   22.46 Professional Services  2025-09-26 70.52  2025-09-29 75.94  7.69 
+COCO                     Vita Coco Company Inc   22.70             Beverages  2025-09-26 39.96  2025-09-29 42.82  7.17 
+CYTK                          Cytokinetics Inc   60.31         Biotechnology   2025-09-26 50.4  2025-09-29 53.89  6.92 
+COIN                       Coinbase Global Inc  803.16    Financial Services 2025-09-26 312.59 2025-09-29 333.99  6.85 
+BTDR                Bitdeer Technologies Group   34.40            Technology  2025-09-26 16.25  2025-09-29 17.31  6.52 
+ KEN                        Kenon Holdings Ltd   21.87             Utilities  2025-09-26 41.93  2025-09-29 44.59  6.34 
+ APP                             Applovin Corp 2265.80            Technology 2025-09-26 669.86 2025-09-29 712.36  6.34 
+CVNA                                Carvana Co  794.72                Retail 2025-09-26 369.29 2025-09-29 392.66  6.33 
+KNSA Kiniksa Pharmaceuticals International PLC   27.04         Biotechnology  2025-09-26 36.49  2025-09-29 38.77  6.25 
+ARQT               Arcutis Biotherapeutics Inc   21.07         Biotechnology  2025-09-26 17.57  2025-09-29 18.62  5.98 
+FRPT                              Freshpet Inc   24.23         Food Products  2025-09-26 49.68  2025-09-29 52.41  5.50 
+OKLO                                  Oklo Inc  163.15             Utilities 2025-09-26 110.53 2025-09-29 116.51  5.41 
+ STX           Seagate Technology Holdings PLC  463.23            Technology 2025-09-26 217.51 2025-09-29 229.14  5.35 
+SPHR                   Sphere Entertainment Co   21.23                 Media  2025-09-26 58.98  2025-09-29 62.12  5.32 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+SNDK                    Sandisk Corp  141.61           Technology  2025-09-26 97.12  2025-09-29 113.5 16.87 
+ETSY                        ETSY Inc   63.61               Retail  2025-09-26 64.18  2025-09-29 74.34 15.83 
+HOOD           Robinhood Markets Inc 1082.23   Financial Services 2025-09-26 121.78 2025-09-29 136.72 12.27 
+RIOT              Riot Platforms Inc   65.39           Technology  2025-09-26 17.69  2025-09-29 19.78 11.81 
+CYTK                Cytokinetics Inc   60.31        Biotechnology   2025-09-26 50.4  2025-09-29 53.89  6.92 
+COIN             Coinbase Global Inc  803.16   Financial Services 2025-09-26 312.59 2025-09-29 333.99  6.85 
+ APP                   Applovin Corp 2265.80           Technology 2025-09-26 669.86 2025-09-29 712.36  6.34 
+CVNA                      Carvana Co  794.72               Retail 2025-09-26 369.29 2025-09-29 392.66  6.33 
+OKLO                        Oklo Inc  163.15            Utilities 2025-09-26 110.53 2025-09-29 116.51  5.41 
+ STX Seagate Technology Holdings PLC  463.23           Technology 2025-09-26 217.51 2025-09-29 229.14  5.35 
+CRCL       Circle Internet Group Inc  293.89           Technology 2025-09-26 126.99 2025-09-29 133.66  5.25 
+   K                       Kellanova  270.97        Food Products  2025-09-26 77.94  2025-09-29 81.96  5.16 
+RVMD        Revolution Medicines Inc   82.10        Biotechnology  2025-09-26 43.92  2025-09-29 46.07  4.90 
+RBLX                     Roblox Corp  936.30                Media 2025-09-26 135.06 2025-09-29 141.56  4.81 
+  BE               Bloom Energy Corp  164.55 Electrical Equipment  2025-09-26 70.32   2025-09-29 73.6  4.66 
+CELH            Celsius Holdings Inc  140.31            Beverages  2025-09-26 54.39   2025-09-29 56.9  4.61 
+  EA             Electronic Arts Inc  483.78                Media 2025-09-26 193.35 2025-09-29 202.05  4.50 
+MDGL    Madrigal Pharmaceuticals Inc   94.56        Biotechnology 2025-09-26 424.23  2025-09-29 443.1  4.45 
+KRMN             Karman Holdings Inc   90.54  Aerospace & Defense  2025-09-26 68.42  2025-09-29 71.35  4.28 
+NUVL                    Nuvalent Inc   58.69        Biotechnology  2025-09-26 81.39  2025-09-29 84.84  4.24 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+SNDK                    Sandisk Corp  141.61                    Technology  2025-09-26 97.12  2025-09-29 113.5 16.87 
+HOOD           Robinhood Markets Inc 1082.23            Financial Services 2025-09-26 121.78 2025-09-29 136.72 12.27 
+COIN             Coinbase Global Inc  803.16            Financial Services 2025-09-26 312.59 2025-09-29 333.99  6.85 
+ APP                   Applovin Corp 2265.80                    Technology 2025-09-26 669.86 2025-09-29 712.36  6.34 
+CVNA                      Carvana Co  794.72                        Retail 2025-09-26 369.29 2025-09-29 392.66  6.33 
+OKLO                        Oklo Inc  163.15                     Utilities 2025-09-26 110.53 2025-09-29 116.51  5.41 
+ STX Seagate Technology Holdings PLC  463.23                    Technology 2025-09-26 217.51 2025-09-29 229.14  5.35 
+CRCL       Circle Internet Group Inc  293.89                    Technology 2025-09-26 126.99 2025-09-29 133.66  5.25 
+   K                       Kellanova  270.97                 Food Products  2025-09-26 77.94  2025-09-29 81.96  5.16 
+RBLX                     Roblox Corp  936.30                         Media 2025-09-26 135.06 2025-09-29 141.56  4.81 
+  BE               Bloom Energy Corp  164.55          Electrical Equipment  2025-09-26 70.32   2025-09-29 73.6  4.66 
+CELH            Celsius Holdings Inc  140.31                     Beverages  2025-09-26 54.39   2025-09-29 56.9  4.61 
+  EA             Electronic Arts Inc  483.78                         Media 2025-09-26 193.35 2025-09-29 202.05  4.50 
+ NXT                  Nextracker Inc  108.12          Electrical Equipment  2025-09-26 73.07  2025-09-29 76.13  4.19 
+IBKR   Interactive Brokers Group Inc 1123.92            Financial Services  2025-09-26 66.12   2025-09-29 68.8  4.05 
+ FCX            Freeport-McMoRan Inc  513.29               Metals & Mining  2025-09-26 35.75  2025-09-29 37.12  3.83 
+DASH                    DoorDash Inc 1121.26 Hotels, Restaurants & Leisure 2025-09-26 262.47  2025-09-29 272.5  3.82 
+PYPL             PayPal Holdings Inc  642.97            Financial Services   2025-09-26 67.3  2025-09-29 69.68  3.54 
+ VRT              Vertiv Holdings Co  528.16          Electrical Equipment 2025-09-26 138.62 2025-09-29 143.31  3.38 
+ RKT            Rocket Companies Inc  410.59            Financial Services  2025-09-26 19.51  2025-09-29 20.14  3.23 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+HOOD           Robinhood Markets Inc 1082.23            Financial Services 2025-09-26 121.78 2025-09-29 136.72 12.27 
+COIN             Coinbase Global Inc  803.16            Financial Services 2025-09-26 312.59 2025-09-29 333.99  6.85 
+ APP                   Applovin Corp 2265.80                    Technology 2025-09-26 669.86 2025-09-29 712.36  6.34 
+CVNA                      Carvana Co  794.72                        Retail 2025-09-26 369.29 2025-09-29 392.66  6.33 
+ STX Seagate Technology Holdings PLC  463.23                    Technology 2025-09-26 217.51 2025-09-29 229.14  5.35 
+CRCL       Circle Internet Group Inc  293.89                    Technology 2025-09-26 126.99 2025-09-29 133.66  5.25 
+   K                       Kellanova  270.97                 Food Products  2025-09-26 77.94  2025-09-29 81.96  5.16 
+RBLX                     Roblox Corp  936.30                         Media 2025-09-26 135.06 2025-09-29 141.56  4.81 
+  EA             Electronic Arts Inc  483.78                         Media 2025-09-26 193.35 2025-09-29 202.05  4.50 
+IBKR   Interactive Brokers Group Inc 1123.92            Financial Services  2025-09-26 66.12   2025-09-29 68.8  4.05 
+ FCX            Freeport-McMoRan Inc  513.29               Metals & Mining  2025-09-26 35.75  2025-09-29 37.12  3.83 
+DASH                    DoorDash Inc 1121.26 Hotels, Restaurants & Leisure 2025-09-26 262.47  2025-09-29 272.5  3.82 
+PYPL             PayPal Holdings Inc  642.97            Financial Services   2025-09-26 67.3  2025-09-29 69.68  3.54 
+ VRT              Vertiv Holdings Co  528.16          Electrical Equipment 2025-09-26 138.62 2025-09-29 143.31  3.38 
+ RKT            Rocket Companies Inc  410.59            Financial Services  2025-09-26 19.51  2025-09-29 20.14  3.23 
+ TKO          TKO Group Holdings Inc  394.69                         Media 2025-09-26 199.04 2025-09-29 205.33  3.16 
+ FOX                        Fox Corp  258.64                         Media  2025-09-26 55.29   2025-09-29 57.0  3.09 
+ STZ        Constellation Brands Inc  233.57                     Beverages 2025-09-26 132.49 2025-09-29 136.47  3.00 
+  EL      Estee Lauder Companies Inc  311.88             Consumer products  2025-09-26 86.66  2025-09-29 89.13  2.85 
+ DRI          Darden Restaurants Inc  219.34 Hotels, Restaurants & Leisure 2025-09-26 188.12 2025-09-29 192.98  2.58 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                  板块                       昨天收盘               今天收盘        涨跌幅(%)
+ HOOD               Robinhood Markets Inc  1082.23               Financial Services  2025-09-26 121.78  2025-09-29 136.72 12.27 
+  APP                       Applovin Corp  2265.80                       Technology  2025-09-26 669.86  2025-09-29 712.36  6.34 
+ IBKR       Interactive Brokers Group Inc  1123.92               Financial Services   2025-09-26 66.12    2025-09-29 68.8  4.05 
+ DASH                        DoorDash Inc  1121.26    Hotels, Restaurants & Leisure  2025-09-26 262.47   2025-09-29 272.5  3.82 
+ LRCX                   Lam Research Corp  1618.28                   Semiconductors  2025-09-26 128.33  2025-09-29 131.09  2.15 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE  2576.15 Textiles, Apparel & Luxury Goods  2025-09-26 602.11   2025-09-29 615.0  2.14 
+ NVDA                         NVIDIA Corp 43300.17                   Semiconductors  2025-09-26 178.19  2025-09-29 181.85  2.05 
+ SPOT               Spotify Technology SA  1452.53                            Media  2025-09-26 716.53  2025-09-29 728.47  1.67 
+  BLK                       BlackRock Inc  1887.16               Financial Services 2025-09-26 1156.45 2025-09-29 1175.56  1.65 
+  AMD          Advanced Micro Devices Inc  2587.79                   Semiconductors  2025-09-26 159.46  2025-09-29 161.36  1.19 
+  DIS                      Walt Disney Co  2040.12                            Media  2025-09-26 113.47  2025-09-29 114.78  1.15 
+ AMZN                      Amazon.com Inc 23439.34                           Retail  2025-09-26 219.78  2025-09-29 222.17  1.09 
+   BN                     Brookfield Corp  1128.44               Financial Services   2025-09-26 68.42   2025-09-29 69.14  1.05 
+  CEG           Constellation Energy Corp  1034.87                        Utilities  2025-09-26 331.26  2025-09-29 334.27  0.91 
+    V                            Visa Inc  6499.77               Financial Services  2025-09-26 337.37  2025-09-29 340.16  0.83 
+ CSCO                   Cisco Systems Inc  2657.34                   Communications   2025-09-26 67.22   2025-09-29 67.72  0.74 
+ PLTR           Palantir Technologies Inc  4212.57                       Technology  2025-09-26 177.57  2025-09-29 178.86  0.73 
+  CRM                      Salesforce Inc  2317.45                       Technology  2025-09-26 243.43   2025-09-29 245.1  0.69 
+ TSLA                           Tesla Inc 14643.96                      Automobiles   2025-09-26 440.4  2025-09-29 443.21  0.64 
+ ANET                 Arista Networks Inc  1791.03                   Communications   2025-09-26 142.5  2025-09-29 143.37  0.61 
