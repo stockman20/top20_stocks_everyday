@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                 公司名称                市值(亿)               板块                    昨天收盘             今天收盘       涨跌幅(%)
+BENF                         Beneficient  0.03            Financial Services  2025-09-29 0.37  2025-09-30 0.95 159.89
+ IBG       Innovation Beverage Group Ltd  0.07                     Beverages  2025-09-29 3.15  2025-09-30 4.39  39.37
+SKYQ                      Sky Quarry Inc  0.11                        Energy  2025-09-29 0.45  2025-09-30 0.62  36.09
+SPRC                        Scisparc Ltd  0.02               Pharmaceuticals  2025-09-29 4.46  2025-09-30 6.04  35.43
+CASI            CASI Pharmaceuticals Inc  0.20                 Biotechnology  2025-09-29 1.31  2025-09-30 1.66  26.72
+LPTX               Leap Therapeutics Inc  0.15                 Biotechnology  2025-09-29 0.36  2025-09-30 0.45  26.11
+FATE               Fate Therapeutics Inc  1.15                 Biotechnology   2025-09-29 1.0  2025-09-30 1.26  26.00
+ MFH       Mercurity Fintech Holding Inc 13.49                    Technology 2025-09-29 19.53 2025-09-30 24.58  25.86
+ VOR                   Vor Biopharma Inc  2.73                 Biotechnology 2025-09-29 39.89 2025-09-30 48.72  22.14
+ZYBT   Zhengye Biotechnology Holding Ltd  4.36               Pharmaceuticals  2025-09-29 2.19  2025-09-30 2.62  19.63
+RVPH Reviva Pharmaceuticals Holdings Inc  0.30               Pharmaceuticals  2025-09-29 0.31  2025-09-30 0.37  18.90
+ HLP                    Hongli Group Inc  0.82               Metals & Mining  2025-09-29 1.12  2025-09-30 1.33  18.75
+UNFI            United Natural Foods Inc 19.24                        Retail 2025-09-29 31.76 2025-09-30 37.62  18.45
+AEHL    Antelope Enterprise Holdings Ltd  0.11                         Media   2025-09-29 3.1  2025-09-30 3.66  18.06
+SGLY   Singularity Future Technology Ltd  0.05 Transportation Infrastructure  2025-09-29 1.15  2025-09-30 1.34  16.52
+CETY       Clean Energy Technologies Inc  0.17                        Energy  2025-09-29 0.25  2025-09-30 0.28  16.24
+ AQB         AquaBounty Technologies Inc  0.07                 Biotechnology  2025-09-29 1.93  2025-09-30 2.24  16.06
+SUPX           Super X AI Technology Ltd 15.00 Diversified Consumer Services 2025-09-29 55.79 2025-09-30 64.51  15.63
+ATOM                         Atomera Inc  1.21                Semiconductors  2025-09-29 3.83  2025-09-30 4.42  15.40
+SMTC                        Semtech Corp 53.78                Semiconductors 2025-09-29 61.98 2025-09-30 71.45  15.28
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                     公司名称                      市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+SMTC                                 Semtech Corp   53.78                 Semiconductors  2025-09-29 61.98  2025-09-30 71.45 15.28 
+  BE                            Bloom Energy Corp  172.22           Electrical Equipment   2025-09-29 73.6  2025-09-30 84.57 14.90 
+ADPT                Adaptive Biotechnologies Corp   20.50 Life Sciences Tools & Services  2025-09-29 13.46  2025-09-30 14.96 11.14 
+NNNN                          Anbio Biotechnology   48.95                  Biotechnology  2025-09-29 34.02  2025-09-30 37.25  9.49 
+ICLR                                     ICON PLC  127.11 Life Sciences Tools & Services 2025-09-29 163.44  2025-09-30 175.0  7.07 
+ PFE                                   Pfizer Inc 1356.00                Pharmaceuticals  2025-09-29 23.85  2025-09-30 25.48  6.83 
+ CRL Charles River Laboratories International Inc   72.34 Life Sciences Tools & Services 2025-09-29 146.99 2025-09-30 156.46  6.44 
+DELL                        Dell Technologies Inc  900.31                     Technology  2025-09-29 133.9 2025-09-30 141.77  5.88 
+ FCX                         Freeport-McMoRan Inc  532.96                Metals & Mining  2025-09-29 37.12  2025-09-30 39.22  5.66 
+ VRT                           Vertiv Holdings Co  553.17           Electrical Equipment 2025-09-29 143.31 2025-09-30 150.86  5.27 
+FRPT                                 Freshpet Inc   25.57                  Food Products  2025-09-29 52.41  2025-09-30 55.11  5.15 
+ IQV                           IQVIA Holdings Inc  307.22 Life Sciences Tools & Services 2025-09-29 180.72 2025-09-30 189.94  5.10 
+BTSG             Brightspring Health Services Inc   49.83                    Health Care  2025-09-29 28.13  2025-09-30 29.56  5.08 
+AMTM                         Amentum Holdings Inc   55.53          Professional Services  2025-09-29 22.82  2025-09-30 23.95  4.95 
+HOOD                        Robinhood Markets Inc 1215.00             Financial Services 2025-09-29 136.72 2025-09-30 143.18  4.72 
+ LPX                       Louisiana-Pacific Corp   59.33                 Paper & Forest   2025-09-29 85.2  2025-09-30 88.84  4.27 
+RVTY                                  Revvity Inc   97.73 Life Sciences Tools & Services   2025-09-29 84.2  2025-09-30 87.65  4.10 
+ KNF                             Knife River Corp   41.92                   Construction  2025-09-29 73.98  2025-09-30 76.87  3.91 
+PTON                      Peloton Interactive Inc   35.35               Leisure Products   2025-09-29 8.67    2025-09-30 9.0  3.81 
+ BIO                     Bio Rad Laboratories Inc   73.12 Life Sciences Tools & Services 2025-09-29 270.11 2025-09-30 280.39  3.81 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                     公司名称                      市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+SMTC                                 Semtech Corp   53.78                 Semiconductors  2025-09-29 61.98  2025-09-30 71.45 15.28 
+  BE                            Bloom Energy Corp  172.22           Electrical Equipment   2025-09-29 73.6  2025-09-30 84.57 14.90 
+ICLR                                     ICON PLC  127.11 Life Sciences Tools & Services 2025-09-29 163.44  2025-09-30 175.0  7.07 
+ PFE                                   Pfizer Inc 1356.00                Pharmaceuticals  2025-09-29 23.85  2025-09-30 25.48  6.83 
+ CRL Charles River Laboratories International Inc   72.34 Life Sciences Tools & Services 2025-09-29 146.99 2025-09-30 156.46  6.44 
+DELL                        Dell Technologies Inc  900.31                     Technology  2025-09-29 133.9 2025-09-30 141.77  5.88 
+ FCX                         Freeport-McMoRan Inc  532.96                Metals & Mining  2025-09-29 37.12  2025-09-30 39.22  5.66 
+ VRT                           Vertiv Holdings Co  553.17           Electrical Equipment 2025-09-29 143.31 2025-09-30 150.86  5.27 
+ IQV                           IQVIA Holdings Inc  307.22 Life Sciences Tools & Services 2025-09-29 180.72 2025-09-30 189.94  5.10 
+AMTM                         Amentum Holdings Inc   55.53          Professional Services  2025-09-29 22.82  2025-09-30 23.95  4.95 
+HOOD                        Robinhood Markets Inc 1215.00             Financial Services 2025-09-29 136.72 2025-09-30 143.18  4.72 
+ LPX                       Louisiana-Pacific Corp   59.33                 Paper & Forest   2025-09-29 85.2  2025-09-30 88.84  4.27 
+RVTY                                  Revvity Inc   97.73 Life Sciences Tools & Services   2025-09-29 84.2  2025-09-30 87.65  4.10 
+ BIO                     Bio Rad Laboratories Inc   73.12 Life Sciences Tools & Services 2025-09-29 270.11 2025-09-30 280.39  3.81 
+KTOS    Kratos Defense and Security Solutions Inc  148.67            Aerospace & Defense  2025-09-29 88.08  2025-09-30 91.37  3.74 
+SATS                                EchoStar Corp  211.90                          Media  2025-09-29 73.65  2025-09-30 76.36  3.68 
+APLD                         Applied Digital Corp   57.93                     Technology  2025-09-29 22.15  2025-09-30 22.94  3.57 
+MDGL                 Madrigal Pharmaceuticals Inc   98.76                  Biotechnology  2025-09-29 443.1 2025-09-30 458.66  3.51 
+ MIR                      Mirion Technologies Inc   52.62           Electrical Equipment  2025-09-29 22.49  2025-09-30 23.26  3.42 
+ILMN                                 Illumina Inc  141.20 Life Sciences Tools & Services  2025-09-29 91.87  2025-09-30 94.97  3.37 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+  BE                         Bloom Energy Corp   172.22           Electrical Equipment    2025-09-29 73.6   2025-09-30 84.57 14.90 
+ICLR                                  ICON PLC   127.11 Life Sciences Tools & Services  2025-09-29 163.44   2025-09-30 175.0  7.07 
+ PFE                                Pfizer Inc  1356.00                Pharmaceuticals   2025-09-29 23.85   2025-09-30 25.48  6.83 
+DELL                     Dell Technologies Inc   900.31                     Technology   2025-09-29 133.9  2025-09-30 141.77  5.88 
+ FCX                      Freeport-McMoRan Inc   532.96                Metals & Mining   2025-09-29 37.12   2025-09-30 39.22  5.66 
+ VRT                        Vertiv Holdings Co   553.17           Electrical Equipment  2025-09-29 143.31  2025-09-30 150.86  5.27 
+ IQV                        IQVIA Holdings Inc   307.22 Life Sciences Tools & Services  2025-09-29 180.72  2025-09-30 189.94  5.10 
+HOOD                     Robinhood Markets Inc  1215.00             Financial Services  2025-09-29 136.72  2025-09-30 143.18  4.72 
+KTOS Kratos Defense and Security Solutions Inc   148.67            Aerospace & Defense   2025-09-29 88.08   2025-09-30 91.37  3.74 
+SATS                             EchoStar Corp   211.90                          Media   2025-09-29 73.65   2025-09-30 76.36  3.68 
+ILMN                              Illumina Inc   141.20 Life Sciences Tools & Services   2025-09-29 91.87   2025-09-30 94.97  3.37 
+ MTD          Mettler-Toledo International Inc   245.41 Life Sciences Tools & Services 2025-09-29 1191.36 2025-09-30 1227.61  3.04 
+ STX           Seagate Technology Holdings PLC   487.99                     Technology  2025-09-29 229.14  2025-09-30 236.06  3.02 
+VTRS                               Viatris Inc   110.58                Pharmaceuticals    2025-09-29 9.62     2025-09-30 9.9  2.91 
+ LHX                 L3Harris Technologies Inc   555.58            Aerospace & Defense  2025-09-29 296.95  2025-09-30 305.41  2.85 
+GEHC            GE Healthcare Technologies Inc   333.70                    Health Care   2025-09-29 73.09    2025-09-30 75.1  2.75 
+ TEM                             Tempus AI Inc   136.50 Life Sciences Tools & Services   2025-09-29 78.57   2025-09-30 80.71  2.72 
+MEDP                      Medpace Holdings Inc   140.68 Life Sciences Tools & Services  2025-09-29 500.76  2025-09-30 514.16  2.68 
+ ATI                                   ATI Inc   109.25            Aerospace & Defense   2025-09-29 79.26   2025-09-30 81.34  2.62 
+NVDA                               NVIDIA Corp 44189.55                 Semiconductors  2025-09-29 181.85  2025-09-30 186.58  2.60 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+ PFE                          Pfizer Inc  1356.00                Pharmaceuticals   2025-09-29 23.85   2025-09-30 25.48  6.83 
+DELL               Dell Technologies Inc   900.31                     Technology   2025-09-29 133.9  2025-09-30 141.77  5.88 
+ FCX                Freeport-McMoRan Inc   532.96                Metals & Mining   2025-09-29 37.12   2025-09-30 39.22  5.66 
+ VRT                  Vertiv Holdings Co   553.17           Electrical Equipment  2025-09-29 143.31  2025-09-30 150.86  5.27 
+ IQV                  IQVIA Holdings Inc   307.22 Life Sciences Tools & Services  2025-09-29 180.72  2025-09-30 189.94  5.10 
+HOOD               Robinhood Markets Inc  1215.00             Financial Services  2025-09-29 136.72  2025-09-30 143.18  4.72 
+SATS                       EchoStar Corp   211.90                          Media   2025-09-29 73.65   2025-09-30 76.36  3.68 
+ MTD    Mettler-Toledo International Inc   245.41 Life Sciences Tools & Services 2025-09-29 1191.36 2025-09-30 1227.61  3.04 
+ STX     Seagate Technology Holdings PLC   487.99                     Technology  2025-09-29 229.14  2025-09-30 236.06  3.02 
+ LHX           L3Harris Technologies Inc   555.58            Aerospace & Defense  2025-09-29 296.95  2025-09-30 305.41  2.85 
+GEHC      GE Healthcare Technologies Inc   333.70                    Health Care   2025-09-29 73.09    2025-09-30 75.1  2.75 
+NVDA                         NVIDIA Corp 44189.55                 Semiconductors  2025-09-29 181.85  2025-09-30 186.58  2.60 
+ NOC               Northrop Grumman Corp   850.49            Aerospace & Defense  2025-09-29 593.99  2025-09-30 609.32  2.58 
+ AEP American Electric Power Company Inc   587.10                      Utilities  2025-09-29 109.78   2025-09-30 112.5  2.48 
+ XYL                           Xylem Inc   345.15                      Machinery  2025-09-29 143.95   2025-09-30 147.5  2.47 
+ TER                        Teradyne Inc   213.68                 Semiconductors  2025-09-29 134.33  2025-09-30 137.64  2.46 
+SNPS                        Synopsys Inc   894.58                     Technology  2025-09-29 481.61  2025-09-30 493.39  2.45 
+  GE                 General Electric Co  3113.77            Aerospace & Defense  2025-09-29 293.63  2025-09-30 300.82  2.45 
+ RTX                            RTX Corp  2190.26            Aerospace & Defense  2025-09-29 163.63  2025-09-30 167.33  2.26 
+ BMY             Bristol-Myers Squibb Co   898.64                Pharmaceuticals   2025-09-29 44.15    2025-09-30 45.1  2.15 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码                 公司名称                  市值(亿)            板块                 昨天收盘               今天收盘       涨跌幅(%)
+ PFE                           Pfizer Inc  1356.00      Pharmaceuticals   2025-09-29 23.85  2025-09-30 25.48  6.83 
+HOOD                Robinhood Markets Inc  1215.00   Financial Services  2025-09-29 136.72 2025-09-30 143.18  4.72 
+NVDA                          NVIDIA Corp 44189.55       Semiconductors  2025-09-29 181.85 2025-09-30 186.58  2.60 
+  GE                  General Electric Co  3113.77  Aerospace & Defense  2025-09-29 293.63 2025-09-30 300.82  2.45 
+ RTX                             RTX Corp  2190.26  Aerospace & Defense  2025-09-29 163.63 2025-09-30 167.33  2.26 
+LRCX                    Lam Research Corp  1653.09       Semiconductors  2025-09-29 131.09  2025-09-30 133.9  2.14 
+ GEV                       GE Vernova Inc  1639.96 Electrical Equipment  2025-09-29 602.43  2025-09-30 614.9  2.07 
+PLTR            Palantir Technologies Inc  4243.18           Technology  2025-09-29 178.86 2025-09-30 182.42  1.99 
+ ETN                Eaton Corporation PLC  1429.31 Electrical Equipment  2025-09-29 367.15 2025-09-30 374.25  1.93 
+ISRG               Intuitive Surgical Inc  1574.50          Health Care  2025-09-29 439.22 2025-09-30 447.23  1.82 
+ANET                  Arista Networks Inc  1801.97       Communications  2025-09-29 143.37 2025-09-30 145.71  1.63 
+KLAC                             KLA Corp  1404.24       Semiconductors 2025-09-29 1064.13 2025-09-30 1078.6  1.36 
+ MDT                        Medtronic PLC  1205.34          Health Care   2025-09-29 93.97  2025-09-30 95.24  1.35 
+CSCO                    Cisco Systems Inc  2677.11       Communications   2025-09-29 67.72  2025-09-30 68.42  1.03 
+  CB                            Chubb Ltd  1114.58            Insurance  2025-09-29 279.56 2025-09-30 282.25  0.96 
+COST                Costco Wholesale Corp  4066.11               Retail  2025-09-29 916.87 2025-09-30 925.63  0.96 
+ APP                        Applovin Corp  2409.56           Technology  2025-09-29 712.36 2025-09-30 718.54  0.87 
+ IBM International Business Machines Corp  2606.39           Technology   2025-09-29 279.8 2025-09-30 282.16  0.84 
+ TJX                    TJX Companies Inc  1597.29               Retail  2025-09-29 143.52 2025-09-30 144.54  0.71 
+QCOM                         Qualcomm Inc  1783.59       Semiconductors   2025-09-29 165.3 2025-09-30 166.36  0.64 
