@@ -39586,5 +39586,17 @@
     "name": "Serta Simmons Bedding LLC",
     "country": "US",
     "added_date": "2025-09-02 22:15:00"
+  },
+  "FLCNF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Falcon Energy Materials PLC",
+    "country": "AE",
+    "added_date": "2025-10-15 21:38:55"
+  },
+  "GLIOD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Panther Minerals Inc",
+    "country": "CA",
+    "added_date": "2025-10-15 21:46:54"
   }
 }
