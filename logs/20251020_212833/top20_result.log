@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                  公司名称                 市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+BYND                       Beyond Meat Inc  0.50                  Food Products  2025-10-17 0.65  2025-10-20 1.47 127.55
+ANRO                 Alto Neuroscience Inc  1.65                Pharmaceuticals  2025-10-17 6.08  2025-10-20 11.0  80.92
+ABAT        American Battery Technology Co  5.73                Metals & Mining  2025-10-17 4.85  2025-10-20 6.72  38.56
+RANI        Rani Therapeutics Holdings Inc  1.18                Pharmaceuticals  2025-10-17 1.64  2025-10-20 2.25  37.20
+CELC                          Celcuity Inc 22.04                  Biotechnology 2025-10-17 51.96 2025-10-20 70.58  35.84
+RMCO       Royalty Management Holding Corp  0.46 Commercial Services & Supplies  2025-10-17 3.11  2025-10-20 4.03  29.79
+VRME                          VerifyMe Inc  0.14           Electrical Equipment  2025-10-17 1.13  2025-10-20 1.43  26.55
+  OP                          Oceanpal Inc  0.11                         Marine   2025-10-17 1.6  2025-10-20 2.02  26.25
+GREE     Greenidge Generation Holdings Inc  0.27                     Technology  2025-10-17 1.73  2025-10-20 2.18  26.01
+ KOD                   Kodiak Sciences Inc  7.45                  Biotechnology  2025-10-17 14.1  2025-10-20 17.7  25.53
+IOBT                        IO Biotech Inc  0.43                  Biotechnology  2025-10-17 0.65  2025-10-20 0.82  25.22
+ NBY           NovaBay Pharmaceuticals Inc  0.06                Pharmaceuticals  2025-10-17 1.04   2025-10-20 1.3  25.00
+CTXR            Citius Pharmaceuticals Inc  0.25                Pharmaceuticals  2025-10-17 1.45  2025-10-20 1.81  24.83
+PLAG            Planet Green Holdings Corp  0.15                  Food Products  2025-10-17 2.02  2025-10-20 2.52  24.75
+DRIO                      DarioHealth Corp  0.31                    Health Care 2025-10-17 13.03  2025-10-20 16.0  22.79
+ AVR      Anteris Technologies Global Corp  1.76                    Health Care  2025-10-17 4.87  2025-10-20 5.93  21.77
+ CLF                  Cleveland-Cliffs Inc 65.89                Metals & Mining 2025-10-17 13.32 2025-10-20 16.18  21.47
+NRXS                          Neuraxis Inc  0.30                    Health Care  2025-10-17 3.03  2025-10-20 3.68  21.45
+PACB Pacific Biosciences of California Inc  4.93 Life Sciences Tools & Services  2025-10-17 1.64  2025-10-20 1.98  20.73
+CERO        CERo Therapeutics Holdings Inc  0.02                  Biotechnology  2025-10-17 1.99   2025-10-20 2.4  20.60
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码              公司名称             市值(亿)                板块                     昨天收盘             今天收盘       涨跌幅(%)
+CELC                  Celcuity Inc  22.04                  Biotechnology 2025-10-17 51.96 2025-10-20 70.58 35.84 
+ CLF          Cleveland-Cliffs Inc  65.89                Metals & Mining 2025-10-17 13.32 2025-10-20 16.18 21.47 
+GRAL                     Grail Inc  28.12                  Biotechnology  2025-10-17 78.0 2025-10-20 91.85 17.76 
+NVTS    Navitas Semiconductor Corp  31.24                 Semiconductors 2025-10-17 14.66  2025-10-20 17.1 16.64 
+RXRX Recursion Pharmaceuticals Inc  25.47                  Biotechnology  2025-10-17 5.86  2025-10-20 6.68 13.99 
+USAR            USA Rare Earth Inc  27.02                Metals & Mining 2025-10-17 27.73 2025-10-20 31.59 13.92 
+NTLA     Intellia Therapeutics Inc  26.57                  Biotechnology 2025-10-17 24.75 2025-10-20 27.98 13.05 
+ENVX                   Enovix Corp  22.04           Electrical Equipment 2025-10-17 11.21 2025-10-20 12.67 13.02 
+QURE                    Uniqure NV  35.73                  Biotechnology  2025-10-17 58.0 2025-10-20 63.92 10.21 
+RIOT            Riot Platforms Inc  74.04                     Technology 2025-10-17 20.03 2025-10-20 22.01  9.89 
+ADPT Adaptive Biotechnologies Corp  24.82 Life Sciences Tools & Services  2025-10-17 16.3 2025-10-20 17.83  9.39 
+SOFI         SoFi Technologies Inc 314.60             Financial Services 2025-10-17 26.54 2025-10-20 28.68  8.06 
+SEDG    Solaredge Technologies Inc  21.98                 Semiconductors 2025-10-17 37.02  2025-10-20 40.0  8.05 
+SPHR       Sphere Entertainment Co  21.13                          Media  2025-10-17 58.7 2025-10-20 63.09  7.48 
+  GH           Guardant Health Inc  81.63                    Health Care 2025-10-17 65.46  2025-10-20 70.2  7.24 
+UUUU              Energy Fuels Inc  48.58                         Energy 2025-10-17 21.06 2025-10-20 22.58  7.22 
+CHYM           Chime Financial Inc  63.56             Financial Services  2025-10-17 17.1 2025-10-20 18.29  6.96 
+BTDR    Bitdeer Technologies Group  50.85                     Technology 2025-10-17 24.02 2025-10-20 25.57  6.45 
+ CRK        Comstock Resources Inc  49.82                         Energy  2025-10-17 17.0 2025-10-20 18.07  6.29 
+AFRM           Affirm Holdings Inc 221.12             Financial Services  2025-10-17 67.9 2025-10-20 72.08  6.16 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ CLF       Cleveland-Cliffs Inc  65.89                Metals & Mining  2025-10-17 13.32  2025-10-20 16.18 21.47 
+RIOT         Riot Platforms Inc  74.04                     Technology  2025-10-17 20.03  2025-10-20 22.01  9.89 
+SOFI      SoFi Technologies Inc 314.60             Financial Services  2025-10-17 26.54  2025-10-20 28.68  8.06 
+  GH        Guardant Health Inc  81.63                    Health Care  2025-10-17 65.46   2025-10-20 70.2  7.24 
+CHYM        Chime Financial Inc  63.56             Financial Services   2025-10-17 17.1  2025-10-20 18.29  6.96 
+BTDR Bitdeer Technologies Group  50.85                     Technology  2025-10-17 24.02  2025-10-20 25.57  6.45 
+AFRM        Affirm Holdings Inc 221.12             Financial Services   2025-10-17 67.9  2025-10-20 72.08  6.16 
+ EXE         Expand Energy Corp 240.00                         Energy 2025-10-17 100.78  2025-10-20 106.9  6.07 
+STVN        Stevanato Group SpA  66.70 Life Sciences Tools & Services  2025-10-17 24.44  2025-10-20 25.86  5.81 
+CHDN        Churchill Downs Inc  63.48  Hotels, Restaurants & Leisure  2025-10-17 90.53  2025-10-20 95.68  5.69 
+SNDK               Sandisk Corp 205.37                     Technology 2025-10-17 140.16 2025-10-20 148.04  5.62 
+ TEM              Tempus AI Inc 152.50 Life Sciences Tools & Services  2025-10-17 87.78  2025-10-20 92.45  5.32 
+ LEU        Centrus Energy Corp  69.22                         Energy 2025-10-17 380.18 2025-10-20 399.87  5.18 
+  QS          Quantumscape Corp  86.94                Auto Components  2025-10-17 15.36  2025-10-20 16.14  5.08 
+BLCO         Bausch + Lomb Corp  53.08                    Health Care   2025-10-17 15.0  2025-10-20 15.75  5.00 
+ALGM   Allegro Microsystems Inc  53.76                 Semiconductors  2025-10-17 29.06  2025-10-20 30.49  4.94 
+MBLY        Mobileye Global Inc 115.22                Auto Components  2025-10-17 14.03   2025-10-20 14.7  4.78 
+MRNA                Moderna Inc 101.59                  Biotechnology  2025-10-17 26.01  2025-10-20 27.24  4.73 
+  VG         Venture Global Inc 215.60                         Energy   2025-10-17 8.88   2025-10-20 9.29  4.62 
+   J       Jacobs Solutions Inc 185.75          Professional Services 2025-10-17 155.39 2025-10-20 162.57  4.62 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+SOFI                     SoFi Technologies Inc  314.60             Financial Services   2025-10-17 26.54   2025-10-20 28.68  8.06 
+AFRM                       Affirm Holdings Inc  221.12             Financial Services    2025-10-17 67.9   2025-10-20 72.08  6.16 
+ EXE                        Expand Energy Corp  240.00                         Energy  2025-10-17 100.78   2025-10-20 106.9  6.07 
+SNDK                              Sandisk Corp  205.37                     Technology  2025-10-17 140.16  2025-10-20 148.04  5.62 
+ TEM                             Tempus AI Inc  152.50 Life Sciences Tools & Services   2025-10-17 87.78   2025-10-20 92.45  5.32 
+MBLY                       Mobileye Global Inc  115.22                Auto Components   2025-10-17 14.03    2025-10-20 14.7  4.78 
+MRNA                               Moderna Inc  101.59                  Biotechnology   2025-10-17 26.01   2025-10-20 27.24  4.73 
+  VG                        Venture Global Inc  215.60                         Energy    2025-10-17 8.88    2025-10-20 9.29  4.62 
+   J                      Jacobs Solutions Inc  185.75          Professional Services  2025-10-17 155.39  2025-10-20 162.57  4.62 
+ CRM                            Salesforce Inc 2314.12                     Technology  2025-10-17 243.08  2025-10-20 254.28  4.61 
+ NEM                       Newmont Corporation  997.06                Metals & Mining   2025-10-17 90.77   2025-10-20 94.89  4.54 
+ JEF             Jefferies Financial Group Inc  106.65             Financial Services    2025-10-17 51.7   2025-10-20 54.04  4.53 
+HOOD                     Robinhood Markets Inc 1154.48             Financial Services  2025-10-17 129.91   2025-10-20 135.8  4.53 
+ EQT                                  EQT Corp  337.49                         Energy   2025-10-17 54.08   2025-10-20 56.45  4.38 
+KTOS Kratos Defense and Security Solutions Inc  140.30            Aerospace & Defense   2025-10-17 83.12   2025-10-20 86.65  4.25 
+ILMN                              Illumina Inc  146.72 Life Sciences Tools & Services   2025-10-17 95.46    2025-10-20 99.5  4.23 
+KLAC                                  KLA Corp 1457.30                 Semiconductors 2025-10-17 1106.66 2025-10-20 1152.89  4.18 
+DOCU                              DocuSign Inc  136.61                     Technology   2025-10-17 67.93   2025-10-20 70.68  4.05 
+ RBC                          RBC Bearings Inc  117.68                      Machinery  2025-10-17 372.85  2025-10-20 387.73  3.99 
+EBAY                                  eBay Inc  420.49                         Retail   2025-10-17 92.01   2025-10-20 95.65  3.96 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+SOFI      SoFi Technologies Inc  314.60             Financial Services   2025-10-17 26.54   2025-10-20 28.68  8.06 
+AFRM        Affirm Holdings Inc  221.12             Financial Services    2025-10-17 67.9   2025-10-20 72.08  6.16 
+ EXE         Expand Energy Corp  240.00                         Energy  2025-10-17 100.78   2025-10-20 106.9  6.07 
+SNDK               Sandisk Corp  205.37                     Technology  2025-10-17 140.16  2025-10-20 148.04  5.62 
+  VG         Venture Global Inc  215.60                         Energy    2025-10-17 8.88    2025-10-20 9.29  4.62 
+ CRM             Salesforce Inc 2314.12                     Technology  2025-10-17 243.08  2025-10-20 254.28  4.61 
+ NEM        Newmont Corporation  997.06                Metals & Mining   2025-10-17 90.77   2025-10-20 94.89  4.54 
+HOOD      Robinhood Markets Inc 1154.48             Financial Services  2025-10-17 129.91   2025-10-20 135.8  4.53 
+ EQT                   EQT Corp  337.49                         Energy   2025-10-17 54.08   2025-10-20 56.45  4.38 
+KLAC                   KLA Corp 1457.30                 Semiconductors 2025-10-17 1106.66 2025-10-20 1152.89  4.18 
+EBAY                   eBay Inc  420.49                         Retail   2025-10-17 92.01   2025-10-20 95.65  3.96 
+RDDT                 Reddit Inc  364.86                          Media  2025-10-17 194.95  2025-10-20 202.48  3.86 
+ NUE                 Nucor Corp  302.48                Metals & Mining  2025-10-17 131.78  2025-10-20 136.61  3.67 
+ IQV         IQVIA Holdings Inc  347.74 Life Sciences Tools & Services  2025-10-17 204.55  2025-10-20 212.05  3.67 
+ DAL        Delta Air Lines Inc  389.43                       Airlines   2025-10-17 59.64   2025-10-20 61.75  3.54 
+CRCL  Circle Internet Group Inc  292.73                     Technology  2025-10-17 126.49  2025-10-20 130.81  3.42 
+ARES       Ares Management Corp  306.35             Financial Services  2025-10-17 141.87  2025-10-20 146.61  3.34 
+ HUM                 Humana Inc  330.76                    Health Care  2025-10-17 275.01   2025-10-20 284.0  3.27 
+LDOS        Leidos Holdings Inc  236.72          Professional Services  2025-10-17 184.51  2025-10-20 190.49  3.24 
+ AMD Advanced Micro Devices Inc 3782.52                 Semiconductors  2025-10-17 233.08  2025-10-20 240.56  3.21 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码             公司名称             市值(亿)              板块                   昨天收盘               今天收盘        涨跌幅(%)
+ CRM              Salesforce Inc  2314.12               Technology  2025-10-17 243.08  2025-10-20 254.28  4.61 
+HOOD       Robinhood Markets Inc  1154.48       Financial Services  2025-10-17 129.91   2025-10-20 135.8  4.53 
+KLAC                    KLA Corp  1457.30           Semiconductors 2025-10-17 1106.66 2025-10-20 1152.89  4.18 
+ AMD  Advanced Micro Devices Inc  3782.52           Semiconductors  2025-10-17 233.08  2025-10-20 240.56  3.21 
+INTC                  Intel Corp  1728.46           Semiconductors   2025-10-17 37.01    2025-10-20 38.1  2.95 
+ISRG      Intuitive Surgical Inc  1599.27              Health Care  2025-10-17 446.13  2025-10-20 458.47  2.77 
+  BX              Blackstone Inc  1919.76       Financial Services  2025-10-17 156.31  2025-10-20 160.44  2.64 
+ANET         Arista Networks Inc  1798.57           Communications   2025-10-17 143.1  2025-10-20 146.48  2.36 
+ UNH      UnitedHealth Group Inc  3229.63              Health Care   2025-10-17 356.6  2025-10-20 364.48  2.21 
+QCOM                Qualcomm Inc  1763.63           Semiconductors  2025-10-17 163.45  2025-10-20 167.04  2.20 
+ KKR                KKR & Co Inc  1047.76       Financial Services   2025-10-17 117.6  2025-10-20 120.11  2.13 
+PLTR   Palantir Technologies Inc  4226.33               Technology  2025-10-17 178.15  2025-10-20 181.59  1.93 
+TSLA                   Tesla Inc 14607.72              Automobiles  2025-10-17 439.31  2025-10-20 447.43  1.85 
+LRCX           Lam Research Corp  1784.49           Semiconductors  2025-10-17 141.51  2025-10-20 144.05  1.79 
+ RTX                    RTX Corp  2114.23      Aerospace & Defense  2025-10-17 157.95  2025-10-20 160.71  1.75 
+ TXN       Texas Instruments Inc  1605.35           Semiconductors  2025-10-17 176.58  2025-10-20 179.59  1.70 
+  GS     Goldman Sachs Group Inc  2272.74       Financial Services  2025-10-17 750.77  2025-10-20 763.32  1.67 
+ COF  Capital One Financial Corp  1351.56       Financial Services  2025-10-17 211.34  2025-10-20 214.87  1.67 
+ JPM         JPMorgan Chase & Co  8182.17                  Banking  2025-10-17 297.56  2025-10-20 302.36  1.61 
+ HON Honeywell International Inc  1288.59 Industrial Conglomerates  2025-10-17 202.96  2025-10-20 206.03  1.51 
