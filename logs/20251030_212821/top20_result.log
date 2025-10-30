@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码               公司名称              市值(亿)         板块              昨天收盘             今天收盘       涨跌幅(%)
+INTS      Intensity Therapeutics Inc  0.13     Biotechnology  2025-10-29 0.27  2025-10-30 1.32 394.38
+  BQ               Boqii Holding Ltd  0.01            Retail  2025-10-29 7.94 2025-10-30 16.97 113.73
+ EBS       Emergent BioSolutions Inc  5.02     Biotechnology   2025-10-29 9.4 2025-10-30 12.84  36.60
+ GLE Global Engine Group Holding Ltd  0.12        Technology  2025-10-29 0.65  2025-10-30 0.86  32.27
+VIVS                VivoSim Labs Inc  0.06     Biotechnology   2025-10-29 2.3  2025-10-30 2.98  29.57
+  GH             Guardant Health Inc 90.12       Health Care 2025-10-29 72.27 2025-10-30 92.41  27.87
+ GCI                  Gannett Co Inc  6.03             Media  2025-10-29 4.11  2025-10-30 5.25  27.74
+ADVB             Advanced Biomed Inc  0.10       Health Care  2025-10-29 0.46  2025-10-30 0.57  24.64
+GPRK                     GeoPark Ltd  3.39            Energy   2025-10-29 6.6  2025-10-30 8.21  24.39
+FORM                  FormFactor Inc 36.80    Semiconductors 2025-10-29 47.72 2025-10-30 59.25  24.16
+VIAV             Viavi Solutions Inc 31.13    Communications 2025-10-29 13.98  2025-10-30 17.1  22.32
+GSAT                  Globalstar Inc 52.62 Telecommunication 2025-10-29 41.54 2025-10-30 50.78  22.24
+MTSR                     Metsera Inc 54.97     Biotechnology 2025-10-29 52.21 2025-10-30 63.73  22.06
+ARBB                     ARB IOT Ltd  0.11        Technology   2025-10-29 6.0  2025-10-30 7.18  19.67
+AZTR                      Azitra Inc  0.03     Biotechnology   2025-10-29 0.5  2025-10-30 0.59  18.47
+JZXN              Jiuzi Holdings Inc  0.15            Retail  2025-10-29 0.28  2025-10-30 0.33  18.12
+IXHL         Incannex Healthcare Inc  1.19   Pharmaceuticals  2025-10-29 0.34   2025-10-30 0.4  17.64
+HTCO  High-Trend International Group  0.72            Marine  2025-10-29 8.83  2025-10-30 10.3  16.65
+NEGG             Newegg Commerce Inc 13.48            Retail 2025-10-29 69.52  2025-10-30 81.0  16.51
+PTLE                         PTL Ltd  0.06            Energy  2025-10-29 0.15  2025-10-30 0.18  15.66
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码            公司名称           市值(亿)          板块                昨天收盘              今天收盘       涨跌幅(%)
+  GH       Guardant Health Inc  90.12        Health Care  2025-10-29 72.27  2025-10-30 92.41 27.87 
+FORM            FormFactor Inc  36.80     Semiconductors  2025-10-29 47.72  2025-10-30 59.25 24.16 
+VIAV       Viavi Solutions Inc  31.13     Communications  2025-10-29 13.98   2025-10-30 17.1 22.32 
+GSAT            Globalstar Inc  52.62  Telecommunication  2025-10-29 41.54  2025-10-30 50.78 22.24 
+MTSR               Metsera Inc  54.97      Biotechnology  2025-10-29 52.21  2025-10-30 63.73 22.06 
+ CAH       Cardinal Health Inc 390.75        Health Care 2025-10-29 164.47 2025-10-30 189.84 15.43 
+MRNA               Moderna Inc  96.47      Biotechnology   2025-10-29 24.7  2025-10-30 28.14 13.93 
+GKOS              Glaukos Corp  44.21        Health Care  2025-10-29 77.09   2025-10-30 87.8 13.89 
+SIRI    Sirius XM Holdings Inc  70.92              Media  2025-10-29 21.06  2025-10-30 23.19 10.11 
+VKTX   Viking Therapeutics Inc  39.81      Biotechnology  2025-10-29 35.22  2025-10-30 38.17  8.38 
+VRNS       Varonis Systems Inc  36.24         Technology  2025-10-29 32.34   2025-10-30 35.0  8.23 
+RGTI     Rigetti Computing Inc 127.75     Semiconductors  2025-10-29 39.41  2025-10-30 42.52  7.89 
+ BMY   Bristol-Myers Squibb Co 867.10    Pharmaceuticals   2025-10-29 42.6  2025-10-30 45.62  7.09 
+FCFS    Firstcash Holdings Inc  65.69 Financial Services 2025-10-29 148.07 2025-10-30 158.45  7.01 
+GRAL                 Grail Inc  30.72      Biotechnology  2025-10-29 85.21  2025-10-30 91.15  6.97 
+UUUU          Energy Fuels Inc  47.06             Energy   2025-10-29 20.4  2025-10-30 21.82  6.96 
+CELC              Celcuity Inc  31.40      Biotechnology   2025-10-29 74.0  2025-10-30 78.96  6.70 
+ AXS AXIS Capital Holdings Ltd  68.99          Insurance  2025-10-29 88.25   2025-10-30 93.5  5.95 
+LCII            LCI Industries  21.92    Auto Components  2025-10-29 90.42  2025-10-30 95.65  5.78 
+ CRK    Comstock Resources Inc  51.32             Energy  2025-10-29 17.51  2025-10-30 18.38  4.97 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称               市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+  GH               Guardant Health Inc  90.12                    Health Care  2025-10-29 72.27  2025-10-30 92.41 27.87 
+GSAT                    Globalstar Inc  52.62              Telecommunication  2025-10-29 41.54  2025-10-30 50.78 22.24 
+MTSR                       Metsera Inc  54.97                  Biotechnology  2025-10-29 52.21  2025-10-30 63.73 22.06 
+ CAH               Cardinal Health Inc 390.75                    Health Care 2025-10-29 164.47 2025-10-30 189.84 15.43 
+MRNA                       Moderna Inc  96.47                  Biotechnology   2025-10-29 24.7  2025-10-30 28.14 13.93 
+SIRI            Sirius XM Holdings Inc  70.92                          Media  2025-10-29 21.06  2025-10-30 23.19 10.11 
+RGTI             Rigetti Computing Inc 127.75                 Semiconductors  2025-10-29 39.41  2025-10-30 42.52  7.89 
+ BMY           Bristol-Myers Squibb Co 867.10                Pharmaceuticals   2025-10-29 42.6  2025-10-30 45.62  7.09 
+FCFS            Firstcash Holdings Inc  65.69             Financial Services 2025-10-29 148.07 2025-10-30 158.45  7.01 
+ AXS         AXIS Capital Holdings Ltd  68.99                      Insurance  2025-10-29 88.25   2025-10-30 93.5  5.95 
+ CRK            Comstock Resources Inc  51.32                         Energy  2025-10-29 17.51  2025-10-30 18.38  4.97 
+ALGN              Align Technology Inc  95.62                    Health Care 2025-10-29 131.91 2025-10-30 138.43  4.94 
+MMYT                    MakeMyTrip Ltd 100.12  Hotels, Restaurants & Leisure   2025-10-29 77.3  2025-10-30 80.92  4.68 
+ SCI Service Corporation International 112.32  Diversified Consumer Services  2025-10-29 80.09  2025-10-30 83.77  4.59 
+  TT            Trane Technologies PLC 951.21                       Building 2025-10-29 427.48 2025-10-30 446.37  4.42 
+EXLS           Exlservice Holdings Inc  61.16          Professional Services  2025-10-29 38.54  2025-10-30 40.22  4.36 
+ MTG              MGIC Investment Corp  60.77             Financial Services  2025-10-29 26.36   2025-10-30 27.5  4.32 
+ILMN                      Illumina Inc 146.06 Life Sciences Tools & Services  2025-10-29 95.03  2025-10-30 99.01  4.19 
+DOCU                      DocuSign Inc 138.72                     Technology  2025-10-29 68.98  2025-10-30 71.61  3.81 
+ESAB                         ESAB Corp  69.40                      Machinery 2025-10-29 114.34 2025-10-30 118.12  3.31 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                公司名称                市值(亿)                 板块                      昨天收盘              今天收盘       涨跌幅(%)
+ CAH               Cardinal Health Inc   390.75                    Health Care 2025-10-29 164.47 2025-10-30 189.84 15.43 
+RGTI             Rigetti Computing Inc   127.75                 Semiconductors  2025-10-29 39.41  2025-10-30 42.52  7.89 
+ BMY           Bristol-Myers Squibb Co   867.10                Pharmaceuticals   2025-10-29 42.6  2025-10-30 45.62  7.09 
+MMYT                    MakeMyTrip Ltd   100.12  Hotels, Restaurants & Leisure   2025-10-29 77.3  2025-10-30 80.92  4.68 
+ SCI Service Corporation International   112.32  Diversified Consumer Services  2025-10-29 80.09  2025-10-30 83.77  4.59 
+  TT            Trane Technologies PLC   951.21                       Building 2025-10-29 427.48 2025-10-30 446.37  4.42 
+ILMN                      Illumina Inc   146.06 Life Sciences Tools & Services  2025-10-29 95.03  2025-10-30 99.01  4.19 
+DOCU                      DocuSign Inc   138.72                     Technology  2025-10-29 68.98  2025-10-30 71.61  3.81 
+ NEM               Newmont Corporation   869.41                Metals & Mining  2025-10-29 79.67  2025-10-30 82.31  3.31 
+IONS         Ionis Pharmaceuticals Inc   114.57                  Biotechnology  2025-10-29 71.88  2025-10-30 74.17  3.19 
+ LHX         L3Harris Technologies Inc   536.72            Aerospace & Defense 2025-10-29 286.87  2025-10-30 295.9  3.15 
+ KMB               Kimberly-Clark Corp   387.25              Consumer products 2025-10-29 116.72 2025-10-30 120.21  2.99 
+KEYS         Keysight Technologies Inc   292.96           Electrical Equipment 2025-10-29 170.47 2025-10-30 175.37  2.87 
+MSCI                          MSCI Inc   426.45             Financial Services 2025-10-29 567.54 2025-10-30 583.14  2.75 
+INCY                       Incyte Corp   177.04                  Biotechnology  2025-10-29 90.18  2025-10-30 92.59  2.67 
+ERIE                 Erie Indemnity Co   140.58                      Insurance 2025-10-29 301.87 2025-10-30 309.64  2.57 
+  AU             Anglogold Ashanti PLC   339.64                Metals & Mining  2025-10-29 67.29   2025-10-30 69.0  2.54 
+GOOG                      Alphabet Inc 33239.08                          Media 2025-10-29 275.17  2025-10-30 281.9  2.45 
+ COR                       Cencora Inc   645.94                    Health Care 2025-10-29 333.17 2025-10-30 341.21  2.41 
+CSCO                 Cisco Systems Inc  2819.82                 Communications  2025-10-29 71.33  2025-10-30 72.91  2.22 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ CAH                 Cardinal Health Inc   390.75                   Health Care 2025-10-29 164.47 2025-10-30 189.84 15.43 
+ BMY             Bristol-Myers Squibb Co   867.10               Pharmaceuticals   2025-10-29 42.6  2025-10-30 45.62  7.09 
+  TT              Trane Technologies PLC   951.21                      Building 2025-10-29 427.48 2025-10-30 446.37  4.42 
+ NEM                 Newmont Corporation   869.41               Metals & Mining  2025-10-29 79.67  2025-10-30 82.31  3.31 
+ LHX           L3Harris Technologies Inc   536.72           Aerospace & Defense 2025-10-29 286.87  2025-10-30 295.9  3.15 
+ KMB                 Kimberly-Clark Corp   387.25             Consumer products 2025-10-29 116.72 2025-10-30 120.21  2.99 
+KEYS           Keysight Technologies Inc   292.96          Electrical Equipment 2025-10-29 170.47 2025-10-30 175.37  2.87 
+MSCI                            MSCI Inc   426.45            Financial Services 2025-10-29 567.54 2025-10-30 583.14  2.75 
+  AU               Anglogold Ashanti PLC   339.64               Metals & Mining  2025-10-29 67.29   2025-10-30 69.0  2.54 
+GOOG                        Alphabet Inc 33239.08                         Media 2025-10-29 275.17  2025-10-30 281.9  2.45 
+ COR                         Cencora Inc   645.94                   Health Care 2025-10-29 333.17 2025-10-30 341.21  2.41 
+CSCO                   Cisco Systems Inc  2819.82                Communications  2025-10-29 71.33  2025-10-30 72.91  2.22 
+ CRM                      Salesforce Inc  2393.90                    Technology 2025-10-29 251.46 2025-10-30 256.65  2.06 
+ MDB                         MongoDB Inc   277.04                    Technology 2025-10-29 340.53 2025-10-30 347.54  2.06 
+   L                          Loews Corp   202.86                     Insurance   2025-10-29 97.8  2025-10-30 99.53  1.77 
+ TER                        Teradyne Inc   276.69                Semiconductors 2025-10-29 173.94 2025-10-30 176.88  1.69 
+CINF           Cincinnati Financial Corp   236.88                     Insurance 2025-10-29 151.83 2025-10-30 154.36  1.67 
+ CCL                       Carnival Corp   362.76 Hotels, Restaurants & Leisure  2025-10-29 27.87  2025-10-30 28.33  1.65 
+ RCL         Royal Caribbean Cruises Ltd   763.73 Hotels, Restaurants & Leisure 2025-10-29 280.05 2025-10-30 284.53  1.60 
+ QSR Restaurant Brands International Inc   300.25 Hotels, Restaurants & Leisure  2025-10-29 66.02  2025-10-30 67.01  1.50 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码                 公司名称                  市值(亿)             板块                 昨天收盘              今天收盘        涨跌幅(%)
+GOOG                         Alphabet Inc 33239.08                 Media 2025-10-29 275.17   2025-10-30 281.9  2.45 
+CSCO                    Cisco Systems Inc  2819.82        Communications  2025-10-29 71.33   2025-10-30 72.91  2.22 
+ CRM                       Salesforce Inc  2393.90            Technology 2025-10-29 251.46  2025-10-30 256.65  2.06 
+ JPM                  JPMorgan Chase & Co  8400.77               Banking 2025-10-29 305.51  2025-10-30 309.44  1.29 
+ UNP                   Union Pacific Corp  1283.42           Road & Rail 2025-10-29 216.37  2025-10-30 218.83  1.14 
+   V                             Visa Inc  6575.07    Financial Services 2025-10-29 341.28  2025-10-30 345.03  1.10 
+  KO                         Coca-Cola Co  2940.15             Beverages  2025-10-29 68.35   2025-10-30 68.98  0.92 
+  GS              Goldman Sachs Group Inc  2370.49    Financial Services 2025-10-29 783.06  2025-10-30 790.16  0.91 
+ BAC                 Bank of America Corp  3894.57               Banking  2025-10-29 52.58   2025-10-30 53.03  0.86 
+COST                Costco Wholesale Corp  4043.66                Retail 2025-10-29 912.42  2025-10-30 920.18  0.85 
+ RTX                             RTX Corp  2364.59   Aerospace & Defense 2025-10-29 176.36  2025-10-30 177.42  0.60 
+ IBM International Business Machines Corp  2880.95            Technology 2025-10-29 308.21  2025-10-30 310.06  0.60 
+ TJX                    TJX Companies Inc  1576.92                Retail 2025-10-29 141.69  2025-10-30 142.29  0.42 
+  HD                       Home Depot Inc  3762.96                Retail 2025-10-29 378.04  2025-10-30 379.55  0.40 
+LRCX                    Lam Research Corp  2018.06        Semiconductors 2025-10-29 160.67  2025-10-30 161.01  0.21 
+ ABT                  Abbott Laboratories  2165.65           Health Care 2025-10-29 124.43  2025-10-30 124.67  0.19 
+ TXN                Texas Instruments Inc  1456.16        Semiconductors 2025-10-29 160.26  2025-10-30 160.51  0.16 
+ ADP        Automatic Data Processing Inc  1058.17 Professional Services 2025-10-29 261.22  2025-10-30 261.53  0.12 
+  CB                            Chubb Ltd  1094.07             Insurance  2025-10-29 278.0  2025-10-30 278.06  0.02 
+ BLK                        BlackRock Inc  1791.78    Financial Services 2025-10-29 1098.0 2025-10-30 1098.05  0.00 
