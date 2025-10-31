@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                  公司名称                 市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+RANI        Rani Therapeutics Holdings Inc   1.04                Pharmaceuticals  2025-10-30 1.45    2025-10-31 2.2 51.72 
+BENF                           Beneficient   0.05             Financial Services  2025-10-30 0.56   2025-10-31 0.83 48.35 
+CABA                     Cabaletta Bio Inc   2.26                  Biotechnology  2025-10-30 2.47   2025-10-31 3.61 46.15 
+MNOV                        MediciNova Inc   0.58                  Biotechnology  2025-10-30 1.19   2025-10-31 1.66 39.50 
+CLNN                             Clene Inc   1.01                  Biotechnology  2025-10-30 10.0   2025-10-31 12.5 25.00 
+ BHF             Brighthouse Financial Inc  26.11                      Insurance 2025-10-30 45.69  2025-10-31 57.07 24.91 
+ILMN                          Illumina Inc 152.18 Life Sciences Tools & Services 2025-10-30 99.01 2025-10-31 123.54 24.78 
+ARDX                           Ardelyx Inc  12.07                  Biotechnology  2025-10-30 5.01   2025-10-31 6.06 20.96 
+IOBT                        IO Biotech Inc   0.57                  Biotechnology  2025-10-30 0.86   2025-10-31 1.04 20.65 
+PACB Pacific Biosciences of California Inc   5.83 Life Sciences Tools & Services  2025-10-30 1.94   2025-10-31 2.34 20.62 
+TVTX              Travere Therapeutics Inc  26.43                  Biotechnology 2025-10-30 29.65  2025-10-31 35.16 18.58 
+BFAM  Bright Horizons Family Solutions Inc  52.48  Diversified Consumer Services 2025-10-30 92.28 2025-10-31 109.23 18.37 
+BJRI                  BJ's Restaurants Inc   6.35  Hotels, Restaurants & Leisure 2025-10-30 28.69  2025-10-31 33.96 18.37 
+BIOX          Bioceres Crop Solutions Corp   1.08                      Chemicals  2025-10-30 1.72   2025-10-31 2.03 18.02 
+  QS                     Quantumscape Corp  94.95                Auto Components 2025-10-30 15.79  2025-10-31 18.44 16.78 
+GLBS                   Globus Maritime Ltd   0.22                         Marine  2025-10-30 1.05   2025-10-31 1.22 16.19 
+HUSA          Houston American Energy Corp   1.72                         Energy   2025-10-30 5.0   2025-10-31 5.79 15.80 
+FCEL                   Fuelcell Energy Inc   2.50           Electrical Equipment  2025-10-30 7.73   2025-10-31 8.95 15.78 
+CSIQ                    Canadian Solar Inc  12.01                 Semiconductors 2025-10-30 17.94  2025-10-31 20.76 15.72 
+PACK                  Ranpak Holdings Corp   3.91                      Packaging  2025-10-30 4.63    2025-10-31 5.3 14.47 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                  市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ BHF            Brighthouse Financial Inc   26.11                      Insurance  2025-10-30 45.69  2025-10-31 57.07 24.91 
+ILMN                         Illumina Inc  152.18 Life Sciences Tools & Services  2025-10-30 99.01 2025-10-31 123.54 24.78 
+TVTX             Travere Therapeutics Inc   26.43                  Biotechnology  2025-10-30 29.65  2025-10-31 35.16 18.58 
+BFAM Bright Horizons Family Solutions Inc   52.48  Diversified Consumer Services  2025-10-30 92.28 2025-10-31 109.23 18.37 
+  QS                    Quantumscape Corp   94.95                Auto Components  2025-10-30 15.79  2025-10-31 18.44 16.78 
+ NET                       Cloudflare Inc  775.37                     Technology  2025-10-30 222.5  2025-10-31 253.3 13.84 
+ALAB                      Astera Labs Inc  281.82                 Semiconductors 2025-10-30 169.55 2025-10-31 186.68 10.10 
+ NVT                   nVent Electric PLC  167.95           Electrical Equipment 2025-10-30 104.35 2025-10-31 114.35  9.58 
+LCII                       LCI Industries   23.19                Auto Components  2025-10-30 95.65 2025-10-31 103.49  8.20 
+RYAN          Ryan Specialty Holdings Inc  133.64                      Insurance  2025-10-30 50.68   2025-10-31 54.8  8.13 
+APPF                         Appfolio Inc   84.51                     Technology 2025-10-30 235.71 2025-10-31 254.43  7.94 
+ CZR            Caesars Entertainment Inc   38.05  Hotels, Restaurants & Leisure  2025-10-30 18.64   2025-10-31 20.1  7.83 
+ AMR    Alpha Metallurgical Resources Inc   21.03                Metals & Mining 2025-10-30 161.14 2025-10-31 173.26  7.52 
+RDDT                           Reddit Inc  363.87                          Media 2025-10-30 194.42 2025-10-31 208.95  7.47 
+ CHD               Church & Dwight Co Inc  199.27              Consumer products   2025-10-30 81.8  2025-10-31 87.69  7.20 
+NVTS           Navitas Semiconductor Corp   26.77                 Semiconductors  2025-10-30 12.56  2025-10-31 13.46  7.17 
+DOCN            DigitalOcean Holdings Inc   34.54                     Technology  2025-10-30 37.94  2025-10-31 40.66  7.17 
+GSAT                       Globalstar Inc   64.32              Telecommunication  2025-10-30 50.78  2025-10-31 54.41  7.15 
+DAVE                             Dave Inc   30.26             Financial Services 2025-10-30 224.18 2025-10-31 239.32  6.75 
+HOOD                Robinhood Markets Inc 1226.99             Financial Services 2025-10-30 138.07 2025-10-31 146.78  6.31 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                  市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ILMN                         Illumina Inc  152.18 Life Sciences Tools & Services  2025-10-30 99.01 2025-10-31 123.54 24.78 
+BFAM Bright Horizons Family Solutions Inc   52.48  Diversified Consumer Services  2025-10-30 92.28 2025-10-31 109.23 18.37 
+  QS                    Quantumscape Corp   94.95                Auto Components  2025-10-30 15.79  2025-10-31 18.44 16.78 
+ NET                       Cloudflare Inc  775.37                     Technology  2025-10-30 222.5  2025-10-31 253.3 13.84 
+ALAB                      Astera Labs Inc  281.82                 Semiconductors 2025-10-30 169.55 2025-10-31 186.68 10.10 
+ NVT                   nVent Electric PLC  167.95           Electrical Equipment 2025-10-30 104.35 2025-10-31 114.35  9.58 
+RYAN          Ryan Specialty Holdings Inc  133.64                      Insurance  2025-10-30 50.68   2025-10-31 54.8  8.13 
+APPF                         Appfolio Inc   84.51                     Technology 2025-10-30 235.71 2025-10-31 254.43  7.94 
+RDDT                           Reddit Inc  363.87                          Media 2025-10-30 194.42 2025-10-31 208.95  7.47 
+ CHD               Church & Dwight Co Inc  199.27              Consumer products   2025-10-30 81.8  2025-10-31 87.69  7.20 
+GSAT                       Globalstar Inc   64.32              Telecommunication  2025-10-30 50.78  2025-10-31 54.41  7.15 
+HOOD                Robinhood Markets Inc 1226.99             Financial Services 2025-10-30 138.07 2025-10-31 146.78  6.31 
+ SMR                   Nuscale Power Corp  120.36           Electrical Equipment  2025-10-30 42.25  2025-10-31 44.87  6.20 
+ OMF                 OneMain Holdings Inc   66.27             Financial Services  2025-10-30 55.75  2025-10-31 59.19  6.17 
+RBRK                           Rubrik Inc  140.29                     Technology  2025-10-30 71.05  2025-10-31 75.27  5.94 
+OPEN            Opendoor Technologies Inc   54.02                    Real Estate   2025-10-30 7.34   2025-10-31 7.77  5.86 
+MRVL               Marvell Technology Inc  763.56                 Semiconductors  2025-10-30 88.57  2025-10-31 93.74  5.84 
+ RBC                     RBC Bearings Inc  128.29                      Machinery 2025-10-30 406.45 2025-10-31 428.53  5.43 
+TOST                            Toast Inc  200.49             Financial Services  2025-10-30 34.39  2025-10-31 36.14  5.09 
+ APG                       APi Group Corp  147.25                   Construction  2025-10-30 35.07  2025-10-31 36.82  4.99 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码             公司名称             市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ILMN                Illumina Inc  152.18 Life Sciences Tools & Services   2025-10-30 99.01  2025-10-31 123.54 24.78 
+ NET              Cloudflare Inc  775.37                     Technology   2025-10-30 222.5   2025-10-31 253.3 13.84 
+ALAB             Astera Labs Inc  281.82                 Semiconductors  2025-10-30 169.55  2025-10-31 186.68 10.10 
+ NVT          nVent Electric PLC  167.95           Electrical Equipment  2025-10-30 104.35  2025-10-31 114.35  9.58 
+RYAN Ryan Specialty Holdings Inc  133.64                      Insurance   2025-10-30 50.68    2025-10-31 54.8  8.13 
+RDDT                  Reddit Inc  363.87                          Media  2025-10-30 194.42  2025-10-31 208.95  7.47 
+ CHD      Church & Dwight Co Inc  199.27              Consumer products    2025-10-30 81.8   2025-10-31 87.69  7.20 
+HOOD       Robinhood Markets Inc 1226.99             Financial Services  2025-10-30 138.07  2025-10-31 146.78  6.31 
+ SMR          Nuscale Power Corp  120.36           Electrical Equipment   2025-10-30 42.25   2025-10-31 44.87  6.20 
+RBRK                  Rubrik Inc  140.29                     Technology   2025-10-30 71.05   2025-10-31 75.27  5.94 
+MRVL      Marvell Technology Inc  763.56                 Semiconductors   2025-10-30 88.57   2025-10-31 93.74  5.84 
+ RBC            RBC Bearings Inc  128.29                      Machinery  2025-10-30 406.45  2025-10-31 428.53  5.43 
+TOST                   Toast Inc  200.49             Financial Services   2025-10-30 34.39   2025-10-31 36.14  5.09 
+ APG              APi Group Corp  147.25                   Construction   2025-10-30 35.07   2025-10-31 36.82  4.99 
+FICO             Fair Isaac Corp  380.54                     Technology 2025-10-30 1585.36 2025-10-31 1659.53  4.68 
+ASTS         AST SpaceMobile Inc  278.75              Telecommunication   2025-10-30 76.68   2025-10-31 80.25  4.66 
+COIN         Coinbase Global Inc  843.41             Financial Services  2025-10-30 328.51  2025-10-31 343.78  4.65 
+   Z            Zillow Group Inc  179.08                    Real Estate   2025-10-30 71.72   2025-10-31 74.98  4.55 
+ RKT        Rocket Companies Inc  448.56             Financial Services   2025-10-30 15.94   2025-10-31 16.66  4.52 
+RIVN       Rivian Automotive Inc  157.63                    Automobiles   2025-10-30 12.99   2025-10-31 13.57  4.46 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称                市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+ NET                   Cloudflare Inc   775.37                     Technology   2025-10-30 222.5   2025-10-31 253.3 13.84 
+ALAB                  Astera Labs Inc   281.82                 Semiconductors  2025-10-30 169.55  2025-10-31 186.68 10.10 
+RDDT                       Reddit Inc   363.87                          Media  2025-10-30 194.42  2025-10-31 208.95  7.47 
+HOOD            Robinhood Markets Inc  1226.99             Financial Services  2025-10-30 138.07  2025-10-31 146.78  6.31 
+MRVL           Marvell Technology Inc   763.56                 Semiconductors   2025-10-30 88.57   2025-10-31 93.74  5.84 
+TOST                        Toast Inc   200.49             Financial Services   2025-10-30 34.39   2025-10-31 36.14  5.09 
+FICO                  Fair Isaac Corp   380.54                     Technology 2025-10-30 1585.36 2025-10-31 1659.53  4.68 
+ASTS              AST SpaceMobile Inc   278.75              Telecommunication   2025-10-30 76.68   2025-10-31 80.25  4.66 
+COIN              Coinbase Global Inc   843.41             Financial Services  2025-10-30 328.51  2025-10-31 343.78  4.65 
+ RKT             Rocket Companies Inc   448.56             Financial Services   2025-10-30 15.94   2025-10-31 16.66  4.52 
+AFRM              Affirm Holdings Inc   224.37             Financial Services    2025-10-30 68.9   2025-10-31 71.88  4.33 
+KEYS        Keysight Technologies Inc   301.38           Electrical Equipment  2025-10-30 175.37  2025-10-31 182.96  4.33 
+ EME                  EMCOR Group Inc   290.07                   Construction   2025-10-30 648.0  2025-10-31 675.78  4.29 
+TSLA                        Tesla Inc 14636.93                    Automobiles   2025-10-30 440.1  2025-10-31 456.56  3.74 
+ MDB                      MongoDB Inc   282.75                     Technology  2025-10-30 347.54  2025-10-31 359.82  3.53 
+CRCL        Circle Internet Group Inc   283.99                     Technology  2025-10-30 122.71  2025-10-31 126.98  3.48 
+  BE                Bloom Energy Corp   302.38           Electrical Equipment  2025-10-30 127.85  2025-10-31 132.16  3.37 
+PLTR        Palantir Technologies Inc  4615.40                     Technology  2025-10-30 194.55  2025-10-31 200.47  3.04 
+ MTD Mettler-Toledo International Inc   283.65 Life Sciences Tools & Services 2025-10-30 1377.01 2025-10-31 1416.29  2.85 
+ EXE               Expand Energy Corp   239.41                         Energy  2025-10-30 100.52  2025-10-31 103.31  2.78 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                  板块                       昨天收盘              今天收盘       涨跌幅(%)
+ HOOD               Robinhood Markets Inc  1226.99               Financial Services 2025-10-30 138.07 2025-10-31 146.78  6.31 
+ TSLA                           Tesla Inc 14636.93                      Automobiles  2025-10-30 440.1 2025-10-31 456.56  3.74 
+ PLTR           Palantir Technologies Inc  4615.40                       Technology 2025-10-30 194.55 2025-10-31 200.47  3.04 
+  CVX                        Chevron Corp  3143.16                           Energy 2025-10-30 153.52 2025-10-31 157.72  2.74 
+ IBKR       Interactive Brokers Group Inc  1164.55               Financial Services  2025-10-30 68.51  2025-10-31 70.36  2.70 
+  APP                       Applovin Corp  2099.25                       Technology 2025-10-30 620.62 2025-10-31 637.33  2.69 
+ QCOM                        Qualcomm Inc  1912.64                   Semiconductors 2025-10-30 177.26  2025-10-31 180.9  2.05 
+  GEV                      GE Vernova Inc  1557.57             Electrical Equipment 2025-10-30 574.07 2025-10-31 585.14  1.93 
+CMCSA                        Comcast Corp  1008.71                            Media  2025-10-30 27.32  2025-10-31 27.83  1.89 
+  CRM                      Salesforce Inc  2443.31                       Technology 2025-10-30 256.65 2025-10-31 260.41  1.47 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE  3032.74 Textiles, Apparel & Luxury Goods 2025-10-30 701.33 2025-10-31 707.27  0.85 
+ ISRG              Intuitive Surgical Inc  1878.90                      Health Care 2025-10-30 530.02 2025-10-31 534.28  0.80 
+  BAC                Bank of America Corp  3927.90                          Banking  2025-10-30 53.03  2025-10-31 53.45  0.79 
+  COF          Capital One Financial Corp  1388.24               Financial Services 2025-10-30 218.38 2025-10-31 219.99  0.74 
+  UNP                  Union Pacific Corp  1298.01                      Road & Rail 2025-10-30 218.83 2025-10-31 220.37  0.70 
+   BN                     Brookfield Corp  1132.58               Financial Services  2025-10-30 45.76  2025-10-31 46.05  0.63 
+ DELL               Dell Technologies Inc  1082.59                       Technology 2025-10-30 161.01 2025-10-31 162.01  0.62 
+  RTX                            RTX Corp  2378.80              Aerospace & Defense 2025-10-30 177.42  2025-10-31 178.5  0.61 
+  HON         Honeywell International Inc  1270.47         Industrial Conglomerates 2025-10-30 200.11 2025-10-31 201.33  0.61 
+  TXN               Texas Instruments Inc  1458.43                   Semiconductors 2025-10-30 160.51 2025-10-31 161.46  0.59 
