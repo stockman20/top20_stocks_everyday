@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                  公司名称                 市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+GLTO                           Galecto Inc  0.07                  Biotechnology  2025-11-07 4.95 2025-11-10 17.25 248.48
+HKIT                      Hitek Global Inc  0.64                     Technology  2025-11-07 2.19  2025-11-10 4.15  89.50
+SELX             Semilux International Ltd  0.21                 Semiconductors  2025-11-07 0.57  2025-11-10 1.05  85.51
+GREE     Greenidge Generation Holdings Inc  0.24                     Technology  2025-11-07 1.51   2025-11-10 2.1  39.07
+TEAD                              Teads BV  0.69                            N/A  2025-11-07 0.73  2025-11-10 0.98  34.28
+SUGP                 SU Group Holdings Ltd  0.08 Commercial Services & Supplies  2025-11-07 5.43  2025-11-10 7.01  29.10
+IOTR                           iOThree Ltd  0.74              Telecommunication   2025-11-07 2.9  2025-11-10 3.73  28.49
+IFRX                            InflaRx NV  0.83                  Biotechnology  2025-11-07 1.23  2025-11-10 1.58  28.46
+BNAI          Brand Engagement Network Inc  0.17                     Technology  2025-11-07 0.38  2025-11-10 0.48  28.29
+NVTS            Navitas Semiconductor Corp 16.85                 Semiconductors  2025-11-07 7.84   2025-11-10 9.6  22.45
+PYXS                    Pyxis Oncology Inc  2.43                  Biotechnology  2025-11-07 3.91  2025-11-10 4.77  21.99
+ TLS                            Telos Corp  4.64                     Technology  2025-11-07 6.38  2025-11-10 7.76  21.63
+OPEN             Opendoor Technologies Inc 50.70                    Real Estate  2025-11-07 6.56  2025-11-10 7.97  21.49
+ATHA                     Athira Pharma Inc  0.15                Pharmaceuticals  2025-11-07 3.85  2025-11-10 4.58  18.96
+PTLE                               PTL Ltd  0.10                         Energy  2025-11-07 0.19  2025-11-10 0.22  18.84
+ MNY                         MoneyHero Ltd  0.53                          Media  2025-11-07 1.23  2025-11-10 1.46  18.70
+NCRA                            Nocera Inc  0.17                   Construction  2025-11-07 1.07  2025-11-10 1.26  17.76
+BDMD Baird Medical Investment Holdings Ltd  0.38                    Health Care  2025-11-07 1.07  2025-11-10 1.26  17.76
+ALTO                  Alto Ingredients Inc  1.07                      Chemicals  2025-11-07 1.38  2025-11-10 1.62  17.39
+MLYS            Mineralys Therapeutics Inc 29.49                  Biotechnology 2025-11-07 38.02  2025-11-10 44.5  17.04
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+OPEN  Opendoor Technologies Inc   50.70          Real Estate   2025-11-07 6.56   2025-11-10 7.97 21.49 
+MLYS Mineralys Therapeutics Inc   29.49        Biotechnology  2025-11-07 38.02   2025-11-10 44.5 17.04 
+TSEM    Tower Semiconductor Ltd   93.95       Semiconductors  2025-11-07 84.07   2025-11-10 98.1 16.69 
+GSAT             Globalstar Inc   63.94    Telecommunication  2025-11-07 50.48  2025-11-10 57.58 14.06 
+SEDG Solaredge Technologies Inc   23.92       Semiconductors   2025-11-07 40.0  2025-11-10 45.38 13.45 
+SNDK               Sandisk Corp  350.90           Technology 2025-11-07 239.48 2025-11-10 267.95 11.89 
+ HHH Howard Hughes Holdings Inc   47.57          Real Estate  2025-11-07 80.09  2025-11-10 89.14 11.30 
+  MP          MP Materials Corp  103.78      Metals & Mining   2025-11-07 58.6  2025-11-10 64.18  9.52 
+PLTR  Palantir Technologies Inc 4240.85           Technology 2025-11-07 177.93 2025-11-10 193.61  8.81 
+ENPH         Enphase Energy Inc   39.55       Semiconductors  2025-11-07 30.22  2025-11-10 32.84  8.67 
+SOFI      SoFi Technologies Inc  340.19   Financial Services  2025-11-07 28.21  2025-11-10 30.54  8.26 
+LITE      Lumentum Holdings Inc  190.20       Communications 2025-11-07 240.11 2025-11-10 259.89  8.24 
+COHR              Coherent Corp  242.82 Electrical Equipment 2025-11-07 154.51 2025-11-10 166.72  7.90 
+ PBF             PBF Energy Inc   42.76               Energy  2025-11-07 36.91  2025-11-10 39.82  7.88 
+RIVN      Rivian Automotive Inc  186.72          Automobiles  2025-11-07 15.23  2025-11-10 16.41  7.75 
+CELH       Celsius Holdings Inc  107.11            Beverages  2025-11-07 41.52  2025-11-10 44.56  7.32 
+FOUR        Shift4 Payments Inc   58.44   Financial Services  2025-11-07 66.15  2025-11-10 70.93  7.23 
+FROG                  Jfrog Ltd   70.05           Technology   2025-11-07 60.0  2025-11-10 64.32  7.20 
+GRAL                  Grail Inc   28.62        Biotechnology   2025-11-07 79.4  2025-11-10 85.11  7.19 
+ RUN                 Sunrun Inc   39.75 Electrical Equipment  2025-11-07 17.13  2025-11-10 18.35  7.12 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+OPEN Opendoor Technologies Inc   50.70                   Real Estate   2025-11-07 6.56   2025-11-10 7.97 21.49 
+TSEM   Tower Semiconductor Ltd   93.95                Semiconductors  2025-11-07 84.07   2025-11-10 98.1 16.69 
+GSAT            Globalstar Inc   63.94             Telecommunication  2025-11-07 50.48  2025-11-10 57.58 14.06 
+SNDK              Sandisk Corp  350.90                    Technology 2025-11-07 239.48 2025-11-10 267.95 11.89 
+  MP         MP Materials Corp  103.78               Metals & Mining   2025-11-07 58.6  2025-11-10 64.18  9.52 
+PLTR Palantir Technologies Inc 4240.85                    Technology 2025-11-07 177.93 2025-11-10 193.61  8.81 
+SOFI     SoFi Technologies Inc  340.19            Financial Services  2025-11-07 28.21  2025-11-10 30.54  8.26 
+LITE     Lumentum Holdings Inc  190.20                Communications 2025-11-07 240.11 2025-11-10 259.89  8.24 
+COHR             Coherent Corp  242.82          Electrical Equipment 2025-11-07 154.51 2025-11-10 166.72  7.90 
+RIVN     Rivian Automotive Inc  186.72                   Automobiles  2025-11-07 15.23  2025-11-10 16.41  7.75 
+CELH      Celsius Holdings Inc  107.11                     Beverages  2025-11-07 41.52  2025-11-10 44.56  7.32 
+FOUR       Shift4 Payments Inc   58.44            Financial Services  2025-11-07 66.15  2025-11-10 70.93  7.23 
+FROG                 Jfrog Ltd   70.05                    Technology   2025-11-07 60.0  2025-11-10 64.32  7.20 
+  AU     Anglogold Ashanti PLC  350.34               Metals & Mining  2025-11-07 69.41   2025-11-10 74.1  6.76 
+ HQY          Healthequity Inc   80.74                   Health Care  2025-11-07 93.71  2025-11-10 99.83  6.53 
+  VG        Venture Global Inc  188.17                        Energy   2025-11-07 7.99   2025-11-10 8.49  6.26 
+GRAB         Grab Holdings Ltd  226.57                   Road & Rail   2025-11-07 5.56    2025-11-10 5.9  6.12 
+BROS            Dutch Bros Inc   87.87 Hotels, Restaurants & Leisure  2025-11-07 53.43  2025-11-10 56.68  6.08 
+ UEC       Uranium Energy Corp   58.66                        Energy   2025-11-07 12.2  2025-11-10 12.94  6.07 
+SNAP                  Snap Inc  138.74                         Media   2025-11-07 8.21   2025-11-10 8.69  5.85 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+SNDK                    Sandisk Corp   350.90           Technology 2025-11-07 239.48 2025-11-10 267.95 11.89 
+  MP               MP Materials Corp   103.78      Metals & Mining   2025-11-07 58.6  2025-11-10 64.18  9.52 
+PLTR       Palantir Technologies Inc  4240.85           Technology 2025-11-07 177.93 2025-11-10 193.61  8.81 
+SOFI           SoFi Technologies Inc   340.19   Financial Services  2025-11-07 28.21  2025-11-10 30.54  8.26 
+LITE           Lumentum Holdings Inc   190.20       Communications 2025-11-07 240.11 2025-11-10 259.89  8.24 
+COHR                   Coherent Corp   242.82 Electrical Equipment 2025-11-07 154.51 2025-11-10 166.72  7.90 
+RIVN           Rivian Automotive Inc   186.72          Automobiles  2025-11-07 15.23  2025-11-10 16.41  7.75 
+CELH            Celsius Holdings Inc   107.11            Beverages  2025-11-07 41.52  2025-11-10 44.56  7.32 
+  AU           Anglogold Ashanti PLC   350.34      Metals & Mining  2025-11-07 69.41   2025-11-10 74.1  6.76 
+  VG              Venture Global Inc   188.17               Energy   2025-11-07 7.99   2025-11-10 8.49  6.26 
+GRAB               Grab Holdings Ltd   226.57          Road & Rail   2025-11-07 5.56    2025-11-10 5.9  6.12 
+SNAP                        Snap Inc   138.74                Media   2025-11-07 8.21   2025-11-10 8.69  5.85 
+NVDA                     NVIDIA Corp 45720.45       Semiconductors 2025-11-07 188.15 2025-11-10 199.05  5.79 
+ RKT            Rocket Companies Inc   459.40   Financial Services  2025-11-07 16.16  2025-11-10 17.08  5.69 
+ STX Seagate Technology Holdings PLC   596.57           Technology 2025-11-07 279.35 2025-11-10 293.99  5.24 
+RGLD                  Royal Gold Inc   148.39      Metals & Mining 2025-11-07 175.82 2025-11-10 184.73  5.07 
+ APP                   Applovin Corp  2095.08           Technology 2025-11-07 619.93 2025-11-10 651.32  5.06 
+CIEN                      Ciena Corp   281.07       Communications 2025-11-07 199.26 2025-11-10 208.74  4.76 
+ ROK         Rockwell Automation Inc   419.93 Electrical Equipment 2025-11-07 373.49 2025-11-10 391.24  4.75 
+ AMD      Advanced Micro Devices Inc  3802.13       Semiconductors 2025-11-07 233.54 2025-11-10 243.98  4.47 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+SNDK                    Sandisk Corp   350.90                    Technology 2025-11-07 239.48 2025-11-10 267.95 11.89 
+PLTR       Palantir Technologies Inc  4240.85                    Technology 2025-11-07 177.93 2025-11-10 193.61  8.81 
+SOFI           SoFi Technologies Inc   340.19            Financial Services  2025-11-07 28.21  2025-11-10 30.54  8.26 
+COHR                   Coherent Corp   242.82          Electrical Equipment 2025-11-07 154.51 2025-11-10 166.72  7.90 
+  AU           Anglogold Ashanti PLC   350.34               Metals & Mining  2025-11-07 69.41   2025-11-10 74.1  6.76 
+GRAB               Grab Holdings Ltd   226.57                   Road & Rail   2025-11-07 5.56    2025-11-10 5.9  6.12 
+NVDA                     NVIDIA Corp 45720.45                Semiconductors 2025-11-07 188.15 2025-11-10 199.05  5.79 
+ RKT            Rocket Companies Inc   459.40            Financial Services  2025-11-07 16.16  2025-11-10 17.08  5.69 
+ STX Seagate Technology Holdings PLC   596.57                    Technology 2025-11-07 279.35 2025-11-10 293.99  5.24 
+ APP                   Applovin Corp  2095.08                    Technology 2025-11-07 619.93 2025-11-10 651.32  5.06 
+CIEN                      Ciena Corp   281.07                Communications 2025-11-07 199.26 2025-11-10 208.74  4.76 
+ ROK         Rockwell Automation Inc   419.93          Electrical Equipment 2025-11-07 373.49 2025-11-10 391.24  4.75 
+ AMD      Advanced Micro Devices Inc  3802.13                Semiconductors 2025-11-07 233.54 2025-11-10 243.98  4.47 
+ VRT              Vertiv Holdings Co   729.16          Electrical Equipment  2025-11-07 179.8 2025-11-10 187.84  4.47 
+LRCX               Lam Research Corp  2001.48                Semiconductors 2025-11-07 159.35 2025-11-10 166.37  4.41 
+GOOG                    Alphabet Inc 33693.46                         Media  2025-11-07 279.7 2025-11-10 290.59  3.89 
+EXPE               Expedia Group Inc   319.49 Hotels, Restaurants & Leisure 2025-11-07 258.25 2025-11-10 268.04  3.79 
+TSLA                       Tesla Inc 14285.06                   Automobiles 2025-11-07 429.52 2025-11-10 445.23  3.66 
+ RCL     Royal Caribbean Cruises Ltd   698.17 Hotels, Restaurants & Leisure 2025-11-07 256.01 2025-11-10 264.98  3.50 
+AFRM             Affirm Holdings Inc   239.74            Financial Services  2025-11-07 73.62  2025-11-10 76.09  3.36 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                  板块                       昨天收盘               今天收盘        涨跌幅(%)
+ PLTR           Palantir Technologies Inc  4240.85                       Technology  2025-11-07 177.93  2025-11-10 193.61  8.81 
+ NVDA                         NVIDIA Corp 45720.45                   Semiconductors  2025-11-07 188.15  2025-11-10 199.05  5.79 
+  APP                       Applovin Corp  2095.08                       Technology  2025-11-07 619.93  2025-11-10 651.32  5.06 
+  AMD          Advanced Micro Devices Inc  3802.13                   Semiconductors  2025-11-07 233.54  2025-11-10 243.98  4.47 
+ LRCX                   Lam Research Corp  2001.48                   Semiconductors  2025-11-07 159.35  2025-11-10 166.37  4.41 
+ GOOG                        Alphabet Inc 33693.46                            Media   2025-11-07 279.7  2025-11-10 290.59  3.89 
+ TSLA                           Tesla Inc 14285.06                      Automobiles  2025-11-07 429.52  2025-11-10 445.23  3.66 
+ ISRG              Intuitive Surgical Inc  1985.18                      Health Care   2025-11-07 560.0   2025-11-10 576.2  2.89 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE  2998.45 Textiles, Apparel & Luxury Goods  2025-11-07 701.13   2025-11-10 720.0  2.69 
+ AVGO                        Broadcom Inc 16501.36                   Semiconductors  2025-11-07 349.43  2025-11-10 358.39  2.56 
+ KLAC                            KLA Corp  1568.00                   Semiconductors 2025-11-07 1193.37 2025-11-10 1217.95  2.06 
+ ANET                 Arista Networks Inc  1695.63                   Communications  2025-11-07 134.65  2025-11-10 137.26  1.94 
+  ADI                  Analog Devices Inc  1124.02                   Semiconductors  2025-11-07 228.48   2025-11-10 232.0  1.54 
+   GE                 General Electric Co  3241.13              Aerospace & Defense  2025-11-07 307.27  2025-11-10 311.94  1.52 
+  TJX                   TJX Companies Inc  1609.42                           Retail  2025-11-07 144.61  2025-11-10 146.72  1.46 
+   DE                          Deere & Co  1264.57                        Machinery  2025-11-07 467.79  2025-11-10 474.39  1.41 
+   GS             Goldman Sachs Group Inc  2358.46               Financial Services  2025-11-07 786.34   2025-11-10 797.2  1.38 
+  COF          Capital One Financial Corp  1384.76               Financial Services  2025-11-07 217.82  2025-11-10 220.36  1.17 
+  RTX                            RTX Corp  2372.76              Aerospace & Defense  2025-11-07 176.97  2025-11-10 179.03  1.16 
+   PM     Philip Morris International Inc  2387.73                          Tobacco  2025-11-07 153.39  2025-11-10 155.07  1.10 
