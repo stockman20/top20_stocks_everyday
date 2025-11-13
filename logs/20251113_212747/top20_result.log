@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                 公司名称                市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+MRSN            Mersana Therapeutics Inc  0.44                  Biotechnology  2025-11-12 8.87 2025-11-13 27.43 209.24
+CYCU                        Cycurion Inc  0.10          Professional Services  2025-11-12 3.19  2025-11-13 4.18  31.03
+CURI                 CuriosityStream Inc  2.74                          Media  2025-11-12 3.76  2025-11-13 4.66  23.94
+SGLY   Singularity Future Technology Ltd  0.02  Transportation Infrastructure  2025-11-12 0.58  2025-11-13 0.71  23.17
+CURV                 Torrid Holdings Inc  1.31                         Retail  2025-11-12 1.15  2025-11-13 1.39  20.87
+ARBB                         ARB IOT Ltd  0.10                     Technology  2025-11-12 5.71  2025-11-13 6.83  19.61
+ONDS                  Ondas Holdings Inc 24.76                 Communications  2025-11-12 5.51  2025-11-13 6.56  19.06
+TRUG                Trugolf Holdings Inc  0.02                          Media   2025-11-12 1.6   2025-11-13 1.9  18.75
+ISPR               Ispire Technology Inc  0.97                        Tobacco  2025-11-12 1.62  2025-11-13 1.92  18.52
+GORV               Lazydays Holdings Inc  0.05                         Retail  2025-11-12 1.27   2025-11-13 1.5  18.11
+GLTO                         Galecto Inc  0.29                  Biotechnology  2025-11-12 23.6 2025-11-13 27.84  17.97
+ SEE                     Sealed Air Corp 62.59                      Packaging 2025-11-12 36.38  2025-11-13 42.5  16.82
+ACVA                    ACV Auctions Inc 10.43 Commercial Services & Supplies  2025-11-12 5.49  2025-11-13 6.37  16.03
+OTLK            Outlook Therapeutics Inc  0.71                  Biotechnology  2025-11-12 1.28  2025-11-13 1.47  14.84
+  AP               Ampco-Pittsburgh Corp  0.47                Metals & Mining  2025-11-12 1.91  2025-11-13 2.17  13.61
+SHIM                       Shimmick Corp  0.85                   Construction  2025-11-12 2.22  2025-11-13 2.52  13.51
+SONN Sonnet Biotherapeutics Holdings Inc  0.38                  Biotechnology  2025-11-12 4.76   2025-11-13 5.4  13.45
+SCKT                   Socket Mobile Inc  0.09                     Technology  2025-11-12 1.08  2025-11-13 1.22  12.96
+AEMD                 Aethlon Medical Inc  0.03                    Health Care   2025-11-12 4.2  2025-11-13 4.74  12.86
+GNLN              Greenlane Holdings Inc  0.04                   Distributors  2025-11-12 2.68   2025-11-13 3.0  11.94
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                  公司名称                  市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ONDS                     Ondas Holdings Inc  24.76                   Communications   2025-11-12 5.51   2025-11-13 6.56 19.06 
+ SEE                        Sealed Air Corp  62.59                        Packaging  2025-11-12 36.38   2025-11-13 42.5 16.82 
+ LYB           LyondellBasell Industries NV 142.62                        Chemicals  2025-11-12 43.31  2025-11-13 45.52  5.10 
+ OLN                              Olin Corp  23.51                        Chemicals  2025-11-12 19.91  2025-11-13 20.77  4.32 
+NNNN                    Anbio Biotechnology  32.38                    Biotechnology  2025-11-12 22.42  2025-11-13 23.31  3.97 
+JAZZ               Jazz Pharmaceuticals PLC  85.20                  Pharmaceuticals 2025-11-12 136.71 2025-11-13 141.71  3.66 
+CMBT                            CMB.TECH NV  23.82                           Energy   2025-11-12 9.64   2025-11-13 9.96  3.32 
+PLNT                     Planet Fitness Inc  92.68    Hotels, Restaurants & Leisure 2025-11-12 103.77 2025-11-13 107.11  3.22 
+ SON                     Sonoco Products Co  41.20                        Packaging  2025-11-12 40.29  2025-11-13 41.57  3.18 
+BALL                              Ball Corp 127.91                        Packaging  2025-11-12 46.47  2025-11-13 47.94  3.16 
+ IFF International Flavors & Fragrances Inc 170.28                        Chemicals  2025-11-12 65.41  2025-11-13 67.43  3.09 
+ GPK           Graphic Packaging Holding Co  48.03                        Packaging  2025-11-12 15.69  2025-11-13 16.12  2.74 
+COLM                 Columbia Sportswear Co  29.04 Textiles, Apparel & Luxury Goods  2025-11-12 53.06  2025-11-13 54.45  2.62 
+AVNT                            Avient Corp  27.57                        Chemicals  2025-11-12 29.46  2025-11-13 30.15  2.34 
+CART                          Maplebear Inc 105.54                           Retail  2025-11-12 39.41  2025-11-13 40.33  2.33 
+ FDS           Factset Research Systems Inc 103.45               Financial Services 2025-11-12 271.88 2025-11-13 277.94  2.23 
+CIVI                  Civitas Resources Inc  24.45                           Energy  2025-11-12 27.88  2025-11-13 28.44  2.01 
+ TAP               Molson Coors Beverage Co  92.59                        Beverages  2025-11-12 45.97  2025-11-13 46.88  1.98 
+ NYT                      New York Times Co 103.72                            Media  2025-11-12 63.25  2025-11-13 64.49  1.96 
+REGN          Regeneron Pharmaceuticals Inc 738.91                    Biotechnology 2025-11-12 681.72 2025-11-13 694.99  1.95 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                  公司名称                  市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ SEE                        Sealed Air Corp  62.59                      Packaging  2025-11-12 36.38   2025-11-13 42.5 16.82 
+ LYB           LyondellBasell Industries NV 142.62                      Chemicals  2025-11-12 43.31  2025-11-13 45.52  5.10 
+JAZZ               Jazz Pharmaceuticals PLC  85.20                Pharmaceuticals 2025-11-12 136.71 2025-11-13 141.71  3.66 
+PLNT                     Planet Fitness Inc  92.68  Hotels, Restaurants & Leisure 2025-11-12 103.77 2025-11-13 107.11  3.22 
+BALL                              Ball Corp 127.91                      Packaging  2025-11-12 46.47  2025-11-13 47.94  3.16 
+ IFF International Flavors & Fragrances Inc 170.28                      Chemicals  2025-11-12 65.41  2025-11-13 67.43  3.09 
+CART                          Maplebear Inc 105.54                         Retail  2025-11-12 39.41  2025-11-13 40.33  2.33 
+ FDS           Factset Research Systems Inc 103.45             Financial Services 2025-11-12 271.88 2025-11-13 277.94  2.23 
+ TAP               Molson Coors Beverage Co  92.59                      Beverages  2025-11-12 45.97  2025-11-13 46.88  1.98 
+ NYT                      New York Times Co 103.72                          Media  2025-11-12 63.25  2025-11-13 64.49  1.96 
+REGN          Regeneron Pharmaceuticals Inc 738.91                  Biotechnology 2025-11-12 681.72 2025-11-13 694.99  1.95 
+SOLV                         Solventum Corp 130.54                    Health Care  2025-11-12 73.83  2025-11-13 75.22  1.88 
+ QSR    Restaurant Brands International Inc 318.08  Hotels, Restaurants & Leisure  2025-11-12 69.14  2025-11-13 70.41  1.84 
+ ORI        Old Republic International Corp 105.83                      Insurance  2025-11-12 42.67  2025-11-13 43.45  1.83 
+ GIS                      General Mills Inc 252.52                  Food Products   2025-11-12 46.5  2025-11-13 47.33  1.78 
+MASI                            Masimo Corp  80.27                    Health Care 2025-11-12 149.79 2025-11-13 152.43  1.76 
+ HRL                      Hormel Foods Corp 124.79                  Food Products  2025-11-12 22.27  2025-11-13 22.66  1.75 
+ERIE                      Erie Indemnity Co 134.58                      Insurance 2025-11-12 282.84 2025-11-13 287.18  1.53 
+CTAS                            Cintas Corp 757.72 Commercial Services & Supplies 2025-11-12 185.28 2025-11-13 187.91  1.42 
+ AVY                    Avery Dennison Corp 135.33                      Packaging 2025-11-12 174.01 2025-11-13 176.41  1.38 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                  公司名称                   市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ LYB           LyondellBasell Industries NV  142.62                      Chemicals  2025-11-12 43.31  2025-11-13 45.52  5.10 
+BALL                              Ball Corp  127.91                      Packaging  2025-11-12 46.47  2025-11-13 47.94  3.16 
+ IFF International Flavors & Fragrances Inc  170.28                      Chemicals  2025-11-12 65.41  2025-11-13 67.43  3.09 
+CART                          Maplebear Inc  105.54                         Retail  2025-11-12 39.41  2025-11-13 40.33  2.33 
+ FDS           Factset Research Systems Inc  103.45             Financial Services 2025-11-12 271.88 2025-11-13 277.94  2.23 
+ NYT                      New York Times Co  103.72                          Media  2025-11-12 63.25  2025-11-13 64.49  1.96 
+REGN          Regeneron Pharmaceuticals Inc  738.91                  Biotechnology 2025-11-12 681.72 2025-11-13 694.99  1.95 
+SOLV                         Solventum Corp  130.54                    Health Care  2025-11-12 73.83  2025-11-13 75.22  1.88 
+ QSR    Restaurant Brands International Inc  318.08  Hotels, Restaurants & Leisure  2025-11-12 69.14  2025-11-13 70.41  1.84 
+ ORI        Old Republic International Corp  105.83                      Insurance  2025-11-12 42.67  2025-11-13 43.45  1.83 
+ GIS                      General Mills Inc  252.52                  Food Products   2025-11-12 46.5  2025-11-13 47.33  1.78 
+ HRL                      Hormel Foods Corp  124.79                  Food Products  2025-11-12 22.27  2025-11-13 22.66  1.75 
+ERIE                      Erie Indemnity Co  134.58                      Insurance 2025-11-12 282.84 2025-11-13 287.18  1.53 
+CTAS                            Cintas Corp  757.72 Commercial Services & Supplies 2025-11-12 185.28 2025-11-13 187.91  1.42 
+ AVY                    Avery Dennison Corp  135.33                      Packaging 2025-11-12 174.01 2025-11-13 176.41  1.38 
+ DPZ                     Domino's Pizza Inc  138.17  Hotels, Restaurants & Leisure 2025-11-12 403.76 2025-11-13 408.68  1.22 
+COST                  Costco Wholesale Corp 4085.23                         Retail  2025-11-12 914.0 2025-11-13 925.08  1.21 
+ IQV                     IQVIA Holdings Inc  385.02 Life Sciences Tools & Services 2025-11-12 220.88 2025-11-13 223.55  1.21 
+MANH               Manhattan Associates Inc  106.00                     Technology 2025-11-12 175.34 2025-11-13 177.42  1.19 
+ACGL                 Arch Capital Group Ltd  334.58                      Insurance  2025-11-12 91.78  2025-11-13 92.76  1.07 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                板块                      昨天收盘              今天收盘        涨跌幅(%)
+REGN       Regeneron Pharmaceuticals Inc  738.91                  Biotechnology 2025-11-12 681.72  2025-11-13 694.99  1.95 
+ QSR Restaurant Brands International Inc  318.08  Hotels, Restaurants & Leisure  2025-11-12 69.14   2025-11-13 70.41  1.84 
+ GIS                   General Mills Inc  252.52                  Food Products   2025-11-12 46.5   2025-11-13 47.33  1.78 
+CTAS                         Cintas Corp  757.72 Commercial Services & Supplies 2025-11-12 185.28  2025-11-13 187.91  1.42 
+COST               Costco Wholesale Corp 4085.23                         Retail  2025-11-12 914.0  2025-11-13 925.08  1.21 
+ IQV                  IQVIA Holdings Inc  385.02 Life Sciences Tools & Services 2025-11-12 220.88  2025-11-13 223.55  1.21 
+ACGL              Arch Capital Group Ltd  334.58                      Insurance  2025-11-12 91.78   2025-11-13 92.76  1.07 
+ ALL                       Allstate Corp  549.17                      Insurance 2025-11-12 209.21  2025-11-13 211.16  0.93 
+TMUS                     T-Mobile US Inc 2413.96              Telecommunication 2025-11-12 212.68  2025-11-13 214.57  0.89 
+  KR                           Kroger Co  435.98                         Retail   2025-11-12 65.4   2025-11-13 65.97  0.87 
+  BR  Broadridge Financial Solutions Inc  261.56          Professional Services 2025-11-12 223.66  2025-11-13 225.61  0.87 
+VLTO                        Veralto Corp  245.84 Commercial Services & Supplies  2025-11-12 97.73   2025-11-13 98.56  0.85 
+ KHC                      Kraft Heinz Co  296.80                  Food Products  2025-11-12 24.75   2025-11-13 24.96  0.85 
+CPRT                          Copart Inc  401.89 Commercial Services & Supplies  2025-11-12 41.28   2025-11-13 41.62  0.82 
+ AZO                        Autozone Inc  640.65                         Retail 2025-11-12 3788.7 2025-11-13 3819.29  0.81 
+  ED             Consolidated Edison Inc  360.76                      Utilities 2025-11-12 100.19  2025-11-13 100.95  0.76 
+PAYX                         Paychex Inc  401.21          Professional Services 2025-11-12 111.08   2025-11-13 111.8  0.65 
+ MMC      Marsh & McLennan Companies Inc  898.49                      Insurance 2025-11-12 182.79  2025-11-13 183.85  0.58 
+ XOM                    Exxon Mobil Corp 4964.98                         Energy 2025-11-12 118.12  2025-11-13 118.79  0.57 
+ COR                         Cencora Inc  707.17                    Health Care 2025-11-12 363.42  2025-11-13 365.45  0.56 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)             板块                   昨天收盘              今天收盘       涨跌幅(%)
+ COST           Costco Wholesale Corp 4085.23                   Retail  2025-11-12 914.0 2025-11-13 925.08  1.21 
+ TMUS                 T-Mobile US Inc 2413.96        Telecommunication 2025-11-12 212.68 2025-11-13 214.57  0.89 
+  XOM                Exxon Mobil Corp 4964.98                   Energy 2025-11-12 118.12 2025-11-13 118.79  0.57 
+   CB                       Chubb Ltd 1167.70                Insurance 2025-11-12 294.93 2025-11-13 296.22  0.44 
+    T                        AT&T Inc 1835.10        Telecommunication  2025-11-12 25.65  2025-11-13 25.75  0.39 
+  ABT             Abbott Laboratories 2236.02              Health Care 2025-11-12 128.82 2025-11-13 129.26  0.34 
+  MDT                   Medtronic PLC 1234.65              Health Care  2025-11-12 95.81  2025-11-13 96.14  0.34 
+CMCSA                    Comcast Corp 1029.22                    Media  2025-11-12 27.89  2025-11-13 27.97  0.29 
+  ADP   Automatic Data Processing Inc 1028.43    Professional Services 2025-11-12 254.55 2025-11-13 254.61  0.02 
+  HCA              HCA Healthcare Inc 1083.24              Health Care 2025-11-12 473.61 2025-11-13 473.28 -0.07 
+   PM Philip Morris International Inc 2406.25                  Tobacco 2025-11-12 155.56 2025-11-13 155.15 -0.26 
+ SPOT           Spotify Technology SA 1320.89                    Media 2025-11-12 647.87 2025-11-13 645.33 -0.39 
+  TXN           Texas Instruments Inc 1496.23           Semiconductors 2025-11-12 163.09 2025-11-13 162.23 -0.53 
+  TJX               TJX Companies Inc 1640.36                   Retail 2025-11-12 147.63  2025-11-13 146.4 -0.83 
+    V                        Visa Inc 6487.25       Financial Services 2025-11-12 338.88 2025-11-13 336.08 -0.83 
+  HON     Honeywell International Inc 1285.27 Industrial Conglomerates 2025-11-12 201.59 2025-11-13 199.87 -0.85 
+  BMY         Bristol-Myers Squibb Co 1011.77          Pharmaceuticals  2025-11-12 49.08  2025-11-13 48.63 -0.92 
+  UNP              Union Pacific Corp 1320.20              Road & Rail 2025-11-12 223.55 2025-11-13 221.48 -0.93 
+   MA                  Mastercard Inc 5032.46       Financial Services 2025-11-12 561.23 2025-11-13 555.57 -1.01 
+ ISRG          Intuitive Surgical Inc 2021.34              Health Care 2025-11-12 572.45 2025-11-13 565.51 -1.21 
