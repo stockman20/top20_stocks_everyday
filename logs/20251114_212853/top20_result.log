@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+CYCU                   Cycurion Inc  0.12          Professional Services  2025-11-13 4.18  2025-11-14 6.32 51.20 
+ TOI         Oncology Institute Inc  2.88                    Health Care  2025-11-13 3.08  2025-11-14 3.97 28.90 
+CNTB Connect Biopharma Holdings Ltd  0.94                  Biotechnology  2025-11-13 1.68  2025-11-14 2.12 26.19 
+GTBP               GT Biopharma Inc  0.08                  Biotechnology  2025-11-13 0.73  2025-11-14 0.92 26.11 
+  UK     Ucommune International Ltd  0.02                    Real Estate  2025-11-13 0.85  2025-11-14 1.05 23.67 
+AVDL     Avadel Pharmaceuticals PLC 18.79                Pharmaceuticals 2025-11-13 19.24 2025-11-14 23.56 22.45 
+CTKB          Cytek Biosciences Inc  5.84 Life Sciences Tools & Services  2025-11-13 4.57   2025-11-14 5.5 20.35 
+AMPG            Amplitech Group Inc  0.55           Electrical Equipment  2025-11-13 2.66  2025-11-14 3.14 18.05 
+SMTK                   SmartKem Inc  0.08                 Semiconductors  2025-11-13 1.44  2025-11-14 1.69 17.36 
+CHEK                  Check Cap Ltd  0.12                    Health Care  2025-11-13 1.69  2025-11-14 1.98 16.86 
+CLNN                      Clene Inc  0.74                  Biotechnology   2025-11-13 7.3  2025-11-14 8.52 16.71 
+ CVU         CPI Aerostructures Inc  0.27            Aerospace & Defense  2025-11-13 2.05  2025-11-14 2.39 16.59 
+ALUR      Allurion Technologies Inc  0.10  Diversified Consumer Services  2025-11-13 1.33  2025-11-14 1.55 16.54 
+NAMM                 Namib Minerals  0.72                Metals & Mining  2025-11-13 1.34  2025-11-14 1.55 15.67 
+DNTH      Dianthus Therapeutics Inc 15.22                  Biotechnology  2025-11-13 35.5 2025-11-14 40.85 15.07 
+PALI               Palisade Bio Inc  2.79                  Biotechnology  2025-11-13 1.87  2025-11-14 2.14 14.44 
+  AP          Ampco-Pittsburgh Corp  0.44                Metals & Mining  2025-11-13 2.17  2025-11-14 2.46 13.36 
+ALXO      ALX Oncology Holdings Inc  0.66                  Biotechnology  2025-11-13 1.22  2025-11-14 1.38 13.11 
+GUTS             Fractyl Health Inc  1.53                    Health Care  2025-11-13 1.12  2025-11-14 1.26 12.50 
+RYDE                 Ryde Group Ltd  0.19                    Road & Rail  2025-11-13 0.45   2025-11-14 0.5 12.22 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+NNNN            Anbio Biotechnology  33.54                 Biotechnology  2025-11-13 23.31  2025-11-14 26.02 11.63 
+FLNC             Fluence Energy Inc  29.66          Electrical Equipment  2025-11-13 16.25  2025-11-14 17.91 10.22 
+ONDS             Ondas Holdings Inc  24.12                Communications   2025-11-13 6.56   2025-11-14 7.18  9.45 
+  BE              Bloom Energy Corp 244.91          Electrical Equipment 2025-11-13 103.55 2025-11-14 111.89  8.05 
+CELC                   Celcuity Inc  36.49                 Biotechnology   2025-11-13 86.0  2025-11-14 92.68  7.77 
+DASH                   DoorDash Inc 841.50 Hotels, Restaurants & Leisure 2025-11-13 195.21 2025-11-14 206.96  6.02 
+REZI       Resideo Technologies Inc  46.68                      Building  2025-11-13 31.18  2025-11-14 33.01  5.87 
+RVMD       Revolution Medicines Inc 124.46                 Biotechnology  2025-11-13 64.38  2025-11-14 67.75  5.23 
+KNTK           Kinetik Holdings Inc  53.15                        Energy  2025-11-13 32.89   2025-11-14 34.5  4.90 
+PRAX Praxis Precision Medicines Inc  44.53                 Biotechnology 2025-11-13 178.08 2025-11-14 186.42  4.68 
+ VRT             Vertiv Holdings Co 729.16          Electrical Equipment 2025-11-13 163.64 2025-11-14 170.97  4.48 
+SLNO        Soleno Therapeutics Inc  25.43                 Biotechnology  2025-11-13 47.35  2025-11-14 49.42  4.37 
+SNDK                   Sandisk Corp 356.96                    Technology 2025-11-13 243.57 2025-11-14 254.16  4.35 
+MYRG                  MYR Group Inc  34.15                  Construction 2025-11-13 219.97 2025-11-14 229.44  4.31 
+ PBF                 PBF Energy Inc  43.35                        Energy  2025-11-13 37.42  2025-11-14 38.99  4.20 
+LBRT             Liberty Energy Inc  24.75                        Energy  2025-11-13 15.28  2025-11-14 15.92  4.19 
+APGE        Apogee Therapeutics Inc  43.02                 Biotechnology  2025-11-13 62.97   2025-11-14 65.5  4.02 
+SAIL                  SailPoint Inc 106.82                    Technology  2025-11-13 19.19  2025-11-14 19.92  3.80 
+SANM                   Sanmina Corp  82.35          Electrical Equipment 2025-11-13 154.54 2025-11-14 160.37  3.77 
+RYTM     Rhythm Pharmaceuticals Inc  63.99                 Biotechnology  2025-11-13 95.89  2025-11-14 99.41  3.67 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码             公司名称              市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+  BE            Bloom Energy Corp  244.91          Electrical Equipment 2025-11-13 103.55 2025-11-14 111.89  8.05 
+DASH                 DoorDash Inc  841.50 Hotels, Restaurants & Leisure 2025-11-13 195.21 2025-11-14 206.96  6.02 
+RVMD     Revolution Medicines Inc  124.46                 Biotechnology  2025-11-13 64.38  2025-11-14 67.75  5.23 
+KNTK         Kinetik Holdings Inc   53.15                        Energy  2025-11-13 32.89   2025-11-14 34.5  4.90 
+ VRT           Vertiv Holdings Co  729.16          Electrical Equipment 2025-11-13 163.64 2025-11-14 170.97  4.48 
+SNDK                 Sandisk Corp  356.96                    Technology 2025-11-13 243.57 2025-11-14 254.16  4.35 
+SAIL                SailPoint Inc  106.82                    Technology  2025-11-13 19.19  2025-11-14 19.92  3.80 
+SANM                 Sanmina Corp   82.35          Electrical Equipment 2025-11-13 154.54 2025-11-14 160.37  3.77 
+RYTM   Rhythm Pharmaceuticals Inc   63.99                 Biotechnology  2025-11-13 95.89  2025-11-14 99.41  3.67 
+ GEV               GE Vernova Inc 1514.43          Electrical Equipment 2025-11-13 558.17 2025-11-14 578.31  3.61 
+RMBS                   Rambus Inc   99.44                Semiconductors  2025-11-13 92.37  2025-11-14 95.25  3.12 
+ VFS             VinFast Auto Ltd   79.52                   Automobiles   2025-11-13 3.36   2025-11-14 3.46  2.98 
+ACLX                  Arcellx Inc   50.55                 Biotechnology  2025-11-13 87.42  2025-11-14 89.98  2.93 
+ MPC      Marathon Petroleum Corp  584.91                        Energy 2025-11-13 194.58 2025-11-14 199.98  2.78 
+MDGL Madrigal Pharmaceuticals Inc  116.95                 Biotechnology 2025-11-13 514.93 2025-11-14 529.21  2.77 
+  FN                     Fabrinet  144.19          Electrical Equipment 2025-11-13 402.47 2025-11-14 413.32  2.70 
+CHRD            Chord Energy Corp   51.60                        Energy  2025-11-13 90.74  2025-11-14 93.11  2.61 
+ MOD      Modine Manufacturing Co   67.77               Auto Components 2025-11-13 128.73 2025-11-14 132.02  2.56 
+KRYS          Krystal Biotech Inc   58.35                 Biotechnology 2025-11-13 201.21 2025-11-14 206.16  2.46 
+IONS    Ionis Pharmaceuticals Inc  113.12                 Biotechnology  2025-11-13 69.84  2025-11-14 71.55  2.45 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                 板块                      昨天收盘              今天收盘       涨跌幅(%)
+  BE               Bloom Energy Corp   244.91           Electrical Equipment 2025-11-13 103.55 2025-11-14 111.89  8.05 
+DASH                    DoorDash Inc   841.50  Hotels, Restaurants & Leisure 2025-11-13 195.21 2025-11-14 206.96  6.02 
+RVMD        Revolution Medicines Inc   124.46                  Biotechnology  2025-11-13 64.38  2025-11-14 67.75  5.23 
+ VRT              Vertiv Holdings Co   729.16           Electrical Equipment 2025-11-13 163.64 2025-11-14 170.97  4.48 
+SNDK                    Sandisk Corp   356.96                     Technology 2025-11-13 243.57 2025-11-14 254.16  4.35 
+SAIL                   SailPoint Inc   106.82                     Technology  2025-11-13 19.19  2025-11-14 19.92  3.80 
+ GEV                  GE Vernova Inc  1514.43           Electrical Equipment 2025-11-13 558.17 2025-11-14 578.31  3.61 
+ MPC         Marathon Petroleum Corp   584.91                         Energy 2025-11-13 194.58 2025-11-14 199.98  2.78 
+MDGL    Madrigal Pharmaceuticals Inc   116.95                  Biotechnology 2025-11-13 514.93 2025-11-14 529.21  2.77 
+  FN                        Fabrinet   144.19           Electrical Equipment 2025-11-13 402.47 2025-11-14 413.32  2.70 
+IONS       Ionis Pharmaceuticals Inc   113.12                  Biotechnology  2025-11-13 69.84  2025-11-14 71.55  2.45 
+LITE           Lumentum Holdings Inc   160.84                 Communications 2025-11-13 226.86 2025-11-14 232.15  2.33 
+ ORI Old Republic International Corp   107.52                      Insurance  2025-11-13 43.45  2025-11-14 44.35  2.07 
+ KMI               Kinder Morgan Inc   598.24                         Energy  2025-11-13 26.89  2025-11-14 27.42  1.97 
+  MP               MP Materials Corp   101.98                Metals & Mining  2025-11-13 57.54  2025-11-14 58.64  1.91 
+ RSG           Republic Services Inc   637.76 Commercial Services & Supplies 2025-11-13 206.02  2025-11-14 209.8  1.83 
+CART                   Maplebear Inc   105.88                         Retail  2025-11-13 40.33  2025-11-14 41.05  1.79 
+NVDA                     NVIDIA Corp 45406.98                 Semiconductors 2025-11-13 186.86 2025-11-14 190.17  1.77 
+ TLN               Talen Energy Corp   162.21                      Utilities 2025-11-13 355.04 2025-11-14 360.92  1.66 
+FTNT                    Fortinet Inc   602.58                     Technology  2025-11-13 81.03  2025-11-14 82.31  1.58 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                  板块                       昨天收盘               今天收盘       涨跌幅(%)
+   BE                        Bloom Energy Corp   244.91             Electrical Equipment  2025-11-13 103.55 2025-11-14 111.89  8.05 
+ DASH                             DoorDash Inc   841.50    Hotels, Restaurants & Leisure  2025-11-13 195.21 2025-11-14 206.96  6.02 
+  VRT                       Vertiv Holdings Co   729.16             Electrical Equipment  2025-11-13 163.64 2025-11-14 170.97  4.48 
+ SNDK                             Sandisk Corp   356.96                       Technology  2025-11-13 243.57 2025-11-14 254.16  4.35 
+  GEV                           GE Vernova Inc  1514.43             Electrical Equipment  2025-11-13 558.17 2025-11-14 578.31  3.61 
+  MPC                  Marathon Petroleum Corp   584.91                           Energy  2025-11-13 194.58 2025-11-14 199.98  2.78 
+  KMI                        Kinder Morgan Inc   598.24                           Energy   2025-11-13 26.89  2025-11-14 27.42  1.97 
+  RSG                    Republic Services Inc   637.76   Commercial Services & Supplies  2025-11-13 206.02  2025-11-14 209.8  1.83 
+ NVDA                              NVIDIA Corp 45406.98                   Semiconductors  2025-11-13 186.86 2025-11-14 190.17  1.77 
+ FTNT                             Fortinet Inc   602.58                       Technology   2025-11-13 81.03  2025-11-14 82.31  1.58 
+  ALL                            Allstate Corp   552.57                        Insurance  2025-11-13 211.16  2025-11-14 214.3  1.49 
+   NU                          Nu Holdings Ltd   751.23                          Banking   2025-11-13 15.59  2025-11-14 15.82  1.48 
+   BX                           Blackstone Inc  1702.02               Financial Services  2025-11-13 139.53 2025-11-14 141.44  1.37 
+  NUE                               Nucor Corp   333.70                  Metals & Mining  2025-11-13 145.81 2025-11-14 147.78  1.35 
+LVMHF      LVMH Moet Hennessy Louis Vuitton SE  3165.47 Textiles, Apparel & Luxury Goods   2025-11-13 736.0  2025-11-14 744.5  1.15 
+   KR                                Kroger Co   437.17                           Retail   2025-11-13 65.97  2025-11-14 66.71  1.12 
+FCNCA First Citizens BancShares Inc (Delaware)   224.57                          Banking 2025-11-13 1824.98 2025-11-14 1845.3  1.11 
+ PLTR                Palantir Technologies Inc  4102.85                       Technology  2025-11-13 172.14 2025-11-14 174.01  1.09 
+  ABT                      Abbott Laboratories  2247.67                      Health Care  2025-11-13 129.26 2025-11-14 130.59  1.03 
+ RBLX                              Roblox Corp   710.84                            Media  2025-11-13 101.27 2025-11-14 102.28  1.00 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                  板块                       昨天收盘              今天收盘       涨跌幅(%)
+  GEV                       GE Vernova Inc  1514.43             Electrical Equipment 2025-11-13 558.17 2025-11-14 578.31  3.61 
+ NVDA                          NVIDIA Corp 45406.98                   Semiconductors 2025-11-13 186.86 2025-11-14 190.17  1.77 
+   BX                       Blackstone Inc  1702.02               Financial Services 2025-11-13 139.53 2025-11-14 141.44  1.37 
+LVMHF  LVMH Moet Hennessy Louis Vuitton SE  3165.47 Textiles, Apparel & Luxury Goods  2025-11-13 736.0  2025-11-14 744.5  1.15 
+ PLTR            Palantir Technologies Inc  4102.85                       Technology 2025-11-13 172.14 2025-11-14 174.01  1.09 
+  ABT                  Abbott Laboratories  2247.67                      Health Care 2025-11-13 129.26 2025-11-14 130.59  1.03 
+  RTX                             RTX Corp  2332.41              Aerospace & Defense 2025-11-13 173.96 2025-11-14 175.57  0.93 
+  CEG            Constellation Energy Corp  1048.48                        Utilities 2025-11-13 335.74 2025-11-14 338.52  0.83 
+ ANET                  Arista Networks Inc  1640.85                   Communications  2025-11-13 130.3 2025-11-14 131.37  0.82 
+ AVGO                         Broadcom Inc 16055.10                   Semiconductors 2025-11-13 339.98 2025-11-14 342.46  0.73 
+  UNP                   Union Pacific Corp  1313.73                      Road & Rail 2025-11-13 221.48 2025-11-14 223.02  0.70 
+ TMUS                      T-Mobile US Inc  2399.98                Telecommunication 2025-11-13 214.57 2025-11-14 216.08  0.70 
+   BN                      Brookfield Corp  1083.57               Financial Services  2025-11-13 43.78  2025-11-14 44.05  0.62 
+   DE                           Deere & Co  1279.77                        Machinery 2025-11-13 473.41 2025-11-14 476.23  0.60 
+ TSLA                            Tesla Inc 13369.46                      Automobiles 2025-11-13 401.99 2025-11-14 404.35  0.59 
+  XOM                     Exxon Mobil Corp  4964.98                           Energy 2025-11-13 118.79 2025-11-14 119.29  0.42 
+  APP                        Applovin Corp  1879.54                       Technology 2025-11-13 556.15  2025-11-14 557.7  0.28 
+  IBM International Business Machines Corp  2849.63                       Technology 2025-11-13 304.86 2025-11-14 305.69  0.27 
+   GE                  General Electric Co  3208.43              Aerospace & Defense 2025-11-13 304.17 2025-11-14 304.82  0.21 
+   PM      Philip Morris International Inc  2415.12                          Tobacco 2025-11-13 155.15 2025-11-14 155.43  0.18 
