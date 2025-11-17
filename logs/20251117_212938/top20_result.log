@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                   公司名称                  市值(亿)               板块                     昨天收盘              今天收盘       涨跌幅(%)
+ RPTX                 Repare Therapeutics Inc  0.71                 Biotechnology   2025-11-14 1.65   2025-11-17 2.18 32.12 
+ APLT                Applied Therapeutics Inc  0.31                 Biotechnology   2025-11-14 0.22   2025-11-17 0.28 30.37 
+ MCRB                  Seres Therapeutics Inc  1.51                 Biotechnology  2025-11-14 16.66  2025-11-17 21.64 29.89 
+ ZYME                           Zymeworks Inc 13.77                 Biotechnology  2025-11-14 18.52   2025-11-17 23.9 29.05 
+UONEK                           Urban One Inc  0.29                         Media   2025-11-14 0.49   2025-11-17 0.61 24.80 
+  INV                          Innventure Inc  2.02            Financial Services   2025-11-14 3.24   2025-11-17 4.03 24.38 
+ NEPH                             Nephros Inc  0.47                     Machinery    2025-11-14 4.4   2025-11-17 5.43 23.41 
+ CGTL Creative Global Technology Holdings Ltd  0.20          Electrical Equipment   2025-11-14 0.67   2025-11-17 0.81 20.69 
+ BODI                   Beachbody Company Inc  0.44 Diversified Consumer Services   2025-11-14 6.27   2025-11-17 7.56 20.57 
+ JAZZ                Jazz Pharmaceuticals PLC 85.72               Pharmaceuticals 2025-11-14 141.07 2025-11-17 170.09 20.57 
+ MSPR                        MSP Recovery Inc  0.01                   Health Care   2025-11-14 0.45   2025-11-17 0.53 18.51 
+ JBIO                    Jade Biosciences Inc  3.49                 Biotechnology   2025-11-14 10.7  2025-11-17 12.59 17.66 
+ CNTB          Connect Biopharma Holdings Ltd  1.19                 Biotechnology   2025-11-14 2.12   2025-11-17 2.49 17.45 
+ RVYL                               Ryvyl Inc  0.09            Financial Services   2025-11-14 0.29   2025-11-17 0.34 17.28 
+ VTGN               Vistagen Therapeutics Inc  1.25                 Biotechnology    2025-11-14 3.8   2025-11-17 4.42 16.32 
+ MIST           Milestone Pharmaceuticals Inc  1.70               Pharmaceuticals    2025-11-14 2.0   2025-11-17 2.32 16.00 
+ ATNM            Actinium Pharmaceuticals Inc  0.40                 Biotechnology   2025-11-14 1.27   2025-11-17 1.45 14.17 
+ ANRO                   Alto Neuroscience Inc  3.76               Pharmaceuticals  2025-11-14 12.11   2025-11-17 13.8 13.96 
+ GUTS                      Fractyl Health Inc  1.73                   Health Care   2025-11-14 1.26   2025-11-17 1.43 13.49 
+ ALXO               ALX Oncology Holdings Inc  0.75                 Biotechnology   2025-11-14 1.38   2025-11-17 1.56 13.04 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+JAZZ                  Jazz Pharmaceuticals PLC    85.72               Pharmaceuticals 2025-11-14 141.07 2025-11-17 170.09 20.57 
+PGNY                               Progyny Inc    21.16                   Health Care  2025-11-14 24.55  2025-11-17 26.82  9.25 
+MLYS                Mineralys Therapeutics Inc    32.33                 Biotechnology  2025-11-14 40.85  2025-11-17 44.26  8.35 
+ DYN                     Dyne Therapeutics Inc    26.84                 Biotechnology  2025-11-14 18.79  2025-11-17 20.24  7.72 
+GRAL                                 Grail Inc    28.70                 Biotechnology  2025-11-14 79.63  2025-11-17 84.94  6.67 
+TIGO        Millicom International Cellular SA    84.07             Telecommunication  2025-11-14 50.33  2025-11-17 53.53  6.36 
+PRAX            Praxis Precision Medicines Inc    46.62                 Biotechnology 2025-11-14 186.42 2025-11-17 197.58  5.99 
+NNNN                       Anbio Biotechnology    37.44                 Biotechnology  2025-11-14 26.02  2025-11-17 27.24  4.69 
+SNDK                              Sandisk Corp   372.48                    Technology 2025-11-14 254.16 2025-11-17 265.88  4.61 
+MDGL              Madrigal Pharmaceuticals Inc   120.19                 Biotechnology 2025-11-14 529.21 2025-11-17 553.42  4.57 
+ JBS                                    Jbs NV   139.90                 Food Products  2025-11-14 13.26  2025-11-17 13.86  4.52 
+LITE                     Lumentum Holdings Inc   164.59                Communications 2025-11-14 232.15 2025-11-17 242.07  4.27 
+ CZR                 Caesars Entertainment Inc    40.37 Hotels, Restaurants & Leisure  2025-11-14 19.78  2025-11-17 20.61  4.20 
+IDYA                    IDEAYA Biosciences Inc    28.18                 Biotechnology  2025-11-14 32.14  2025-11-17 33.34  3.73 
+COCO                     Vita Coco Company Inc    24.97                     Beverages  2025-11-14 43.85  2025-11-17 45.43  3.60 
+GOOG                              Alphabet Inc 33383.90                         Media 2025-11-14 276.98  2025-11-17 285.6  3.11 
+TVTX                  Travere Therapeutics Inc    30.87                 Biotechnology   2025-11-14 34.5  2025-11-17 35.44  2.72 
+KNSA Kiniksa Pharmaceuticals International PLC    30.56                 Biotechnology  2025-11-14 40.32   2025-11-17 41.4  2.68 
+ALNY               Alnylam Pharmaceuticals Inc   593.40                 Biotechnology 2025-11-14 449.16 2025-11-17 460.54  2.53 
+IONS                 Ionis Pharmaceuticals Inc   115.89                 Biotechnology  2025-11-14 71.55  2025-11-17 73.26  2.39 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+JAZZ           Jazz Pharmaceuticals PLC    85.72               Pharmaceuticals 2025-11-14 141.07 2025-11-17 170.09 20.57 
+TIGO Millicom International Cellular SA    84.07             Telecommunication  2025-11-14 50.33  2025-11-17 53.53  6.36 
+SNDK                       Sandisk Corp   372.48                    Technology 2025-11-14 254.16 2025-11-17 265.88  4.61 
+MDGL       Madrigal Pharmaceuticals Inc   120.19                 Biotechnology 2025-11-14 529.21 2025-11-17 553.42  4.57 
+ JBS                             Jbs NV   139.90                 Food Products  2025-11-14 13.26  2025-11-17 13.86  4.52 
+LITE              Lumentum Holdings Inc   164.59                Communications 2025-11-14 232.15 2025-11-17 242.07  4.27 
+GOOG                       Alphabet Inc 33383.90                         Media 2025-11-14 276.98  2025-11-17 285.6  3.11 
+ALNY        Alnylam Pharmaceuticals Inc   593.40                 Biotechnology 2025-11-14 449.16 2025-11-17 460.54  2.53 
+IONS          Ionis Pharmaceuticals Inc   115.89                 Biotechnology  2025-11-14 71.55  2025-11-17 73.26  2.39 
+ VFS                   VinFast Auto Ltd    79.52                   Automobiles   2025-11-14 3.46   2025-11-17 3.54  2.31 
+ CLF               Cleveland-Cliffs Inc    61.13               Metals & Mining  2025-11-14 10.73  2025-11-17 10.97  2.24 
+  GH                Guardant Health Inc   122.09                   Health Care  2025-11-14 94.37  2025-11-17 96.48  2.24 
+ NEE                 Nextera Energy Inc  1746.89                     Utilities  2025-11-14 83.88  2025-11-17 85.75  2.23 
+  ED            Consolidated Edison Inc   366.93                     Utilities 2025-11-14 101.66 2025-11-17 103.85  2.15 
+ TLN                  Talen Energy Corp   164.90                     Utilities 2025-11-14 360.92 2025-11-17 368.65  2.14 
+RVMD           Revolution Medicines Inc   130.97                 Biotechnology  2025-11-14 67.75  2025-11-17 69.14  2.05 
+ CNC                       Centene Corp   178.81                   Health Care  2025-11-14 36.38  2025-11-17 37.08  1.92 
+DASH                       DoorDash Inc   892.15 Hotels, Restaurants & Leisure 2025-11-14 206.96 2025-11-17 210.65  1.78 
+  VG                 Venture Global Inc   188.17                        Energy   2025-11-14 7.98   2025-11-17 8.11  1.63 
+REGN      Regeneron Pharmaceuticals Inc   728.86                 Biotechnology  2025-11-14 693.5 2025-11-17 704.31  1.56 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码              公司名称              市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+SNDK                  Sandisk Corp   372.48                    Technology 2025-11-14 254.16 2025-11-17 265.88  4.61 
+MDGL  Madrigal Pharmaceuticals Inc   120.19                 Biotechnology 2025-11-14 529.21 2025-11-17 553.42  4.57 
+ JBS                        Jbs NV   139.90                 Food Products  2025-11-14 13.26  2025-11-17 13.86  4.52 
+LITE         Lumentum Holdings Inc   164.59                Communications 2025-11-14 232.15 2025-11-17 242.07  4.27 
+GOOG                  Alphabet Inc 33383.90                         Media 2025-11-14 276.98  2025-11-17 285.6  3.11 
+ALNY   Alnylam Pharmaceuticals Inc   593.40                 Biotechnology 2025-11-14 449.16 2025-11-17 460.54  2.53 
+IONS     Ionis Pharmaceuticals Inc   115.89                 Biotechnology  2025-11-14 71.55  2025-11-17 73.26  2.39 
+  GH           Guardant Health Inc   122.09                   Health Care  2025-11-14 94.37  2025-11-17 96.48  2.24 
+ NEE            Nextera Energy Inc  1746.89                     Utilities  2025-11-14 83.88  2025-11-17 85.75  2.23 
+  ED       Consolidated Edison Inc   366.93                     Utilities 2025-11-14 101.66 2025-11-17 103.85  2.15 
+ TLN             Talen Energy Corp   164.90                     Utilities 2025-11-14 360.92 2025-11-17 368.65  2.14 
+RVMD      Revolution Medicines Inc   130.97                 Biotechnology  2025-11-14 67.75  2025-11-17 69.14  2.05 
+ CNC                  Centene Corp   178.81                   Health Care  2025-11-14 36.38  2025-11-17 37.08  1.92 
+DASH                  DoorDash Inc   892.15 Hotels, Restaurants & Leisure 2025-11-14 206.96 2025-11-17 210.65  1.78 
+  VG            Venture Global Inc   188.17                        Energy   2025-11-14 7.98   2025-11-17 8.11  1.63 
+REGN Regeneron Pharmaceuticals Inc   728.86                 Biotechnology  2025-11-14 693.5 2025-11-17 704.31  1.56 
+ ELV           Elevance Health Inc   724.12                   Health Care 2025-11-14 325.83 2025-11-17 330.91  1.56 
+   D           Dominion Energy Inc   517.13                     Utilities  2025-11-14 60.56   2025-11-17 61.5  1.55 
+TXRH           Texas Roadhouse Inc   110.69 Hotels, Restaurants & Leisure 2025-11-14 167.35 2025-11-17 169.71  1.41 
+ STZ      Constellation Brands Inc   224.82                     Beverages 2025-11-14 129.16 2025-11-17 130.96  1.39 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+SNDK                    Sandisk Corp   372.48                    Technology 2025-11-14 254.16 2025-11-17 265.88  4.61 
+GOOG                    Alphabet Inc 33383.90                         Media 2025-11-14 276.98  2025-11-17 285.6  3.11 
+ALNY     Alnylam Pharmaceuticals Inc   593.40                 Biotechnology 2025-11-14 449.16 2025-11-17 460.54  2.53 
+ NEE              Nextera Energy Inc  1746.89                     Utilities  2025-11-14 83.88  2025-11-17 85.75  2.23 
+  ED         Consolidated Edison Inc   366.93                     Utilities 2025-11-14 101.66 2025-11-17 103.85  2.15 
+DASH                    DoorDash Inc   892.15 Hotels, Restaurants & Leisure 2025-11-14 206.96 2025-11-17 210.65  1.78 
+REGN   Regeneron Pharmaceuticals Inc   728.86                 Biotechnology  2025-11-14 693.5 2025-11-17 704.31  1.56 
+ ELV             Elevance Health Inc   724.12                   Health Care 2025-11-14 325.83 2025-11-17 330.91  1.56 
+   D             Dominion Energy Inc   517.13                     Utilities  2025-11-14 60.56   2025-11-17 61.5  1.55 
+ STZ        Constellation Brands Inc   224.82                     Beverages 2025-11-14 129.16 2025-11-17 130.96  1.39 
+  FE                FirstEnergy Corp   265.38                     Utilities  2025-11-14 45.94  2025-11-17 46.56  1.35 
+ STX Seagate Technology Holdings PLC   551.43                    Technology 2025-11-14 258.21 2025-11-17 261.38  1.23 
+TSLA                       Tesla Inc 13447.95                   Automobiles 2025-11-14 404.35 2025-11-17 408.92  1.13 
+ CNP          CenterPoint Energy Inc   259.45                     Utilities  2025-11-14 39.74  2025-11-17 40.18  1.11 
+  CL            Colgate-Palmolive Co   629.13             Consumer products  2025-11-14 78.05  2025-11-17 78.81  0.97 
+ HCA              HCA Healthcare Inc  1078.56                   Health Care 2025-11-14 472.65  2025-11-17 477.1  0.94 
+ COR                     Cencora Inc   701.72                   Health Care 2025-11-14 361.94  2025-11-17 365.0  0.85 
+ CVS                 CVS Health Corp   987.75                   Health Care  2025-11-14 77.81  2025-11-17 78.41  0.77 
+SPOT           Spotify Technology SA  1289.51                         Media 2025-11-14 635.75 2025-11-17 640.62  0.77 
+DXCM                      Dexcom Inc   226.44                   Health Care  2025-11-14 58.06  2025-11-17 58.49  0.74 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码            公司名称            市值(亿)            板块                 昨天收盘               今天收盘       涨跌幅(%)
+GOOG              Alphabet Inc 33383.90                Media  2025-11-14 276.98  2025-11-17 285.6  3.11 
+ NEE        Nextera Energy Inc  1746.89            Utilities   2025-11-14 83.88  2025-11-17 85.75  2.23 
+TSLA                 Tesla Inc 13447.95          Automobiles  2025-11-14 404.35 2025-11-17 408.92  1.13 
+ HCA        HCA Healthcare Inc  1078.56          Health Care  2025-11-14 472.65  2025-11-17 477.1  0.94 
+SPOT     Spotify Technology SA  1289.51                Media  2025-11-14 635.75 2025-11-17 640.62  0.77 
+ MDT             Medtronic PLC  1229.71          Health Care   2025-11-14 95.87  2025-11-17 96.28  0.43 
+AVGO              Broadcom Inc 16172.21       Semiconductors  2025-11-14 342.46 2025-11-17 342.65  0.06 
+ CEG Constellation Energy Corp  1057.16            Utilities  2025-11-14 338.52 2025-11-17 338.67  0.04 
+  CB                 Chubb Ltd  1162.90            Insurance  2025-11-14 295.49 2025-11-17 295.58  0.03 
+ RTX                  RTX Corp  2353.99  Aerospace & Defense  2025-11-14 175.57 2025-11-17 175.63  0.03 
+  DE                Deere & Co  1287.39            Machinery  2025-11-14 476.23 2025-11-17 475.98 -0.05 
+KLAC                  KLA Corp  1490.41       Semiconductors 2025-11-14 1134.32 2025-11-17 1133.7 -0.05 
+TMUS           T-Mobile US Inc  2416.87    Telecommunication  2025-11-14 216.08 2025-11-17 215.84 -0.11 
+ GEV            GE Vernova Inc  1569.07 Electrical Equipment  2025-11-14 578.31 2025-11-17 577.02 -0.22 
+ UNH    UnitedHealth Group Inc  2915.53          Health Care  2025-11-14 321.86 2025-11-17 320.52 -0.42 
+ ABT       Abbott Laboratories  2270.79          Health Care  2025-11-14 130.59 2025-11-17 130.03 -0.43 
+   T                  AT&T Inc  1814.19    Telecommunication   2025-11-14 25.59  2025-11-17 25.47 -0.47 
+ISRG    Intuitive Surgical Inc  1947.99          Health Care  2025-11-14 549.51 2025-11-17 546.71 -0.51 
+LRCX         Lam Research Corp  1862.19       Semiconductors  2025-11-14 148.26 2025-11-17 147.46 -0.54 
+ TJX         TJX Companies Inc  1625.78               Retail  2025-11-14 146.08 2025-11-17 145.18 -0.62 
