@@ -39616,5 +39616,17 @@
     "name": "Suncast Solar Energy Inc",
     "country": "US",
     "added_date": "2025-11-10 21:36:28"
+  },
+  "AMCOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "K9 Gold Corp",
+    "country": "CA",
+    "added_date": "2025-11-19 21:25:52"
+  },
+  "SALQF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Atlas Salt Inc",
+    "country": "CA",
+    "added_date": "2025-11-19 21:36:57"
   }
 }
