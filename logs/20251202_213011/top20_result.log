@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码               公司名称              市值(亿)           板块                昨天收盘             今天收盘       涨跌幅(%)
+  EB                  Eventbrite Inc  2.42                 Media  2025-12-01 2.48  2025-12-02 4.43 78.63 
+  BQ               Boqii Holding Ltd  0.06                Retail  2025-12-01 1.95  2025-12-02 2.76 41.54 
+FOXX   Foxx Development Holdings Inc  0.31            Technology  2025-12-01 4.46  2025-12-02 6.01 34.75 
+PMAX                  Powell Max Ltd  0.05    Financial Services  2025-12-01 1.75  2025-12-02 2.27 29.71 
+ SMX      SMX (Security Matters) PLC  0.41  Electrical Equipment 2025-12-01 38.99  2025-12-02 50.5 29.52 
+MNDR Mobile-health Network Solutions  0.02           Health Care  2025-12-01 1.85  2025-12-02 2.26 22.16 
+LESL                    Leslie's Inc  0.27                Retail  2025-12-01 2.95  2025-12-02 3.58 21.36 
+FBYD      Falcon's Beyond Global Inc 20.91 Professional Services 2025-12-01 17.27  2025-12-02 20.8 20.44 
+AIHS          Senmiao Technology Ltd  0.04    Financial Services  2025-12-01 1.19  2025-12-02 1.41 18.49 
+GLBS             Globus Maritime Ltd  0.28                Marine  2025-12-01 1.38  2025-12-02 1.63 18.12 
+GUTS              Fractyl Health Inc  2.14           Health Care  2025-12-01 1.56  2025-12-02 1.84 17.95 
+LOBO        LOBO EV Technologies Ltd  0.09           Automobiles  2025-12-01 0.73  2025-12-02 0.85 16.53 
+SNBR               Sleep Number Corp  1.31                Retail  2025-12-01 5.75  2025-12-02 6.66 15.83 
+MYSZ                     My Size Inc  0.03            Technology  2025-12-01 0.89  2025-12-02 1.03 15.73 
+MLEC               Moolec Science SA  0.05         Food Products  2025-12-01 0.42  2025-12-02 0.48 15.55 
+AEMD             Aethlon Medical Inc  0.03           Health Care  2025-12-01 4.21  2025-12-02 4.84 14.87 
+VERA           Vera Therapeutics Inc 21.10         Biotechnology  2025-12-01 33.0 2025-12-02 37.25 12.88 
+CAPT                 Captivision Inc  0.25              Building  2025-12-01 0.79  2025-12-02 0.88 12.36 
+IXHL         Incannex Healthcare Inc  1.22       Pharmaceuticals  2025-12-01 0.35   2025-12-02 0.4 12.03 
+MLSS        Milestone Scientific Inc  0.24           Health Care   2025-12-01 0.3  2025-12-02 0.34 12.00 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码             公司名称             市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+FBYD  Falcon's Beyond Global Inc   20.91         Professional Services  2025-12-01 17.27   2025-12-02 20.8 20.44 
+VERA       Vera Therapeutics Inc   21.10                 Biotechnology   2025-12-01 33.0  2025-12-02 37.25 12.88 
+CTRI        Centuri Holdings Inc   22.10                  Construction  2025-12-01 22.19  2025-12-02 24.46 10.23 
+PLUG              Plug Power Inc   26.72          Electrical Equipment   2025-12-01 1.92   2025-12-02 2.11  9.90 
+INTC                  Intel Corp 1908.48                Semiconductors  2025-12-01 40.01  2025-12-02 43.47  8.65 
+AMKR        Amkor Technology Inc   93.29                Semiconductors  2025-12-01 37.74  2025-12-02 40.65  7.71 
+SAIA                    Saia Inc   78.10                   Road & Rail 2025-12-01 293.15  2025-12-02 314.5  7.28 
+UUUU            Energy Fuels Inc   33.39                        Energy  2025-12-01 14.07  2025-12-02 15.05  6.97 
+ONDS          Ondas Holdings Inc   27.93                Communications   2025-12-01 7.58   2025-12-02 8.07  6.46 
+MCHP    Microchip Technology Inc  288.76                Semiconductors  2025-12-01 53.43  2025-12-02 56.71  6.14 
+  BE           Bloom Energy Corp  233.98          Electrical Equipment  2025-12-01 98.93  2025-12-02 105.0  6.14 
+INSP Inspire Medical Systems Inc   36.71                   Health Care 2025-12-01 126.34 2025-12-02 133.93  6.01 
+ TER                Teradyne Inc  281.32                Semiconductors 2025-12-01 179.63 2025-12-02 189.94  5.74 
+DASH                DoorDash Inc  886.05 Hotels, Restaurants & Leisure 2025-12-01 205.58 2025-12-02 216.98  5.55 
+GTLB                  GitLab Inc   68.63                    Technology  2025-12-01 41.15  2025-12-02 43.37  5.39 
+SYNA               Synaptics Inc   26.24                Semiconductors  2025-12-01 67.29  2025-12-02 70.91  5.38 
+CAMT                  Camtek Ltd   48.24                Semiconductors  2025-12-01 105.4  2025-12-02 110.9  5.22 
+  EL  Estee Lauder Companies Inc  341.30             Consumer products  2025-12-01 94.71  2025-12-02 99.64  5.21 
+OKLO                    Oklo Inc  136.50                     Utilities  2025-12-01 87.36  2025-12-02 91.84  5.13 
+BLKB               Blackbaud Inc   27.45                    Technology  2025-12-01 57.39  2025-12-02 60.33  5.12 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+INTC                 Intel Corp 1908.48                Semiconductors  2025-12-01 40.01  2025-12-02 43.47  8.65 
+AMKR       Amkor Technology Inc   93.29                Semiconductors  2025-12-01 37.74  2025-12-02 40.65  7.71 
+SAIA                   Saia Inc   78.10                   Road & Rail 2025-12-01 293.15  2025-12-02 314.5  7.28 
+MCHP   Microchip Technology Inc  288.76                Semiconductors  2025-12-01 53.43  2025-12-02 56.71  6.14 
+  BE          Bloom Energy Corp  233.98          Electrical Equipment  2025-12-01 98.93  2025-12-02 105.0  6.14 
+ TER               Teradyne Inc  281.32                Semiconductors 2025-12-01 179.63 2025-12-02 189.94  5.74 
+DASH               DoorDash Inc  886.05 Hotels, Restaurants & Leisure 2025-12-01 205.58 2025-12-02 216.98  5.55 
+GTLB                 GitLab Inc   68.63                    Technology  2025-12-01 41.15  2025-12-02 43.37  5.39 
+  EL Estee Lauder Companies Inc  341.30             Consumer products  2025-12-01 94.71  2025-12-02 99.64  5.21 
+OKLO                   Oklo Inc  136.50                     Utilities  2025-12-01 87.36  2025-12-02 91.84  5.13 
+ONTO        Onto Innovation Inc   72.05                Semiconductors  2025-12-01 147.0 2025-12-02 154.01  4.77 
+ APP              Applovin Corp 2107.45                    Technology 2025-12-01 623.59  2025-12-02 653.0  4.72 
+  MP          MP Materials Corp  102.97               Metals & Mining   2025-12-01 58.1  2025-12-02 60.84  4.72 
+ SMR         Nuscale Power Corp   54.73          Electrical Equipment  2025-12-01 18.08  2025-12-02 18.91  4.59 
+ KBR                    KBR Inc   53.04         Professional Services  2025-12-01 41.77  2025-12-02 43.68  4.57 
+ GEV             GE Vernova Inc 1565.25          Electrical Equipment  2025-12-01 576.9 2025-12-02 601.58  4.28 
+ TXN      Texas Instruments Inc 1527.94                Semiconductors 2025-12-01 168.16 2025-12-02 175.26  4.22 
+TSEM    Tower Semiconductor Ltd  125.01                Semiconductors 2025-12-01 111.86 2025-12-02 116.46  4.11 
+LSCC Lattice Semiconductor Corp   93.85                Semiconductors  2025-12-01 68.61  2025-12-02 71.41  4.08 
+GNRC       Generac Holdings Inc   87.57          Electrical Equipment 2025-12-01 149.22 2025-12-02 155.31  4.08 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+INTC                      Intel Corp 1908.48                Semiconductors   2025-12-01 40.01   2025-12-02 43.47  8.65 
+MCHP        Microchip Technology Inc  288.76                Semiconductors   2025-12-01 53.43   2025-12-02 56.71  6.14 
+  BE               Bloom Energy Corp  233.98          Electrical Equipment   2025-12-01 98.93   2025-12-02 105.0  6.14 
+ TER                    Teradyne Inc  281.32                Semiconductors  2025-12-01 179.63  2025-12-02 189.94  5.74 
+DASH                    DoorDash Inc  886.05 Hotels, Restaurants & Leisure  2025-12-01 205.58  2025-12-02 216.98  5.55 
+  EL      Estee Lauder Companies Inc  341.30             Consumer products   2025-12-01 94.71   2025-12-02 99.64  5.21 
+OKLO                        Oklo Inc  136.50                     Utilities   2025-12-01 87.36   2025-12-02 91.84  5.13 
+ APP                   Applovin Corp 2107.45                    Technology  2025-12-01 623.59   2025-12-02 653.0  4.72 
+  MP               MP Materials Corp  102.97               Metals & Mining    2025-12-01 58.1   2025-12-02 60.84  4.72 
+ GEV                  GE Vernova Inc 1565.25          Electrical Equipment   2025-12-01 576.9  2025-12-02 601.58  4.28 
+ TXN           Texas Instruments Inc 1527.94                Semiconductors  2025-12-01 168.16  2025-12-02 175.26  4.22 
+TSEM         Tower Semiconductor Ltd  125.01                Semiconductors  2025-12-01 111.86  2025-12-02 116.46  4.11 
+SAIL                   SailPoint Inc  102.42                    Technology    2025-12-01 18.4   2025-12-02 19.14  4.02 
+JBHT J B Hunt Transport Services Inc  171.14                   Road & Rail  2025-12-01 179.73  2025-12-02 185.73  3.34 
+ GPN             Global Payments Inc  180.49            Financial Services   2025-12-01 76.24   2025-12-02 78.69  3.21 
+NTAP                      NetApp Inc  222.36                    Technology  2025-12-01 112.27  2025-12-02 115.83  3.17 
+ALGN            Align Technology Inc  105.27                   Health Care  2025-12-01 146.72  2025-12-02 150.93  2.87 
+KLAC                        KLA Corp 1520.45                Semiconductors 2025-12-01 1157.18 2025-12-02 1189.86  2.82 
+AVAV               AeroVironment Inc  128.73           Aerospace & Defense   2025-12-01 257.8  2025-12-02 264.95  2.77 
+SNPS                    Synopsys Inc  814.12                    Technology  2025-12-01 438.29  2025-12-02 449.35  2.52 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码             公司名称             市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+INTC                  Intel Corp 1908.48                Semiconductors   2025-12-01 40.01   2025-12-02 43.47  8.65 
+MCHP    Microchip Technology Inc  288.76                Semiconductors   2025-12-01 53.43   2025-12-02 56.71  6.14 
+  BE           Bloom Energy Corp  233.98          Electrical Equipment   2025-12-01 98.93   2025-12-02 105.0  6.14 
+ TER                Teradyne Inc  281.32                Semiconductors  2025-12-01 179.63  2025-12-02 189.94  5.74 
+DASH                DoorDash Inc  886.05 Hotels, Restaurants & Leisure  2025-12-01 205.58  2025-12-02 216.98  5.55 
+  EL  Estee Lauder Companies Inc  341.30             Consumer products   2025-12-01 94.71   2025-12-02 99.64  5.21 
+ APP               Applovin Corp 2107.45                    Technology  2025-12-01 623.59   2025-12-02 653.0  4.72 
+ GEV              GE Vernova Inc 1565.25          Electrical Equipment   2025-12-01 576.9  2025-12-02 601.58  4.28 
+ TXN       Texas Instruments Inc 1527.94                Semiconductors  2025-12-01 168.16  2025-12-02 175.26  4.22 
+NTAP                  NetApp Inc  222.36                    Technology  2025-12-01 112.27  2025-12-02 115.83  3.17 
+KLAC                    KLA Corp 1520.45                Semiconductors 2025-12-01 1157.18 2025-12-02 1189.86  2.82 
+SNPS                Synopsys Inc  814.12                    Technology  2025-12-01 438.29  2025-12-02 449.35  2.52 
+ ADI          Analog Devices Inc 1304.98                Semiconductors  2025-12-01 266.51  2025-12-02 272.97  2.42 
+ALNY Alnylam Pharmaceuticals Inc  600.54                 Biotechnology  2025-12-01 454.56  2025-12-02 464.93  2.28 
+LRCX           Lam Research Corp 1944.21                Semiconductors  2025-12-01 154.79  2025-12-02 158.19  2.20 
+ NET              Cloudflare Inc  690.77                    Technology   2025-12-01 197.2  2025-12-02 201.26  2.06 
+KEYS   Keysight Technologies Inc  339.48          Electrical Equipment  2025-12-01 197.54   2025-12-02 201.4  1.95 
+PLTR   Palantir Technologies Inc 3992.02                    Technology  2025-12-01 167.49  2025-12-02 170.69  1.91 
+PCAR                  Paccar Inc  546.05                     Machinery  2025-12-01 103.97  2025-12-02 105.89  1.85 
+EXPE           Expedia Group Inc  317.30 Hotels, Restaurants & Leisure  2025-12-01 258.95   2025-12-02 263.7  1.83 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码              公司名称              市值(亿)              板块                   昨天收盘               今天收盘        涨跌幅(%)
+INTC                    Intel Corp  1908.48           Semiconductors   2025-12-01 40.01   2025-12-02 43.47  8.65 
+ APP                 Applovin Corp  2107.45               Technology  2025-12-01 623.59   2025-12-02 653.0  4.72 
+ GEV                GE Vernova Inc  1565.25     Electrical Equipment   2025-12-01 576.9  2025-12-02 601.58  4.28 
+ TXN         Texas Instruments Inc  1527.94           Semiconductors  2025-12-01 168.16  2025-12-02 175.26  4.22 
+KLAC                      KLA Corp  1520.45           Semiconductors 2025-12-01 1157.18 2025-12-02 1189.86  2.82 
+ ADI            Analog Devices Inc  1304.98           Semiconductors  2025-12-01 266.51  2025-12-02 272.97  2.42 
+LRCX             Lam Research Corp  1944.21           Semiconductors  2025-12-01 154.79  2025-12-02 158.19  2.20 
+PLTR     Palantir Technologies Inc  3992.02               Technology  2025-12-01 167.49  2025-12-02 170.69  1.91 
+TMUS               T-Mobile US Inc  2311.17        Telecommunication  2025-12-01 206.63  2025-12-02 210.13  1.69 
+ COF    Capital One Financial Corp  1400.97       Financial Services  2025-12-01 220.37   2025-12-02 224.0  1.65 
+QCOM                  Qualcomm Inc  1799.71           Semiconductors  2025-12-01 168.04   2025-12-02 170.7  1.58 
+ HON   Honeywell International Inc  1207.68 Industrial Conglomerates  2025-12-01 190.22  2025-12-02 193.15  1.54 
+ CEG     Constellation Energy Corp  1121.28                Utilities  2025-12-01 359.05  2025-12-02 363.67  1.29 
+COST         Costco Wholesale Corp  4041.62                   Retail  2025-12-01 911.96  2025-12-02 922.03  1.10 
+NVDA                   NVIDIA Corp 43720.56           Semiconductors  2025-12-01 179.92  2025-12-02 181.46  0.86 
+  GS       Goldman Sachs Group Inc  2432.00       Financial Services  2025-12-01 810.86  2025-12-02 815.21  0.54 
+ ADP Automatic Data Processing Inc  1034.74    Professional Services  2025-12-01 255.84  2025-12-02 257.18  0.52 
+ RTX                      RTX Corp  2252.77      Aerospace & Defense  2025-12-01 168.02   2025-12-02 168.8  0.46 
+ UNH        UnitedHealth Group Inc  2927.76              Health Care  2025-12-01 323.21  2025-12-02 324.54  0.41 
+ KKR                  KKR & Co Inc  1089.14       Financial Services  2025-12-01 122.19  2025-12-02 122.68  0.40 
