@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+  INO         Inovio Pharmaceuticals Inc    1.42                 Biotechnology   2025-12-12 2.06   2025-12-15 2.26  9.71 
+  CVU             CPI Aerostructures Inc    0.40           Aerospace & Defense    2025-12-12 3.0   2025-12-15 3.28  9.33 
+ FSTR                      L B Foster Co    2.77                     Machinery   2025-12-12 26.7  2025-12-15 28.84  8.01 
+ KVHI                 KVH Industries Inc    1.35                Communications   2025-12-12 6.91   2025-12-15 7.44  7.67 
+  CMP Compass Minerals International Inc    7.23               Metals & Mining  2025-12-12 17.35  2025-12-15 18.53  6.80 
+  AEO      American Eagle Outfitters Inc   43.16                        Retail  2025-12-12 25.46  2025-12-15 27.01  6.09 
+ VABK  Virginia National Bankshares Corp    2.17                       Banking  2025-12-12 40.28  2025-12-15 42.62  5.81 
+ TZOO                          Travelzoo    0.78                         Media   2025-12-12 7.15   2025-12-15 7.56  5.73 
+ INSG                       Inseego Corp    1.76                Communications  2025-12-12 11.46   2025-12-15 12.1  5.58 
+  XRX                Xerox Holdings Corp    3.57                    Technology   2025-12-12 2.61   2025-12-15 2.75  5.36 
+   IT                        Gartner Inc  168.58                    Technology 2025-12-12 233.89 2025-12-15 246.35  5.33 
+ ATGE       Adtalem Global Education Inc   33.74 Diversified Consumer Services  2025-12-12 92.88  2025-12-15 97.76  5.25 
+ ASYS                 Amtech Systems Inc    1.58                Semiconductors  2025-12-12 10.98  2025-12-15 11.54  5.10 
+  UTI  Universal Technical Institute Inc   13.52 Diversified Consumer Services  2025-12-12 24.84  2025-12-15 26.06  4.91 
+ CSPI                            CSP Inc    1.42                    Technology  2025-12-12 14.39  2025-12-15 14.96  3.96 
+  CNO            CNO Financial Group Inc   39.32                     Insurance  2025-12-12 41.24  2025-12-15 42.87  3.95 
+ NTIP         Network-1 Technologies Inc    0.31                Communications   2025-12-12 1.36   2025-12-15 1.41  3.68 
+ LCTX      Lineage Cell Therapeutics Inc    3.82                 Biotechnology   2025-12-12 1.66   2025-12-15 1.72  3.61 
+CMCSA                       Comcast Corp  992.23                         Media  2025-12-12 27.23  2025-12-15 28.21  3.60 
+  BMY            Bristol-Myers Squibb Co 1066.94               Pharmaceuticals  2025-12-12 52.41  2025-12-15 54.29  3.59 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                     公司名称                      市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+  AEO                American Eagle Outfitters Inc   43.16                         Retail   2025-12-12 25.46   2025-12-15 27.01  6.09 
+   IT                                  Gartner Inc  168.58                     Technology  2025-12-12 233.89  2025-12-15 246.35  5.33 
+ ATGE                 Adtalem Global Education Inc   33.74  Diversified Consumer Services   2025-12-12 92.88   2025-12-15 97.76  5.25 
+  CNO                      CNO Financial Group Inc   39.32                      Insurance   2025-12-12 41.24   2025-12-15 42.87  3.95 
+CMCSA                                 Comcast Corp  992.23                          Media   2025-12-12 27.23   2025-12-15 28.21  3.60 
+  BMY                      Bristol-Myers Squibb Co 1066.94                Pharmaceuticals   2025-12-12 52.41   2025-12-15 54.29  3.59 
+  CCL                                Carnival Corp  359.06  Hotels, Restaurants & Leisure   2025-12-12 27.62    2025-12-15 28.6  3.55 
+ INCY                                  Incyte Corp  187.31                  Biotechnology   2025-12-12 95.41   2025-12-15 98.64  3.39 
+  RCL                  Royal Caribbean Cruises Ltd  760.49  Hotels, Restaurants & Leisure  2025-12-12 278.86  2025-12-15 287.22  3.00 
+ NVMI                                     Nova Ltd   96.40                 Semiconductors  2025-12-12 315.84   2025-12-15 324.2  2.65 
+  CRL Charles River Laboratories International Inc   95.00 Life Sciences Tools & Services  2025-12-12 193.03  2025-12-15 198.15  2.65 
+ KLAC                                     KLA Corp 1568.72                 Semiconductors 2025-12-12 1193.92 2025-12-15 1225.11  2.61 
+  MKC                      McCormick & Company Inc  179.28                  Food Products    2025-12-12 66.8   2025-12-15 68.45  2.47 
+  ABT                          Abbott Laboratories 2181.59                    Health Care  2025-12-12 125.46  2025-12-15 128.47  2.40 
+   GT                    Goodyear Tire & Rubber Co   25.18                Auto Components     2025-12-12 8.8    2025-12-15 9.01  2.39 
+ LRCX                            Lam Research Corp 2016.18                 Semiconductors  2025-12-12 160.52   2025-12-15 164.3  2.35 
+  HUM                                   Humana Inc  322.87                    Health Care  2025-12-12 268.45  2025-12-15 274.74  2.34 
+  ALL                                Allstate Corp  542.15                      Insurance  2025-12-12 207.18  2025-12-15 211.94  2.30 
+  DRI                       Darden Restaurants Inc  212.02  Hotels, Restaurants & Leisure  2025-12-12 182.28  2025-12-15 186.43  2.28 
+   HE             Hawaiian Electric Industries Inc   20.08                      Utilities   2025-12-12 11.63   2025-12-15 11.88  2.15 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                     公司名称                      市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+   IT                                  Gartner Inc  168.58                     Technology  2025-12-12 233.89  2025-12-15 246.35  5.33 
+CMCSA                                 Comcast Corp  992.23                          Media   2025-12-12 27.23   2025-12-15 28.21  3.60 
+  BMY                      Bristol-Myers Squibb Co 1066.94                Pharmaceuticals   2025-12-12 52.41   2025-12-15 54.29  3.59 
+  CCL                                Carnival Corp  359.06  Hotels, Restaurants & Leisure   2025-12-12 27.62    2025-12-15 28.6  3.55 
+ INCY                                  Incyte Corp  187.31                  Biotechnology   2025-12-12 95.41   2025-12-15 98.64  3.39 
+  RCL                  Royal Caribbean Cruises Ltd  760.49  Hotels, Restaurants & Leisure  2025-12-12 278.86  2025-12-15 287.22  3.00 
+ NVMI                                     Nova Ltd   96.40                 Semiconductors  2025-12-12 315.84   2025-12-15 324.2  2.65 
+  CRL Charles River Laboratories International Inc   95.00 Life Sciences Tools & Services  2025-12-12 193.03  2025-12-15 198.15  2.65 
+ KLAC                                     KLA Corp 1568.72                 Semiconductors 2025-12-12 1193.92 2025-12-15 1225.11  2.61 
+  MKC                      McCormick & Company Inc  179.28                  Food Products    2025-12-12 66.8   2025-12-15 68.45  2.47 
+  ABT                          Abbott Laboratories 2181.59                    Health Care  2025-12-12 125.46  2025-12-15 128.47  2.40 
+ LRCX                            Lam Research Corp 2016.18                 Semiconductors  2025-12-12 160.52   2025-12-15 164.3  2.35 
+  HUM                                   Humana Inc  322.87                    Health Care  2025-12-12 268.45  2025-12-15 274.74  2.34 
+  ALL                                Allstate Corp  542.15                      Insurance  2025-12-12 207.18  2025-12-15 211.94  2.30 
+  DRI                       Darden Restaurants Inc  212.02  Hotels, Restaurants & Leisure  2025-12-12 182.28  2025-12-15 186.43  2.28 
+  AXS                    AXIS Capital Holdings Ltd   80.40                      Insurance  2025-12-12 104.36  2025-12-15 106.46  2.01 
+ HALO                    Halozyme Therapeutics Inc   73.16                  Biotechnology   2025-12-12 62.21   2025-12-15 63.45  1.99 
+  HON                  Honeywell International Inc 1229.52       Industrial Conglomerates  2025-12-12 193.66  2025-12-15 197.45  1.96 
+  RTX                                     RTX Corp 2395.42            Aerospace & Defense  2025-12-12 178.66  2025-12-15 182.11  1.93 
+ ACGL                       Arch Capital Group Ltd  340.58                      Insurance   2025-12-12 93.92   2025-12-15 95.72  1.92 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码             公司名称             市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+   IT                 Gartner Inc  168.58                    Technology  2025-12-12 233.89  2025-12-15 246.35  5.33 
+CMCSA                Comcast Corp  992.23                         Media   2025-12-12 27.23   2025-12-15 28.21  3.60 
+  BMY     Bristol-Myers Squibb Co 1066.94               Pharmaceuticals   2025-12-12 52.41   2025-12-15 54.29  3.59 
+  CCL               Carnival Corp  359.06 Hotels, Restaurants & Leisure   2025-12-12 27.62    2025-12-15 28.6  3.55 
+ INCY                 Incyte Corp  187.31                 Biotechnology   2025-12-12 95.41   2025-12-15 98.64  3.39 
+  RCL Royal Caribbean Cruises Ltd  760.49 Hotels, Restaurants & Leisure  2025-12-12 278.86  2025-12-15 287.22  3.00 
+ KLAC                    KLA Corp 1568.72                Semiconductors 2025-12-12 1193.92 2025-12-15 1225.11  2.61 
+  MKC     McCormick & Company Inc  179.28                 Food Products    2025-12-12 66.8   2025-12-15 68.45  2.47 
+  ABT         Abbott Laboratories 2181.59                   Health Care  2025-12-12 125.46  2025-12-15 128.47  2.40 
+ LRCX           Lam Research Corp 2016.18                Semiconductors  2025-12-12 160.52   2025-12-15 164.3  2.35 
+  HUM                  Humana Inc  322.87                   Health Care  2025-12-12 268.45  2025-12-15 274.74  2.34 
+  ALL               Allstate Corp  542.15                     Insurance  2025-12-12 207.18  2025-12-15 211.94  2.30 
+  DRI      Darden Restaurants Inc  212.02 Hotels, Restaurants & Leisure  2025-12-12 182.28  2025-12-15 186.43  2.28 
+  HON Honeywell International Inc 1229.52      Industrial Conglomerates  2025-12-12 193.66  2025-12-15 197.45  1.96 
+  RTX                    RTX Corp 2395.42           Aerospace & Defense  2025-12-12 178.66  2025-12-15 182.11  1.93 
+ ACGL      Arch Capital Group Ltd  340.58                     Insurance   2025-12-12 93.92   2025-12-15 95.72  1.92 
+   ED     Consolidated Edison Inc  352.02                     Utilities   2025-12-12 97.53   2025-12-15 99.39  1.91 
+  AIZ                Assurant Inc  114.84                     Insurance   2025-12-12 229.3  2025-12-15 233.26  1.73 
+   AU       Anglogold Ashanti PLC  431.68               Metals & Mining   2025-12-12 82.92   2025-12-15 84.31  1.68 
+  AEE                 Ameren Corp  263.11                     Utilities   2025-12-12 97.27   2025-12-15 98.87  1.64 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+CMCSA                  Comcast Corp  992.23                         Media   2025-12-12 27.23   2025-12-15 28.21  3.60 
+  BMY       Bristol-Myers Squibb Co 1066.94               Pharmaceuticals   2025-12-12 52.41   2025-12-15 54.29  3.59 
+  CCL                 Carnival Corp  359.06 Hotels, Restaurants & Leisure   2025-12-12 27.62    2025-12-15 28.6  3.55 
+  RCL   Royal Caribbean Cruises Ltd  760.49 Hotels, Restaurants & Leisure  2025-12-12 278.86  2025-12-15 287.22  3.00 
+ KLAC                      KLA Corp 1568.72                Semiconductors 2025-12-12 1193.92 2025-12-15 1225.11  2.61 
+  ABT           Abbott Laboratories 2181.59                   Health Care  2025-12-12 125.46  2025-12-15 128.47  2.40 
+ LRCX             Lam Research Corp 2016.18                Semiconductors  2025-12-12 160.52   2025-12-15 164.3  2.35 
+  HUM                    Humana Inc  322.87                   Health Care  2025-12-12 268.45  2025-12-15 274.74  2.34 
+  ALL                 Allstate Corp  542.15                     Insurance  2025-12-12 207.18  2025-12-15 211.94  2.30 
+  DRI        Darden Restaurants Inc  212.02 Hotels, Restaurants & Leisure  2025-12-12 182.28  2025-12-15 186.43  2.28 
+  HON   Honeywell International Inc 1229.52      Industrial Conglomerates  2025-12-12 193.66  2025-12-15 197.45  1.96 
+  RTX                      RTX Corp 2395.42           Aerospace & Defense  2025-12-12 178.66  2025-12-15 182.11  1.93 
+ ACGL        Arch Capital Group Ltd  340.58                     Insurance   2025-12-12 93.92   2025-12-15 95.72  1.92 
+   ED       Consolidated Edison Inc  352.02                     Utilities   2025-12-12 97.53   2025-12-15 99.39  1.91 
+   AU         Anglogold Ashanti PLC  431.68               Metals & Mining   2025-12-12 82.92   2025-12-15 84.31  1.68 
+  AEE                   Ameren Corp  263.11                     Utilities   2025-12-12 97.27   2025-12-15 98.87  1.64 
+ REGN Regeneron Pharmaceuticals Inc  779.09                 Biotechnology  2025-12-12 741.29  2025-12-15 752.62  1.53 
+  ETR                  Entergy Corp  412.43                     Utilities   2025-12-12 92.35   2025-12-15 93.75  1.52 
+  NVR                       NVR Inc  213.46             Consumer products 2025-12-12 7517.81 2025-12-15 7632.35  1.52 
+  SYY                    Sysco Corp  355.99                        Retail   2025-12-12 74.34   2025-12-15 75.43  1.47 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码             公司名称             市值(亿)              板块                   昨天收盘               今天收盘        涨跌幅(%)
+ BMY     Bristol-Myers Squibb Co  1066.94          Pharmaceuticals   2025-12-12 52.41   2025-12-15 54.29  3.59 
+KLAC                    KLA Corp  1568.72           Semiconductors 2025-12-12 1193.92 2025-12-15 1225.11  2.61 
+ ABT         Abbott Laboratories  2181.59              Health Care  2025-12-12 125.46  2025-12-15 128.47  2.40 
+LRCX           Lam Research Corp  2016.18           Semiconductors  2025-12-12 160.52   2025-12-15 164.3  2.35 
+ HON Honeywell International Inc  1229.52 Industrial Conglomerates  2025-12-12 193.66  2025-12-15 197.45  1.96 
+ RTX                    RTX Corp  2395.42      Aerospace & Defense  2025-12-12 178.66  2025-12-15 182.11  1.93 
+  CB                   Chubb Ltd  1213.99                Insurance  2025-12-12 308.47  2025-12-15 312.61  1.34 
+ COF  Capital One Financial Corp  1512.22       Financial Services  2025-12-12 237.87  2025-12-15 239.81  0.82 
+NVDA                 NVIDIA Corp 42529.86           Semiconductors  2025-12-12 175.02  2025-12-15 176.29  0.73 
+  DE                  Deere & Co  1310.56                Machinery   2025-12-12 484.8  2025-12-15 488.01  0.66 
+QCOM                Qualcomm Inc  1909.49           Semiconductors  2025-12-12 178.29  2025-12-15 179.26  0.54 
+ ADI          Analog Devices Inc  1367.70           Semiconductors  2025-12-12 279.32  2025-12-15 280.44  0.40 
+  GE         General Electric Co  3162.44      Aerospace & Defense  2025-12-12 299.81  2025-12-15 300.98  0.39 
+ TJX           TJX Companies Inc  1733.88                   Retail  2025-12-12 156.14  2025-12-15 156.71  0.37 
+ CVS             CVS Health Corp  1008.18              Health Care   2025-12-12 79.42   2025-12-15 79.69  0.34 
+ BAC        Bank of America Corp  4026.60                  Banking   2025-12-12 55.14   2025-12-15 55.33  0.34 
+ UNP          Union Pacific Corp  1423.29              Road & Rail  2025-12-12 239.95  2025-12-15 240.47  0.22 
+  GS     Goldman Sachs Group Inc  2663.25       Financial Services  2025-12-12 887.96  2025-12-15 889.59  0.18 
+ NEE          Nextera Energy Inc  1700.45                Utilities   2025-12-12 81.65   2025-12-15 81.65  0.00 
+  PH        Parker-Hannifin Corp  1116.59                Machinery  2025-12-12 884.87  2025-12-15 883.47 -0.16 
