@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                    公司名称                     市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+RIME                    Algorhythm Holdings Inc    0.03              Consumer products   2026-01-05 1.02   2026-01-06 1.22 19.61 
+ STX            Seagate Technology Holdings PLC  618.96                     Technology 2026-01-05 289.83 2026-01-06 330.42 14.00 
+VSAT                                 Viasat Inc   52.08                 Communications   2026-01-05 38.5  2026-01-06 43.46 12.88 
+MCHP                   Microchip Technology Inc  362.42                 Semiconductors  2026-01-05 67.06  2026-01-06 74.87 11.65 
+NOTV                                 Inotiv Inc    0.20 Life Sciences Tools & Services   2026-01-05 0.58   2026-01-06 0.64 10.76 
+  BC                             Brunswick Corp   49.21               Leisure Products  2026-01-05 75.67  2026-01-06 83.65 10.55 
+AAOI                Applied Optoelectronics Inc   23.89                 Communications  2026-01-05 34.99  2026-01-06 38.61 10.35 
+CIEN                                 Ciena Corp  325.23                 Communications  2026-01-05 230.9 2026-01-06 254.19 10.09 
+PLCE                       Children's Place Inc    0.94                         Retail   2026-01-05 4.25   2026-01-06 4.67  9.88 
+ AXL American Axle & Manufacturing Holdings Inc    7.62                Auto Components   2026-01-05 6.42   2026-01-06 7.05  9.81 
+ TRN                     Trinity Industries Inc   21.31                      Machinery  2026-01-05 26.58  2026-01-06 29.18  9.78 
+SYNA                              Synaptics Inc   30.86                 Semiconductors  2026-01-05 79.16  2026-01-06 86.89  9.77 
+ CMP         Compass Minerals International Inc    8.72                Metals & Mining  2026-01-05 20.85  2026-01-06 22.68  8.78 
+PETS                         Petmed Express Inc    0.70                         Retail   2026-01-05 3.29   2026-01-06 3.57  8.51 
+ TXN                      Texas Instruments Inc 1609.81                 Semiconductors 2026-01-05 177.17  2026-01-06 192.1  8.43 
+CMTL            Comtech Telecommunications Corp    1.58                 Communications   2026-01-05 5.34   2026-01-06 5.79  8.43 
+  HE           Hawaiian Electric Industries Inc   21.87                      Utilities  2026-01-05 12.67  2026-01-06 13.73  8.37 
+CBRL       Cracker Barrel Old Country Store Inc    5.93  Hotels, Restaurants & Leisure  2026-01-05 26.55  2026-01-06 28.74  8.25 
+SMSI                   Smith Micro Software Inc    0.15                     Technology   2026-01-05 0.58   2026-01-06 0.63  8.22 
+STXS                            Stereotaxis Inc    2.20                    Health Care   2026-01-05 2.36   2026-01-06 2.55  8.05 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称                市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+  STX  Seagate Technology Holdings PLC  618.96                    Technology 2026-01-05 289.83 2026-01-06 330.42 14.00 
+ VSAT                       Viasat Inc   52.08                Communications   2026-01-05 38.5  2026-01-06 43.46 12.88 
+ MCHP         Microchip Technology Inc  362.42                Semiconductors  2026-01-05 67.06  2026-01-06 74.87 11.65 
+   BC                   Brunswick Corp   49.21              Leisure Products  2026-01-05 75.67  2026-01-06 83.65 10.55 
+ AAOI      Applied Optoelectronics Inc   23.89                Communications  2026-01-05 34.99  2026-01-06 38.61 10.35 
+ CIEN                       Ciena Corp  325.23                Communications  2026-01-05 230.9 2026-01-06 254.19 10.09 
+  TRN           Trinity Industries Inc   21.31                     Machinery  2026-01-05 26.58  2026-01-06 29.18  9.78 
+ SYNA                    Synaptics Inc   30.86                Semiconductors  2026-01-05 79.16  2026-01-06 86.89  9.77 
+  TXN            Texas Instruments Inc 1609.81                Semiconductors 2026-01-05 177.17  2026-01-06 192.1  8.43 
+   HE Hawaiian Electric Industries Inc   21.87                     Utilities  2026-01-05 12.67  2026-01-06 13.73  8.37 
+  VSH       Vishay Intertechnology Inc   20.91          Electrical Equipment  2026-01-05 15.42  2026-01-06 16.56  7.39 
+ RGLD                   Royal Gold Inc  193.53               Metals & Mining 2026-01-05 229.31  2026-01-06 244.4  6.58 
+ AMKR             Amkor Technology Inc  118.97                Semiconductors  2026-01-05 48.13  2026-01-06 51.29  6.57 
+  OSK                     Oshkosh Corp   86.47                     Machinery 2026-01-05 136.71 2026-01-06 145.47  6.41 
+BELFA                     Bel Fuse Inc   21.65          Electrical Equipment  2026-01-05 154.3 2026-01-06 164.09  6.34 
+  RCL      Royal Caribbean Cruises Ltd  764.03 Hotels, Restaurants & Leisure 2026-01-05 280.16 2026-01-06 297.75  6.28 
+ LRCX                Lam Research Corp 2446.24                Semiconductors 2026-01-05 194.76 2026-01-06 206.96  6.26 
+ SRPT         Sarepta Therapeutics Inc   22.08                 Biotechnology  2026-01-05 21.07  2026-01-06 22.35  6.07 
+ LSCC       Lattice Semiconductor Corp  110.24                Semiconductors  2026-01-05 80.59  2026-01-06 85.44  6.02 
+   AU            Anglogold Ashanti PLC  432.18               Metals & Mining  2026-01-05 88.47  2026-01-06 93.66  5.87 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ STX Seagate Technology Holdings PLC  618.96                    Technology 2026-01-05 289.83 2026-01-06 330.42 14.00 
+VSAT                      Viasat Inc   52.08                Communications   2026-01-05 38.5  2026-01-06 43.46 12.88 
+MCHP        Microchip Technology Inc  362.42                Semiconductors  2026-01-05 67.06  2026-01-06 74.87 11.65 
+CIEN                      Ciena Corp  325.23                Communications  2026-01-05 230.9 2026-01-06 254.19 10.09 
+ TXN           Texas Instruments Inc 1609.81                Semiconductors 2026-01-05 177.17  2026-01-06 192.1  8.43 
+RGLD                  Royal Gold Inc  193.53               Metals & Mining 2026-01-05 229.31  2026-01-06 244.4  6.58 
+AMKR            Amkor Technology Inc  118.97                Semiconductors  2026-01-05 48.13  2026-01-06 51.29  6.57 
+ OSK                    Oshkosh Corp   86.47                     Machinery 2026-01-05 136.71 2026-01-06 145.47  6.41 
+ RCL     Royal Caribbean Cruises Ltd  764.03 Hotels, Restaurants & Leisure 2026-01-05 280.16 2026-01-06 297.75  6.28 
+LRCX               Lam Research Corp 2446.24                Semiconductors 2026-01-05 194.76 2026-01-06 206.96  6.26 
+LSCC      Lattice Semiconductor Corp  110.24                Semiconductors  2026-01-05 80.59  2026-01-06 85.44  6.02 
+  AU           Anglogold Ashanti PLC  432.18               Metals & Mining  2026-01-05 88.47  2026-01-06 93.66  5.87 
+ ADI              Analog Devices Inc 1357.76                Semiconductors 2026-01-05 277.29 2026-01-06 292.94  5.64 
+URBN            Urban Outfitters Inc   68.80                        Retail  2026-01-05 76.72  2026-01-06 80.77  5.28 
+INCY                     Incyte Corp  199.84                 Biotechnology 2026-01-05 101.79 2026-01-06 106.66  4.78 
+ALGN            Align Technology Inc  114.89                   Health Care 2026-01-05 160.13 2026-01-06 167.66  4.70 
+  DE                      Deere & Co 1260.55                     Machinery  2026-01-05 466.1 2026-01-06 485.98  4.27 
+ TER                    Teradyne Inc  343.76                Semiconductors  2026-01-05 219.5 2026-01-06 228.84  4.26 
+SMTC                    Semtech Corp   68.79                Semiconductors  2026-01-05 74.34  2026-01-06 77.44  4.17 
+COHR                   Coherent Corp  292.87          Electrical Equipment 2026-01-05 186.36 2026-01-06 194.11  4.16 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                     公司名称                      市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ STX              Seagate Technology Holdings PLC  618.96                     Technology 2026-01-05 289.83 2026-01-06 330.42 14.00 
+MCHP                     Microchip Technology Inc  362.42                 Semiconductors  2026-01-05 67.06  2026-01-06 74.87 11.65 
+CIEN                                   Ciena Corp  325.23                 Communications  2026-01-05 230.9 2026-01-06 254.19 10.09 
+ TXN                        Texas Instruments Inc 1609.81                 Semiconductors 2026-01-05 177.17  2026-01-06 192.1  8.43 
+RGLD                               Royal Gold Inc  193.53                Metals & Mining 2026-01-05 229.31  2026-01-06 244.4  6.58 
+AMKR                         Amkor Technology Inc  118.97                 Semiconductors  2026-01-05 48.13  2026-01-06 51.29  6.57 
+ RCL                  Royal Caribbean Cruises Ltd  764.03  Hotels, Restaurants & Leisure 2026-01-05 280.16 2026-01-06 297.75  6.28 
+LRCX                            Lam Research Corp 2446.24                 Semiconductors 2026-01-05 194.76 2026-01-06 206.96  6.26 
+LSCC                   Lattice Semiconductor Corp  110.24                 Semiconductors  2026-01-05 80.59  2026-01-06 85.44  6.02 
+  AU                        Anglogold Ashanti PLC  432.18                Metals & Mining  2026-01-05 88.47  2026-01-06 93.66  5.87 
+ ADI                           Analog Devices Inc 1357.76                 Semiconductors 2026-01-05 277.29 2026-01-06 292.94  5.64 
+INCY                                  Incyte Corp  199.84                  Biotechnology 2026-01-05 101.79 2026-01-06 106.66  4.78 
+ALGN                         Align Technology Inc  114.89                    Health Care 2026-01-05 160.13 2026-01-06 167.66  4.70 
+  DE                                   Deere & Co 1260.55                      Machinery  2026-01-05 466.1 2026-01-06 485.98  4.27 
+ TER                                 Teradyne Inc  343.76                 Semiconductors  2026-01-05 219.5 2026-01-06 228.84  4.26 
+COHR                                Coherent Corp  292.87           Electrical Equipment 2026-01-05 186.36 2026-01-06 194.11  4.16 
+ DGX                        Quest Diagnostics Inc  192.99                    Health Care 2026-01-05 173.49 2026-01-06 180.46  4.02 
+ DRI                       Darden Restaurants Inc  221.83  Hotels, Restaurants & Leisure 2026-01-05 192.66 2026-01-06 200.25  3.94 
+IONS                    Ionis Pharmaceuticals Inc  127.20                  Biotechnology  2026-01-05 78.53  2026-01-06 81.49  3.77 
+ CRL Charles River Laboratories International Inc  102.53 Life Sciences Tools & Services 2026-01-05 208.32 2026-01-06 216.11  3.74 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                 板块                       昨天收盘               今天收盘       涨跌幅(%)
+ STX Seagate Technology Holdings PLC  618.96                       Technology  2026-01-05 289.83 2026-01-06 330.42 14.00 
+MCHP        Microchip Technology Inc  362.42                   Semiconductors   2026-01-05 67.06  2026-01-06 74.87 11.65 
+CIEN                      Ciena Corp  325.23                   Communications   2026-01-05 230.9 2026-01-06 254.19 10.09 
+ TXN           Texas Instruments Inc 1609.81                   Semiconductors  2026-01-05 177.17  2026-01-06 192.1  8.43 
+ RCL     Royal Caribbean Cruises Ltd  764.03    Hotels, Restaurants & Leisure  2026-01-05 280.16 2026-01-06 297.75  6.28 
+LRCX               Lam Research Corp 2446.24                   Semiconductors  2026-01-05 194.76 2026-01-06 206.96  6.26 
+  AU           Anglogold Ashanti PLC  432.18                  Metals & Mining   2026-01-05 88.47  2026-01-06 93.66  5.87 
+ ADI              Analog Devices Inc 1357.76                   Semiconductors  2026-01-05 277.29 2026-01-06 292.94  5.64 
+  DE                      Deere & Co 1260.55                        Machinery   2026-01-05 466.1 2026-01-06 485.98  4.27 
+ TER                    Teradyne Inc  343.76                   Semiconductors   2026-01-05 219.5 2026-01-06 228.84  4.26 
+COHR                   Coherent Corp  292.87             Electrical Equipment  2026-01-05 186.36 2026-01-06 194.11  4.16 
+ DRI          Darden Restaurants Inc  221.83    Hotels, Restaurants & Leisure  2026-01-05 192.66 2026-01-06 200.25  3.94 
+PCAR                      Paccar Inc  593.06                        Machinery  2026-01-05 112.92 2026-01-06 117.08  3.68 
+ TPR                    Tapestry Inc  263.04 Textiles, Apparel & Luxury Goods  2026-01-05 128.53 2026-01-06 133.18  3.62 
+QCOM                    Qualcomm Inc 1888.28                   Semiconductors  2026-01-05 176.31 2026-01-06 182.45  3.48 
+ FCX            Freeport-McMoRan Inc  781.29                  Metals & Mining   2026-01-05 54.41  2026-01-06 56.15  3.20 
+ UPS       United Parcel Service Inc  865.35       Logistics & Transportation   2026-01-05 102.0 2026-01-06 105.22  3.16 
+KLAC                        KLA Corp 1777.02                   Semiconductors 2026-01-05 1352.45 2026-01-06 1395.0  3.15 
+ MDT                   Medtronic PLC 1248.17                      Health Care   2026-01-05 97.36 2026-01-06 100.31  3.03 
+ COF      Capital One Financial Corp 1592.58               Financial Services  2026-01-05 250.51 2026-01-06 257.94  2.97 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码                 公司名称                  市值(亿)             板块                   昨天收盘               今天收盘       涨跌幅(%)
+ TXN                Texas Instruments Inc 1609.81           Semiconductors  2026-01-05 177.17  2026-01-06 192.1  8.43 
+LRCX                    Lam Research Corp 2446.24           Semiconductors  2026-01-05 194.76 2026-01-06 206.96  6.26 
+ ADI                   Analog Devices Inc 1357.76           Semiconductors  2026-01-05 277.29 2026-01-06 292.94  5.64 
+  DE                           Deere & Co 1260.55                Machinery   2026-01-05 466.1 2026-01-06 485.98  4.27 
+QCOM                         Qualcomm Inc 1888.28           Semiconductors  2026-01-05 176.31 2026-01-06 182.45  3.48 
+KLAC                             KLA Corp 1777.02           Semiconductors 2026-01-05 1352.45 2026-01-06 1395.0  3.15 
+ MDT                        Medtronic PLC 1248.17              Health Care   2026-01-05 97.36 2026-01-06 100.31  3.03 
+ COF           Capital One Financial Corp 1592.58       Financial Services  2026-01-05 250.51 2026-01-06 257.94  2.97 
+ BMY              Bristol-Myers Squibb Co 1080.17          Pharmaceuticals   2026-01-05 53.06  2026-01-06 54.42  2.56 
+ IBM International Business Machines Corp 2757.19               Technology  2026-01-05 294.97 2026-01-06 302.47  2.54 
+  PH                 Parker-Hannifin Corp 1144.37                Machinery  2026-01-05 906.89 2026-01-06 928.76  2.41 
+ UNH               UnitedHealth Group Inc 3098.15              Health Care  2026-01-05 342.02 2026-01-06 348.97  2.03 
+ HON          Honeywell International Inc 1276.69 Industrial Conglomerates  2026-01-05 201.09 2026-01-06 204.94  1.91 
+INTC                           Intel Corp 1877.95           Semiconductors   2026-01-05 39.37  2026-01-06 40.04  1.70 
+COST                Costco Wholesale Corp 3887.14                   Retail  2026-01-05 875.74  2026-01-06 889.1  1.53 
+ ADP        Automatic Data Processing Inc 1040.73    Professional Services  2026-01-05 257.32 2026-01-06 261.12  1.48 
+ RTX                             RTX Corp 2524.14      Aerospace & Defense  2026-01-05 188.26  2026-01-06 190.4  1.14 
+ ABT                  Abbott Laboratories 2198.80              Health Care  2026-01-05 126.45  2026-01-06 127.8  1.07 
+  GE                  General Electric Co 3420.97      Aerospace & Defense  2026-01-05 324.32 2026-01-06 327.54  0.99 
+  BN                      Brookfield Corp 1208.58       Financial Services   2026-01-05 48.81  2026-01-06 49.17  0.74 
