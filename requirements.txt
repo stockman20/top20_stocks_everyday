@@ -1,9 +1,12 @@
-yfinance
-pandas
-finnhub-python
-python-dateutil
-pytz
-holidays
-pytest
-pytest-mock
-pytest-cov
+# Core dependencies
+yfinance>=0.2.40,<1.0
+pandas>=2.0.0,<3.0
+finnhub-python>=2.4.20
+python-dateutil>=2.8.0
+pytz>=2024.1
+holidays>=0.40
+
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.10.0
+pytest-cov>=4.0.0

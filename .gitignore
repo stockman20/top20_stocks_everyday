@@ -33,4 +33,11 @@ wheels/
 *.swo
 
 # Misc
-.DS_Store 
+.DS_Store
+
+# AI Assistant
+CLAUDE.md
+CODEBUDDY.md
+
+# Cache files (generated at runtime)
+symbols_cache.json

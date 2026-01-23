@@ -22,19 +22,50 @@ from top20 import (
     ThreadSafeList,
     should_include_symbol,
     process_stock,
-    get_gainers_multithreaded
+    get_gainers_multithreaded,
+    exponential_backoff,
+    fetch_batch_history,
+    process_stock_with_history,
+    load_symbols_cache,
+    save_symbols_cache,
+    SYMBOLS_CACHE_FILE
 )
+
+
+class TestExponentialBackoff(unittest.TestCase):
+    """测试指数退避策略"""
+
+    def test_exponential_growth(self):
+        """测试延迟时间指数增长"""
+        delay_0 = exponential_backoff(0, base_delay=5, max_delay=120)
+        delay_1 = exponential_backoff(1, base_delay=5, max_delay=120)
+        delay_2 = exponential_backoff(2, base_delay=5, max_delay=120)
+
+        # 基础延迟应该接近 5, 10, 20（加上 10% 抖动）
+        self.assertGreaterEqual(delay_0, 5)
+        self.assertLessEqual(delay_0, 5.5)
+        self.assertGreaterEqual(delay_1, 10)
+        self.assertLessEqual(delay_1, 11)
+        self.assertGreaterEqual(delay_2, 20)
+        self.assertLessEqual(delay_2, 22)
+
+    def test_max_delay_cap(self):
+        """测试最大延迟上限"""
+        delay = exponential_backoff(10, base_delay=5, max_delay=60)
+        self.assertLessEqual(delay, 66)  # 60 + 10% jitter
+
 
 class TestRateLimiter(unittest.TestCase):
     def setUp(self):
         self.rate_limiter = RateLimiter(max_calls=2, period=1)  # 2 calls per second for testing
-    
+
     def test_rate_limiting(self):
         start_time = time.time()
         for _ in range(3):  # Should trigger rate limiting on 3rd call
             self.rate_limiter.acquire()
         elapsed = time.time() - start_time
         self.assertGreaterEqual(elapsed, 1.0)  # Should take at least 1 second
+
 
 class TestAPIKeyRotator(unittest.TestCase):
     def test_key_rotation(self):
@@ -44,77 +75,138 @@ class TestAPIKeyRotator(unittest.TestCase):
         self.assertEqual(rotator.get_next_key(), 'test_key2')
         self.assertEqual(rotator.get_next_key(), 'test_key1')  # Should wrap around
 
+
 class TestMarketStatus(unittest.TestCase):
-    @patch('top20.holidays.US', return_value={}) # Mock holidays to be empty
+    @patch('top20.holidays.US', return_value={})  # Mock holidays to be empty
     @patch('top20.datetime')
     def test_is_market_open_weekday(self, mock_datetime, mock_holidays):
         # Mock a non-holiday weekday (Tuesday, Jan 3, 2023)
         mock_now_et = MagicMock()
         mock_now_et.date.return_value = datetime(2023, 1, 3).date()
-        mock_datetime.now.return_value = mock_now_et # Simulate datetime.now(tz) returning our mock
+        mock_datetime.now.return_value = mock_now_et  # Simulate datetime.now(tz) returning our mock
         self.assertTrue(is_market_open())
 
-    @patch('top20.holidays.US', return_value={}) # Mock holidays to be empty
+    @patch('top20.holidays.US', return_value={})  # Mock holidays to be empty
     @patch('top20.datetime')
     def test_is_market_open_weekend(self, mock_datetime, mock_holidays):
         # Mock a Saturday
         mock_now_et = MagicMock()
-        mock_now_et.date.return_value = datetime(2023, 1, 7).date() # Saturday
+        mock_now_et.date.return_value = datetime(2023, 1, 7).date()  # Saturday
         mock_datetime.now.return_value = mock_now_et
         self.assertFalse(is_market_open())
+
 
 class TestThreadSafeList(unittest.TestCase):
     def test_thread_safety(self):
         ts_list = ThreadSafeList()
+
         def append_items(start, end):
             for i in range(start, end):
                 ts_list.append(i)
-        
+
         threads = []
         for i in range(0, 100, 10):
-            t = threading.Thread(target=append_items, args=(i, i+10))
+            t = threading.Thread(target=append_items, args=(i, i + 10))
             threads.append(t)
             t.start()
-        
+
         for t in threads:
             t.join()
-        
+
         result = ts_list.get_list()
         self.assertEqual(len(result), 100)
         self.assertEqual(sorted(result), list(range(100)))
+
+    def test_extend_method(self):
+        """测试 extend 方法"""
+        ts_list = ThreadSafeList()
+        ts_list.extend([1, 2, 3])
+        ts_list.extend([4, 5])
+        result = ts_list.get_list()
+        self.assertEqual(result, [1, 2, 3, 4, 5])
+
 
 class TestStockFiltering(unittest.TestCase):
     def setUp(self):
         self.filters = {
             'non_us_stocks': {'BABA': {'exchange': 'NYSE', 'name': 'Alibaba'}},
-            'excluded_stocks': {'TSLA'},
-            'valid_stocks': {'AAPL', 'MSFT'}
+            'excluded_stocks': {'TSLA'}
         }
-    
+
     def test_should_include_symbol_valid(self):
         stock_data = {'symbol': 'AAPL', 'type': 'Common Stock'}
         result, reason = should_include_symbol(stock_data, self.filters)
         self.assertTrue(result)
         self.assertEqual(reason, "通过")
-    
+
     def test_should_include_symbol_non_us(self):
         stock_data = {'symbol': 'BABA', 'type': 'Common Stock'}
         result, reason = should_include_symbol(stock_data, self.filters)
         self.assertFalse(result)
         self.assertEqual(reason, "非美股")
-    
+
     def test_should_include_symbol_excluded(self):
         stock_data = {'symbol': 'TSLA', 'type': 'Common Stock'}
         result, reason = should_include_symbol(stock_data, self.filters)
         self.assertFalse(result)
         self.assertEqual(reason, "在排除列表中")
 
+    def test_should_include_symbol_non_standard(self):
+        """测试非标准股票代码"""
+        stock_data = {'symbol': 'AAPL123', 'type': 'Common Stock'}
+        result, reason = should_include_symbol(stock_data, self.filters)
+        self.assertFalse(result)
+        self.assertEqual(reason, "非标准股票代码")
+
+    def test_should_include_symbol_warrant(self):
+        """测试权证过滤"""
+        stock_data = {'symbol': 'SPWS', 'type': 'Common Stock'}
+        result, reason = should_include_symbol(stock_data, self.filters)
+        self.assertFalse(result)
+        self.assertEqual(reason, "权证")
+
+
+class TestSymbolsCache(unittest.TestCase):
+    """测试股票代码缓存功能"""
+
+    def setUp(self):
+        # 清理可能存在的缓存文件
+        if os.path.exists(SYMBOLS_CACHE_FILE):
+            os.remove(SYMBOLS_CACHE_FILE)
+
+    def tearDown(self):
+        # 测试后清理
+        if os.path.exists(SYMBOLS_CACHE_FILE):
+            os.remove(SYMBOLS_CACHE_FILE)
+
+    def test_save_and_load_cache(self):
+        """测试缓存保存和加载"""
+        test_symbols = [{'symbol': 'AAPL'}, {'symbol': 'MSFT'}]
+        save_symbols_cache(test_symbols)
+
+        loaded = load_symbols_cache()
+        self.assertEqual(loaded, test_symbols)
+
+    def test_expired_cache(self):
+        """测试过期缓存"""
+        # 创建一个过期的缓存
+        cache = {
+            'timestamp': (datetime.now() - timedelta(hours=24)).isoformat(),
+            'symbols': [{'symbol': 'OLD'}]
+        }
+        with open(SYMBOLS_CACHE_FILE, 'w') as f:
+            json.dump(cache, f)
+
+        loaded = load_symbols_cache()
+        self.assertIsNone(loaded)  # 过期缓存应该返回 None
+
+
 class TestStockProcessing(unittest.TestCase):
     @patch('top20.get_stock_details')
     @patch('top20.yf.Ticker')
     def test_process_stock_success(self, mock_yfinance, mock_get_details):
         dates = [pd.Timestamp('2023-01-01'), pd.Timestamp('2023-01-02')]
-        
+
         # Setup mock yfinance response
         mock_ticker = MagicMock()
         mock_ticker.history.return_value = pd.DataFrame({
@@ -136,18 +228,66 @@ class TestStockProcessing(unittest.TestCase):
         self.assertEqual(result['公司名称'], 'Apple Inc')
         self.assertEqual(result['市值(亿)'], 10000)
         self.assertEqual(result['板块'], 'Technology')
-        self.assertEqual(result['昨天收盘'], '2023-01-01 100')
-        self.assertEqual(result['今天收盘'], '2023-01-02 105')
+        self.assertEqual(result['昨天收盘'], '2023-01-01 100.0')
+        self.assertEqual(result['今天收盘'], '2023-01-02 105.0')
         self.assertEqual(result['涨跌幅(%)'], 5.0)
-    
+
     @patch('top20.yf.Ticker')
     def test_process_stock_no_data(self, mock_yfinance):
         mock_ticker = MagicMock()
         mock_ticker.history.side_effect = Exception("No data found")
         mock_yfinance.return_value = mock_ticker
-        
+
         result = process_stock({'symbol': 'INVALID'})
         self.assertIsNone(result)
+
+    @patch('top20.get_stock_details')
+    def test_process_stock_with_history(self, mock_get_details):
+        """测试 process_stock_with_history 函数"""
+        dates = [pd.Timestamp('2023-01-01'), pd.Timestamp('2023-01-02')]
+        hist = pd.DataFrame({'Close': [100, 110]}, index=dates)
+
+        mock_get_details.return_value = {
+            'name': 'Test Corp',
+            'market_cap': 500,
+            'sector': 'Tech',
+            'exchange': 'NYSE'
+        }
+
+        result = process_stock_with_history('TEST', hist)
+        self.assertIsNotNone(result)
+        self.assertEqual(result['股票代码'], 'TEST')
+        self.assertEqual(result['涨跌幅(%)'], 10.0)
+
+
+class TestBatchFetching(unittest.TestCase):
+    """测试批量获取功能"""
+
+    @patch('top20.yf.Tickers')
+    def test_fetch_batch_history(self, mock_tickers):
+        """测试批量获取历史数据"""
+        dates = [pd.Timestamp('2023-01-01'), pd.Timestamp('2023-01-02')]
+
+        # 创建 mock tickers
+        mock_ticker_aapl = MagicMock()
+        mock_ticker_aapl.history.return_value = pd.DataFrame({'Close': [100, 105]}, index=dates)
+
+        mock_ticker_msft = MagicMock()
+        mock_ticker_msft.history.return_value = pd.DataFrame({'Close': [200, 210]}, index=dates)
+
+        mock_tickers_instance = MagicMock()
+        mock_tickers_instance.tickers = {
+            'AAPL': mock_ticker_aapl,
+            'MSFT': mock_ticker_msft
+        }
+        mock_tickers.return_value = mock_tickers_instance
+
+        symbols = [{'symbol': 'AAPL'}, {'symbol': 'MSFT'}]
+        result = fetch_batch_history(symbols, batch_size=10)
+
+        self.assertIn('AAPL', result)
+        self.assertIn('MSFT', result)
+
 
 class TestIntegration(unittest.TestCase):
     @patch('top20.get_stock_details')
@@ -160,10 +300,8 @@ class TestIntegration(unittest.TestCase):
             {'symbol': 'MSFT', 'type': 'Common Stock'},
             {'symbol': 'GOOGL', 'type': 'Common Stock'}
         ]
-        
+
         # Setup mock yfinance responses
-        # Setup yfinance mock to return different tickers for different symbols
-        # Setup yfinance mock to return different tickers for different symbols
         dates = [pd.Timestamp('2023-01-01'), pd.Timestamp('2023-01-02')]
         prices = {
             'AAPL': [100, 105],
@@ -184,14 +322,14 @@ class TestIntegration(unittest.TestCase):
             else:
                 symbol = symbol_dict
             debug_log(f"Creating mock ticker for symbol: {symbol}")
-            
+
             if symbol not in prices:
                 debug_log(f"Symbol not found in test data: {symbol}")
                 return None
 
             mock_ticker = MagicMock()
             mock_ticker._symbol = symbol
-            
+
             def mock_history(period=None, **kwargs):
                 debug_log(f"Mock history called for {symbol} with period={period}, kwargs={kwargs}")
                 df = pd.DataFrame({
@@ -206,14 +344,14 @@ class TestIntegration(unittest.TestCase):
         mock_yfinance.side_effect = get_mock_ticker
 
         # Setup get_stock_details mock with logging
-        def mock_get_details_impl(symbol_dict): # Renamed function
+        def mock_get_details_impl(symbol_dict):
             if isinstance(symbol_dict, dict):
                 symbol = symbol_dict.get('symbol')
             else:
                 symbol = symbol_dict
 
             debug_log(f"Getting stock details for {symbol}")
-            
+
             details = {
                 'name': f'{symbol} Company',
                 'market_cap': 1000,
@@ -223,25 +361,25 @@ class TestIntegration(unittest.TestCase):
             debug_log(f"Returning details for {symbol}: {details}")
             return details
 
-        # Assign the renamed local function to the side_effect of the mock object
         mock_get_details.side_effect = mock_get_details_impl
 
-        # Test multithreaded processing with detailed logging
+        # Test multithreaded processing with use_batch=False to use the old path
         with self.assertLogs(level='INFO') as log:
             debug_log("Starting multithreaded processing")
-            df, invalid = get_gainers_multithreaded(symbols, max_workers=2)
+            df, invalid = get_gainers_multithreaded(symbols, max_workers=2, use_batch=False)
             debug_log(f"Processing complete - df size: {len(df)}, invalid: {invalid}")
-            
+
             # Print all captured logs if the test fails
             if len(df) != 3:
                 print("\nTest execution logs:")
                 for entry in log.output:
                     print(entry)
                 print(f"\nInvalid stocks: {invalid}")
-                
+
         self.assertEqual(len(df), 3, f"Expected 3 stocks but got {len(df)}")
         self.assertEqual(len(invalid), 0)
         self.assertEqual(df['涨跌幅(%)'].tolist(), [5.0, 5.0, 5.0])
+
 
 if __name__ == '__main__':
     unittest.main()
