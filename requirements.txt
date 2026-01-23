@@ -3,7 +3,7 @@ yfinance>=0.2.40,<1.0
 pandas>=2.0.0,<3.0
 finnhub-python>=2.4.20
 python-dateutil>=2.8.0
-pytz>=2024.1
+pytz>=2023.3
 holidays>=0.40
 
 # Testing
