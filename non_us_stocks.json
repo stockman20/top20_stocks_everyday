@@ -44110,5 +44110,377 @@
     "name": "Bet Shemesh Engines Holdings 1997 Ltd",
     "country": "IL",
     "added_date": "2026-01-30 00:31:52"
+  },
+  "ALDS": {
+    "exchange": "OTC MARKETS",
+    "name": "APPlife Digital Solutions Inc",
+    "country": "US",
+    "added_date": "2026-01-30 21:45:19"
+  },
+  "ALBY": {
+    "exchange": "OTC MARKETS",
+    "name": "Community Capital Bancshares Inc",
+    "country": "US",
+    "added_date": "2026-01-30 21:45:24"
+  },
+  "AAPI": {
+    "exchange": "OTC MARKETS",
+    "name": "Apple iSports Group Inc",
+    "country": "US",
+    "added_date": "2026-01-30 21:45:26"
+  },
+  "SPCNF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "SPC Nickel Corp",
+    "country": "CA",
+    "added_date": "2026-01-30 21:45:26"
+  },
+  "NDATF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "nDatalyze Corp",
+    "country": "CA",
+    "added_date": "2026-01-30 21:45:31"
+  },
+  "GPLL": {
+    "exchange": "OTC MARKETS",
+    "name": "Benchmark Energy Corp",
+    "country": "US",
+    "added_date": "2026-01-30 21:45:32"
+  },
+  "TRAGF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Terago Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 21:46:53"
+  },
+  "LABZF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Metasphere Labs Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 21:46:54"
+  },
+  "SCZM": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Santacruz Silver Mining Ltd",
+    "country": "CA",
+    "added_date": "2026-01-30 21:46:55"
+  },
+  "TMTIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Torr Metals Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 22:07:52"
+  },
+  "EMAT": {
+    "exchange": "OTC MARKETS",
+    "name": "Welsbach Technology Metals Acquisition Corp",
+    "country": "US",
+    "added_date": "2026-01-30 22:10:51"
+  },
+  "LTSRD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lotus Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 22:12:00"
+  },
+  "CHHQF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "China Hongqiao Group Ltd",
+    "country": "CN",
+    "added_date": "2026-01-30 22:15:01"
+  },
+  "GGOXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Galleon Gold Corp",
+    "country": "CA",
+    "added_date": "2026-01-30 22:15:57"
+  },
+  "MMGRF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Momentum Group AB",
+    "country": "SE",
+    "added_date": "2026-01-30 22:24:00"
+  },
+  "BKHPF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Bank Hapoalim BM",
+    "country": "IL",
+    "added_date": "2026-01-30 22:25:40"
+  },
+  "GALMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Galileo Mining Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 22:29:39"
+  },
+  "CPKRF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Canada Packers Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 22:29:58"
+  },
+  "IDEA": {
+    "exchange": "OTC MARKETS",
+    "name": "Invent Ventures Inc",
+    "country": "US",
+    "added_date": "2026-01-30 22:30:14"
+  },
+  "GCHEF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Comercial Chedraui SAB de CV",
+    "country": "MX",
+    "added_date": "2026-01-30 22:32:06"
+  },
+  "FNEVF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Fraser and Neave Ltd",
+    "country": "SG",
+    "added_date": "2026-01-30 22:37:43"
+  },
+  "BLRDF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Billerud AB (publ)",
+    "country": "SE",
+    "added_date": "2026-01-30 22:39:38"
+  },
+  "PSBKF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "Postal Savings Bank of China Co Ltd",
+    "country": "CN",
+    "added_date": "2026-01-30 22:40:05"
+  },
+  "CLNXF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Cellnex Telecom SA",
+    "country": "ES",
+    "added_date": "2026-01-30 22:42:43"
+  },
+  "PTEEF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Plaintree Systems Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 22:48:03"
+  },
+  "GDPHF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Godolphin Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 22:48:16"
+  },
+  "KNAMF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Konami Group Corp",
+    "country": "JP",
+    "added_date": "2026-01-30 23:00:03"
+  },
+  "AGNPF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Algernon Health Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 23:01:04"
+  },
+  "XZJCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Mitsui Kinzoku Co Ltd",
+    "country": "JP",
+    "added_date": "2026-01-30 23:03:00"
+  },
+  "ASCLF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Ascletis Pharma Inc",
+    "country": "CN",
+    "added_date": "2026-01-30 23:07:15"
+  },
+  "TLOFD": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Talon Metals Corp",
+    "country": "VG",
+    "added_date": "2026-01-30 23:08:55"
+  },
+  "PLSM": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Pulsenmore Ltd",
+    "country": "IL",
+    "added_date": "2026-01-30 23:16:14"
+  },
+  "CLRSF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Castile Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 23:16:44"
+  },
+  "CLRI": {
+    "exchange": "OTC MARKETS",
+    "name": "Cleartronic Inc",
+    "country": "US",
+    "added_date": "2026-01-30 23:21:00"
+  },
+  "RENGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Renegade Gold Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 23:21:38"
+  },
+  "PPHC": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Public Policy Holding Company Inc",
+    "country": "US",
+    "added_date": "2026-01-30 23:24:38"
+  },
+  "JAIRF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Japan Airport Terminal Co Ltd",
+    "country": "JP",
+    "added_date": "2026-01-30 23:27:05"
+  },
+  "KMRPF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Kenmare Resources PLC",
+    "country": "IE",
+    "added_date": "2026-01-30 23:29:54"
+  },
+  "RGSG": {
+    "exchange": "OTC MARKETS",
+    "name": "China Ivy School Inc",
+    "country": "CN",
+    "added_date": "2026-01-30 23:33:13"
+  },
+  "RGNCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Rush Gold Corp",
+    "country": "CA",
+    "added_date": "2026-01-30 23:33:18"
+  },
+  "FRDSF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "4DS Memory Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 23:33:47"
+  },
+  "VCIGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Vitreous Glass Inc",
+    "country": "CA",
+    "added_date": "2026-01-30 23:37:00"
+  },
+  "MTRBF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Metro Bank Holdings PLC",
+    "country": "GB",
+    "added_date": "2026-01-30 23:37:17"
+  },
+  "EMMA": {
+    "exchange": "OTC MARKETS",
+    "name": "Emmaus Life Sciences Inc",
+    "country": "US",
+    "added_date": "2026-01-30 23:41:08"
+  },
+  "ESGFF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Ora Banda Mining Ltd",
+    "country": "AU",
+    "added_date": "2026-01-30 23:46:58"
+  },
+  "TGAFF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Taiga Building Products Ltd",
+    "country": "CA",
+    "added_date": "2026-01-30 23:47:46"
+  },
+  "TGGCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Toogood Gold Corp",
+    "country": "CA",
+    "added_date": "2026-01-30 23:52:18"
+  },
+  "AGGI": {
+    "exchange": "OTC MARKETS",
+    "name": "Metasky Corp",
+    "country": "US",
+    "added_date": "2026-01-30 23:55:00"
+  },
+  "PIRBF": {
+    "exchange": "ATHENS EXCHANGE S.A. CASH MARKET",
+    "name": "Piraeus Financial Holdings SA",
+    "country": "GR",
+    "added_date": "2026-01-30 23:56:09"
+  },
+  "TNMD": {
+    "exchange": "OTC MARKETS",
+    "name": "Tianrong Medical Group Inc",
+    "country": "",
+    "added_date": "2026-01-30 23:59:46"
+  },
+  "BMM": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Blue Moon Metals Inc",
+    "country": "CA",
+    "added_date": "2026-01-31 00:01:19"
+  },
+  "SSPLF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Safe Supply Streaming Co Ltd",
+    "country": "CA",
+    "added_date": "2026-01-31 00:06:09"
+  },
+  "PATRF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Panthera Resources PLC",
+    "country": "GB",
+    "added_date": "2026-01-31 00:06:39"
+  },
+  "KYSEF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Kyushu Electric Power Co Inc",
+    "country": "JP",
+    "added_date": "2026-01-31 00:08:12"
+  },
+  "ANICF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Anonymous Intelligence Company Inc",
+    "country": "CA",
+    "added_date": "2026-01-31 00:08:41"
+  },
+  "SRRRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Source Rock Royalties Ltd",
+    "country": "CA",
+    "added_date": "2026-01-31 00:10:55"
+  },
+  "BRSGF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Queen's Road Capital Investment Ltd",
+    "country": "HK",
+    "added_date": "2026-01-31 00:13:41"
+  },
+  "NMYSF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "NamSys Inc",
+    "country": "CA",
+    "added_date": "2026-01-31 00:16:58"
+  },
+  "KTRXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Kintavar Exploration Inc",
+    "country": "CA",
+    "added_date": "2026-01-31 00:17:09"
+  },
+  "FSRPF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Frasers Property Ltd",
+    "country": "SG",
+    "added_date": "2026-01-31 00:22:02"
+  },
+  "LNMG": {
+    "exchange": "OTC MARKETS",
+    "name": "Linike Medical Group Ltd",
+    "country": "US",
+    "added_date": "2026-01-31 00:23:36"
+  },
+  "HHEXF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "HeLIX Exploration PLC",
+    "country": "GB",
+    "added_date": "2026-01-31 00:24:13"
   }
 }
