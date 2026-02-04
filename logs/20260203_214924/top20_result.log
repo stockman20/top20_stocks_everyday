@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                           公司名称                          市值(亿)                板块                       昨天收盘              今天收盘       涨跌幅(%)
+TIRX                              Tian Ruixiang Holdings Ltd  0.02                        Insurance   2026-02-02 0.08   2026-02-03 0.15 97.37 
+GXAI                                           Gaxos.ai Inc.  0.10                            Media   2026-02-02 1.41    2026-02-03 2.0 41.84 
+FATN                                             FatPipe Inc  0.26                       Technology   2026-02-02 1.84    2026-02-03 2.6 41.30 
+JBDI                                       JBDI Holdings Ltd  0.14                        Packaging   2026-02-02 0.73   2026-02-03 0.97 33.33 
+POAS              Phaos Technology Holdings (Cayman) Limited  1.07             Electrical Equipment   2026-02-02 3.75   2026-02-03 4.99 33.07 
+PIII                                  P3 Health Partners Inc  0.11                      Health Care   2026-02-02 1.52   2026-02-03 2.02 32.89 
+INLF                                               INLIF Ltd  0.03                        Machinery   2026-02-02 0.43   2026-02-03 0.54 27.65 
+CGTL                 Creative Global Technology Holdings Ltd  1.02             Electrical Equipment   2026-02-02 3.98   2026-02-03 5.08 27.64 
+ NPT                                      Texxon Holding Ltd  1.26 Trading Companies & Distributors    2026-02-02 5.7    2026-02-03 7.2 26.32 
+HCAI Huachen AI Parking Management Technology Holding Co Ltd  0.09                        Machinery   2026-02-02 0.25   2026-02-03 0.31 24.00 
+ PZG                              Paramount Gold Nevada Corp  1.38                  Metals & Mining   2026-02-02 1.76   2026-02-03 2.18 23.86 
+XTKG                                      X3 Holdings Co Ltd  0.05                       Technology   2026-02-02 0.33   2026-02-03 0.41 23.48 
+UAMY                             United States Antimony Corp 11.01                  Metals & Mining   2026-02-02 7.86   2026-02-03 9.65 22.77 
+  NB                                NioCorp Developments Ltd  7.58                  Metals & Mining   2026-02-02 6.16    2026-02-03 7.5 21.75 
+VELO                                              Velo3D Inc  3.10                        Machinery   2026-02-02 12.6  2026-02-03 15.32 21.59 
+ DVA                                              DaVita Inc 78.50                      Health Care 2026-02-02 111.19 2026-02-03 134.73 21.17 
+GORO                                      Gold Resource Corp  2.19                  Metals & Mining   2026-02-02 1.35   2026-02-03 1.63 20.74 
+CRML                                    Critical Metals Corp 14.84                  Metals & Mining  2026-02-02 12.59  2026-02-03 15.14 20.25 
+ CDT                                          CDT Equity Inc  0.02   Life Sciences Tools & Services   2026-02-02 1.11   2026-02-03 1.33 19.82 
+DLXY                                     Delixy Holdings Ltd  0.18                           Energy   2026-02-02 0.91   2026-02-03 1.09 19.78 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ DVA                         DaVita Inc   78.50          Health Care 2026-02-02 111.19 2026-02-03 134.73 21.17 
+HYMC Hycroft Mining Holding Corporation   29.23      Metals & Mining  2026-02-02 35.21  2026-02-03 42.07 19.48 
+USAR                 USA Rare Earth Inc   38.35      Metals & Mining  2026-02-02 22.11  2026-02-03 25.97 17.46 
+UUUU                   Energy Fuels Inc   58.21               Energy  2026-02-02 21.01  2026-02-03 24.53 16.75 
+ TER                       Teradyne Inc  390.78       Semiconductors 2026-02-02 249.53 2026-02-03 282.98 13.41 
+SCCO               Southern Copper Corp 1579.22      Metals & Mining  2026-02-02 192.8 2026-02-03 215.44 11.74 
+ASTS                AST SpaceMobile Inc  425.30    Telecommunication 2026-02-02 104.55 2026-02-03 115.76 10.72 
+NNNN                Anbio Biotechnology   39.17        Biotechnology  2026-02-02 24.66  2026-02-03 27.22 10.38 
+LUNR             Intuitive Machines Inc   32.15  Aerospace & Defense  2026-02-02 17.84  2026-02-03 19.61  9.92 
+ FLY              Firefly Aerospace Inc   36.40  Aerospace & Defense  2026-02-02 22.86  2026-02-03 25.06  9.62 
+RKLB                    Rocket Lab Corp  396.08  Aerospace & Defense  2026-02-02 74.15  2026-02-03 81.27  9.60 
+  MP                  MP Materials Corp  104.76      Metals & Mining  2026-02-02 59.11  2026-02-03 64.61  9.30 
+ AES                           AES Corp  104.90            Utilities  2026-02-02 14.73  2026-02-03 16.09  9.23 
+ UEC                Uranium Energy Corp   78.89               Energy  2026-02-02 16.32  2026-02-03 17.81  9.13 
+BALL                          Ball Corp  151.92            Packaging  2026-02-02 56.69  2026-02-03 61.77  8.96 
+ CRS          Carpenter Technology Corp  155.07  Aerospace & Defense 2026-02-02 311.33 2026-02-03 338.92  8.86 
+  HL                    Hecla Mining Co  144.41      Metals & Mining  2026-02-02 21.55  2026-02-03 23.44  8.77 
+KRMN                Karman Holdings Inc  136.12  Aerospace & Defense 2026-02-02 102.87 2026-02-03 111.72  8.60 
+TECK                 Teck Resources Ltd  266.40      Metals & Mining  2026-02-02 54.56  2026-02-03 59.24  8.58 
+ SMR                 Nuscale Power Corp   49.89 Electrical Equipment  2026-02-02 16.48  2026-02-03 17.88  8.50 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ DVA                                DaVita Inc   78.50          Health Care 2026-02-02 111.19 2026-02-03 134.73 21.17 
+UUUU                          Energy Fuels Inc   58.21               Energy  2026-02-02 21.01  2026-02-03 24.53 16.75 
+ TER                              Teradyne Inc  390.78       Semiconductors 2026-02-02 249.53 2026-02-03 282.98 13.41 
+SCCO                      Southern Copper Corp 1579.22      Metals & Mining  2026-02-02 192.8 2026-02-03 215.44 11.74 
+ASTS                       AST SpaceMobile Inc  425.30    Telecommunication 2026-02-02 104.55 2026-02-03 115.76 10.72 
+RKLB                           Rocket Lab Corp  396.08  Aerospace & Defense  2026-02-02 74.15  2026-02-03 81.27  9.60 
+  MP                         MP Materials Corp  104.76      Metals & Mining  2026-02-02 59.11  2026-02-03 64.61  9.30 
+ AES                                  AES Corp  104.90            Utilities  2026-02-02 14.73  2026-02-03 16.09  9.23 
+ UEC                       Uranium Energy Corp   78.89               Energy  2026-02-02 16.32  2026-02-03 17.81  9.13 
+BALL                                 Ball Corp  151.92            Packaging  2026-02-02 56.69  2026-02-03 61.77  8.96 
+ CRS                 Carpenter Technology Corp  155.07  Aerospace & Defense 2026-02-02 311.33 2026-02-03 338.92  8.86 
+  HL                           Hecla Mining Co  144.41      Metals & Mining  2026-02-02 21.55  2026-02-03 23.44  8.77 
+KRMN                       Karman Holdings Inc  136.12  Aerospace & Defense 2026-02-02 102.87 2026-02-03 111.72  8.60 
+TECK                        Teck Resources Ltd  266.40      Metals & Mining  2026-02-02 54.56  2026-02-03 59.24  8.58 
+ RKT                      Rocket Companies Inc  528.54   Financial Services  2026-02-02 18.77  2026-02-03 20.35  8.42 
+  BE                         Bloom Energy Corp  399.44 Electrical Equipment 2026-02-02 156.13 2026-02-03 168.89  8.17 
+KTOS Kratos Defense and Security Solutions Inc  162.36  Aerospace & Defense  2026-02-02 96.16 2026-02-03 103.37  7.50 
+PLTR                 Palantir Technologies Inc 3521.77           Technology 2026-02-02 147.76 2026-02-03 157.88  6.85 
+ EQX                         Equinox Gold Corp  111.05      Metals & Mining  2026-02-02 14.15  2026-02-03 15.11  6.78 
+ VLO                        Valero Energy Corp  549.69               Energy 2026-02-02 180.22 2026-02-03 192.27  6.69 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ TER                              Teradyne Inc  390.78       Semiconductors 2026-02-02 249.53 2026-02-03 282.98 13.41 
+SCCO                      Southern Copper Corp 1579.22      Metals & Mining  2026-02-02 192.8 2026-02-03 215.44 11.74 
+ASTS                       AST SpaceMobile Inc  425.30    Telecommunication 2026-02-02 104.55 2026-02-03 115.76 10.72 
+RKLB                           Rocket Lab Corp  396.08  Aerospace & Defense  2026-02-02 74.15  2026-02-03 81.27  9.60 
+  MP                         MP Materials Corp  104.76      Metals & Mining  2026-02-02 59.11  2026-02-03 64.61  9.30 
+ AES                                  AES Corp  104.90            Utilities  2026-02-02 14.73  2026-02-03 16.09  9.23 
+BALL                                 Ball Corp  151.92            Packaging  2026-02-02 56.69  2026-02-03 61.77  8.96 
+ CRS                 Carpenter Technology Corp  155.07  Aerospace & Defense 2026-02-02 311.33 2026-02-03 338.92  8.86 
+  HL                           Hecla Mining Co  144.41      Metals & Mining  2026-02-02 21.55  2026-02-03 23.44  8.77 
+KRMN                       Karman Holdings Inc  136.12  Aerospace & Defense 2026-02-02 102.87 2026-02-03 111.72  8.60 
+TECK                        Teck Resources Ltd  266.40      Metals & Mining  2026-02-02 54.56  2026-02-03 59.24  8.58 
+ RKT                      Rocket Companies Inc  528.54   Financial Services  2026-02-02 18.77  2026-02-03 20.35  8.42 
+  BE                         Bloom Energy Corp  399.44 Electrical Equipment 2026-02-02 156.13 2026-02-03 168.89  8.17 
+KTOS Kratos Defense and Security Solutions Inc  162.36  Aerospace & Defense  2026-02-02 96.16 2026-02-03 103.37  7.50 
+PLTR                 Palantir Technologies Inc 3521.77           Technology 2026-02-02 147.76 2026-02-03 157.88  6.85 
+ EQX                         Equinox Gold Corp  111.05      Metals & Mining  2026-02-02 14.15  2026-02-03 15.11  6.78 
+ VLO                        Valero Energy Corp  549.69               Energy 2026-02-02 180.22 2026-02-03 192.27  6.69 
+ FCX                      Freeport-McMoRan Inc  872.47      Metals & Mining  2026-02-02 60.76  2026-02-03 64.67  6.44 
+ LYB              LyondellBasell Industries NV  172.04            Chemicals  2026-02-02 50.25  2026-02-03 53.45  6.37 
+  AU                     Anglogold Ashanti PLC  478.89      Metals & Mining  2026-02-02 94.85 2026-02-03 100.74  6.21 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)              板块                    昨天收盘              今天收盘       涨跌幅(%)
+ TER              Teradyne Inc  390.78             Semiconductors 2026-02-02 249.53 2026-02-03 282.98 13.41 
+SCCO      Southern Copper Corp 1579.22            Metals & Mining  2026-02-02 192.8 2026-02-03 215.44 11.74 
+ASTS       AST SpaceMobile Inc  425.30          Telecommunication 2026-02-02 104.55 2026-02-03 115.76 10.72 
+RKLB           Rocket Lab Corp  396.08        Aerospace & Defense  2026-02-02 74.15  2026-02-03 81.27  9.60 
+TECK        Teck Resources Ltd  266.40            Metals & Mining  2026-02-02 54.56  2026-02-03 59.24  8.58 
+ RKT      Rocket Companies Inc  528.54         Financial Services  2026-02-02 18.77  2026-02-03 20.35  8.42 
+  BE         Bloom Energy Corp  399.44       Electrical Equipment 2026-02-02 156.13 2026-02-03 168.89  8.17 
+PLTR Palantir Technologies Inc 3521.77                 Technology 2026-02-02 147.76 2026-02-03 157.88  6.85 
+ VLO        Valero Energy Corp  549.69                     Energy 2026-02-02 180.22 2026-02-03 192.27  6.69 
+ FCX      Freeport-McMoRan Inc  872.47            Metals & Mining  2026-02-02 60.76  2026-02-03 64.67  6.44 
+  AU     Anglogold Ashanti PLC  478.89            Metals & Mining  2026-02-02 94.85 2026-02-03 100.74  6.21 
+ MPC   Marathon Petroleum Corp  531.80                     Energy 2026-02-02 176.91 2026-02-03 187.58  6.03 
+ FDX                FedEx Corp  830.99 Logistics & Transportation  2026-02-02 335.3 2026-02-03 353.43  5.41 
+  IR        Ingersoll Rand Inc  370.30                  Machinery  2026-02-02 88.94  2026-02-03 93.72  5.37 
+  VG        Venture Global Inc  220.82                     Energy   2026-02-02 9.02   2026-02-03 9.48  5.10 
+ CCJ               Cameco Corp  523.40                     Energy 2026-02-02 120.21 2026-02-03 126.15  4.94 
+ PEP               PepsiCo Inc 2122.11                  Beverages  2026-02-02 155.2 2026-02-03 162.85  4.93 
+SNDK              Sandisk Corp  981.68                 Technology 2026-02-02 665.24 2026-02-03 695.51  4.55 
+  UI              Ubiquiti Inc  329.63             Communications 2026-02-02 544.84 2026-02-03 569.16  4.46 
+ TDY Teledyne Technologies Inc  287.92       Electrical Equipment 2026-02-02 613.23 2026-02-03 640.42  4.43 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码            公司名称             市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+SCCO       Southern Copper Corp 1579.22      Metals & Mining  2026-02-02 192.8 2026-02-03 215.44 11.74 
+PLTR  Palantir Technologies Inc 3521.77           Technology 2026-02-02 147.76 2026-02-03 157.88  6.85 
+ PEP                PepsiCo Inc 2122.11            Beverages  2026-02-02 155.2 2026-02-03 162.85  4.93 
+ XOM           Exxon Mobil Corp 5069.88               Energy  2026-02-02 138.4 2026-02-03 143.73  3.85 
+ NEM        Newmont Corporation 1231.49      Metals & Mining 2026-02-02 112.85 2026-02-03 117.14  3.80 
+  VZ Verizon Communications Inc 1877.15    Telecommunication  2026-02-02 44.61  2026-02-03 46.25  3.68 
+ TTE           TotalEnergies SE 1307.86               Energy  2026-02-02 71.88  2026-02-03 74.42  3.53 
+ GEV             GE Vernova Inc 2034.87 Electrical Equipment 2026-02-02 754.97 2026-02-03 780.25  3.35 
+  MO           Altria Group Inc 1044.64              Tobacco  2026-02-02 62.23  2026-02-03 64.16  3.10 
+ COP             ConocoPhillips 1257.84               Energy 2026-02-02 101.79 2026-02-03 104.91  3.07 
+CSCO          Cisco Systems Inc 3186.16       Communications  2026-02-02 80.64  2026-02-03 83.11  3.06 
+ NOC      Northrop Grumman Corp 1000.52  Aerospace & Defense 2026-02-02 685.02 2026-02-03 704.98  2.91 
+ NEE         Nextera Energy Inc 1797.92            Utilities  2026-02-02 86.33  2026-02-03 88.82  2.88 
+ UNP         Union Pacific Corp 1395.29          Road & Rail 2026-02-02 235.23 2026-02-03 241.49  2.66 
+  DE                 Deere & Co 1477.36            Machinery 2026-02-02 532.25  2026-02-03 545.0  2.40 
+ CVX               Chevron Corp 3504.13               Energy 2026-02-02 174.03 2026-02-03 178.04  2.30 
+ MRK             Merck & Co Inc 2813.87      Pharmaceuticals 2026-02-02 113.37 2026-02-03 115.84  2.18 
+ JPM        JPMorgan Chase & Co 8571.04              Banking 2026-02-02 308.14 2026-02-03 314.85  2.18 
+  KO               Coca-Cola Co 3240.40            Beverages  2026-02-02 75.33  2026-02-03 76.89  2.07 
+   T                   AT&T Inc 1902.10    Telecommunication   2026-02-02 26.3  2026-02-03 26.83  2.02 
