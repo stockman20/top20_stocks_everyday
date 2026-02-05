@@ -46630,5 +46630,113 @@
     "name": "Idex Biometrics ASA",
     "country": "NO",
     "added_date": "2026-02-04 00:37:56"
+  },
+  "BCRD": {
+    "exchange": "OTC MARKETS",
+    "name": "Blueone Card Inc",
+    "country": "US",
+    "added_date": "2026-02-04 21:59:23"
+  },
+  "MIZUF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Mizuno Corp",
+    "country": "JP",
+    "added_date": "2026-02-04 22:00:50"
+  },
+  "TETAB": {
+    "exchange": "OTC MARKETS",
+    "name": "Teton Advisors Inc",
+    "country": "US",
+    "added_date": "2026-02-04 22:00:51"
+  },
+  "GMUAF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Gamuda Bhd",
+    "country": "MY",
+    "added_date": "2026-02-04 22:00:54"
+  },
+  "ELLXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Elixinol Wellness Ltd",
+    "country": "AU",
+    "added_date": "2026-02-04 22:00:58"
+  },
+  "ARTTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Artemis Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-04 22:28:26"
+  },
+  "MSCLD": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Satellos Bioscience Inc",
+    "country": "CA",
+    "added_date": "2026-02-04 22:34:39"
+  },
+  "VLMZF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Volcanic Gold Mines Inc",
+    "country": "CA",
+    "added_date": "2026-02-04 23:02:40"
+  },
+  "LNRCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "LunR Royalties Corp",
+    "country": "CA",
+    "added_date": "2026-02-04 23:05:22"
+  },
+  "BAKR": {
+    "exchange": "OTC MARKETS",
+    "name": "Baker Global Asset Management Inc",
+    "country": "US",
+    "added_date": "2026-02-04 23:07:24"
+  },
+  "NUSMF": {
+    "exchange": "OTC MARKETS",
+    "name": "Nautilus Minerals Inc",
+    "country": "CA",
+    "added_date": "2026-02-04 23:19:05"
+  },
+  "MLBEF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "5G Networks Ltd",
+    "country": "AU",
+    "added_date": "2026-02-04 23:23:52"
+  },
+  "VEMLF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Venture Corporation Ltd",
+    "country": "SG",
+    "added_date": "2026-02-04 23:32:57"
+  },
+  "ASOZF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "Asseco Poland SA",
+    "country": "PL",
+    "added_date": "2026-02-04 23:42:23"
+  },
+  "GDST": {
+    "exchange": "OTC MARKETS",
+    "name": "Goldenstone Acquisition Ltd",
+    "country": "US",
+    "added_date": "2026-02-04 23:42:33"
+  },
+  "CBBLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "CBLT Inc",
+    "country": "CA",
+    "added_date": "2026-02-05 00:15:33"
+  },
+  "FTROF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "First Resources Ltd",
+    "country": "SG",
+    "added_date": "2026-02-05 00:25:32"
+  },
+  "BCON": {
+    "exchange": "OTC MARKETS",
+    "name": "Beacon Holding Company, Inc.",
+    "country": "US",
+    "added_date": "2026-02-05 00:28:40"
   }
 }
