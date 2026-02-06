@@ -46738,5 +46738,155 @@
     "name": "Beacon Holding Company, Inc.",
     "country": "US",
     "added_date": "2026-02-05 00:28:40"
+  },
+  "CIXPF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "CaixaBank SA",
+    "country": "ES",
+    "added_date": "2026-02-05 21:52:23"
+  },
+  "LINIF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lindian Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-05 21:53:47"
+  },
+  "AURI": {
+    "exchange": "OTC MARKETS",
+    "name": "Auri Inc",
+    "country": "US",
+    "added_date": "2026-02-05 21:53:48"
+  },
+  "KRLTF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Karnalyte Resources Inc",
+    "country": "CA",
+    "added_date": "2026-02-05 22:14:41"
+  },
+  "MCRNF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Micro-Mechanics (Holdings) Ltd",
+    "country": "SG",
+    "added_date": "2026-02-05 22:20:54"
+  },
+  "HLGVF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Hillgrove Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-05 22:21:57"
+  },
+  "SPFYF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Spacefy Inc",
+    "country": "CA",
+    "added_date": "2026-02-05 22:40:28"
+  },
+  "BTCFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Bitcoin Treasury Corp",
+    "country": "CA",
+    "added_date": "2026-02-05 22:40:53"
+  },
+  "DUSXF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Dustin Group AB",
+    "country": "SE",
+    "added_date": "2026-02-05 22:49:28"
+  },
+  "KPEA": {
+    "exchange": "OTC MARKETS",
+    "name": "Kun Peng International Ltd",
+    "country": "CN",
+    "added_date": "2026-02-05 22:50:45"
+  },
+  "OOBHF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "On The Beach Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-05 22:51:33"
+  },
+  "ITVI": {
+    "exchange": "OTC MARKETS",
+    "name": "Interact-TV Inc",
+    "country": "US",
+    "added_date": "2026-02-05 22:56:01"
+  },
+  "NINOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Nikon Corp",
+    "country": "JP",
+    "added_date": "2026-02-05 23:05:57"
+  },
+  "TKCOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Toho Co Ltd (Tokyo)",
+    "country": "JP",
+    "added_date": "2026-02-05 23:08:47"
+  },
+  "HNDI": {
+    "exchange": "OTC MARKETS",
+    "name": "Handeni Gold Inc",
+    "country": "TZ",
+    "added_date": "2026-02-05 23:12:34"
+  },
+  "CUBXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "CubicFarm Systems Corp",
+    "country": "CA",
+    "added_date": "2026-02-05 23:24:58"
+  },
+  "SITIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "SITC International Holdings Co Ltd",
+    "country": "HK",
+    "added_date": "2026-02-05 23:31:04"
+  },
+  "KGET": {
+    "exchange": "OTC MARKETS",
+    "name": "Calipharms Inc",
+    "country": "US",
+    "added_date": "2026-02-05 23:33:00"
+  },
+  "TAKD": {
+    "exchange": "OTC MARKETS",
+    "name": "Transakt Ltd",
+    "country": "HK",
+    "added_date": "2026-02-05 23:43:49"
+  },
+  "SDURF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Stroud Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-05 23:50:28"
+  },
+  "AZRGF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Azrieli Group Ltd",
+    "country": "IL",
+    "added_date": "2026-02-05 23:53:34"
+  },
+  "ALEEF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Alerio Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-05 23:59:53"
+  },
+  "SIUAF": {
+    "exchange": "XETRA",
+    "name": "Stabilus SE",
+    "country": "DE",
+    "added_date": "2026-02-06 00:01:05"
+  },
+  "PRSNF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Keek Social Inc",
+    "country": "CA",
+    "added_date": "2026-02-06 00:02:42"
+  },
+  "FLIDF": {
+    "exchange": "OMX NORDIC EXCHANGE COPENHAGEN A/S",
+    "name": "FLSmidth & Co A/S",
+    "country": "DK",
+    "added_date": "2026-02-06 00:14:29"
   }
 }
