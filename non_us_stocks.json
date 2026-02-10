@@ -46996,5 +46996,155 @@
     "name": "Blockchain Capital Tokenhub Pte Ltd",
     "country": "SG",
     "added_date": "2026-02-07 00:14:30"
+  },
+  "CITZ": {
+    "exchange": "OTC MARKETS",
+    "name": "Citizens Bancshares Corp (South Carolina)",
+    "country": "US",
+    "added_date": "2026-02-09 22:00:07"
+  },
+  "COGDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Compass Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-09 22:00:11"
+  },
+  "AVNI": {
+    "exchange": "OTC MARKETS",
+    "name": "Arvana Inc",
+    "country": "US",
+    "added_date": "2026-02-09 22:00:11"
+  },
+  "ALTB": {
+    "exchange": "OTC MARKETS",
+    "name": "Alpine Auto Brokers Inc",
+    "country": "US",
+    "added_date": "2026-02-09 22:01:42"
+  },
+  "GMRCD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Gelum Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-09 22:27:46"
+  },
+  "OAMCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Overactive Media Corp",
+    "country": "CA",
+    "added_date": "2026-02-09 22:40:51"
+  },
+  "NBCO": {
+    "exchange": "OTC MARKETS",
+    "name": "Neon Bloom Inc",
+    "country": "US",
+    "added_date": "2026-02-09 22:47:48"
+  },
+  "NORDF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Nordique Resources Inc",
+    "country": "CA",
+    "added_date": "2026-02-09 22:53:45"
+  },
+  "STMRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Stanmore Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-09 22:57:50"
+  },
+  "BNDSF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Banco de Sabadell SA",
+    "country": "ES",
+    "added_date": "2026-02-09 22:58:31"
+  },
+  "HELOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Winshear Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-09 23:03:30"
+  },
+  "OGPIF": {
+    "exchange": "PHILIPPINE STOCK EXCHANGE, INC.",
+    "name": "OceanaGold (Philippines) Inc",
+    "country": "PH",
+    "added_date": "2026-02-09 23:08:34"
+  },
+  "IRDEF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Iren SpA",
+    "country": "IT",
+    "added_date": "2026-02-09 23:09:38"
+  },
+  "DFYFF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Definity Financial Corp",
+    "country": "CA",
+    "added_date": "2026-02-09 23:17:36"
+  },
+  "RVRF": {
+    "exchange": "OTC MARKETS",
+    "name": "River Financial Corp",
+    "country": "US",
+    "added_date": "2026-02-09 23:27:51"
+  },
+  "AEAE": {
+    "exchange": "OTC MARKETS",
+    "name": "AltEnergy Acquisition Corp",
+    "country": "US",
+    "added_date": "2026-02-09 23:32:33"
+  },
+  "TITMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Titomic Ltd",
+    "country": "AU",
+    "added_date": "2026-02-09 23:33:33"
+  },
+  "LPKGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Lupaka Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-09 23:39:44"
+  },
+  "SVMB": {
+    "exchange": "OTC MARKETS",
+    "name": "Jingbo Technology Inc",
+    "country": "CN",
+    "added_date": "2026-02-09 23:43:42"
+  },
+  "DBORF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Diablo Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-10 00:06:37"
+  },
+  "SLVNF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Solvonis Therapeutics PLC",
+    "country": "GB",
+    "added_date": "2026-02-10 00:15:45"
+  },
+  "HLAGF": {
+    "exchange": "XETRA",
+    "name": "Hapag-Lloyd AG",
+    "country": "DE",
+    "added_date": "2026-02-10 00:17:05"
+  },
+  "AQSZF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Aequus Pharmaceuticals Inc",
+    "country": "CA",
+    "added_date": "2026-02-10 00:26:37"
+  },
+  "UREKF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Eureka Lithium Corp",
+    "country": "CA",
+    "added_date": "2026-02-10 00:28:36"
+  },
+  "CCPUF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "SATO Technologies Corp",
+    "country": "CA",
+    "added_date": "2026-02-10 00:31:21"
   }
 }
