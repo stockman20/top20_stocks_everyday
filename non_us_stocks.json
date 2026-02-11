@@ -47146,5 +47146,773 @@
     "name": "SATO Technologies Corp",
     "country": "CA",
     "added_date": "2026-02-10 00:31:21"
+  },
+  "AEUXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Atomic Eagle Ltd",
+    "country": "AU",
+    "added_date": "2026-02-10 22:06:15"
+  },
+  "PPLFF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Perusahaan Perkebunan London Sumatra Indonesia Tbk PT",
+    "country": "ID",
+    "added_date": "2026-02-10 22:06:16"
+  },
+  "DLPX": {
+    "exchange": "OTC MARKETS",
+    "name": "Delphax Technologies Inc",
+    "country": "US",
+    "added_date": "2026-02-10 22:07:38"
+  },
+  "CEBCF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "China Everbright Bank Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-10 22:41:33"
+  },
+  "GTOFF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "GoTo Gojek Tokopedia PT Tbk",
+    "country": "ID",
+    "added_date": "2026-02-10 22:44:24"
+  },
+  "EQTL": {
+    "exchange": "OTC MARKETS",
+    "name": "Equitech Int'l Corp",
+    "country": "US",
+    "added_date": "2026-02-10 22:50:40"
+  },
+  "CNHC": {
+    "exchange": "OTC MARKETS",
+    "name": "China Health Management Corp",
+    "country": "US",
+    "added_date": "2026-02-10 22:59:51"
+  },
+  "DGQTF": {
+    "exchange": "",
+    "name": "Delta Gold Technologies PLC",
+    "country": "GB",
+    "added_date": "2026-02-10 23:10:47"
+  },
+  "NIMU": {
+    "exchange": "OTC MARKETS",
+    "name": "Non-Invasive Monitoring Systems Inc",
+    "country": "US",
+    "added_date": "2026-02-10 23:24:37"
+  },
+  "FECOF": {
+    "exchange": "OTC MARKETS",
+    "name": "FEC Resources Inc",
+    "country": "CA",
+    "added_date": "2026-02-10 23:30:52"
+  },
+  "STXPF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Stuhini Exploration Ltd",
+    "country": "CA",
+    "added_date": "2026-02-10 23:35:37"
+  },
+  "MSLE": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Satellos Bioscience Inc",
+    "country": "CA",
+    "added_date": "2026-02-10 23:42:38"
+  },
+  "ACIXF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Acarix AB",
+    "country": "SE",
+    "added_date": "2026-02-10 23:48:51"
+  },
+  "TBIXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "TrustBIX Inc",
+    "country": "CA",
+    "added_date": "2026-02-10 23:50:30"
+  },
+  "SYNTF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Syntholene Energy Corp",
+    "country": "CA",
+    "added_date": "2026-02-10 23:58:47"
+  },
+  "FLOD": {
+    "exchange": "OTC MARKETS",
+    "name": "Flowery Gold Mines Company Of Nevada TH",
+    "country": "US",
+    "added_date": "2026-02-11 00:02:36"
+  },
+  "AEUSF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Active Energy Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-11 00:03:23"
+  },
+  "ORGJF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Organo Corp",
+    "country": "JP",
+    "added_date": "2026-02-11 00:07:28"
+  },
+  "GRHI": {
+    "exchange": "OTC MARKETS",
+    "name": "Affordable Homes Group",
+    "country": "US",
+    "added_date": "2026-02-11 00:12:51"
+  },
+  "EMCMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Emerge Commerce Ltd",
+    "country": "CA",
+    "added_date": "2026-02-11 00:16:43"
+  },
+  "RMIOD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Romios Gold Resources Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:23:59"
+  },
+  "CYJBF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "Hiab Oyj",
+    "country": "FI",
+    "added_date": "2026-02-11 00:30:52"
+  },
+  "PMHS": {
+    "exchange": "OTC MARKETS",
+    "name": "Polomar Health Services Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:30:55"
+  },
+  "KMAG": {
+    "exchange": "OTC MARKETS",
+    "name": "KMA Global Solutions International Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:31:00"
+  },
+  "SFSLF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "SFS Group AG",
+    "country": "CH",
+    "added_date": "2026-02-11 00:31:26"
+  },
+  "MLORF": {
+    "exchange": "OTC MARKETS",
+    "name": "Montello Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-11 00:31:28"
+  },
+  "CTOBF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "China Tobacco International (HK) Co Ltd",
+    "country": "HK",
+    "added_date": "2026-02-11 00:31:37"
+  },
+  "HGLC": {
+    "exchange": "OTC MARKETS",
+    "name": "Hunt Gold Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:38"
+  },
+  "CYPMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Cyprium Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:31:39"
+  },
+  "CABB": {
+    "exchange": "OTC MARKETS",
+    "name": "California Business Bank",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:46"
+  },
+  "EPGC": {
+    "exchange": "OTC MARKETS",
+    "name": "Zippeee Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:48"
+  },
+  "NNRX": {
+    "exchange": "OTC MARKETS",
+    "name": "Nutranomics Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:49"
+  },
+  "ZTLLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Zonetail Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:31:51"
+  },
+  "AEGY": {
+    "exchange": "OTC MARKETS",
+    "name": "Alternative Energy Partners Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:53"
+  },
+  "UNDR": {
+    "exchange": "OTC MARKETS",
+    "name": "UnderSea Recovery Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:31:58"
+  },
+  "AMNI": {
+    "exchange": "OTC MARKETS",
+    "name": "American Noble Gas Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:00"
+  },
+  "ASTO": {
+    "exchange": "OTC MARKETS",
+    "name": "Astro Communications Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:00"
+  },
+  "KYUNF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Kyushu Financial Group Inc",
+    "country": "JP",
+    "added_date": "2026-02-11 00:32:24"
+  },
+  "YUZHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Yuzhou Group Holdings Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:32:24"
+  },
+  "VCTY": {
+    "exchange": "OTC MARKETS",
+    "name": "Videolocity International Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:26"
+  },
+  "TSVNF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Everplay Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-11 00:32:34"
+  },
+  "PTRVF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Avila Energy Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 00:32:37"
+  },
+  "MANZF": {
+    "exchange": "DEUTSCHE BOERSE AG",
+    "name": "Manz AG",
+    "country": "DE",
+    "added_date": "2026-02-11 00:32:42"
+  },
+  "IGEN": {
+    "exchange": "OTC MARKETS",
+    "name": "IGEN Networks Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:42"
+  },
+  "AJISF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "AJIS Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-11 00:32:43"
+  },
+  "BYRRF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Bayridge Resources Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 00:32:44"
+  },
+  "TAYO": {
+    "exchange": "OTC MARKETS",
+    "name": "Taylor Consulting Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:45"
+  },
+  "LFHTF": {
+    "exchange": "XETRA",
+    "name": "Leifheit AG",
+    "country": "DE",
+    "added_date": "2026-02-11 00:32:47"
+  },
+  "NNRDF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Nishi-Nippon Railroad Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-11 00:32:49"
+  },
+  "TKXHF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Trackx Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:32:53"
+  },
+  "KUMBF": {
+    "exchange": "JOHANNESBURG STOCK EXCHANGE",
+    "name": "Kumba Iron Ore Ltd",
+    "country": "ZA",
+    "added_date": "2026-02-11 00:32:57"
+  },
+  "PBAJ": {
+    "exchange": "OTC MARKETS",
+    "name": "Petro USA Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:23"
+  },
+  "GAMN": {
+    "exchange": "OTC MARKETS",
+    "name": "Great American Food Chain Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:29"
+  },
+  "CYAGF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "CyberAgent Inc",
+    "country": "JP",
+    "added_date": "2026-02-11 00:33:35"
+  },
+  "BKFL": {
+    "exchange": "OTC MARKETS",
+    "name": "BankFlorida Bancorp Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:41"
+  },
+  "ARHOF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "Amrest Holdings SE",
+    "country": "ES",
+    "added_date": "2026-02-11 00:33:42"
+  },
+  "MGTC": {
+    "exchange": "OTC MARKETS",
+    "name": "Megatech Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:42"
+  },
+  "AGLFF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Angelalign Technology Inc",
+    "country": "CN",
+    "added_date": "2026-02-11 00:33:48"
+  },
+  "IRME": {
+    "exchange": "OTC MARKETS",
+    "name": "IR-Med Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:51"
+  },
+  "LSMLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lodestar Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:33:52"
+  },
+  "TELHF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Tearlach Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-11 00:33:56"
+  },
+  "EXBX": {
+    "exchange": "OTC MARKETS",
+    "name": "Chung Kam Run Yin Investment Group Ltd",
+    "country": "US",
+    "added_date": "2026-02-11 00:33:59"
+  },
+  "ADTR": {
+    "exchange": "OTC MARKETS",
+    "name": "Alliance Media Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:34:20"
+  },
+  "SAGXF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Sagax AB",
+    "country": "SE",
+    "added_date": "2026-02-11 00:34:36"
+  },
+  "ADSGF": {
+    "exchange": "XETRA",
+    "name": "adesso SE",
+    "country": "DE",
+    "added_date": "2026-02-11 00:34:38"
+  },
+  "ACKAF": {
+    "exchange": "BORSA ISTANBUL",
+    "name": "Arcelik AS",
+    "country": "TR",
+    "added_date": "2026-02-11 00:34:44"
+  },
+  "TGRO": {
+    "exchange": "OTC MARKETS",
+    "name": "Tiger Oil and Energy Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:34:45"
+  },
+  "DKCLF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Daiei Kankyo Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-11 00:34:47"
+  },
+  "CIEZF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Corporacion Interamericana de Entretenimiento SAB de CV",
+    "country": "MX",
+    "added_date": "2026-02-11 00:34:48"
+  },
+  "CENBF": {
+    "exchange": "OTC MARKETS",
+    "name": "CEN Biotech Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:34:50"
+  },
+  "AKOBF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Akobo Minerals AB (publ)",
+    "country": "SE",
+    "added_date": "2026-02-11 00:34:51"
+  },
+  "RNVA": {
+    "exchange": "OTC MARKETS",
+    "name": "Rennova Health Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:34:54"
+  },
+  "YDGHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Yadong Group Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-02-11 00:34:55"
+  },
+  "IGPG": {
+    "exchange": "OTC MARKETS",
+    "name": "Ignis Petroleum Group Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:34:57"
+  },
+  "SDXEF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "SDX Energy Ltd",
+    "country": "GB",
+    "added_date": "2026-02-11 00:34:59"
+  },
+  "ZHIXF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Zhixin Group Holding Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:35:21"
+  },
+  "IZMIF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Izumi Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-11 00:35:25"
+  },
+  "HYHHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Hygeia Healthcare Holdings Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:35:25"
+  },
+  "ZTNO": {
+    "exchange": "OTC MARKETS",
+    "name": "Zoom Technologies Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:35:26"
+  },
+  "SEOTF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Seino Holdings Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-11 00:35:28"
+  },
+  "AEPT": {
+    "exchange": "OTC MARKETS",
+    "name": "American Environmental Partners Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:35:35"
+  },
+  "FESTF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Hybrid Kinetic Group Ltd",
+    "country": "HK",
+    "added_date": "2026-02-11 00:35:36"
+  },
+  "IRICF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Isras Investment Company Ltd",
+    "country": "IL",
+    "added_date": "2026-02-11 00:35:37"
+  },
+  "TIGE": {
+    "exchange": "OTC MARKETS",
+    "name": "Tigrent Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:35:45"
+  },
+  "EMMD": {
+    "exchange": "OTC MARKETS",
+    "name": "eMedia Group Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:35:53"
+  },
+  "BRSE": {
+    "exchange": "OTC MARKETS",
+    "name": "Broadside Enterprises Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:35:54"
+  },
+  "AUVGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Australian Vintage Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:35:57"
+  },
+  "SMVS": {
+    "exchange": "OTC MARKETS",
+    "name": "Smave Solutions Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:35:57"
+  },
+  "BZIC": {
+    "exchange": "OTC MARKETS",
+    "name": "Beamz Interactive Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:00"
+  },
+  "PGOG": {
+    "exchange": "OTC MARKETS",
+    "name": "PERF Go-Green Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:34"
+  },
+  "HYUHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Hankyu Hanshin Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-02-11 00:36:34"
+  },
+  "ASKLF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Askul Corp",
+    "country": "JP",
+    "added_date": "2026-02-11 00:36:38"
+  },
+  "GTCDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Getty Copper Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:36:43"
+  },
+  "FFTTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Fatfish Group Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:36:46"
+  },
+  "CYGT": {
+    "exchange": "OTC MARKETS",
+    "name": "Cygnus Etransactions Group Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:49"
+  },
+  "VOQP": {
+    "exchange": "OTC MARKETS",
+    "name": "Vioquest Pharmaceuticals Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:53"
+  },
+  "DSUS": {
+    "exchange": "OTC MARKETS",
+    "name": "Drone Services USA Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:55"
+  },
+  "ARNMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "ARN Media Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:36:55"
+  },
+  "PZZPF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Paz Retail and Energy Ltd",
+    "country": "IL",
+    "added_date": "2026-02-11 00:36:56"
+  },
+  "HHSSF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Huishang Bank Corp Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:36:58"
+  },
+  "APYI": {
+    "exchange": "OTC MARKETS",
+    "name": "Arypsa Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:36:59"
+  },
+  "EGOC": {
+    "exchange": "OTC MARKETS",
+    "name": "Energy 1 Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:26"
+  },
+  "SMZZF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "SinoMedia Holding Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:37:26"
+  },
+  "OMHI": {
+    "exchange": "OTC MARKETS",
+    "name": "Om Holdings International Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:27"
+  },
+  "MNZO": {
+    "exchange": "OTC MARKETS",
+    "name": "Exxsun Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 00:37:39"
+  },
+  "UNPRF": {
+    "exchange": "XETRA",
+    "name": "Uniper SE",
+    "country": "DE",
+    "added_date": "2026-02-11 00:37:40"
+  },
+  "IMMB": {
+    "exchange": "OTC MARKETS",
+    "name": "Immunotech Laboratories Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:40"
+  },
+  "JUVAF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Juva Life Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:37:41"
+  },
+  "IPIC": {
+    "exchange": "OTC MARKETS",
+    "name": "Ipic Entertainment Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:43"
+  },
+  "PEBBF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Pebble Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-11 00:37:44"
+  },
+  "TNXXF": {
+    "exchange": "XETRA",
+    "name": "Talanx AG",
+    "country": "DE",
+    "added_date": "2026-02-11 00:37:49"
+  },
+  "RMNXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Rainy Mountain Royalty Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 00:37:53"
+  },
+  "MLKNA": {
+    "exchange": "OTC MARKETS",
+    "name": "MedLink International Inc",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:56"
+  },
+  "FDTC": {
+    "exchange": "OTC MARKETS",
+    "name": "FNDS3000 Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:37:56"
+  },
+  "CMTHF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Cementir Holding NV",
+    "country": "IT",
+    "added_date": "2026-02-11 00:37:58"
+  },
+  "TEPCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Tohoku Electric Power Co Inc",
+    "country": "JP",
+    "added_date": "2026-02-11 00:38:21"
+  },
+  "VVTMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "VVT Med Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:38:24"
+  },
+  "GRDLF": {
+    "exchange": "JOHANNESBURG STOCK EXCHANGE",
+    "name": "Grindrod Ltd",
+    "country": "ZA",
+    "added_date": "2026-02-11 00:38:26"
+  },
+  "IBKKF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "iMining Technologies Inc",
+    "country": "CA",
+    "added_date": "2026-02-11 00:38:28"
+  },
+  "CRYIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Crystal International Group Ltd",
+    "country": "HK",
+    "added_date": "2026-02-11 00:38:34"
+  },
+  "EOSC": {
+    "exchange": "OTC MARKETS",
+    "name": "Electro Optical Systems Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:38:36"
+  },
+  "FMYR": {
+    "exchange": "OTC MARKETS",
+    "name": "BOMCBD Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:38:40"
+  },
+  "CCGFF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Credit Corp Group Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 00:38:43"
+  },
+  "CGKEF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Chugoku Electric Power Co Inc",
+    "country": "JP",
+    "added_date": "2026-02-11 00:38:44"
+  },
+  "SNVP": {
+    "exchange": "OTC MARKETS",
+    "name": "Savoy Energy Corp",
+    "country": "US",
+    "added_date": "2026-02-11 00:38:45"
+  },
+  "MOBO": {
+    "exchange": "OTC MARKETS",
+    "name": "Mobile Lads Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 00:38:49"
+  },
+  "OPTL": {
+    "exchange": "OTC MARKETS",
+    "name": "Optimum Interactive (USA) Ltd",
+    "country": "US",
+    "added_date": "2026-02-11 00:38:50"
+  },
+  "DGNG": {
+    "exchange": "OTC MARKETS",
+    "name": "Diguang International Development Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-11 00:38:51"
   }
 }
