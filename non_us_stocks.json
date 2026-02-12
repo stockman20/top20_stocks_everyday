@@ -47914,5 +47914,125 @@
     "name": "Diguang International Development Co Ltd",
     "country": "CN",
     "added_date": "2026-02-11 00:38:51"
+  },
+  "ODJBF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Odfjell SE",
+    "country": "NO",
+    "added_date": "2026-02-11 22:00:58"
+  },
+  "KACPF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "KOA Corp",
+    "country": "JP",
+    "added_date": "2026-02-11 22:01:00"
+  },
+  "BOEUF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Bonesupport Holding AB",
+    "country": "SE",
+    "added_date": "2026-02-11 22:37:01"
+  },
+  "NMGX": {
+    "exchange": "OTC MARKETS",
+    "name": "Nano Magic Inc",
+    "country": "US",
+    "added_date": "2026-02-11 22:40:22"
+  },
+  "DVTC": {
+    "exchange": "OTC MARKETS",
+    "name": "Development Technologies Corp",
+    "country": "US",
+    "added_date": "2026-02-11 22:50:58"
+  },
+  "HEGLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lion Rock Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 22:59:34"
+  },
+  "VRRCD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "VR Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-11 23:00:15"
+  },
+  "HNATD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Primary Hydrogen Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 23:00:35"
+  },
+  "CSBTF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Kuros Biosciences AG",
+    "country": "CH",
+    "added_date": "2026-02-11 23:03:09"
+  },
+  "CCMCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Core Critical Metals Corp",
+    "country": "CA",
+    "added_date": "2026-02-11 23:05:33"
+  },
+  "TDBOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Toyota Boshoku Corp",
+    "country": "JP",
+    "added_date": "2026-02-11 23:24:35"
+  },
+  "LRVTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Larvotto Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-02-11 23:31:03"
+  },
+  "CDIX": {
+    "exchange": "OTC MARKETS",
+    "name": "Cardiff Lexington Corp",
+    "country": "US",
+    "added_date": "2026-02-11 23:35:21"
+  },
+  "SYYYF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Synthomer PLC",
+    "country": "GB",
+    "added_date": "2026-02-11 23:35:34"
+  },
+  "SSABF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "SSAB AB",
+    "country": "SE",
+    "added_date": "2026-02-11 23:37:26"
+  },
+  "SNTMF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "SenseTime Group Inc",
+    "country": "CN",
+    "added_date": "2026-02-11 23:41:35"
+  },
+  "HTROF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Hexatronic Group AB",
+    "country": "SE",
+    "added_date": "2026-02-11 23:50:06"
+  },
+  "RENXF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Renalytix PLC",
+    "country": "GB",
+    "added_date": "2026-02-11 23:53:28"
+  },
+  "CCEYF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Cancambria Energy Corp",
+    "country": "CA",
+    "added_date": "2026-02-12 00:08:35"
+  },
+  "SZGPF": {
+    "exchange": "XETRA",
+    "name": "Salzgitter AG",
+    "country": "DE",
+    "added_date": "2026-02-12 00:13:20"
   }
 }
