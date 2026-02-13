@@ -48034,5 +48034,131 @@
     "name": "Salzgitter AG",
     "country": "DE",
     "added_date": "2026-02-12 00:13:20"
+  },
+  "RDTCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Rapid Dose Therapeutics Corp",
+    "country": "CA",
+    "added_date": "2026-02-12 21:55:31"
+  },
+  "GXUSF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Guardian Exploration Inc",
+    "country": "CA",
+    "added_date": "2026-02-12 21:55:31"
+  },
+  "KTERF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Keio Corp",
+    "country": "JP",
+    "added_date": "2026-02-12 21:55:33"
+  },
+  "ARJNF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Trinity One Metals Ltd",
+    "country": "CA",
+    "added_date": "2026-02-12 21:55:35"
+  },
+  "BFLBF": {
+    "exchange": "XETRA",
+    "name": "Bilfinger SE",
+    "country": "DE",
+    "added_date": "2026-02-12 21:55:36"
+  },
+  "AOECF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Aferian PLC",
+    "country": "GB",
+    "added_date": "2026-02-12 21:56:57"
+  },
+  "PREC": {
+    "exchange": "OTC MARKETS",
+    "name": "Prestige Cars International Inc",
+    "country": "US",
+    "added_date": "2026-02-12 21:56:59"
+  },
+  "SRSLF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Sorrento Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-12 22:18:11"
+  },
+  "MLMN": {
+    "exchange": "OTC MARKETS",
+    "name": "Millennium Prime Inc",
+    "country": "US",
+    "added_date": "2026-02-12 22:34:22"
+  },
+  "STGYF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Stingray Group Inc",
+    "country": "CA",
+    "added_date": "2026-02-12 23:18:01"
+  },
+  "ACCMF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "AAC Clyde Space AB",
+    "country": "SE",
+    "added_date": "2026-02-12 23:20:17"
+  },
+  "STJO": {
+    "exchange": "OTC MARKETS",
+    "name": "St Joseph Inc",
+    "country": "US",
+    "added_date": "2026-02-12 23:24:14"
+  },
+  "RSDEF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Ramsdens Holdings PLC",
+    "country": "GB",
+    "added_date": "2026-02-12 23:30:23"
+  },
+  "GAERF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Aeroportuario del Centro Norte SAB de CV",
+    "country": "MX",
+    "added_date": "2026-02-12 23:33:01"
+  },
+  "VTEXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Develop Global Ltd",
+    "country": "AU",
+    "added_date": "2026-02-12 23:39:02"
+  },
+  "ASAAF": {
+    "exchange": "WIENER BOERSE AG DRITTER MARKT (THIRD MARKET)",
+    "name": "AT & S Austria Technologie & Systemtechnik AG",
+    "country": "AT",
+    "added_date": "2026-02-12 23:39:11"
+  },
+  "BVSFF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Bravura Solutions Ltd",
+    "country": "AU",
+    "added_date": "2026-02-12 23:40:16"
+  },
+  "SMKG": {
+    "exchange": "OTC MARKETS",
+    "name": "Smart Card Marketing Systems Inc",
+    "country": "US",
+    "added_date": "2026-02-12 23:59:16"
+  },
+  "RGFC": {
+    "exchange": "OTC MARKETS",
+    "name": "Real Good Food Company Inc",
+    "country": "US",
+    "added_date": "2026-02-13 00:07:59"
+  },
+  "CNSUF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Canasil Resources Inc",
+    "country": "CA",
+    "added_date": "2026-02-13 00:12:03"
+  },
+  "TMXN": {
+    "exchange": "OTC MARKETS",
+    "name": "Trimax Corp",
+    "country": "US",
+    "added_date": "2026-02-13 00:18:48"
   }
 }
