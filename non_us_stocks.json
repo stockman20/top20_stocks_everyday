@@ -48160,5 +48160,89 @@
     "name": "Trimax Corp",
     "country": "US",
     "added_date": "2026-02-13 00:18:48"
+  },
+  "ACDXF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "American Copper Development Corp",
+    "country": "CA",
+    "added_date": "2026-02-13 21:55:52"
+  },
+  "PFGTF": {
+    "exchange": "NEW ZEALAND EXCHANGE LTD",
+    "name": "Pacific Edge Ltd",
+    "country": "NZ",
+    "added_date": "2026-02-13 21:55:55"
+  },
+  "FRFLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "FRNT Financial Inc",
+    "country": "CA",
+    "added_date": "2026-02-13 22:26:22"
+  },
+  "ROVMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Stockworks Gold Inc",
+    "country": "CA",
+    "added_date": "2026-02-13 22:46:23"
+  },
+  "KOYJF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "Kemira Oyj",
+    "country": "FI",
+    "added_date": "2026-02-13 23:22:06"
+  },
+  "MRPMF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Marco Polo Marine Ltd",
+    "country": "SG",
+    "added_date": "2026-02-13 23:34:15"
+  },
+  "OPUS": {
+    "exchange": "OTC MARKETS",
+    "name": "Opus Magnum Ameris Inc",
+    "country": "CN",
+    "added_date": "2026-02-13 23:38:23"
+  },
+  "GGRCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Golden Goose Resources Corp",
+    "country": "CA",
+    "added_date": "2026-02-13 23:39:20"
+  },
+  "CNBA": {
+    "exchange": "OTC MARKETS",
+    "name": "Chester Bancorp Inc",
+    "country": "US",
+    "added_date": "2026-02-13 23:41:04"
+  },
+  "DSITF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Currys PLC",
+    "country": "GB",
+    "added_date": "2026-02-13 23:51:07"
+  },
+  "GNNSF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Genscript Biotech Corp",
+    "country": "CN",
+    "added_date": "2026-02-13 23:57:18"
+  },
+  "AVCTF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Avacta Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-14 00:00:08"
+  },
+  "LDSVF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Chocoladefabriken Lindt & Spruengli AG",
+    "country": "CH",
+    "added_date": "2026-02-14 00:12:29"
+  },
+  "PNYG": {
+    "exchange": "OTC MARKETS",
+    "name": "Pony Group Inc",
+    "country": "CN",
+    "added_date": "2026-02-14 00:19:13"
   }
 }
