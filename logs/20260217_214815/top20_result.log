@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                     公司名称                     市值(亿)                板块                       昨天收盘              今天收盘       涨跌幅(%)
+ OLB                                OLB Group Inc  0.06               Financial Services   2026-02-13 0.42   2026-02-17 1.48 256.54
+ SGN                       Signing Day Sports Inc  0.06                       Technology   2026-02-13 0.25   2026-02-17 0.42  67.96
+PLYX                     Polaryx Therapeutics Inc  1.14                  Pharmaceuticals   2026-02-13 2.41   2026-02-17 3.96  64.32
+BDMD        Baird Medical Investment Holdings Ltd  0.28                      Health Care   2026-02-13 0.77   2026-02-17 1.26  63.64
+ATOM                                  Atomera Inc  1.24                   Semiconductors   2026-02-13 3.92   2026-02-17 5.73  46.17
+CBUS                                    Cibus Inc  1.56                    Biotechnology    2026-02-13 2.3   2026-02-17 3.26  41.74
+ GVH                       Globavend Holdings Ltd  0.02       Logistics & Transportation   2026-02-13 0.92    2026-02-17 1.3  41.30
+FJET                       Starfighters Space Inc  3.14              Aerospace & Defense   2026-02-13 5.12   2026-02-17 7.14  39.45
+GXAI                                Gaxos.ai Inc.  0.09                            Media   2026-02-13 1.05   2026-02-17 1.42  35.24
+ GMM                           Global Mofy AI Ltd  0.55                            Media   2026-02-13 1.11   2026-02-17 1.49  34.23
+MASI                                  Masimo Corp 93.83                      Health Care 2026-02-13 130.15 2026-02-17 174.69  34.22
+ IBG                Innovation Beverage Group Ltd  0.03                        Beverages   2026-02-13 4.02   2026-02-17 5.34  32.84
+SOPA                             Society Pass Inc  0.05                            Media   2026-02-13 0.72   2026-02-17 0.95  31.33
+PHOE                    Phoenix Asia Holdings Ltd  2.30                     Construction  2026-02-13 10.64  2026-02-17 13.67  28.48
+ ZIM         ZIM Integrated Shipping Services Ltd 25.56                           Marine   2026-02-13 22.2  2026-02-17 27.85  25.45
+AUUD                                   Auddia Inc  0.02                       Technology   2026-02-13 0.67   2026-02-17 0.83  24.04
+EEIQ  EpicQuest Education Group International Ltd  0.04    Diversified Consumer Services   2026-02-13 2.88   2026-02-17 3.57  23.85
+ NCI Neo-Concept International Group Holdings Ltd  0.10 Textiles, Apparel & Luxury Goods   2026-02-13 2.39   2026-02-17 2.95  23.43
+SEGG      Sports Entertainment Gaming Global Corp  0.15    Hotels, Restaurants & Leisure    2026-02-13 1.2   2026-02-17 1.48  23.33
+NAUT                   Nautilus Biotechnology Inc  2.77   Life Sciences Tools & Services   2026-02-13 2.19   2026-02-17 2.69  22.83
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+MASI                          Masimo Corp  93.83                      Health Care 2026-02-13 130.15 2026-02-17 174.69 34.22 
+ ZIM ZIM Integrated Shipping Services Ltd  25.56                           Marine   2026-02-13 22.2  2026-02-17 27.85 25.45 
+ETOR                      eToro Group Ltd  22.99               Financial Services  2026-02-13 27.46  2026-02-17 33.07 20.43 
+IRON                    Disc Medicine Inc  21.12                    Biotechnology  2026-02-13 55.95  2026-02-17 65.57 17.19 
+ KNF                     Knife River Corp  45.77                     Construction  2026-02-13 80.77  2026-02-17 93.97 16.34 
+NCLH   Norwegian Cruise Line Holdings Ltd  97.83    Hotels, Restaurants & Leisure  2026-02-13 21.49   2026-02-17 24.1 12.15 
+  KD                 Kyndryl Holdings Inc  27.98                       Technology  2026-02-13 12.24  2026-02-17 13.59 11.03 
+ RXO                              RXO Inc  22.18                      Road & Rail  2026-02-13 13.51  2026-02-17 14.83  9.77 
+ SON                   Sonoco Products Co  55.94                        Packaging  2026-02-13 51.67  2026-02-17 56.72  9.77 
+GBTG     Global Business Travel Group Inc  26.39    Hotels, Restaurants & Leisure   2026-02-13 5.04   2026-02-17 5.49  8.93 
+PACS                       Pacs Group Inc  64.23                      Health Care  2026-02-13 37.81  2026-02-17 41.01  8.46 
+  UA                     Under Armour Inc  30.18 Textiles, Apparel & Luxury Goods   2026-02-13 6.97   2026-02-17 7.54  8.18 
+ONDS                            Ondas Inc  41.85                   Communications   2026-02-13 9.31  2026-02-17 10.05  7.95 
+ITRI                            Itron Inc  40.93             Electrical Equipment  2026-02-13 89.36  2026-02-17 96.43  7.91 
+AVAV                    AeroVironment Inc 121.75              Aerospace & Defense 2026-02-13 243.87 2026-02-17 262.99  7.84 
+ UAA                     Under Armour Inc  32.40 Textiles, Apparel & Luxury Goods   2026-02-13 7.19   2026-02-17 7.72  7.37 
+ ZGN                 Ermenegildo Zegna NV  26.68 Textiles, Apparel & Luxury Goods  2026-02-13 11.04  2026-02-17 11.84  7.25 
+ ELF                       elf Beauty Inc  51.54                Consumer products   2026-02-13 81.5  2026-02-17 87.28  7.09 
+FISV                           Fiserv Inc 319.27               Financial Services  2026-02-13 59.36  2026-02-17 63.45  6.89 
+ FLR                           Fluor Corp  73.31                     Construction  2026-02-13 45.48  2026-02-17 48.57  6.79 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ MASI                        Masimo Corp   93.83                   Health Care 2026-02-13 130.15 2026-02-17 174.69 34.22 
+ NCLH Norwegian Cruise Line Holdings Ltd   97.83 Hotels, Restaurants & Leisure  2026-02-13 21.49   2026-02-17 24.1 12.15 
+  SON                 Sonoco Products Co   55.94                     Packaging  2026-02-13 51.67  2026-02-17 56.72  9.77 
+ PACS                     Pacs Group Inc   64.23                   Health Care  2026-02-13 37.81  2026-02-17 41.01  8.46 
+ AVAV                  AeroVironment Inc  121.75           Aerospace & Defense 2026-02-13 243.87 2026-02-17 262.99  7.84 
+  ELF                     elf Beauty Inc   51.54             Consumer products   2026-02-13 81.5  2026-02-17 87.28  7.09 
+ FISV                         Fiserv Inc  319.27            Financial Services  2026-02-13 59.36  2026-02-17 63.45  6.89 
+  FLR                         Fluor Corp   73.31                  Construction  2026-02-13 45.48  2026-02-17 48.57  6.79 
+ LITE              Lumentum Holdings Inc  401.80                Communications 2026-02-13 562.74 2026-02-17 600.42  6.70 
+  LUV              Southwest Airlines Co  251.11                      Airlines  2026-02-13 51.11  2026-02-17 54.26  6.16 
+ KLAR                   Klarna Group PLC   68.32            Financial Services  2026-02-13 18.11  2026-02-17 19.22  6.13 
+XPNGF                          Xpeng Inc  168.82                   Automobiles    2026-02-13 8.8   2026-02-17 9.33  6.02 
+ ALNY        Alnylam Pharmaceuticals Inc  416.97                 Biotechnology  2026-02-13 314.4 2026-02-17 332.61  5.79 
+  NXT                      Nextpower Inc  172.89          Electrical Equipment 2026-02-13 116.44 2026-02-17 122.59  5.28 
+ VSEC                           VSE Corp   60.25           Aerospace & Defense 2026-02-13 202.66 2026-02-17 213.34  5.27 
+  ORA             Ormat Technologies Inc   71.84                     Utilities 2026-02-13 118.19 2026-02-17 124.22  5.10 
+ BOOT             Boot Barn Holdings Inc   57.19                        Retail 2026-02-13 187.99 2026-02-17 197.53  5.07 
+  CEG          Constellation Energy Corp 1097.97                     Utilities 2026-02-13 288.43 2026-02-17 303.01  5.05 
+ CCEP Coca-Cola Europacific Partners PLC  447.00                     Beverages  2026-02-13 99.51 2026-02-17 104.47  4.98 
+ PSKY            Paramount Skydance Corp  113.90                         Media  2026-02-13 10.32  2026-02-17 10.83  4.94 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ AVAV                  AeroVironment Inc  121.75           Aerospace & Defense 2026-02-13 243.87 2026-02-17 262.99  7.84 
+ FISV                         Fiserv Inc  319.27            Financial Services  2026-02-13 59.36  2026-02-17 63.45  6.89 
+ LITE              Lumentum Holdings Inc  401.80                Communications 2026-02-13 562.74 2026-02-17 600.42  6.70 
+  LUV              Southwest Airlines Co  251.11                      Airlines  2026-02-13 51.11  2026-02-17 54.26  6.16 
+XPNGF                          Xpeng Inc  168.82                   Automobiles    2026-02-13 8.8   2026-02-17 9.33  6.02 
+ ALNY        Alnylam Pharmaceuticals Inc  416.97                 Biotechnology  2026-02-13 314.4 2026-02-17 332.61  5.79 
+  NXT                      Nextpower Inc  172.89          Electrical Equipment 2026-02-13 116.44 2026-02-17 122.59  5.28 
+  CEG          Constellation Energy Corp 1097.97                     Utilities 2026-02-13 288.43 2026-02-17 303.01  5.05 
+ CCEP Coca-Cola Europacific Partners PLC  447.00                     Beverages  2026-02-13 99.51 2026-02-17 104.47  4.98 
+ PSKY            Paramount Skydance Corp  113.90                         Media  2026-02-13 10.32  2026-02-17 10.83  4.94 
+ MDGL       Madrigal Pharmaceuticals Inc  105.54                 Biotechnology 2026-02-13 464.71 2026-02-17 487.32  4.87 
+ SMMT            Summit Therapeutics Inc  111.37                 Biotechnology  2026-02-13 14.96  2026-02-17 15.68  4.81 
+  BAX           Baxter International Inc  101.82                   Health Care  2026-02-13 19.79  2026-02-17 20.74  4.80 
+ RVMD           Revolution Medicines Inc  186.19                 Biotechnology  2026-02-13 96.31 2026-02-17 100.61  4.46 
+  CMG         Chipotle Mexican Grill Inc  472.78 Hotels, Restaurants & Leisure   2026-02-13 36.3  2026-02-17 37.88  4.35 
+  UAL       United Airlines Holdings Inc  368.78                      Airlines 2026-02-13 109.29 2026-02-17 114.02  4.33 
+ MRNA                        Moderna Inc  165.01                 Biotechnology  2026-02-13 42.23  2026-02-17 43.93  4.03 
+ GNRC               Generac Holdings Inc  131.72          Electrical Equipment 2026-02-13 224.45 2026-02-17 233.46  4.01 
+   BE                  Bloom Energy Corp  392.04          Electrical Equipment 2026-02-13 139.74 2026-02-17 145.32  3.99 
+  VRT                 Vertiv Holdings Co  772.32          Electrical Equipment 2026-02-13 234.53 2026-02-17 243.53  3.84 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                 板块                      昨天收盘              今天收盘       涨跌幅(%)
+FISV                          Fiserv Inc   319.27             Financial Services  2026-02-13 59.36  2026-02-17 63.45  6.89 
+LITE               Lumentum Holdings Inc   401.80                 Communications 2026-02-13 562.74 2026-02-17 600.42  6.70 
+ LUV               Southwest Airlines Co   251.11                       Airlines  2026-02-13 51.11  2026-02-17 54.26  6.16 
+ALNY         Alnylam Pharmaceuticals Inc   416.97                  Biotechnology  2026-02-13 314.4 2026-02-17 332.61  5.79 
+ CEG           Constellation Energy Corp  1097.97                      Utilities 2026-02-13 288.43 2026-02-17 303.01  5.05 
+CCEP  Coca-Cola Europacific Partners PLC   447.00                      Beverages  2026-02-13 99.51 2026-02-17 104.47  4.98 
+ CMG          Chipotle Mexican Grill Inc   472.78  Hotels, Restaurants & Leisure   2026-02-13 36.3  2026-02-17 37.88  4.35 
+ UAL        United Airlines Holdings Inc   368.78                       Airlines 2026-02-13 109.29 2026-02-17 114.02  4.33 
+  BE                   Bloom Energy Corp   392.04           Electrical Equipment 2026-02-13 139.74 2026-02-17 145.32  3.99 
+ VRT                  Vertiv Holdings Co   772.32           Electrical Equipment 2026-02-13 234.53 2026-02-17 243.53  3.84 
+  GE                 General Electric Co  3308.06            Aerospace & Defense 2026-02-13 315.41 2026-02-17 327.08  3.70 
+RKLB                     Rocket Lab Corp   360.24            Aerospace & Defense  2026-02-13 67.44  2026-02-17 69.89  3.63 
+MDLN                         Medline Inc   585.26                    Health Care  2026-02-13 44.55  2026-02-17 46.16  3.61 
+  EL          Estee Lauder Companies Inc   391.53              Consumer products 2026-02-13 108.24 2026-02-17 112.14  3.60 
+ XPO                             XPO Inc   242.33                    Road & Rail 2026-02-13 195.33 2026-02-17 202.14  3.49 
+ ROL                         Rollins Inc   279.32 Commercial Services & Supplies  2026-02-13 58.06  2026-02-17 60.08  3.48 
+ULTA                     Ulta Beauty Inc   303.17                         Retail  2026-02-13 683.4 2026-02-17 706.82  3.43 
+ DRI              Darden Restaurants Inc   251.76  Hotels, Restaurants & Leisure  2026-02-13 211.5 2026-02-17 218.66  3.39 
+AAPL                           Apple Inc 37551.42                     Technology 2026-02-13 255.78 2026-02-17 263.88  3.17 
+ QSR Restaurant Brands International Inc   313.04  Hotels, Restaurants & Leisure  2026-02-13 66.14  2026-02-17 68.13  3.01 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                  板块                       昨天收盘              今天收盘        涨跌幅(%)
+  CEG           Constellation Energy Corp  1097.97                        Utilities 2026-02-13 288.43  2026-02-17 303.01  5.05 
+   GE                 General Electric Co  3308.06              Aerospace & Defense 2026-02-13 315.41  2026-02-17 327.08  3.70 
+ AAPL                           Apple Inc 37551.42                       Technology 2026-02-13 255.78  2026-02-17 263.88  3.17 
+LRLCF                          L'Oreal SA  2050.11                Consumer products  2026-02-13 447.6   2026-02-17 460.0  2.77 
+    C                       Citigroup Inc  1983.58                          Banking 2026-02-13 110.86  2026-02-17 113.78  2.63 
+LVMHF LVMH Moet Hennessy Louis Vuitton SE  2576.42 Textiles, Apparel & Luxury Goods  2026-02-13 610.0   2026-02-17 626.0  2.62 
+ AVGO                        Broadcom Inc 15766.63                   Semiconductors 2026-02-13 325.17  2026-02-17 332.54  2.27 
+   CB                           Chubb Ltd  1278.84                        Insurance 2026-02-13 324.95  2026-02-17 331.89  2.14 
+  GEV                      GE Vernova Inc  2161.98             Electrical Equipment 2026-02-13 802.13  2026-02-17 819.15  2.12 
+  BSX              Boston Scientific Corp  1108.26                      Health Care  2026-02-13 74.73   2026-02-17 76.29  2.09 
+  AXP                 American Express Co  2317.32               Financial Services  2026-02-13 337.5  2026-02-17 344.53  2.08 
+ASMLF                     ASML Holding NV  4564.72                   Semiconductors 2026-02-13 1408.7 2026-02-17 1437.47  2.04 
+    V                            Visa Inc  5986.39               Financial Services 2026-02-13 314.08   2026-02-17 319.5  1.73 
+  RTX                            RTX Corp  2685.38              Aerospace & Defense 2026-02-13 200.06   2026-02-17 203.5  1.72 
+ SBUX                      Starbucks Corp  1086.78    Hotels, Restaurants & Leisure  2026-02-13 93.79   2026-02-17 95.39  1.71 
+  PGR                    Progressive Corp  1219.12                        Insurance 2026-02-13 204.53   2026-02-17 207.9  1.65 
+  TJX                   TJX Companies Inc  1715.23                           Retail 2026-02-13 154.46  2026-02-17 156.97  1.63 
+ ISRG              Intuitive Surgical Inc  1725.36                      Health Care 2026-02-13 485.84  2026-02-17 493.35  1.55 
+  JPM                 JPMorgan Chase & Co  8236.20                          Banking 2026-02-13 302.55  2026-02-17 307.13  1.51 
+SAFRF                           Safran SA  1391.57              Aerospace & Defense 2026-02-13 397.39  2026-02-17 402.89  1.38 
