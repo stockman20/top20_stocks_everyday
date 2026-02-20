@@ -49096,5 +49096,89 @@
     "name": "Trojan Gold Inc",
     "country": "CA",
     "added_date": "2026-02-19 00:19:57"
+  },
+  "AIOSF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Atresmedia Corporacion de Medios de Comunicacion SA",
+    "country": "ES",
+    "added_date": "2026-02-19 21:54:15"
+  },
+  "RGTLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Argent Biopharma Ltd",
+    "country": "AU",
+    "added_date": "2026-02-19 21:54:28"
+  },
+  "RKUSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Rakus Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-19 22:26:59"
+  },
+  "NTRR": {
+    "exchange": "OTC MARKETS",
+    "name": "Neutra Corp",
+    "country": "US",
+    "added_date": "2026-02-19 22:37:45"
+  },
+  "AUGCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Au Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-19 22:40:04"
+  },
+  "PLSQF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Plus500 Ltd",
+    "country": "IL",
+    "added_date": "2026-02-19 23:01:06"
+  },
+  "BXRDF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Australian Silica Quartz Group Ltd",
+    "country": "AU",
+    "added_date": "2026-02-19 23:21:39"
+  },
+  "SNNRF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Sunrise Communications AG",
+    "country": "CH",
+    "added_date": "2026-02-19 23:21:56"
+  },
+  "FTURF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Future Fuels Inc",
+    "country": "CA",
+    "added_date": "2026-02-19 23:47:58"
+  },
+  "SIGGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Sigma Healthcare Ltd",
+    "country": "AU",
+    "added_date": "2026-02-19 23:47:59"
+  },
+  "PNPL": {
+    "exchange": "OTC MARKETS",
+    "name": "Pineapple Inc",
+    "country": "US",
+    "added_date": "2026-02-19 23:49:56"
+  },
+  "PAVLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Paragon Advanced Labs Inc",
+    "country": "CA",
+    "added_date": "2026-02-19 23:51:42"
+  },
+  "TRRE": {
+    "exchange": "OTC MARKETS",
+    "name": "Terra Energy Resources Ltd",
+    "country": "US",
+    "added_date": "2026-02-20 00:02:36"
+  },
+  "GGCPF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Generic Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-20 00:20:40"
   }
 }
