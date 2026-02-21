@@ -49180,5 +49180,71 @@
     "name": "Generic Gold Corp",
     "country": "CA",
     "added_date": "2026-02-20 00:20:40"
+  },
+  "SNCF": {
+    "exchange": "OTC MARKETS",
+    "name": "Sanarco Funds Inc",
+    "country": "US",
+    "added_date": "2026-02-20 21:50:11"
+  },
+  "TAPP": {
+    "exchange": "OTC MARKETS",
+    "name": "Tap Resources Inc",
+    "country": "US",
+    "added_date": "2026-02-20 21:50:13"
+  },
+  "CNGI": {
+    "exchange": "OTC MARKETS",
+    "name": "Concordis Group Inc",
+    "country": "US",
+    "added_date": "2026-02-20 22:32:02"
+  },
+  "LIOPF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Lion Corp",
+    "country": "JP",
+    "added_date": "2026-02-20 22:33:09"
+  },
+  "SHIEF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Shield Therapeutics PLC",
+    "country": "GB",
+    "added_date": "2026-02-20 22:38:10"
+  },
+  "ORIB": {
+    "exchange": "OTC MARKETS",
+    "name": "Orion Bliss Corp",
+    "country": "US",
+    "added_date": "2026-02-20 23:30:03"
+  },
+  "MKIN": {
+    "exchange": "OTC MARKETS",
+    "name": "MCNB Banks Inc",
+    "country": "US",
+    "added_date": "2026-02-20 23:31:12"
+  },
+  "SGQMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "St George Mining Ltd",
+    "country": "AU",
+    "added_date": "2026-02-20 23:32:07"
+  },
+  "AUDGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Audinate Group Ltd",
+    "country": "AU",
+    "added_date": "2026-02-20 23:53:03"
+  },
+  "AUSGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Ausgold Ltd",
+    "country": "AU",
+    "added_date": "2026-02-21 00:04:00"
+  },
+  "DELHF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "De' Longhi SpA",
+    "country": "IT",
+    "added_date": "2026-02-21 00:04:14"
   }
 }
