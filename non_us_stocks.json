@@ -49246,5 +49246,395 @@
     "name": "De' Longhi SpA",
     "country": "IT",
     "added_date": "2026-02-21 00:04:14"
+  },
+  "BGNMF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Banca Generali SpA",
+    "country": "IT",
+    "added_date": "2026-02-23 22:08:40"
+  },
+  "ZPHYF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Zephyr Minerals Ltd",
+    "country": "CA",
+    "added_date": "2026-02-23 23:51:03"
+  },
+  "PTTN": {
+    "exchange": "OTC MARKETS",
+    "name": "Patten Energy Solutions Group Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:09:14"
+  },
+  "RSHMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Rush Rare Metals Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:20:24"
+  },
+  "RZOLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "RZOLV Technologies Inc",
+    "country": "CA",
+    "added_date": "2026-02-24 00:27:25"
+  },
+  "PUDA": {
+    "exchange": "OTC MARKETS",
+    "name": "Puda Coal Inc",
+    "country": "CN",
+    "added_date": "2026-02-24 00:30:59"
+  },
+  "MLHC": {
+    "exchange": "OTC MARKETS",
+    "name": "M Line Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:31:08"
+  },
+  "IBJHF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Ibstock PLC",
+    "country": "GB",
+    "added_date": "2026-02-24 00:31:11"
+  },
+  "SCIXF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Suny Cellular Communication Ltd",
+    "country": "IL",
+    "added_date": "2026-02-24 00:31:13"
+  },
+  "FJTNF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Fuji Media Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-02-24 00:31:24"
+  },
+  "BANI": {
+    "exchange": "OTC MARKETS",
+    "name": "Banneker Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:31:25"
+  },
+  "FITX": {
+    "exchange": "OTC MARKETS",
+    "name": "Creative Edge Nutrition Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:31:26"
+  },
+  "EACTF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Earth Alive Clean Technologies Inc",
+    "country": "CA",
+    "added_date": "2026-02-24 00:31:43"
+  },
+  "SKPJF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "SKY Perfect JSAT Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-02-24 00:31:55"
+  },
+  "USSHF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Uniserve Communications Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:31:59"
+  },
+  "PSAHF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Summarecon Agung Tbk PT",
+    "country": "ID",
+    "added_date": "2026-02-24 00:32:05"
+  },
+  "VIFI": {
+    "exchange": "OTC MARKETS",
+    "name": "VIE Financial Group Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:32:08"
+  },
+  "HLCO": {
+    "exchange": "OTC MARKETS",
+    "name": "HLGCO",
+    "country": "US",
+    "added_date": "2026-02-24 00:32:12"
+  },
+  "LVSYF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Lever Style Corp",
+    "country": "HK",
+    "added_date": "2026-02-24 00:32:13"
+  },
+  "VHLUF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Vitasora Health Ltd",
+    "country": "AU",
+    "added_date": "2026-02-24 00:32:15"
+  },
+  "SBBTF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Vend Marketplaces ASA",
+    "country": "NO",
+    "added_date": "2026-02-24 00:32:17"
+  },
+  "GMYYF": {
+    "exchange": "PRAGUE STOCK EXCHANGE",
+    "name": "Moneta Money Bank as",
+    "country": "CZ",
+    "added_date": "2026-02-24 00:32:19"
+  },
+  "UPDC": {
+    "exchange": "OTC MARKETS",
+    "name": "UPD Holding Corp",
+    "country": "US",
+    "added_date": "2026-02-24 00:32:21"
+  },
+  "SFLM": {
+    "exchange": "OTC MARKETS",
+    "name": "SFLMaven Corp",
+    "country": "US",
+    "added_date": "2026-02-24 00:32:22"
+  },
+  "LRNRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Legacy Iron Ore Ltd",
+    "country": "AU",
+    "added_date": "2026-02-24 00:32:26"
+  },
+  "GLCP": {
+    "exchange": "OTC MARKETS",
+    "name": "Global Leaders Corp",
+    "country": "HK",
+    "added_date": "2026-02-24 00:32:36"
+  },
+  "SSTY": {
+    "exchange": "OTC MARKETS",
+    "name": "Sure Trace Security Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:32:36"
+  },
+  "PBBIF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Probi AB",
+    "country": "SE",
+    "added_date": "2026-02-24 00:32:39"
+  },
+  "IDGAF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "5Th Planet Games A/S",
+    "country": "DK",
+    "added_date": "2026-02-24 00:32:41"
+  },
+  "HKBT": {
+    "exchange": "OTC MARKETS",
+    "name": "HK Battery Technology Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:32:42"
+  },
+  "OVATF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Ovation Science Inc",
+    "country": "CA",
+    "added_date": "2026-02-24 00:32:56"
+  },
+  "LIFCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Life Corp",
+    "country": "JP",
+    "added_date": "2026-02-24 00:33:04"
+  },
+  "STRB": {
+    "exchange": "OTC MARKETS",
+    "name": "Strasbaugh",
+    "country": "US",
+    "added_date": "2026-02-24 00:33:06"
+  },
+  "TYIBF": {
+    "exchange": "BORSA ISTANBUL",
+    "name": "Turkiye Is Bankasi AS",
+    "country": "TR",
+    "added_date": "2026-02-24 00:33:17"
+  },
+  "OCTX": {
+    "exchange": "OTC MARKETS",
+    "name": "Octagon 88 Resources Inc",
+    "country": "CH",
+    "added_date": "2026-02-24 00:33:17"
+  },
+  "GLSDF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Lamosa SAB de CV",
+    "country": "MX",
+    "added_date": "2026-02-24 00:33:38"
+  },
+  "POTRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "SOPerior Fertilizer Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:33:39"
+  },
+  "ROYUF": {
+    "exchange": "OMX NORDIC EXCHANGE COPENHAGEN A/S",
+    "name": "Royal Unibrew A/S",
+    "country": "DK",
+    "added_date": "2026-02-24 00:33:41"
+  },
+  "MCBRF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "McBride PLC",
+    "country": "GB",
+    "added_date": "2026-02-24 00:33:55"
+  },
+  "TRGM": {
+    "exchange": "OTC MARKETS",
+    "name": "Targeted Medical Pharma Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:33:58"
+  },
+  "VHLGF": {
+    "exchange": "SINGAPORE EXCHANGE",
+    "name": "Valuetronics Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-02-24 00:34:05"
+  },
+  "MIVOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Miivo Holdings Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:34:05"
+  },
+  "XPRCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Xplore Resources Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:34:09"
+  },
+  "BURCB": {
+    "exchange": "OTC MARKETS",
+    "name": "Burnham Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:34:12"
+  },
+  "CSCNF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "China SCE Group Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-02-24 00:34:13"
+  },
+  "EPYFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "ePlay Digital Inc.",
+    "country": "CA",
+    "added_date": "2026-02-24 00:34:19"
+  },
+  "VRCI": {
+    "exchange": "OTC MARKETS",
+    "name": "Verde Science Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:34:20"
+  },
+  "ESLGF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Logistics Development Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-24 00:34:21"
+  },
+  "STNT": {
+    "exchange": "OTC MARKETS",
+    "name": "Stevia Nutra Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:34:24"
+  },
+  "CLGPF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Clean Seed Capital Group Ltd",
+    "country": "CA",
+    "added_date": "2026-02-24 00:34:36"
+  },
+  "SGUJ": {
+    "exchange": "OTC MARKETS",
+    "name": "Saguaro Holdings Corp",
+    "country": "US",
+    "added_date": "2026-02-24 00:34:38"
+  },
+  "EZTD": {
+    "exchange": "OTC MARKETS",
+    "name": "EZTD Inc",
+    "country": "IL",
+    "added_date": "2026-02-24 00:34:54"
+  },
+  "ARHLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Archtis Ltd",
+    "country": "AU",
+    "added_date": "2026-02-24 00:35:01"
+  },
+  "CLIUF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "City of London Investment Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-24 00:35:03"
+  },
+  "MDIBF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Mediobanca Banca di Credito Finanziario SpA",
+    "country": "IT",
+    "added_date": "2026-02-24 00:35:04"
+  },
+  "CPEVF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Capital Environment Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-02-24 00:35:06"
+  },
+  "VMRI": {
+    "exchange": "OTC MARKETS",
+    "name": "Valmie Resources Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:35:07"
+  },
+  "PKCOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Park24 Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-24 00:35:08"
+  },
+  "MPZAF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Mips AB",
+    "country": "SE",
+    "added_date": "2026-02-24 00:35:14"
+  },
+  "SNLM": {
+    "exchange": "OTC MARKETS",
+    "name": "Homestead Gold and Silver Ltd",
+    "country": "US",
+    "added_date": "2026-02-24 00:35:15"
+  },
+  "TVOG": {
+    "exchange": "OTC MARKETS",
+    "name": "Turner Valley Oil and Gas Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:35:17"
+  },
+  "NNFSF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Nongfu Spring Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-24 00:35:19"
+  },
+  "OECPF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Oracle Energy Corp",
+    "country": "CA",
+    "added_date": "2026-02-24 00:35:23"
+  },
+  "SNDVF": {
+    "exchange": "OMX NORDIC EXCHANGE COPENHAGEN A/S",
+    "name": "Scandinavian Tobacco Group A/S",
+    "country": "DK",
+    "added_date": "2026-02-24 00:35:26"
+  },
+  "FORU": {
+    "exchange": "OTC MARKETS",
+    "name": "Foru Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-24 00:35:36"
   }
 }
