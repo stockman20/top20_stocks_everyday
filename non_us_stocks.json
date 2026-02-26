@@ -50350,5 +50350,71 @@
     "name": "Inductance Energy Corp",
     "country": "US",
     "added_date": "2026-02-25 00:25:46"
+  },
+  "RPHCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Rohto Pharmaceutical Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-25 21:56:57"
+  },
+  "ASEKF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Aisin Corp",
+    "country": "JP",
+    "added_date": "2026-02-25 22:18:31"
+  },
+  "CRLEF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Corcel Exploration Inc",
+    "country": "CA",
+    "added_date": "2026-02-25 22:29:14"
+  },
+  "CSUI": {
+    "exchange": "OTC MARKETS",
+    "name": "Cannabis Suisse Corp",
+    "country": "US",
+    "added_date": "2026-02-25 23:02:10"
+  },
+  "AERA": {
+    "exchange": "OTC MARKETS",
+    "name": "AI Era Corp",
+    "country": "US",
+    "added_date": "2026-02-25 23:12:41"
+  },
+  "THURF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Thunderstruck Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-02-25 23:20:44"
+  },
+  "QNC": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Quantum eMotion Corp",
+    "country": "CA",
+    "added_date": "2026-02-25 23:22:26"
+  },
+  "VTTGF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "VAT Group AG",
+    "country": "CH",
+    "added_date": "2026-02-25 23:37:05"
+  },
+  "MBQIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "MindBio Therapeutics Corp",
+    "country": "CA",
+    "added_date": "2026-02-25 23:42:20"
+  },
+  "LSRBF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "LaserBond Ltd",
+    "country": "AU",
+    "added_date": "2026-02-25 23:56:05"
+  },
+  "ASRHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Astroscale Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-02-26 00:10:18"
   }
 }
