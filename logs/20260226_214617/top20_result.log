@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)               板块                    昨天收盘              今天收盘       涨跌幅(%)
+ ALBT            Avalon Globocare Corp  0.02                   Real Estate  2026-02-25 0.51   2026-02-26 1.09 114.57
+ AEHL Antelope Enterprise Holdings Ltd  0.05                         Media  2026-02-25 0.52   2026-02-26 1.08 107.69
+  RXT         Rackspace Technology Inc  3.29                    Technology  2026-02-25 1.35   2026-02-26 2.28  68.89
+ BFLY            Butterfly Network Inc  7.83                   Health Care   2026-02-25 3.1   2026-02-26 4.67  50.65
+  MGN               Megan Holdings Ltd  0.20                  Construction  2026-02-25 1.23    2026-02-26 1.8  46.34
+ CURX      Curanex Pharmaceuticals Inc  0.13               Pharmaceuticals  2026-02-25 0.32   2026-02-26 0.46  45.54
+ SAFX                   XCF Global Inc  0.41                        Energy  2026-02-25 0.17   2026-02-26 0.25  43.83
+ HEPA       Hepion Pharmaceuticals Inc  0.00               Pharmaceuticals  2026-02-25 0.04   2026-02-26 0.06  35.71
+ SEZL                       Sezzle Inc 21.39            Financial Services 2026-02-25 62.62   2026-02-26 84.7  35.26
+ RRGB    Red Robin Gourmet Burgers Inc  0.65 Hotels, Restaurants & Leisure  2026-02-25 3.63   2026-02-26 4.83  33.06
+  GCT         GigaCloud Technology Inc 13.08                  Distributors 2026-02-25 35.31  2026-02-26 46.98  33.05
+ ANNA                      AleAnna Inc  1.72                     Utilities  2026-02-25 2.58   2026-02-26 3.35  29.84
+ IBTA                       Ibotta Inc  5.45                         Media  2026-02-25 20.5  2026-02-26 26.35  28.54
+ DNUT                 Krispy Kreme Inc  5.12 Hotels, Restaurants & Leisure  2026-02-25 2.99   2026-02-26 3.82  27.76
+ VIVK                      Vivakor Inc  0.05                        Energy  2026-02-25 0.01   2026-02-26 0.01  25.00
+NINEQ          Nine Energy Service Inc  0.25                        Energy  2026-02-25 0.01   2026-02-26 0.01  25.00
+ INTZ                    Intrusion Inc  0.18                    Technology   2026-02-25 0.9   2026-02-26 1.12  24.44
+ LMAT            LeMaitre Vascular Inc 25.79                   Health Care 2026-02-25 91.38 2026-02-26 113.69  24.41
+ BCAB                      Bioatla Inc  0.14                 Biotechnology  2026-02-25 0.19   2026-02-26 0.24  24.29
+  GTN                   Gray Media Inc  5.50                         Media  2026-02-25 4.75   2026-02-26 5.88  23.79
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称           市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ SEZL                Sezzle Inc  21.39               Financial Services  2026-02-25 62.62   2026-02-26 84.7 35.26 
+ LMAT     LeMaitre Vascular Inc  25.79                      Health Care  2026-02-25 91.38 2026-02-26 113.69 24.41 
+ IONQ                  IONQ Inc 119.00                       Technology  2026-02-25 33.59  2026-02-26 40.88 21.70 
+  CZR Caesars Entertainment Inc  42.27    Hotels, Restaurants & Leisure  2026-02-25 20.77  2026-02-26 24.74 19.11 
+ FTDR             Frontdoor Inc  40.60    Diversified Consumer Services   2026-02-25 56.3  2026-02-26 65.76 16.80 
+ PRMB         Primo Brands Corp  71.77                        Beverages  2026-02-25 19.63  2026-02-26 22.65 15.38 
+  BSY       Bentley Systems Inc  98.60                       Technology  2026-02-25 32.48  2026-02-26 37.04 14.04 
+ NAVN                 Navan Inc  23.12    Hotels, Restaurants & Leisure    2026-02-25 9.3  2026-02-26 10.59 13.87 
+ FIGS                  Figs Inc  20.51 Textiles, Apparel & Luxury Goods  2026-02-25 10.96  2026-02-26 12.47 13.78 
+   LB         LandBridge Co LLC  50.04                      Real Estate  2026-02-25 65.47  2026-02-26 74.44 13.70 
+ CHYM       Chime Financial Inc  79.07               Financial Services  2026-02-25 21.11  2026-02-26 23.97 13.55 
+  TXG          10X Genomics Inc  25.12   Life Sciences Tools & Services  2026-02-25 19.66  2026-02-26 22.13 12.56 
+ GRAL                 Grail Inc  22.65                    Biotechnology  2026-02-25 51.79   2026-02-26 58.1 12.18 
+ CRSP    CRISPR Therapeutics AG  52.98                    Biotechnology   2026-02-25 55.2  2026-02-26 61.74 11.85 
+ DAVE                  Dave Inc  23.28               Financial Services 2026-02-25 172.41 2026-02-26 192.33 11.55 
+ TTAN          ServiceTitan Inc  61.91                       Technology  2026-02-25 66.11  2026-02-26 73.56 11.27 
+ LUNR    Intuitive Machines Inc  32.29              Aerospace & Defense  2026-02-25 15.89  2026-02-26 17.67 11.20 
+ VERX                Vertex Inc  24.86                       Technology  2026-02-25 13.39  2026-02-26 14.84 10.83 
+FNCTF                 Orange SA 480.33                Telecommunication  2026-02-25 18.95   2026-02-26 21.0 10.82 
+ENGQF                  Engie SA 666.87                        Utilities  2026-02-25 31.59   2026-02-26 35.0 10.79 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码           公司名称           市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+ IONQ                IONQ Inc  119.00            Technology  2026-02-25 33.59  2026-02-26 40.88 21.70 
+ PRMB       Primo Brands Corp   71.77             Beverages  2026-02-25 19.63  2026-02-26 22.65 15.38 
+  BSY     Bentley Systems Inc   98.60            Technology  2026-02-25 32.48  2026-02-26 37.04 14.04 
+   LB       LandBridge Co LLC   50.04           Real Estate  2026-02-25 65.47  2026-02-26 74.44 13.70 
+ CHYM     Chime Financial Inc   79.07    Financial Services  2026-02-25 21.11  2026-02-26 23.97 13.55 
+ CRSP  CRISPR Therapeutics AG   52.98         Biotechnology   2026-02-25 55.2  2026-02-26 61.74 11.85 
+ TTAN        ServiceTitan Inc   61.91            Technology  2026-02-25 66.11  2026-02-26 73.56 11.27 
+FNCTF               Orange SA  480.33     Telecommunication  2026-02-25 18.95   2026-02-26 21.0 10.82 
+ENGQF                Engie SA  666.87             Utilities  2026-02-25 31.59   2026-02-26 35.0 10.79 
+ PSKY Paramount Skydance Corp  112.13                 Media  2026-02-25 10.16  2026-02-26 11.18 10.04 
+ HUBS             HubSpot Inc  129.58            Technology  2026-02-25 245.7 2026-02-26 268.52  9.29 
+ GDDY             GoDaddy Inc  116.49            Technology  2026-02-25 79.12   2026-02-26 86.2  8.95 
+  SJM          J M Smucker Co  113.74         Food Products  2026-02-25 106.6  2026-02-26 116.0  8.82 
+ TEAM          Atlassian Corp  193.72            Technology  2026-02-25 73.19  2026-02-26 79.43  8.53 
+ PCTY  Paylocity Holding Corp   55.91 Professional Services 2026-02-25 103.78 2026-02-26 112.62  8.52 
+  ACN           Accenture PLC 1178.31            Technology  2026-02-25 191.5 2026-02-26 207.38  8.29 
+ KNTK    Kinetik Holdings Inc   70.31                Energy  2026-02-25 43.51   2026-02-26 47.0  8.02 
+  TKO  TKO Group Holdings Inc  404.23                 Media 2026-02-25 207.21 2026-02-26 223.81  8.01 
+  CDE        Coeur Mining Inc  170.54       Metals & Mining  2026-02-25 24.59  2026-02-26 26.56  8.01 
+ PATH              UiPath Inc   53.15            Technology   2026-02-25 9.94  2026-02-26 10.71  7.75 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+ IONQ                            IONQ Inc  119.00                    Technology   2026-02-25 33.59   2026-02-26 40.88 21.70 
+FNCTF                           Orange SA  480.33             Telecommunication   2026-02-25 18.95    2026-02-26 21.0 10.82 
+ENGQF                            Engie SA  666.87                     Utilities   2026-02-25 31.59    2026-02-26 35.0 10.79 
+ PSKY             Paramount Skydance Corp  112.13                         Media   2026-02-25 10.16   2026-02-26 11.18 10.04 
+ HUBS                         HubSpot Inc  129.58                    Technology   2026-02-25 245.7  2026-02-26 268.52  9.29 
+ GDDY                         GoDaddy Inc  116.49                    Technology   2026-02-25 79.12    2026-02-26 86.2  8.95 
+  SJM                      J M Smucker Co  113.74                 Food Products   2026-02-25 106.6   2026-02-26 116.0  8.82 
+ TEAM                      Atlassian Corp  193.72                    Technology   2026-02-25 73.19   2026-02-26 79.43  8.53 
+  ACN                       Accenture PLC 1178.31                    Technology   2026-02-25 191.5  2026-02-26 207.38  8.29 
+  TKO              TKO Group Holdings Inc  404.23                         Media  2026-02-25 207.21  2026-02-26 223.81  8.01 
+  CDE                    Coeur Mining Inc  170.54               Metals & Mining   2026-02-25 24.59   2026-02-26 26.56  8.01 
+   ZS                         Zscaler Inc  271.39                    Technology   2026-02-25 155.7  2026-02-26 167.36  7.49 
+ SPOT               Spotify Technology SA  953.58                         Media  2026-02-25 463.28  2026-02-26 495.65  6.99 
+ EXPE                   Expedia Group Inc  249.65 Hotels, Restaurants & Leisure  2026-02-25 203.74  2026-02-26 217.93  6.96 
+ CELH                Celsius Holdings Inc  130.47                     Beverages   2026-02-25 50.61   2026-02-26 54.12  6.94 
+  MDB                         MongoDB Inc  273.97                    Technology  2026-02-25 314.99  2026-02-26 336.61  6.86 
+ FICO                     Fair Isaac Corp  308.61                    Technology 2026-02-25 1300.94 2026-02-26 1388.44  6.73 
+  HUM                          Humana Inc  212.32                   Health Care  2026-02-25 176.06  2026-02-26 186.83  6.12 
+ TIGO  Millicom International Cellular SA  118.06             Telecommunication    2026-02-25 66.7   2026-02-26 70.68  5.97 
+ CTSH Cognizant Technology Solutions Corp  310.72                    Technology   2026-02-25 61.33   2026-02-26 64.97  5.94 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+FNCTF                           Orange SA  480.33              Telecommunication   2026-02-25 18.95    2026-02-26 21.0 10.82 
+ENGQF                            Engie SA  666.87                      Utilities   2026-02-25 31.59    2026-02-26 35.0 10.79 
+  ACN                       Accenture PLC 1178.31                     Technology   2026-02-25 191.5  2026-02-26 207.38  8.29 
+  TKO              TKO Group Holdings Inc  404.23                          Media  2026-02-25 207.21  2026-02-26 223.81  8.01 
+   ZS                         Zscaler Inc  271.39                     Technology   2026-02-25 155.7  2026-02-26 167.36  7.49 
+ SPOT               Spotify Technology SA  953.58                          Media  2026-02-25 463.28  2026-02-26 495.65  6.99 
+ EXPE                   Expedia Group Inc  249.65  Hotels, Restaurants & Leisure  2026-02-25 203.74  2026-02-26 217.93  6.96 
+  MDB                         MongoDB Inc  273.97                     Technology  2026-02-25 314.99  2026-02-26 336.61  6.86 
+ FICO                     Fair Isaac Corp  308.61                     Technology 2026-02-25 1300.94 2026-02-26 1388.44  6.73 
+  HUM                          Humana Inc  212.32                    Health Care  2026-02-25 176.06  2026-02-26 186.83  6.12 
+ CTSH Cognizant Technology Solutions Corp  310.72                     Technology   2026-02-25 61.33   2026-02-26 64.97  5.94 
+ AXON                 Axon Enterprise Inc  410.48            Aerospace & Defense  2026-02-25 520.18  2026-02-26 550.19  5.77 
+ CVNA                          Carvana Co  732.89                         Retail  2026-02-25 334.89   2026-02-26 353.9  5.68 
+ DDOG                         Datadog Inc  389.11                     Technology  2026-02-25 110.33  2026-02-26 116.46  5.56 
+  APP                       Applovin Corp 1422.70                     Technology  2026-02-25 421.63  2026-02-26 444.93  5.53 
+ NDAQ                          Nasdaq Inc  477.44             Financial Services   2026-02-25 83.99   2026-02-26 88.59  5.48 
+  IQV                  IQVIA Holdings Inc  274.76 Life Sciences Tools & Services  2026-02-25 161.91  2026-02-26 170.64  5.39 
+  LNG                 Cheniere Energy Inc  474.98                         Energy  2026-02-25 220.68  2026-02-26 232.51  5.36 
+ VRSN                       VeriSign, Inc  201.62                     Technology   2026-02-25 214.5  2026-02-26 225.29  5.03 
+ FOXA                            Fox Corp  220.11                          Media   2026-02-25 54.12   2026-02-26 56.82  4.99 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                板块                     昨天收盘              今天收盘        涨跌幅(%)
+  ACN                        Accenture PLC 1178.31                    Technology  2026-02-25 191.5  2026-02-26 207.38  8.29 
+  APP                        Applovin Corp 1422.70                    Technology 2026-02-25 421.63  2026-02-26 444.93  5.53 
+SBGSF                Schneider Electric SE 1492.27          Electrical Equipment 2026-02-25 311.51   2026-02-26 326.5  4.81 
+ SHOP                          Shopify Inc 1568.98                    Technology 2026-02-25 120.31  2026-02-26 125.94  4.68 
+  CRM                       Salesforce Inc 1796.70                    Technology 2026-02-25 191.75  2026-02-26 199.47  4.03 
+SAFRF                            Safran SA 1416.25           Aerospace & Defense  2026-02-25 398.6   2026-02-26 413.0  3.61 
+  PGR                     Progressive Corp 1199.42                     Insurance 2026-02-25 204.54  2026-02-26 211.73  3.52 
+ INTU                           Intuit Inc 1060.86                    Technology 2026-02-25 381.23  2026-02-26 394.42  3.46 
+ SPGI                       S&P Global Inc 1265.75            Financial Services 2026-02-25 423.61  2026-02-26 437.49  3.28 
+  BSX               Boston Scientific Corp 1090.36                   Health Care  2026-02-25 73.48   2026-02-26 75.75  3.09 
+  CME                        CME Group Inc 1108.34            Financial Services 2026-02-25 307.36  2026-02-26 316.45  2.96 
+ UBER                Uber Technologies Inc 1539.47                   Road & Rail  2026-02-25 72.83    2026-02-26 74.8  2.70 
+  AXP                  American Express Co 2245.91            Financial Services 2026-02-25 327.09  2026-02-26 335.32  2.52 
+ NFLX                          Netflix Inc 3491.73                         Media   2026-02-25 82.7   2026-02-26 84.59  2.29 
+   MS                       Morgan Stanley 2758.59            Financial Services 2026-02-25 173.73  2026-02-26 177.49  2.16 
+ BKNG                 Booking Holdings Inc 1318.56 Hotels, Restaurants & Leisure 2026-02-25 4163.0 2026-02-26 4250.26  2.10 
+  NEM                  Newmont Corporation 1358.21               Metals & Mining 2026-02-25 124.85  2026-02-26 127.47  2.10 
+  IBM International Business Machines Corp 2228.21                    Technology 2026-02-25 237.54  2026-02-26 242.01  1.88 
+  TJX                    TJX Companies Inc 1730.33                        Retail 2026-02-25 155.82  2026-02-26 158.69  1.84 
+ ORCL                          Oracle Corp 4250.49                    Technology 2026-02-25 147.89  2026-02-26 150.31  1.64 

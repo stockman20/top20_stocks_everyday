@@ -50416,5 +50416,107 @@
     "name": "Astroscale Holdings Inc",
     "country": "JP",
     "added_date": "2026-02-26 00:10:18"
+  },
+  "USNNF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "U-Next Holdings Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-26 21:53:32"
+  },
+  "SEYMF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Solaria Energia y Medio Ambiente SA",
+    "country": "ES",
+    "added_date": "2026-02-26 21:53:32"
+  },
+  "RNDOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Round One Corp",
+    "country": "JP",
+    "added_date": "2026-02-26 21:53:38"
+  },
+  "ASMVF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "ASMPT Ltd",
+    "country": "SG",
+    "added_date": "2026-02-26 21:53:40"
+  },
+  "ABVN": {
+    "exchange": "OTC MARKETS",
+    "name": "ABV Consulting Inc",
+    "country": "HK",
+    "added_date": "2026-02-26 21:55:01"
+  },
+  "BKUT": {
+    "exchange": "OTC MARKETS",
+    "name": "Bank of Utica",
+    "country": "US",
+    "added_date": "2026-02-26 22:15:13"
+  },
+  "RBGPD": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Reckitt Benckiser Group PLC",
+    "country": "GB",
+    "added_date": "2026-02-26 22:32:00"
+  },
+  "CNYGF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Canary Gold Corp",
+    "country": "CA",
+    "added_date": "2026-02-26 22:51:14"
+  },
+  "SPNZF": {
+    "exchange": "NEW ZEALAND EXCHANGE LTD",
+    "name": "South Port New Zealand Ltd",
+    "country": "NZ",
+    "added_date": "2026-02-26 23:01:07"
+  },
+  "CBRRF": {
+    "exchange": "OTC MARKETS",
+    "name": "Chain Bridge I",
+    "country": "US",
+    "added_date": "2026-02-26 23:09:20"
+  },
+  "YNOYF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Yoshinoya Holdings Co Ltd",
+    "country": "JP",
+    "added_date": "2026-02-26 23:20:22"
+  },
+  "AENRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Aeonian Resources Corp",
+    "country": "CA",
+    "added_date": "2026-02-26 23:29:06"
+  },
+  "NRHI": {
+    "exchange": "OTC MARKETS",
+    "name": "Natural Resource Holdings Inc",
+    "country": "US",
+    "added_date": "2026-02-26 23:31:20"
+  },
+  "MDXHF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Medx Health Corp",
+    "country": "CA",
+    "added_date": "2026-02-26 23:46:27"
+  },
+  "MDBPF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Medibank Private Ltd",
+    "country": "AU",
+    "added_date": "2026-02-26 23:50:24"
+  },
+  "CITAF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "COSCO SHIPPING Development Co Ltd",
+    "country": "CN",
+    "added_date": "2026-02-26 23:57:33"
+  },
+  "BDRSF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Borders and Southern Petroleum PLC",
+    "country": "GB",
+    "added_date": "2026-02-27 00:12:33"
   }
 }
