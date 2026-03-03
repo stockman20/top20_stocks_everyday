@@ -50566,5 +50566,41 @@
     "name": "SM Prime Holdings Inc",
     "country": "PH",
     "added_date": "2026-02-27 23:56:37"
+  },
+  "PYIYF": {
+    "exchange": "NEW ZEALAND EXCHANGE LTD",
+    "name": "Property for Industry Ltd",
+    "country": "NZ",
+    "added_date": "2026-03-02 22:06:45"
+  },
+  "ZICX": {
+    "exchange": "OTC MARKETS",
+    "name": "Zicix Corp",
+    "country": "US",
+    "added_date": "2026-03-02 22:08:10"
+  },
+  "SLNFF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Solution Financial Inc",
+    "country": "CA",
+    "added_date": "2026-03-02 22:08:19"
+  },
+  "PNXGF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Phoenix Group Holdings PLC",
+    "country": "GB",
+    "added_date": "2026-03-02 22:53:30"
+  },
+  "PTVLF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Pet Valu Holdings Ltd",
+    "country": "CA",
+    "added_date": "2026-03-02 23:36:04"
+  },
+  "KDLMF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Kodal Minerals PLC",
+    "country": "GB",
+    "added_date": "2026-03-02 23:41:34"
   }
 }
