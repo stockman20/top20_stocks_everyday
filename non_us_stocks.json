@@ -50716,5 +50716,71 @@
     "name": "Master Glazier's Karate International Inc",
     "country": "US",
     "added_date": "2026-03-04 00:16:33"
+  },
+  "RLNDF": {
+    "exchange": "OTC MARKETS",
+    "name": "RoyaLand Company Ltd",
+    "country": "BM",
+    "added_date": "2026-03-04 22:26:02"
+  },
+  "AGBK": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Primo Brands Corp",
+    "country": "US",
+    "added_date": "2026-03-04 22:29:04"
+  },
+  "ALEGF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "Allegro.eu SA",
+    "country": "LU",
+    "added_date": "2026-03-04 22:29:09"
+  },
+  "MRSKF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "DMG Mori Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-04 22:30:38"
+  },
+  "TMCGF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "TomCo Energy PLC",
+    "country": "GB",
+    "added_date": "2026-03-04 22:30:39"
+  },
+  "SHPPF": {
+    "exchange": "XETRA",
+    "name": "Redcare Pharmacy NV",
+    "country": "NL",
+    "added_date": "2026-03-04 22:32:02"
+  },
+  "SHOFF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Shoei Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-04 22:32:04"
+  },
+  "GFTFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Grafton Resources Inc",
+    "country": "CA",
+    "added_date": "2026-03-04 22:33:28"
+  },
+  "NMRSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Namura Shipbuilding Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-04 22:33:31"
+  },
+  "DSEAF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Deep Sea Minerals Corp",
+    "country": "CA",
+    "added_date": "2026-03-04 23:36:33"
+  },
+  "NFMXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "New Frontier Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-03-04 23:47:20"
   }
 }
