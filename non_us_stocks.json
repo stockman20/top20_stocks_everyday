@@ -50782,5 +50782,83 @@
     "name": "New Frontier Minerals Ltd",
     "country": "AU",
     "added_date": "2026-03-04 23:47:20"
+  },
+  "NZMEF": {
+    "exchange": "NEW ZEALAND EXCHANGE LTD",
+    "name": "NZME Ltd",
+    "country": "NZ",
+    "added_date": "2026-03-05 21:57:19"
+  },
+  "EVOH": {
+    "exchange": "OTC MARKETS",
+    "name": "EvoAir Holdings Inc",
+    "country": "MY",
+    "added_date": "2026-03-05 21:58:40"
+  },
+  "TPGVF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Top Glove Corporation Bhd",
+    "country": "MY",
+    "added_date": "2026-03-05 22:47:05"
+  },
+  "MDPHF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Monadelphous Group Ltd",
+    "country": "AU",
+    "added_date": "2026-03-05 22:49:08"
+  },
+  "COLZF": {
+    "exchange": "BORSA ISTANBUL",
+    "name": "Coca-Cola Icecek AS",
+    "country": "TR",
+    "added_date": "2026-03-05 22:52:54"
+  },
+  "FBGGF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Fabege AB",
+    "country": "SE",
+    "added_date": "2026-03-05 23:19:22"
+  },
+  "ATCX": {
+    "exchange": "OTC MARKETS",
+    "name": "Atlas Critical Minerals Corp",
+    "country": "BR",
+    "added_date": "2026-03-05 23:19:58"
+  },
+  "STGXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Smartgroup Corporation Ltd",
+    "country": "AU",
+    "added_date": "2026-03-05 23:54:31"
+  },
+  "MTRRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Mont Royal Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-03-05 23:54:58"
+  },
+  "PIGEF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Pigeon Corp",
+    "country": "JP",
+    "added_date": "2026-03-05 23:57:24"
+  },
+  "PTNDF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Vale Indonesia Tbk PT",
+    "country": "ID",
+    "added_date": "2026-03-06 00:08:30"
+  },
+  "MAXSF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Maxis Bhd",
+    "country": "MY",
+    "added_date": "2026-03-06 00:13:04"
+  },
+  "SNRS": {
+    "exchange": "OTC MARKETS",
+    "name": "Sunrise Consulting Group LLC",
+    "country": "US",
+    "added_date": "2026-03-06 00:15:53"
   }
 }
