@@ -50860,5 +50860,71 @@
     "name": "Sunrise Consulting Group LLC",
     "country": "US",
     "added_date": "2026-03-06 00:15:53"
+  },
+  "ECGFF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Ecograf Ltd",
+    "country": "AU",
+    "added_date": "2026-03-06 22:08:20"
+  },
+  "GRDZF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Giordano International Ltd",
+    "country": "HK",
+    "added_date": "2026-03-06 22:08:21"
+  },
+  "PTIZF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Indo Tambangraya Megah Tbk PT",
+    "country": "ID",
+    "added_date": "2026-03-06 22:09:46"
+  },
+  "NXXCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Nexcel Metals Corp",
+    "country": "CA",
+    "added_date": "2026-03-06 22:46:23"
+  },
+  "KRMKF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Kromek Group PLC",
+    "country": "GB",
+    "added_date": "2026-03-06 23:08:40"
+  },
+  "CFOR": {
+    "exchange": "OTC MARKETS",
+    "name": "OpGen Inc",
+    "country": "US",
+    "added_date": "2026-03-06 23:15:23"
+  },
+  "IBXXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Imagion Biosystems Ltd",
+    "country": "AU",
+    "added_date": "2026-03-06 23:19:35"
+  },
+  "QTZCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Silverco Mining Ltd",
+    "country": "CA",
+    "added_date": "2026-03-06 23:53:47"
+  },
+  "BGAVD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Bravada Gold Corp",
+    "country": "CA",
+    "added_date": "2026-03-06 23:55:46"
+  },
+  "PTRVD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Avila Energy Corp",
+    "country": "CA",
+    "added_date": "2026-03-07 00:02:39"
+  },
+  "MXGBF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Molson Coors Canada Inc",
+    "country": "CA",
+    "added_date": "2026-03-07 00:05:20"
   }
 }
