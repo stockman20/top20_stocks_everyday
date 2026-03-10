@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码              公司名称             市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+TSEOF                   Trinseo PLC  0.08                      Chemicals  2026-03-09 0.02  2026-03-10 0.19 850.00
+ CODX            Co-Diagnostics Inc  0.05                    Health Care  2026-03-09 2.18  2026-03-10 4.31  97.71
+ ATPC                Agape ATP Corp  0.02                    Health Care  2026-03-09 2.02  2026-03-10 3.78  87.13
+ PLYX      Polaryx Therapeutics Inc  1.67                Pharmaceuticals  2026-03-09 3.52  2026-03-10 5.97  69.60
+ LGVN                Longeveron Inc  0.11                  Biotechnology  2026-03-09 0.53  2026-03-10 0.89  68.11
+ DXST            Decent Holding Inc  0.11 Commercial Services & Supplies  2026-03-09 0.26   2026-03-10 0.4  50.42
+ ACXP     Acurx Pharmaceuticals Inc  0.05                  Biotechnology  2026-03-09 1.96   2026-03-10 2.9  48.34
+ MGNX               MacroGenics Inc  1.49                  Biotechnology  2026-03-09 2.36  2026-03-10 3.43  45.34
+ KITT         Nauticus Robotics Inc  0.20                      Machinery  2026-03-09 0.72  2026-03-10 1.02  42.46
+ ZENV                    Zenvia Inc  0.16                     Technology  2026-03-09 0.45  2026-03-10 0.64  41.33
+ PTIX   Protagenic Therapeutics Inc  0.01                  Biotechnology  2026-03-09 0.42  2026-03-10 0.59  40.14
+GNFTF                     Genfit SA  4.43                  Biotechnology  2026-03-09 7.87 2026-03-10 10.88  38.25
+ MRNO Murano Global Investments Plc  0.50                    Real Estate  2026-03-09 0.63  2026-03-10 0.87  38.08
+ RBOT        Vicarious Surgical Inc  0.03                    Health Care  2026-03-09 0.37  2026-03-10 0.49  32.08
+ TENX        Tenax Therapeutics Inc  0.69                  Biotechnology 2026-03-09 11.02 2026-03-10 14.51  31.67
+  OCC            Optical Cable Corp  0.54                 Communications  2026-03-09 6.11  2026-03-10 7.98  30.61
+ INKT         Mink Therapeutics Inc  0.49                  Biotechnology 2026-03-09 10.45 2026-03-10 13.51  29.28
+ FCUV           Focus Universal Inc  0.04           Electrical Equipment  2026-03-09 4.36  2026-03-10 5.59  28.13
+ PIII        P3 Health Partners Inc  0.21                    Health Care  2026-03-09 2.88  2026-03-10 3.64  26.17
+ VTAK        Catheter Precision Inc  0.03                    Health Care  2026-03-09 1.37  2026-03-10 1.72  25.55
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ FIGR    Figure Technology Solutions Inc   70.38   Financial Services  2026-03-09 32.64  2026-03-10 39.59 21.29 
+ AXTI                            AXT Inc   21.31       Semiconductors  2026-03-09 38.56   2026-03-10 44.3 14.89 
+NIOIF                            NIO Inc  102.52          Automobiles   2026-03-09 4.85   2026-03-10 5.55 14.43 
+ MAZE              Maze Therapeutics Inc   21.68      Pharmaceuticals  2026-03-09 45.06  2026-03-10 51.06 13.30 
+ BBIO               BridgeBio Pharma Inc  127.25        Biotechnology  2026-03-09 65.64  2026-03-10 74.32 13.22 
+  DYN              Dyne Therapeutics Inc   29.19        Biotechnology  2026-03-09 17.69  2026-03-10 19.78 11.81 
+ HYMC Hycroft Mining Holding Corporation   36.96      Metals & Mining   2026-03-09 40.6  2026-03-10 44.85 10.47 
+ SEDG         Solaredge Technologies Inc   20.88       Semiconductors  2026-03-09 34.59  2026-03-10 38.11 10.18 
+ DNTH          Dianthus Therapeutics Inc   34.25        Biotechnology  2026-03-09 79.23  2026-03-10 86.92  9.71 
+ USAR                 USA Rare Earth Inc   41.19      Metals & Mining  2026-03-09 18.71  2026-03-10 20.45  9.30 
+  SEI  Solaris Energy Infrastructure Inc   33.87               Energy  2026-03-09 49.45  2026-03-10 54.03  9.26 
+ AAOI        Applied Optoelectronics Inc   83.18       Communications 2026-03-09 110.62 2026-03-10 120.49  8.92 
+ VRTX         Vertex Pharmaceuticals Inc 1262.12        Biotechnology 2026-03-09 460.87 2026-03-10 499.17  8.31 
+ LQDA                      Liquidia Corp   31.61      Pharmaceuticals  2026-03-09 35.87  2026-03-10 38.83  8.25 
+ DOCN          DigitalOcean Holdings Inc   52.93           Technology  2026-03-09 57.53  2026-03-10 62.01  7.79 
+ FLNC                 Fluence Energy Inc   28.88 Electrical Equipment   2026-03-09 15.7  2026-03-10 16.88  7.52 
+  RUN                         Sunrun Inc   26.57 Electrical Equipment  2026-03-09 11.33  2026-03-10 12.15  7.24 
+CVCCF           CVC Capital Partners PLC  123.31   Financial Services   2026-03-09 14.0   2026-03-10 15.0  7.14 
+  UEC                Uranium Energy Corp   62.50               Energy  2026-03-09 13.56  2026-03-10 14.48  6.78 
+ ENPH                 Enphase Energy Inc   53.57       Semiconductors  2026-03-09 40.86  2026-03-10 43.59  6.68 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ FIGR Figure Technology Solutions Inc   70.38   Financial Services  2026-03-09 32.64  2026-03-10 39.59 21.29 
+NIOIF                         NIO Inc  102.52          Automobiles   2026-03-09 4.85   2026-03-10 5.55 14.43 
+ BBIO            BridgeBio Pharma Inc  127.25        Biotechnology  2026-03-09 65.64  2026-03-10 74.32 13.22 
+ AAOI     Applied Optoelectronics Inc   83.18       Communications 2026-03-09 110.62 2026-03-10 120.49  8.92 
+ VRTX      Vertex Pharmaceuticals Inc 1262.12        Biotechnology 2026-03-09 460.87 2026-03-10 499.17  8.31 
+ DOCN       DigitalOcean Holdings Inc   52.93           Technology  2026-03-09 57.53  2026-03-10 62.01  7.79 
+CVCCF        CVC Capital Partners PLC  123.31   Financial Services   2026-03-09 14.0   2026-03-10 15.0  7.14 
+  UEC             Uranium Energy Corp   62.50               Energy  2026-03-09 13.56  2026-03-10 14.48  6.78 
+ ENPH              Enphase Energy Inc   53.57       Semiconductors  2026-03-09 40.86  2026-03-10 43.59  6.68 
+ KLAR                Klarna Group PLC   54.51   Financial Services  2026-03-09 14.44   2026-03-10 15.3  5.96 
+ CIEN                      Ciena Corp  450.41       Communications 2026-03-09 318.54 2026-03-10 337.36  5.91 
+ HIMS          Hims & Hers Health Inc   50.51          Health Care  2026-03-09 22.16  2026-03-10 23.47  5.91 
+ CRCL       Circle Internet Group Inc  263.03           Technology 2026-03-09 111.84 2026-03-10 118.09  5.59 
+ LFUS                  Littelfuse Inc   77.06 Electrical Equipment 2026-03-09 306.93 2026-03-10 323.79  5.49 
+  NXT                   Nextpower Inc  160.55 Electrical Equipment 2026-03-09 108.13 2026-03-10 113.73  5.18 
+ SNDK                    Sandisk Corp  868.97           Technology 2026-03-09 588.73 2026-03-10 618.89  5.12 
+ LITE           Lumentum Holdings Inc  457.45       Communications 2026-03-09 640.69  2026-03-10 672.0  4.89 
+STMEF           STMicroelectronics NV  246.91       Semiconductors   2026-03-09 32.6  2026-03-10 34.15  4.75 
+   HL                 Hecla Mining Co  141.31      Metals & Mining  2026-03-09 21.08  2026-03-10 22.01  4.41 
+ RIVN           Rivian Automotive Inc  196.95          Automobiles  2026-03-09 15.87  2026-03-10 16.54  4.22 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)           板块                 昨天收盘               今天收盘        涨跌幅(%)
+NIOIF                            NIO Inc  102.52          Automobiles    2026-03-09 4.85    2026-03-10 5.55 14.43 
+ BBIO               BridgeBio Pharma Inc  127.25        Biotechnology   2026-03-09 65.64   2026-03-10 74.32 13.22 
+ VRTX         Vertex Pharmaceuticals Inc 1262.12        Biotechnology  2026-03-09 460.87  2026-03-10 499.17  8.31 
+CVCCF           CVC Capital Partners PLC  123.31   Financial Services    2026-03-09 14.0    2026-03-10 15.0  7.14 
+ CIEN                         Ciena Corp  450.41       Communications  2026-03-09 318.54  2026-03-10 337.36  5.91 
+ CRCL          Circle Internet Group Inc  263.03           Technology  2026-03-09 111.84  2026-03-10 118.09  5.59 
+  NXT                      Nextpower Inc  160.55 Electrical Equipment  2026-03-09 108.13  2026-03-10 113.73  5.18 
+ SNDK                       Sandisk Corp  868.97           Technology  2026-03-09 588.73  2026-03-10 618.89  5.12 
+ LITE              Lumentum Holdings Inc  457.45       Communications  2026-03-09 640.69   2026-03-10 672.0  4.89 
+STMEF              STMicroelectronics NV  246.91       Semiconductors    2026-03-09 32.6   2026-03-10 34.15  4.75 
+   HL                    Hecla Mining Co  141.31      Metals & Mining   2026-03-09 21.08   2026-03-10 22.01  4.41 
+ RIVN              Rivian Automotive Inc  196.95          Automobiles   2026-03-09 15.87   2026-03-10 16.54  4.22 
+EADSF                          Airbus SE 1380.95  Aerospace & Defense   2026-03-09 200.0   2026-03-10 208.0  4.00 
+ CELH               Celsius Holdings Inc  111.30            Beverages   2026-03-09 43.31   2026-03-10 45.03  3.97 
+ SMMT            Summit Therapeutics Inc  121.89        Biotechnology   2026-03-09 15.72   2026-03-10 16.33  3.88 
+ASMLF                    ASML Holding NV 4383.66       Semiconductors 2026-03-09 1334.79 2026-03-10 1385.98  3.84 
+ CASY          Caseys General Stores Inc  246.32               Retail  2026-03-09 664.54  2026-03-10 689.92  3.82 
+ TIGO Millicom International Cellular SA  117.21    Telecommunication   2026-03-09 70.17   2026-03-10 72.84  3.81 
+BOIVF                         Bollore SE  124.88               Energy    2026-03-09 5.16    2026-03-10 5.35  3.68 
+  BAP                      Credicorp Ltd  262.14              Banking   2026-03-09 329.6  2026-03-10 341.28  3.54 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)             板块                   昨天收盘               今天收盘        涨跌幅(%)
+ VRTX      Vertex Pharmaceuticals Inc 1262.12            Biotechnology  2026-03-09 460.87  2026-03-10 499.17  8.31 
+ CIEN                      Ciena Corp  450.41           Communications  2026-03-09 318.54  2026-03-10 337.36  5.91 
+ CRCL       Circle Internet Group Inc  263.03               Technology  2026-03-09 111.84  2026-03-10 118.09  5.59 
+ SNDK                    Sandisk Corp  868.97               Technology  2026-03-09 588.73  2026-03-10 618.89  5.12 
+ LITE           Lumentum Holdings Inc  457.45           Communications  2026-03-09 640.69   2026-03-10 672.0  4.89 
+STMEF           STMicroelectronics NV  246.91           Semiconductors    2026-03-09 32.6   2026-03-10 34.15  4.75 
+EADSF                       Airbus SE 1380.95      Aerospace & Defense   2026-03-09 200.0   2026-03-10 208.0  4.00 
+ASMLF                 ASML Holding NV 4383.66           Semiconductors 2026-03-09 1334.79 2026-03-10 1385.98  3.84 
+ CASY       Caseys General Stores Inc  246.32                   Retail  2026-03-09 664.54  2026-03-10 689.92  3.82 
+  BAP                   Credicorp Ltd  262.14                  Banking   2026-03-09 329.6  2026-03-10 341.28  3.54 
+   MU           Micron Technology Inc 4381.83           Semiconductors  2026-03-09 389.32  2026-03-10 403.11  3.54 
+  CCJ                     Cameco Corp  505.68                   Energy  2026-03-09 116.14  2026-03-10 120.08  3.39 
+ COHR                   Coherent Corp  473.05     Electrical Equipment  2026-03-09 252.32  2026-03-10 260.64  3.30 
+  FCX            Freeport-McMoRan Inc  869.36          Metals & Mining   2026-03-09 60.49    2026-03-10 62.4  3.16 
+ TECK              Teck Resources Ltd  249.21          Metals & Mining   2026-03-09 50.95   2026-03-10 52.47  2.98 
+  NET                  Cloudflare Inc  709.17               Technology  2026-03-09 201.48  2026-03-10 207.49  2.98 
+ SCCO            Southern Copper Corp 1561.54          Metals & Mining  2026-03-09 190.64  2026-03-10 196.16  2.90 
+  STX Seagate Technology Holdings PLC  816.31               Technology  2026-03-09 374.33  2026-03-10 384.29  2.66 
+ INTC                      Intel Corp 2276.72           Semiconductors   2026-03-09 45.58   2026-03-10 46.78  2.63 
+  MMM                           3M Co  798.64 Industrial Conglomerates  2026-03-09 151.63  2026-03-10 155.25  2.39 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)           板块                 昨天收盘               今天收盘        涨跌幅(%)
+ VRTX    Vertex Pharmaceuticals Inc 1262.12        Biotechnology  2026-03-09 460.87  2026-03-10 499.17  8.31 
+EADSF                     Airbus SE 1380.95  Aerospace & Defense   2026-03-09 200.0   2026-03-10 208.0  4.00 
+ASMLF               ASML Holding NV 4383.66       Semiconductors 2026-03-09 1334.79 2026-03-10 1385.98  3.84 
+   MU         Micron Technology Inc 4381.83       Semiconductors  2026-03-09 389.32  2026-03-10 403.11  3.54 
+ SCCO          Southern Copper Corp 1561.54      Metals & Mining  2026-03-09 190.64  2026-03-10 196.16  2.90 
+ INTC                    Intel Corp 2276.72       Semiconductors   2026-03-09 45.58   2026-03-10 46.78  2.63 
+    C                 Citigroup Inc 1864.60              Banking  2026-03-09 106.59  2026-03-10 108.97  2.23 
+ AMAT         Applied Materials Inc 2689.86       Semiconductors  2026-03-09 338.94  2026-03-10 345.88  2.05 
+  ETN         Eaton Corporation PLC 1372.66 Electrical Equipment  2026-03-09 353.87  2026-03-10 361.06  2.03 
+ CSCO             Cisco Systems Inc 3010.21       Communications   2026-03-09 76.21    2026-03-10 77.7  1.96 
+   PH          Parker-Hannifin Corp 1176.55            Machinery  2026-03-09 932.17  2026-03-10 950.39  1.95 
+ LRCX             Lam Research Corp 2636.78       Semiconductors  2026-03-09 211.15  2026-03-10 215.23  1.93 
+ ANET           Arista Networks Inc 1723.59       Communications  2026-03-09 137.17  2026-03-10 139.62  1.79 
+  CAT               Caterpillar Inc 3279.44            Machinery  2026-03-09 704.82  2026-03-10 716.68  1.68 
+SBGSF         Schneider Electric SE 1380.75 Electrical Equipment  2026-03-09 289.12  2026-03-10 293.99  1.68 
+ KLAC                      KLA Corp 1873.22       Semiconductors  2026-03-09 1429.1 2026-03-10 1452.94  1.67 
+  NEM           Newmont Corporation 1272.38      Metals & Mining  2026-03-09 116.96   2026-03-10 118.9  1.66 
+ IBKR Interactive Brokers Group Inc 1144.75   Financial Services   2026-03-09 67.49    2026-03-10 68.5  1.50 
+   BN               Brookfield Corp 1006.39   Financial Services   2026-03-09 41.08   2026-03-10 41.69  1.48 
+   GE           General Electric Co 3376.45  Aerospace & Defense  2026-03-09 321.93  2026-03-10 326.52  1.43 
