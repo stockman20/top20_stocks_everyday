@@ -56224,5 +56224,35 @@
     "name": "Upside Gold Corp",
     "country": "CA",
     "added_date": "2026-03-13 00:01:50"
+  },
+  "RMPMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Ramp Metals Inc",
+    "country": "CA",
+    "added_date": "2026-03-13 22:21:57"
+  },
+  "GAMXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Gamma Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-03-13 22:30:36"
+  },
+  "TSORF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Tesoro Gold Ltd",
+    "country": "AU",
+    "added_date": "2026-03-13 22:31:54"
+  },
+  "HLFBF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Hong Leong Financial Group Bhd",
+    "country": "MY",
+    "added_date": "2026-03-13 22:50:47"
+  },
+  "SPGDF": {
+    "exchange": "XETRA",
+    "name": "Springer Nature AG & Co KgaA",
+    "country": "DE",
+    "added_date": "2026-03-13 23:52:52"
   }
 }
