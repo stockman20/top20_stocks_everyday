@@ -56320,5 +56320,35 @@
     "name": "Canaf Investments Inc",
     "country": "CA",
     "added_date": "2026-03-17 00:06:42"
+  },
+  "INZRF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Inari Amertron Bhd",
+    "country": "MY",
+    "added_date": "2026-03-17 22:35:27"
+  },
+  "REECF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Reece Ltd",
+    "country": "AU",
+    "added_date": "2026-03-17 22:37:00"
+  },
+  "MDA": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "MDA Space Ltd",
+    "country": "CA",
+    "added_date": "2026-03-17 22:38:25"
+  },
+  "SROCF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Sigmaroc PLC",
+    "country": "GB",
+    "added_date": "2026-03-17 22:43:08"
+  },
+  "TRCTD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Traction Uranium Corp",
+    "country": "CA",
+    "added_date": "2026-03-17 22:57:49"
   }
 }
