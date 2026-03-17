@@ -56254,5 +56254,71 @@
     "name": "Springer Nature AG & Co KgaA",
     "country": "DE",
     "added_date": "2026-03-13 23:52:52"
+  },
+  "VMET": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Versamet Royalties Corp",
+    "country": "CA",
+    "added_date": "2026-03-16 21:59:40"
+  },
+  "LNGPF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Longfor Group Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-03-16 22:19:09"
+  },
+  "SICOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Silverco Mining Ltd",
+    "country": "CA",
+    "added_date": "2026-03-16 22:22:05"
+  },
+  "BHLLD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Bunker Hill Mining Corp",
+    "country": "CA",
+    "added_date": "2026-03-16 22:25:07"
+  },
+  "HSLV": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Highlander Silver Corp",
+    "country": "CA",
+    "added_date": "2026-03-16 22:43:55"
+  },
+  "OTMCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Romios Gold Resources Inc",
+    "country": "CA",
+    "added_date": "2026-03-16 23:03:11"
+  },
+  "AMFPF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Amplifon SpA",
+    "country": "IT",
+    "added_date": "2026-03-16 23:27:15"
+  },
+  "LRKKF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lark Distilling Co Ltd",
+    "country": "AU",
+    "added_date": "2026-03-16 23:29:11"
+  },
+  "MSMMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Metalsource Mining Inc",
+    "country": "CA",
+    "added_date": "2026-03-16 23:42:43"
+  },
+  "BESS": {
+    "exchange": "OTC MARKETS",
+    "name": "Bimergen Energy Corp",
+    "country": "US",
+    "added_date": "2026-03-16 23:50:49"
+  },
+  "CAFZF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Canaf Investments Inc",
+    "country": "CA",
+    "added_date": "2026-03-17 00:06:42"
   }
 }
