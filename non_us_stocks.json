@@ -57400,5 +57400,209 @@
     "name": "East Africa Metals Inc",
     "country": "CA",
     "added_date": "2026-03-20 00:00:58"
+  },
+  "JMXXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Jupiter Mines Ltd",
+    "country": "AU",
+    "added_date": "2026-03-20 22:27:57"
+  },
+  "SUNYF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Sunshine Oilsands Ltd",
+    "country": "CA",
+    "added_date": "2026-03-20 22:30:52"
+  },
+  "BKMP": {
+    "exchange": "OTC MARKETS",
+    "name": "Blackout Media Corp",
+    "country": "CA",
+    "added_date": "2026-03-20 22:50:50"
+  },
+  "KKUR": {
+    "exchange": "OTC MARKETS",
+    "name": "Chromocure Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:14:53"
+  },
+  "OLMM": {
+    "exchange": "OTC MARKETS",
+    "name": "OneLife Technologies Corp",
+    "country": "US",
+    "added_date": "2026-03-20 23:30:55"
+  },
+  "KPOC": {
+    "exchange": "OTC MARKETS",
+    "name": "KPOC Mining Corp",
+    "country": "US",
+    "added_date": "2026-03-20 23:30:59"
+  },
+  "EGMMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Eagle Mountain Mining Ltd",
+    "country": "AU",
+    "added_date": "2026-03-20 23:31:01"
+  },
+  "HAIIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Haitian International Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-03-20 23:31:05"
+  },
+  "ULSP": {
+    "exchange": "OTC MARKETS",
+    "name": "Ultimate Sports Entertainment Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:31:10"
+  },
+  "PKLBF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Perk Labs Inc",
+    "country": "CA",
+    "added_date": "2026-03-20 23:31:27"
+  },
+  "CIGMF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "CI Games SE",
+    "country": "PL",
+    "added_date": "2026-03-20 23:31:33"
+  },
+  "SDPNF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "SD Guthrie Bhd",
+    "country": "MY",
+    "added_date": "2026-03-20 23:31:44"
+  },
+  "SNKUF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Sankyu Inc",
+    "country": "JP",
+    "added_date": "2026-03-20 23:31:46"
+  },
+  "ECLMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Ecolomondo Corp",
+    "country": "CA",
+    "added_date": "2026-03-20 23:31:47"
+  },
+  "CNINF": {
+    "exchange": "SHENZHEN STOCK EXCHANGE",
+    "name": "China International Marine Containers Group Co Ltd",
+    "country": "CN",
+    "added_date": "2026-03-20 23:31:48"
+  },
+  "PLVFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Plant Veda Foods Ltd",
+    "country": "CA",
+    "added_date": "2026-03-20 23:31:49"
+  },
+  "PRPM": {
+    "exchange": "OTC MARKETS",
+    "name": "ProTek Capital Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:31:58"
+  },
+  "VALV": {
+    "exchange": "OTC MARKETS",
+    "name": "Shengkai Innovations Inc",
+    "country": "CN",
+    "added_date": "2026-03-20 23:32:01"
+  },
+  "FRMA": {
+    "exchange": "OTC MARKETS",
+    "name": "Firma Holdings Corp",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:02"
+  },
+  "SMGI": {
+    "exchange": "OTC MARKETS",
+    "name": "Barnhart Group Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:08"
+  },
+  "AMBD": {
+    "exchange": "OTC MARKETS",
+    "name": "American Mobile Dental Corp",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:14"
+  },
+  "VNTEF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Vinte Viviendas Integrales SAB de CV",
+    "country": "MX",
+    "added_date": "2026-03-20 23:32:26"
+  },
+  "HJGP": {
+    "exchange": "OTC MARKETS",
+    "name": "Hanjiao Group Inc",
+    "country": "CN",
+    "added_date": "2026-03-20 23:32:27"
+  },
+  "QMDT": {
+    "exchange": "OTC MARKETS",
+    "name": "Quick-Med Technologies Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:28"
+  },
+  "RLBD": {
+    "exchange": "OTC MARKETS",
+    "name": "Real Brands Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:34"
+  },
+  "GFGU": {
+    "exchange": "OTC MARKETS",
+    "name": "GetFugu Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:40"
+  },
+  "SVXA": {
+    "exchange": "OTC MARKETS",
+    "name": "Sovereign Exploration Associates International Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:32:46"
+  },
+  "BRGO": {
+    "exchange": "OTC MARKETS",
+    "name": "Bergio International Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:33:07"
+  },
+  "CBRI": {
+    "exchange": "OTC MARKETS",
+    "name": "CMTSU Liquidation Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:33:10"
+  },
+  "SECI": {
+    "exchange": "OTC MARKETS",
+    "name": "Sector 10 Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:33:14"
+  },
+  "AMCF": {
+    "exchange": "OTC MARKETS",
+    "name": "Andatee China Marine Fuel Services Corp",
+    "country": "CN",
+    "added_date": "2026-03-20 23:33:14"
+  },
+  "KKPCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Kaken Pharmaceutical Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-20 23:33:29"
+  },
+  "XFTB": {
+    "exchange": "OTC MARKETS",
+    "name": "Xfit Brands Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:33:31"
+  },
+  "EMLL": {
+    "exchange": "OTC MARKETS",
+    "name": "El Maniel International Inc",
+    "country": "US",
+    "added_date": "2026-03-20 23:33:42"
   }
 }
