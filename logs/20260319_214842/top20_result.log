@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                      公司名称                     市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+ FOXO                         Foxo Technologies Inc  0.00                     Technology   2026-03-18 0.0   2026-03-19 0.0 100.00
+SONDQ                           Sonder Holdings Inc  0.00  Hotels, Restaurants & Leisure   2026-03-18 0.0   2026-03-19 0.0 100.00
+  SER                       Serina Therapeutics Inc  0.14                  Biotechnology  2026-03-18 1.28  2026-03-19 2.48  93.75
+ LNKS                        Linkers Industries Ltd  0.08           Electrical Equipment  2026-03-18 0.58  2026-03-19 0.88  51.46
+ DLTH                           Duluth Holdings Inc  0.80                         Retail  2026-03-18 2.17  2026-03-19 3.14  44.70
+ HEPA                    Hepion Pharmaceuticals Inc  0.01                Pharmaceuticals  2026-03-18 0.04  2026-03-19 0.06  39.53
+ LIDR                                      AEye Inc  0.84           Electrical Equipment  2026-03-18 1.87  2026-03-19 2.59  38.50
+ SUNE                           Sunation Energy Inc  0.07           Electrical Equipment  2026-03-18 1.44  2026-03-19 1.98  37.50
+ CHNR                   China Natural Resources Inc  0.04                Metals & Mining   2026-03-18 3.3  2026-03-19 4.36  32.12
+ LNZA                          Lanzatech Global Inc  0.42 Commercial Services & Supplies 2026-03-18 18.04 2026-03-19 23.79  31.87
+  ELA                                   Envela Corp  3.01                         Retail 2026-03-18 11.61 2026-03-19 15.23  31.18
+ AIEV                    Thunder Power Holdings Inc  0.10                    Automobiles  2026-03-18 0.21  2026-03-19 0.27  31.07
+ ALDX                      Aldeyra Therapeutics Inc  0.85                  Biotechnology  2026-03-18 1.42  2026-03-19 1.83  28.87
+ BINI                     Bollinger Innovations Inc  0.01                    Automobiles  2026-03-18 0.07  2026-03-19 0.09  28.57
+ AZTR                                    Azitra Inc  0.02                  Biotechnology  2026-03-18 0.14  2026-03-19 0.18  28.54
+ ACXP                     Acurx Pharmaceuticals Inc  0.15                  Biotechnology  2026-03-18 5.21  2026-03-19 6.63  27.26
+BHATF Blue Hat Interactive Entertainment Technology  0.02                          Media  2026-03-18 0.16   2026-03-19 0.2  23.46
+ SVRN                                  Oceanpal Inc  0.07                         Marine  2026-03-18 0.22  2026-03-19 0.27  23.12
+ MOBX                              MOBIX LABS, INC.  0.47                 Semiconductors  2026-03-18 0.46  2026-03-19 0.56  22.88
+ MSPR                              MSP Recovery Inc  0.00                    Health Care  2026-03-18 0.03  2026-03-19 0.04  22.76
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码               公司名称              市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+AXTI                         AXT Inc  26.95                Semiconductors  2026-03-18 48.76  2026-03-19 58.09 19.13 
+TSEM         Tower Semiconductor Ltd 158.65                Semiconductors 2026-03-18 141.96 2026-03-19 166.08 16.99 
+SRRK       Scholar Rock Holding Corp  45.71                 Biotechnology  2026-03-18 39.79   2026-03-19 45.5 14.35 
+ SIG             Signet Jewelers Ltd  32.05                        Retail  2026-03-18 78.77  2026-03-19 89.56 13.70 
+ERAS                      Erasca Inc  41.96                 Biotechnology   2026-03-18 13.5  2026-03-19 15.26 13.04 
+FIVE                  Five Below Inc 117.19                        Retail 2026-03-18 212.47 2026-03-19 235.17 10.68 
+LITE           Lumentum Holdings Inc 500.38                Communications 2026-03-18 700.81 2026-03-19 772.13 10.18 
+AAOI     Applied Optoelectronics Inc  69.66                Communications  2026-03-18 92.63 2026-03-19 101.92 10.03 
+ DLO                      Dlocal Ltd  33.75            Financial Services  2026-03-18 11.45  2026-03-19 12.53  9.43 
+  PL                 Planet Labs PBC  84.04         Professional Services  2026-03-18 24.81  2026-03-19 26.96  8.67 
+  FN                        Fabrinet 179.28          Electrical Equipment 2026-03-18 500.43 2026-03-19 540.75  8.06 
+VERA          Vera Therapeutics, Inc  28.51                 Biotechnology  2026-03-18 38.32  2026-03-19 41.37  7.96 
+VSAT                      Viasat Inc  62.67                Communications  2026-03-18 48.59  2026-03-19 52.12  7.26 
+SRAD             Sportradar Group AG  57.09 Hotels, Restaurants & Leisure  2026-03-18 18.36  2026-03-19 19.69  7.24 
+COHR                   Coherent Corp 482.22          Electrical Equipment 2026-03-18 257.21 2026-03-19 275.57  7.14 
+BCRX    BioCryst Pharmaceuticals Inc  22.97                 Biotechnology   2026-03-18 9.16   2026-03-19 9.81  7.10 
+CIEN                      Ciena Corp 544.75                Communications 2026-03-18 385.26 2026-03-19 412.58  7.09 
+ STX Seagate Technology Holdings PLC 887.06                    Technology 2026-03-18 406.77  2026-03-19 434.6  6.84 
+SMTC                    Semtech Corp  67.90                Semiconductors  2026-03-18 73.37  2026-03-19 78.35  6.79 
+  BE               Bloom Energy Corp 439.28          Electrical Equipment 2026-03-18 156.58 2026-03-19 166.69  6.46 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称                市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+TSEM            Tower Semiconductor Ltd 158.65                Semiconductors 2026-03-18 141.96 2026-03-19 166.08 16.99 
+FIVE                     Five Below Inc 117.19                        Retail 2026-03-18 212.47 2026-03-19 235.17 10.68 
+LITE              Lumentum Holdings Inc 500.38                Communications 2026-03-18 700.81 2026-03-19 772.13 10.18 
+AAOI        Applied Optoelectronics Inc  69.66                Communications  2026-03-18 92.63 2026-03-19 101.92 10.03 
+  PL                    Planet Labs PBC  84.04         Professional Services  2026-03-18 24.81  2026-03-19 26.96  8.67 
+  FN                           Fabrinet 179.28          Electrical Equipment 2026-03-18 500.43 2026-03-19 540.75  8.06 
+VSAT                         Viasat Inc  62.67                Communications  2026-03-18 48.59  2026-03-19 52.12  7.26 
+SRAD                Sportradar Group AG  57.09 Hotels, Restaurants & Leisure  2026-03-18 18.36  2026-03-19 19.69  7.24 
+COHR                      Coherent Corp 482.22          Electrical Equipment 2026-03-18 257.21 2026-03-19 275.57  7.14 
+CIEN                         Ciena Corp 544.75                Communications 2026-03-18 385.26 2026-03-19 412.58  7.09 
+ STX    Seagate Technology Holdings PLC 887.06                    Technology 2026-03-18 406.77  2026-03-19 434.6  6.84 
+SMTC                       Semtech Corp  67.90                Semiconductors  2026-03-18 73.37  2026-03-19 78.35  6.79 
+  BE                  Bloom Energy Corp 439.28          Electrical Equipment 2026-03-18 156.58 2026-03-19 166.69  6.46 
+GLNG                      Golar LNG Ltd  50.20                        Energy  2026-03-18 47.98  2026-03-19 50.96  6.21 
+ LNG                Cheniere Energy Inc 559.60                        Energy 2026-03-18 266.22 2026-03-19 281.87  5.88 
+ BKR                    Baker Hughes Co 568.04                        Energy  2026-03-18 57.48  2026-03-19 60.71  5.62 
+VIAV                Viavi Solutions Inc  69.35                Communications  2026-03-18 32.44  2026-03-19 34.25  5.58 
+ SLB                             Slb NV 677.68                        Energy  2026-03-18 45.32  2026-03-19 47.82  5.52 
+ CNR         Core Natural Resources Inc  51.76                        Energy 2026-03-18 101.54  2026-03-19 107.1  5.48 
+CRDO Credo Technology Group Holding Ltd 187.62                Semiconductors 2026-03-18 101.72 2026-03-19 107.09  5.28 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ TSEM            Tower Semiconductor Ltd  158.65                 Semiconductors 2026-03-18 141.96 2026-03-19 166.08 16.99 
+ FIVE                     Five Below Inc  117.19                         Retail 2026-03-18 212.47 2026-03-19 235.17 10.68 
+ LITE              Lumentum Holdings Inc  500.38                 Communications 2026-03-18 700.81 2026-03-19 772.13 10.18 
+   FN                           Fabrinet  179.28           Electrical Equipment 2026-03-18 500.43 2026-03-19 540.75  8.06 
+ COHR                      Coherent Corp  482.22           Electrical Equipment 2026-03-18 257.21 2026-03-19 275.57  7.14 
+ CIEN                         Ciena Corp  544.75                 Communications 2026-03-18 385.26 2026-03-19 412.58  7.09 
+  STX    Seagate Technology Holdings PLC  887.06                     Technology 2026-03-18 406.77  2026-03-19 434.6  6.84 
+   BE                  Bloom Energy Corp  439.28           Electrical Equipment 2026-03-18 156.58 2026-03-19 166.69  6.46 
+  LNG                Cheniere Energy Inc  559.60                         Energy 2026-03-18 266.22 2026-03-19 281.87  5.88 
+  BKR                    Baker Hughes Co  568.04                         Energy  2026-03-18 57.48  2026-03-19 60.71  5.62 
+  SLB                             Slb NV  677.68                         Energy  2026-03-18 45.32  2026-03-19 47.82  5.52 
+ CRDO Credo Technology Group Holding Ltd  187.62                 Semiconductors 2026-03-18 101.72 2026-03-19 107.09  5.28 
+ DELL              Dell Technologies Inc  989.14                     Technology 2026-03-18 149.21 2026-03-19 156.76  5.06 
+  FPS       Forgent Power Solutions, Inc  104.42           Electrical Equipment   2026-03-18 34.3   2026-03-19 35.9  4.66 
+ERFSF             Eurofins Scientific SE  113.34 Life Sciences Tools & Services  2026-03-18 69.19   2026-03-19 72.4  4.64 
+ KRMN                Karman Holdings Inc  134.21            Aerospace & Defense 2026-03-18 101.43 2026-03-19 105.95  4.46 
+   AR              Antero Resources Corp  128.04                         Energy   2026-03-18 41.5   2026-03-19 43.3  4.34 
+  ACN                      Accenture PLC 1200.77                     Technology 2026-03-18 195.15 2026-03-19 203.55  4.30 
+  RRC               Range Resources Corp  102.34                         Energy  2026-03-18 43.48  2026-03-19 45.28  4.14 
+ LRCX                  Lam Research Corp 2806.11                 Semiconductors 2026-03-18 224.71 2026-03-19 233.99  4.13 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+LITE           Lumentum Holdings Inc  500.38                Communications 2026-03-18 700.81 2026-03-19 772.13 10.18 
+COHR                   Coherent Corp  482.22          Electrical Equipment 2026-03-18 257.21 2026-03-19 275.57  7.14 
+CIEN                      Ciena Corp  544.75                Communications 2026-03-18 385.26 2026-03-19 412.58  7.09 
+ STX Seagate Technology Holdings PLC  887.06                    Technology 2026-03-18 406.77  2026-03-19 434.6  6.84 
+  BE               Bloom Energy Corp  439.28          Electrical Equipment 2026-03-18 156.58 2026-03-19 166.69  6.46 
+ LNG             Cheniere Energy Inc  559.60                        Energy 2026-03-18 266.22 2026-03-19 281.87  5.88 
+ BKR                 Baker Hughes Co  568.04                        Energy  2026-03-18 57.48  2026-03-19 60.71  5.62 
+ SLB                          Slb NV  677.68                        Energy  2026-03-18 45.32  2026-03-19 47.82  5.52 
+DELL           Dell Technologies Inc  989.14                    Technology 2026-03-18 149.21 2026-03-19 156.76  5.06 
+ ACN                   Accenture PLC 1200.77                    Technology 2026-03-18 195.15 2026-03-19 203.55  4.30 
+LRCX               Lam Research Corp 2806.11                Semiconductors 2026-03-18 224.71 2026-03-19 233.99  4.13 
+FLEX                        Flex Ltd  233.29          Electrical Equipment  2026-03-18 63.45  2026-03-19 65.79  3.69 
+ASTS             AST SpaceMobile Inc  346.65             Telecommunication  2026-03-18 90.74  2026-03-19 94.09  3.69 
+ TTE                TotalEnergies SE 1593.08                        Energy   2026-03-18 86.9  2026-03-19 90.06  3.64 
+RKLB                 Rocket Lab Corp  394.26           Aerospace & Defense  2026-03-18 69.48  2026-03-19 71.93  3.53 
+SBUX                  Starbucks Corp 1055.68 Hotels, Restaurants & Leisure  2026-03-18 92.66  2026-03-19 95.83  3.42 
+ PSX                     Phillips 66  692.25                        Energy 2026-03-18 172.74 2026-03-19 178.34  3.24 
+ CCL                   Carnival Corp  334.61 Hotels, Restaurants & Leisure  2026-03-18 24.16  2026-03-19 24.94  3.23 
+ MTZ                      MasTec Inc  239.11                  Construction 2026-03-18 303.07 2026-03-19 312.72  3.18 
+HUBB                     Hubbell Inc  253.83          Electrical Equipment 2026-03-18 477.47 2026-03-19 492.65  3.18 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)                板块                     昨天收盘               今天收盘        涨跌幅(%)
+  ACN              Accenture PLC 1200.77                    Technology  2026-03-18 195.15  2026-03-19 203.55  4.30 
+ LRCX          Lam Research Corp 2806.11                Semiconductors  2026-03-18 224.71  2026-03-19 233.99  4.13 
+  TTE           TotalEnergies SE 1593.08                        Energy    2026-03-18 86.9   2026-03-19 90.06  3.64 
+ SBUX             Starbucks Corp 1055.68 Hotels, Restaurants & Leisure   2026-03-18 92.66   2026-03-19 95.83  3.42 
+  AMD Advanced Micro Devices Inc 3252.02                Semiconductors  2026-03-18 199.46  2026-03-19 205.27  2.91 
+ INTC                 Intel Corp 2249.25                Semiconductors   2026-03-18 45.03   2026-03-19 46.18  2.55 
+ SNDK               Sandisk Corp 1112.45                    Technology  2026-03-18 753.69  2026-03-19 772.09  2.44 
+  APH              Amphenol Corp 1571.06          Electrical Equipment  2026-03-18 127.81  2026-03-19 130.65  2.22 
+ AMAT      Applied Materials Inc 2773.43                Semiconductors  2026-03-18 349.47  2026-03-19 357.21  2.21 
+  GEV             GE Vernova Inc 2313.83          Electrical Equipment  2026-03-18 858.47  2026-03-19 877.39  2.20 
+ KLAC                   KLA Corp 1943.03                Semiconductors 2026-03-18 1482.36 2026-03-19 1511.52  1.97 
+  COP             ConocoPhillips 1511.42                        Energy  2026-03-18 123.65  2026-03-19 126.02  1.92 
+ PLTR  Palantir Technologies Inc 3653.76                    Technology  2026-03-18 152.77  2026-03-19 155.68  1.90 
+ INTU                 Intuit Inc 1235.60                    Technology  2026-03-18 446.79  2026-03-19 455.24  1.89 
+ ORCL                Oracle Corp 4397.47                    Technology   2026-03-18 152.9  2026-03-19 155.52  1.71 
+  NEE         Nextera Energy Inc 1895.17                     Utilities   2026-03-18 90.96   2026-03-19 92.41  1.59 
+CMCSA               Comcast Corp 1027.90             Telecommunication   2026-03-18 28.57   2026-03-19 28.98  1.44 
+ VRTX Vertex Pharmaceuticals Inc 1192.28                 Biotechnology  2026-03-18 451.59  2026-03-19 458.05  1.43 
+  CVX               Chevron Corp 3963.04                        Energy  2026-03-18 198.61  2026-03-19 201.44  1.42 
+ASMLF            ASML Holding NV 4560.13                Semiconductors 2026-03-18 1349.99 2026-03-19 1367.25  1.28 
