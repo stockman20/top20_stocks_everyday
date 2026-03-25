@@ -59020,5 +59020,137 @@
     "name": "Meryllion Resources Corporation",
     "country": "CA",
     "added_date": "2026-03-24 23:58:11"
+  },
+  "PINXF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "People's Insurance Company Group of China Ltd",
+    "country": "CN",
+    "added_date": "2026-03-25 22:25:17"
+  },
+  "BGAUF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Blossom Gold Inc",
+    "country": "CA",
+    "added_date": "2026-03-25 22:28:43"
+  },
+  "PVMCF": {
+    "exchange": "OTC MARKETS",
+    "name": "Pine Valley Mining Corp",
+    "country": "CA",
+    "added_date": "2026-03-25 23:46:42"
+  },
+  "NHOXF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Nederman Holding AB",
+    "country": "SE",
+    "added_date": "2026-03-25 23:46:49"
+  },
+  "BXNS": {
+    "exchange": "OTC MARKETS",
+    "name": "Blockchain Institute of Technology Inc",
+    "country": "US",
+    "added_date": "2026-03-25 23:47:21"
+  },
+  "SIIXF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "SIIX Corp",
+    "country": "JP",
+    "added_date": "2026-03-25 23:48:42"
+  },
+  "HMBAF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Humble Group AB",
+    "country": "SE",
+    "added_date": "2026-03-25 23:48:47"
+  },
+  "TYXXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Tyranna Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-03-25 23:49:48"
+  },
+  "PADEF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Alamtri Resources Indonesia Tbk PT",
+    "country": "ID",
+    "added_date": "2026-03-25 23:50:27"
+  },
+  "HBIS": {
+    "exchange": "OTC MARKETS",
+    "name": "Home Bistro Inc",
+    "country": "US",
+    "added_date": "2026-03-25 23:51:24"
+  },
+  "LTMGF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Lottomatica Group SpA",
+    "country": "IT",
+    "added_date": "2026-03-25 23:51:31"
+  },
+  "GMXDF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Mexicano de Desarrollo SAB",
+    "country": "MX",
+    "added_date": "2026-03-25 23:52:53"
+  },
+  "BUKCF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Burckhardt Compression Holding AG",
+    "country": "CH",
+    "added_date": "2026-03-25 23:53:16"
+  },
+  "IONM": {
+    "exchange": "OTC MARKETS",
+    "name": "Assure Holdings Corp",
+    "country": "US",
+    "added_date": "2026-03-25 23:53:27"
+  },
+  "GFCJ": {
+    "exchange": "OTC MARKETS",
+    "name": "Guaranty Financial Corp (DELAWARE)",
+    "country": "US",
+    "added_date": "2026-03-25 23:53:30"
+  },
+  "SDIPF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Frasers Group PLC",
+    "country": "GB",
+    "added_date": "2026-03-25 23:53:38"
+  },
+  "PRSEF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Prosafe SE",
+    "country": "NO",
+    "added_date": "2026-03-25 23:54:41"
+  },
+  "AMMHF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "AMMB Holdings Bhd",
+    "country": "MY",
+    "added_date": "2026-03-25 23:55:51"
+  },
+  "MDDCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Media Do Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-25 23:56:47"
+  },
+  "IVST": {
+    "exchange": "OTC MARKETS",
+    "name": "Innovest Global Inc",
+    "country": "US",
+    "added_date": "2026-03-25 23:56:50"
+  },
+  "TJSS": {
+    "exchange": "OTC MARKETS",
+    "name": "Taj Systems Inc",
+    "country": "US",
+    "added_date": "2026-03-25 23:57:46"
+  },
+  "EENNF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Enav SpA",
+    "country": "IT",
+    "added_date": "2026-03-25 23:57:47"
   }
 }
