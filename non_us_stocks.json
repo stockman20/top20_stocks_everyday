@@ -59152,5 +59152,293 @@
     "name": "Enav SpA",
     "country": "IT",
     "added_date": "2026-03-25 23:57:47"
+  },
+  "MMXLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Azucar Minerals Ltd",
+    "country": "CA",
+    "added_date": "2026-03-26 22:11:35"
+  },
+  "GLBZ": {
+    "exchange": "OTC MARKETS",
+    "name": "Glen Burnie Bancorp",
+    "country": "US",
+    "added_date": "2026-03-26 22:24:23"
+  },
+  "SLSMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Solis Minerals Ltd (Pre-Reincorporation)",
+    "country": "CA",
+    "added_date": "2026-03-26 23:17:39"
+  },
+  "CEVMF": {
+    "exchange": "XETRA",
+    "name": "CTS Eventim AG & Co KgaA",
+    "country": "DE",
+    "added_date": "2026-03-26 23:23:36"
+  },
+  "MREYF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Puranium Energy Ltd",
+    "country": "CA",
+    "added_date": "2026-03-26 23:31:18"
+  },
+  "MINR": {
+    "exchange": "OTC MARKETS",
+    "name": "Minerva Gold Inc",
+    "country": "KZ",
+    "added_date": "2026-03-26 23:31:41"
+  },
+  "FRBMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Firebird Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-03-26 23:31:42"
+  },
+  "ABILF": {
+    "exchange": "OTC MARKETS",
+    "name": "Ability Inc",
+    "country": "IL",
+    "added_date": "2026-03-26 23:33:37"
+  },
+  "FMOCF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Fomento de Construcciones y Contratas SA",
+    "country": "ES",
+    "added_date": "2026-03-26 23:33:41"
+  },
+  "CHGI": {
+    "exchange": "OTC MARKETS",
+    "name": "China Carbon Graphite Group Inc",
+    "country": "CN",
+    "added_date": "2026-03-26 23:35:23"
+  },
+  "NEUN": {
+    "exchange": "OTC MARKETS",
+    "name": "NeuroGenesis Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:35:48"
+  },
+  "ITENF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Itochu Enex Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-26 23:36:30"
+  },
+  "BYMAF": {
+    "exchange": "BOLSA DE COMERCIO DE BUENOS AIRES",
+    "name": "Bolsas y Mercados Argentinos SA",
+    "country": "AR",
+    "added_date": "2026-03-26 23:37:32"
+  },
+  "EVBC": {
+    "exchange": "OTC MARKETS",
+    "name": "Evolution Blockchain Group Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:37:45"
+  },
+  "MAJCQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Majestic Capital Ltd",
+    "country": "BM",
+    "added_date": "2026-03-26 23:38:32"
+  },
+  "RMRHF": {
+    "exchange": "JOHANNESBURG STOCK EXCHANGE",
+    "name": "OUTsurance Group Ltd",
+    "country": "ZA",
+    "added_date": "2026-03-26 23:38:42"
+  },
+  "GPAIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Grounded People Apparel Inc",
+    "country": "CA",
+    "added_date": "2026-03-26 23:38:47"
+  },
+  "ITGGF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Italgas SpA",
+    "country": "IT",
+    "added_date": "2026-03-26 23:39:48"
+  },
+  "RSAU": {
+    "exchange": "OTC MARKETS",
+    "name": "Rooshine Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:40:30"
+  },
+  "TSUKF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Toyo Suisan Kaisha Ltd",
+    "country": "JP",
+    "added_date": "2026-03-26 23:40:40"
+  },
+  "ARBU": {
+    "exchange": "OTC MARKETS",
+    "name": "American Business Corp",
+    "country": "US",
+    "added_date": "2026-03-26 23:40:52"
+  },
+  "KRKKF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "Kruk SA",
+    "country": "PL",
+    "added_date": "2026-03-26 23:41:00"
+  },
+  "EZKGF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Ezaki Glico Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-26 23:41:18"
+  },
+  "MRPI": {
+    "exchange": "OTC MARKETS",
+    "name": "Mera Pharmaceuticals Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:41:21"
+  },
+  "UDIRF": {
+    "exchange": "XETRA",
+    "name": "United Internet AG",
+    "country": "DE",
+    "added_date": "2026-03-26 23:42:51"
+  },
+  "CFRXQ": {
+    "exchange": "OTC MARKETS",
+    "name": "ContraFect Corp",
+    "country": "US",
+    "added_date": "2026-03-26 23:43:32"
+  },
+  "SOHI": {
+    "exchange": "OTC MARKETS",
+    "name": "Sortis Holdings Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:43:34"
+  },
+  "PTSH": {
+    "exchange": "OTC MARKETS",
+    "name": "PTS Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:43:40"
+  },
+  "ZDGGF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Zoo Digital Group PLC",
+    "country": "GB",
+    "added_date": "2026-03-26 23:44:16"
+  },
+  "YSASF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "YesAsia Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-03-26 23:44:46"
+  },
+  "GDSI": {
+    "exchange": "OTC MARKETS",
+    "name": "Global Digital Solutions Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:45:16"
+  },
+  "IVIXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Invion Ltd",
+    "country": "AU",
+    "added_date": "2026-03-26 23:45:21"
+  },
+  "PGPGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Power Group Projects Corp",
+    "country": "CA",
+    "added_date": "2026-03-26 23:46:00"
+  },
+  "TCGN": {
+    "exchange": "OTC MARKETS",
+    "name": "Technology General Corp",
+    "country": "US",
+    "added_date": "2026-03-26 23:46:50"
+  },
+  "GLIID": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Skeleton Coast Uranium Corp",
+    "country": "CA",
+    "added_date": "2026-03-26 23:47:16"
+  },
+  "TKCHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Taoka Chemical Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-26 23:47:20"
+  },
+  "TNRSF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Tenaris SA",
+    "country": "LU",
+    "added_date": "2026-03-26 23:47:35"
+  },
+  "STNX": {
+    "exchange": "OTC MARKETS",
+    "name": "Startronix International Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:47:46"
+  },
+  "KTPPF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Katipult Technology Corp",
+    "country": "CA",
+    "added_date": "2026-03-26 23:47:47"
+  },
+  "FSROF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "F-Secure Oyj",
+    "country": "FI",
+    "added_date": "2026-03-26 23:49:16"
+  },
+  "IBSS": {
+    "exchange": "OTC MARKETS",
+    "name": "Integrated Business Systems and Services Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:49:37"
+  },
+  "ANZGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "ANZ Group Holdings Ltd",
+    "country": "AU",
+    "added_date": "2026-03-26 23:49:40"
+  },
+  "STZU": {
+    "exchange": "OTC MARKETS",
+    "name": "Sun Tzu Corp",
+    "country": "US",
+    "added_date": "2026-03-26 23:50:21"
+  },
+  "INAR": {
+    "exchange": "OTC MARKETS",
+    "name": "InternetArray Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:50:21"
+  },
+  "ESFS": {
+    "exchange": "OTC MARKETS",
+    "name": "Eco Safe Systems USA Inc",
+    "country": "US",
+    "added_date": "2026-03-26 23:51:23"
+  },
+  "CKALF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Cokal Ltd",
+    "country": "AU",
+    "added_date": "2026-03-26 23:51:41"
+  },
+  "CHNSF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "China Starch Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-03-26 23:51:47"
+  },
+  "BHLIF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Bradda Head Lithium Ltd",
+    "country": "IM",
+    "added_date": "2026-03-26 23:51:49"
   }
 }
