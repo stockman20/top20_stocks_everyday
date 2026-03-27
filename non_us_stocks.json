@@ -59440,5 +59440,239 @@
     "name": "Bradda Head Lithium Ltd",
     "country": "IM",
     "added_date": "2026-03-26 23:51:49"
+  },
+  "PMBY": {
+    "exchange": "OTC MARKETS",
+    "name": "PMB Aerospace Corp",
+    "country": "US",
+    "added_date": "2026-03-27 23:31:47"
+  },
+  "ASTPF": {
+    "exchange": "WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET",
+    "name": "Astarta Holding PLC",
+    "country": "CY",
+    "added_date": "2026-03-27 23:31:50"
+  },
+  "MDMN": {
+    "exchange": "OTC MARKETS",
+    "name": "Medinah Minerals Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:32:18"
+  },
+  "RADLD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Radial Research Corp",
+    "country": "CA",
+    "added_date": "2026-03-27 23:32:55"
+  },
+  "BUGLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "BluGlass Ltd",
+    "country": "AU",
+    "added_date": "2026-03-27 23:33:45"
+  },
+  "CSRVF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Cross River Ventures Corp",
+    "country": "CA",
+    "added_date": "2026-03-27 23:33:47"
+  },
+  "FGSGF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "Flat Glass Group Co Ltd",
+    "country": "CN",
+    "added_date": "2026-03-27 23:34:32"
+  },
+  "STBV": {
+    "exchange": "OTC MARKETS",
+    "name": "Strategic Global Investments Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:34:37"
+  },
+  "SNAAF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "San-A Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-27 23:34:43"
+  },
+  "MITJF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Mint Corp",
+    "country": "CA",
+    "added_date": "2026-03-27 23:35:40"
+  },
+  "EQXLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Equatorial Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-03-27 23:36:38"
+  },
+  "CHYOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Chiyoda Co Ltd",
+    "country": "JP",
+    "added_date": "2026-03-27 23:36:43"
+  },
+  "FOYJ": {
+    "exchange": "OTC MARKETS",
+    "name": "Foy-Johnston Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:36:47"
+  },
+  "ISZNF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Intershop Holding AG",
+    "country": "CH",
+    "added_date": "2026-03-27 23:37:42"
+  },
+  "AGILQ": {
+    "exchange": "OTC MARKETS",
+    "name": "AgileThought Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:37:45"
+  },
+  "CNDL": {
+    "exchange": "OTC MARKETS",
+    "name": "WCH Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:38:27"
+  },
+  "MGIDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Magnum Goldcorp Inc",
+    "country": "CA",
+    "added_date": "2026-03-27 23:38:32"
+  },
+  "CLABF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Core One Labs Inc",
+    "country": "CA",
+    "added_date": "2026-03-27 23:38:37"
+  },
+  "ADCNF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Adicon Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-03-27 23:38:48"
+  },
+  "RBTI": {
+    "exchange": "OTC MARKETS",
+    "name": "Red Branch Technologies Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:41:55"
+  },
+  "ASPT": {
+    "exchange": "OTC MARKETS",
+    "name": "Aladdin Separation Technologies Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:42:36"
+  },
+  "AOGC": {
+    "exchange": "OTC MARKETS",
+    "name": "Australian Oil & Gas Corp",
+    "country": "AU",
+    "added_date": "2026-03-27 23:42:46"
+  },
+  "VNTXF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Vanta Holdings Inc",
+    "country": "CA",
+    "added_date": "2026-03-27 23:43:39"
+  },
+  "COCM": {
+    "exchange": "OTC MARKETS",
+    "name": "Comerton Corp",
+    "country": "US",
+    "added_date": "2026-03-27 23:43:46"
+  },
+  "LVCLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Algorae Pharmaceuticals Ltd",
+    "country": "AU",
+    "added_date": "2026-03-27 23:44:54"
+  },
+  "IFLM": {
+    "exchange": "OTC MARKETS",
+    "name": "Independent Film Development Corp",
+    "country": "US",
+    "added_date": "2026-03-27 23:45:38"
+  },
+  "CMGHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Chaoda Modern Agriculture (Holdings) Ltd",
+    "country": "HK",
+    "added_date": "2026-03-27 23:45:43"
+  },
+  "IGFFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Infinito Gold Ltd",
+    "country": "CA",
+    "added_date": "2026-03-27 23:46:52"
+  },
+  "CEXE": {
+    "exchange": "OTC MARKETS",
+    "name": "Circle Entertainment Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:48:27"
+  },
+  "PTZH": {
+    "exchange": "OTC MARKETS",
+    "name": "Photozou Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-03-27 23:49:57"
+  },
+  "OMHE": {
+    "exchange": "OTC MARKETS",
+    "name": "Omni Health Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:50:51"
+  },
+  "UBLXF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "U Blox Holding AG",
+    "country": "CH",
+    "added_date": "2026-03-27 23:51:39"
+  },
+  "PLFF": {
+    "exchange": "OTC MARKETS",
+    "name": "Klmkh Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:51:45"
+  },
+  "BRDNF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Breedon Group PLC",
+    "country": "GB",
+    "added_date": "2026-03-27 23:52:35"
+  },
+  "CMDLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Cassius Mining Ltd",
+    "country": "AU",
+    "added_date": "2026-03-27 23:52:42"
+  },
+  "RIVX": {
+    "exchange": "OTC MARKETS",
+    "name": "Rivex Technology Corp",
+    "country": "US",
+    "added_date": "2026-03-27 23:52:46"
+  },
+  "PRRE": {
+    "exchange": "OTC MARKETS",
+    "name": "Praetorian Property Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:52:46"
+  },
+  "ARBH": {
+    "exchange": "OTC MARKETS",
+    "name": "Arboreta Healthcare Inc",
+    "country": "US",
+    "added_date": "2026-03-27 23:53:42"
+  },
+  "AVLP": {
+    "exchange": "OTC MARKETS",
+    "name": "Avalanche International Corp",
+    "country": "US",
+    "added_date": "2026-03-27 23:54:41"
   }
 }
