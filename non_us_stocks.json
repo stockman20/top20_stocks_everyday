@@ -59950,5 +59950,29 @@
     "name": "Aion Therapeutic Inc",
     "country": "CA",
     "added_date": "2026-03-30 23:59:46"
+  },
+  "ALTUF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Altura Energy Corp",
+    "country": "CA",
+    "added_date": "2026-03-31 23:07:16"
+  },
+  "PMIXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Perseverance Metals Inc",
+    "country": "CA",
+    "added_date": "2026-03-31 23:18:26"
+  },
+  "ISLMF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "InSilico Medicine Cayman TopCo",
+    "country": "HK",
+    "added_date": "2026-03-31 23:23:29"
+  },
+  "SIVEF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Sivers Semiconductors AB",
+    "country": "SE",
+    "added_date": "2026-03-31 23:51:45"
   }
 }
