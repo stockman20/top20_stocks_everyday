@@ -59992,5 +59992,29 @@
     "name": "Mountain Crest Acquisition Corp V",
     "country": "US",
     "added_date": "2026-04-01 22:58:06"
+  },
+  "RPGSF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Rockpoint Gas Storage Inc",
+    "country": "CA",
+    "added_date": "2026-04-02 21:56:37"
+  },
+  "ONNVF": {
+    "exchange": "AEQUITAS NEO EXCHANGE",
+    "name": "Onco-Innovations Ltd",
+    "country": "CA",
+    "added_date": "2026-04-02 22:40:50"
+  },
+  "MSTF": {
+    "exchange": "OTC MARKETS",
+    "name": "Monarch Staffing Inc",
+    "country": "US",
+    "added_date": "2026-04-02 23:39:55"
+  },
+  "IPLNF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Implenia AG",
+    "country": "CH",
+    "added_date": "2026-04-02 23:52:07"
   }
 }
