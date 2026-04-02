@@ -59974,5 +59974,23 @@
     "name": "Sivers Semiconductors AB",
     "country": "SE",
     "added_date": "2026-03-31 23:51:45"
+  },
+  "VITBF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Vitec Software Group AB (publ)",
+    "country": "SE",
+    "added_date": "2026-04-01 22:27:53"
+  },
+  "NBRKF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "New Break Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-04-01 22:55:01"
+  },
+  "MCAG": {
+    "exchange": "OTC MARKETS",
+    "name": "Mountain Crest Acquisition Corp V",
+    "country": "US",
+    "added_date": "2026-04-01 22:58:06"
   }
 }

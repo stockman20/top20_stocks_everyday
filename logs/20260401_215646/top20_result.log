@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                    公司名称                    市值(亿)                 板块                      昨天收盘             今天收盘       涨跌幅(%)
+CYCN                 Cyclerion Therapeutics Inc   0.06                    Biotechnology  2026-03-31 1.55  2026-04-01 6.38 311.61
+ELAB                          PMGC Holdings Inc   0.03                Consumer products  2026-03-31 5.99  2026-04-01 14.0 133.72
+AGPU                            Axe Compute Inc   0.05                      Health Care  2026-03-31 1.62  2026-04-01 3.56 119.75
+MGRT                        Mega Fortune Co Ltd   0.89                       Technology  2026-03-31 6.46 2026-04-01 12.26  89.78
+ SST                                System1 Inc   0.30                            Media  2026-03-31 3.02  2026-04-01 5.22  72.85
+ RYM                                  RYTHM Inc   0.39                        Machinery  2026-03-31 18.3  2026-04-01 30.0  63.93
+ NCT                     Intercont (Cayman) Ltd   0.02                           Marine  2026-03-31 0.07  2026-04-01 0.11  49.08
+RENX                      RenX Enterprises Corp   0.04                      Real Estate  2026-03-31 1.78  2026-04-01 2.61  46.63
+ NPT                         Texxon Holding Ltd   1.66 Trading Companies & Distributors  2026-03-31 7.48 2026-04-01 10.94  46.26
+SELX                  Semilux International Ltd   0.09                   Semiconductors  2026-03-31 0.24  2026-04-01 0.35  43.48
+PRHI                    Presurance Holdings Inc   0.13                        Insurance  2026-03-31 0.51  2026-04-01 0.73  43.25
+UCAR                                U Power Ltd   0.01                           Retail  2026-03-31 0.42   2026-04-01 0.6  42.55
+LOCL                          Local Bounti Corp   0.26                    Food Products  2026-03-31 1.16  2026-04-01 1.63  40.52
+  TH                    Target Hospitality Corp   9.29    Hotels, Restaurants & Leisure  2026-03-31 9.28 2026-04-01 12.66  36.42
+ FGI                         FGI Industries Ltd   0.07 Trading Companies & Distributors  2026-03-31 3.73  2026-04-01 4.97  33.24
+ RGC          Regencell Bioscience Holdings Ltd 125.75                  Pharmaceuticals 2026-03-31 25.43 2026-04-01 33.72  32.60
+AERT                      Aeries Technology Inc   0.16            Professional Services  2026-03-31 0.31   2026-04-01 0.4  28.95
+ZCAR                       Zoomcar Holdings Inc   0.00                      Road & Rail  2026-03-31 0.07  2026-04-01 0.09  28.57
+POAS Phaos Technology Holdings (Cayman) Limited   0.45             Electrical Equipment  2026-03-31 1.61  2026-04-01 2.05  27.33
+HPAI                             Helport AI Ltd   0.56                       Technology   2026-03-31 1.5   2026-04-01 1.9  26.67
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  RGC Regencell Bioscience Holdings Ltd  125.75                  Pharmaceuticals  2026-03-31 25.43  2026-04-01 33.72 32.60 
+  CAR             Avis Budget Group Inc   51.42                      Road & Rail 2026-03-31 145.85 2026-04-01 170.07 16.61 
+  KOD               Kodiak Sciences Inc   23.27                    Biotechnology  2026-03-31 38.12  2026-04-01 42.81 12.30 
+ FSLY                        Fastly Inc   44.11                       Technology  2026-03-31 29.06  2026-04-01 32.36 11.36 
+ CSTM                    Constellium SE   33.20                  Metals & Mining  2026-03-31 24.58  2026-04-01 27.32 11.15 
+  SNX                    TD Synnex Corp  136.02             Electrical Equipment 2026-03-31 168.71 2026-04-01 186.29 10.42 
+   PL                   Planet Labs PBC   96.75            Professional Services  2026-03-31 27.95  2026-04-01 30.71  9.87 
+  PVH                          PVH Corp   31.95 Textiles, Apparel & Luxury Goods  2026-03-31 69.76  2026-04-01 76.56  9.75 
+ LUNR            Intuitive Machines Inc   40.24              Aerospace & Defense  2026-03-31 18.56  2026-04-01 20.24  9.05 
+ SNDK                      Sandisk Corp  937.77                       Technology 2026-03-31 635.34 2026-04-01 692.73  9.03 
+   MU             Micron Technology Inc 3809.94                   Semiconductors 2026-03-31 337.84 2026-04-01 367.85  8.88 
+ INTC                        Intel Corp 2204.29                   Semiconductors  2026-03-31 44.13  2026-04-01 48.03  8.84 
+ LITE             Lumentum Holdings Inc  501.77                   Communications 2026-03-31 702.76 2026-04-01 764.65  8.81 
+   AA                        Alcoa Corp  175.00                  Metals & Mining  2026-03-31 66.33  2026-04-01 72.06  8.64 
+DUAVF              Dassault Aviation SA  242.43              Aerospace & Defense  2026-03-31 363.9  2026-04-01 395.0  8.55 
+ CENX               Century Aluminum Co   58.09                  Metals & Mining  2026-03-31 58.69  2026-04-01 63.51  8.21 
+  STX   Seagate Technology Holdings PLC  854.32                       Technology 2026-03-31 391.76 2026-04-01 423.12  8.00 
+ BTDR        Bitdeer Technologies Group   20.85                       Technology   2026-03-31 8.65   2026-04-01 9.34  7.98 
+ MRVL            Marvell Technology Inc  865.99                   Semiconductors  2026-03-31 99.05 2026-04-01 106.71  7.73 
+ MBLY               Mobileye Global Inc   57.80                  Auto Components   2026-03-31 6.87   2026-04-01 7.39  7.57 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+  RGC Regencell Bioscience Holdings Ltd  125.75       Pharmaceuticals  2026-03-31 25.43  2026-04-01 33.72 32.60 
+  CAR             Avis Budget Group Inc   51.42           Road & Rail 2026-03-31 145.85 2026-04-01 170.07 16.61 
+  SNX                    TD Synnex Corp  136.02  Electrical Equipment 2026-03-31 168.71 2026-04-01 186.29 10.42 
+   PL                   Planet Labs PBC   96.75 Professional Services  2026-03-31 27.95  2026-04-01 30.71  9.87 
+ SNDK                      Sandisk Corp  937.77            Technology 2026-03-31 635.34 2026-04-01 692.73  9.03 
+   MU             Micron Technology Inc 3809.94        Semiconductors 2026-03-31 337.84 2026-04-01 367.85  8.88 
+ INTC                        Intel Corp 2204.29        Semiconductors  2026-03-31 44.13  2026-04-01 48.03  8.84 
+ LITE             Lumentum Holdings Inc  501.77        Communications 2026-03-31 702.76 2026-04-01 764.65  8.81 
+   AA                        Alcoa Corp  175.00       Metals & Mining  2026-03-31 66.33  2026-04-01 72.06  8.64 
+DUAVF              Dassault Aviation SA  242.43   Aerospace & Defense  2026-03-31 363.9  2026-04-01 395.0  8.55 
+ CENX               Century Aluminum Co   58.09       Metals & Mining  2026-03-31 58.69  2026-04-01 63.51  8.21 
+  STX   Seagate Technology Holdings PLC  854.32            Technology 2026-03-31 391.76 2026-04-01 423.12  8.00 
+ MRVL            Marvell Technology Inc  865.99        Semiconductors  2026-03-31 99.05 2026-04-01 106.71  7.73 
+ MBLY               Mobileye Global Inc   57.80       Auto Components   2026-03-31 6.87   2026-04-01 7.39  7.57 
+ SSRM                    SSR Mining Inc   59.78       Metals & Mining   2026-03-31 29.4   2026-04-01 31.5  7.14 
+ CIEN                        Ciena Corp  548.95        Communications 2026-03-31 388.23 2026-04-01 415.39  7.00 
+  CAI           Caris Life Sciences Inc   50.53         Biotechnology  2026-03-31 17.88  2026-04-01 19.13  6.99 
+ TSEM           Tower Semiconductor Ltd  196.11        Semiconductors 2026-03-31 175.48 2026-04-01 187.07  6.60 
+ SNAP                          Snap Inc   77.69                 Media    2026-03-31 4.6    2026-04-01 4.9  6.52 
+  VFS                  VinFast Auto Ltd   90.07           Automobiles   2026-03-31 3.85    2026-04-01 4.1  6.49 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  RGC Regencell Bioscience Holdings Ltd  125.75                  Pharmaceuticals  2026-03-31 25.43  2026-04-01 33.72 32.60 
+  SNX                    TD Synnex Corp  136.02             Electrical Equipment 2026-03-31 168.71 2026-04-01 186.29 10.42 
+ SNDK                      Sandisk Corp  937.77                       Technology 2026-03-31 635.34 2026-04-01 692.73  9.03 
+   MU             Micron Technology Inc 3809.94                   Semiconductors 2026-03-31 337.84 2026-04-01 367.85  8.88 
+ INTC                        Intel Corp 2204.29                   Semiconductors  2026-03-31 44.13  2026-04-01 48.03  8.84 
+ LITE             Lumentum Holdings Inc  501.77                   Communications 2026-03-31 702.76 2026-04-01 764.65  8.81 
+   AA                        Alcoa Corp  175.00                  Metals & Mining  2026-03-31 66.33  2026-04-01 72.06  8.64 
+DUAVF              Dassault Aviation SA  242.43              Aerospace & Defense  2026-03-31 363.9  2026-04-01 395.0  8.55 
+  STX   Seagate Technology Holdings PLC  854.32                       Technology 2026-03-31 391.76 2026-04-01 423.12  8.00 
+ MRVL            Marvell Technology Inc  865.99                   Semiconductors  2026-03-31 99.05 2026-04-01 106.71  7.73 
+ CIEN                        Ciena Corp  548.95                   Communications 2026-03-31 388.23 2026-04-01 415.39  7.00 
+ TSEM           Tower Semiconductor Ltd  196.11                   Semiconductors 2026-03-31 175.48 2026-04-01 187.07  6.60 
+   AU             Anglogold Ashanti PLC  457.23                  Metals & Mining  2026-03-31 97.36 2026-04-01 103.52  6.33 
+PPRUF                         Kering SA  314.44 Textiles, Apparel & Luxury Goods  2026-03-31 278.3 2026-04-01 295.39  6.14 
+  TER                      Teradyne Inc  464.13                   Semiconductors 2026-03-31 296.46  2026-04-01 312.2  5.31 
+  NEM               Newmont Corporation 1177.62                  Metals & Mining 2026-03-31 108.25 2026-04-01 113.79  5.12 
+ COKE        Coca-Cola Consolidated Inc  127.63                        Beverages 2026-03-31 191.74 2026-04-01 201.01  4.83 
+ FLEX                          Flex Ltd  240.68             Electrical Equipment  2026-03-31 65.46  2026-04-01 68.24  4.25 
+   BA                         Boeing Co 1563.08              Aerospace & Defense 2026-03-31 199.03 2026-04-01 207.32  4.17 
+   UI                      Ubiquiti Inc  478.29                   Communications 2026-03-31 790.29 2026-04-01 822.99  4.14 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ SNDK                    Sandisk Corp  937.77                       Technology 2026-03-31 635.34 2026-04-01 692.73  9.03 
+   MU           Micron Technology Inc 3809.94                   Semiconductors 2026-03-31 337.84 2026-04-01 367.85  8.88 
+ INTC                      Intel Corp 2204.29                   Semiconductors  2026-03-31 44.13  2026-04-01 48.03  8.84 
+ LITE           Lumentum Holdings Inc  501.77                   Communications 2026-03-31 702.76 2026-04-01 764.65  8.81 
+DUAVF            Dassault Aviation SA  242.43              Aerospace & Defense  2026-03-31 363.9  2026-04-01 395.0  8.55 
+  STX Seagate Technology Holdings PLC  854.32                       Technology 2026-03-31 391.76 2026-04-01 423.12  8.00 
+ MRVL          Marvell Technology Inc  865.99                   Semiconductors  2026-03-31 99.05 2026-04-01 106.71  7.73 
+ CIEN                      Ciena Corp  548.95                   Communications 2026-03-31 388.23 2026-04-01 415.39  7.00 
+   AU           Anglogold Ashanti PLC  457.23                  Metals & Mining  2026-03-31 97.36 2026-04-01 103.52  6.33 
+PPRUF                       Kering SA  314.44 Textiles, Apparel & Luxury Goods  2026-03-31 278.3 2026-04-01 295.39  6.14 
+  TER                    Teradyne Inc  464.13                   Semiconductors 2026-03-31 296.46  2026-04-01 312.2  5.31 
+  NEM             Newmont Corporation 1177.62                  Metals & Mining 2026-03-31 108.25 2026-04-01 113.79  5.12 
+ FLEX                        Flex Ltd  240.68             Electrical Equipment  2026-03-31 65.46  2026-04-01 68.24  4.25 
+   BA                       Boeing Co 1563.08              Aerospace & Defense 2026-03-31 199.03 2026-04-01 207.32  4.17 
+   UI                    Ubiquiti Inc  478.29                   Communications 2026-03-31 790.29 2026-04-01 822.99  4.14 
+THLEF                       Thales SA  505.78              Aerospace & Defense  2026-03-31 295.7 2026-04-01 307.87  4.12 
+  FCX            Freeport-McMoRan Inc  844.79                  Metals & Mining  2026-03-31 58.78   2026-04-01 61.2  4.12 
+ COHR                   Coherent Corp  446.60             Electrical Equipment 2026-03-31 238.21  2026-04-01 247.8  4.03 
+ LRCX               Lam Research Corp 2668.12                   Semiconductors 2026-03-31 213.66 2026-04-01 222.01  3.91 
+ RGLD                  Royal Gold Inc  215.83                  Metals & Mining 2026-03-31 254.49 2026-04-01 264.35  3.87 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+   MU      Micron Technology Inc  3809.94       Semiconductors  2026-03-31 337.84  2026-04-01 367.85  8.88 
+ INTC                 Intel Corp  2204.29       Semiconductors   2026-03-31 44.13   2026-04-01 48.03  8.84 
+  NEM        Newmont Corporation  1177.62      Metals & Mining  2026-03-31 108.25  2026-04-01 113.79  5.12 
+   BA                  Boeing Co  1563.08  Aerospace & Defense  2026-03-31 199.03  2026-04-01 207.32  4.17 
+ LRCX          Lam Research Corp  2668.12       Semiconductors  2026-03-31 213.66  2026-04-01 222.01  3.91 
+  LLY           Eli Lilly and Co  8690.16      Pharmaceuticals  2026-03-31 919.77  2026-04-01 954.52  3.78 
+ AMAT      Applied Materials Inc  2712.48       Semiconductors  2026-03-31 341.79   2026-04-01 353.8  3.51 
+ SCCO       Southern Copper Corp  1409.35      Metals & Mining  2026-03-31 172.06  2026-04-01 177.95  3.42 
+GOOGL               Alphabet Inc 34753.07                Media  2026-03-31 287.56  2026-04-01 297.39  3.42 
+  AMD Advanced Micro Devices Inc  3316.74       Semiconductors  2026-03-31 203.43  2026-04-01 210.21  3.33 
+ KLAC                   KLA Corp  1929.99       Semiconductors 2026-03-31 1472.41 2026-04-01 1519.84  3.22 
+ DELL      Dell Technologies Inc  1059.87           Technology  2026-03-31 164.13  2026-04-01 169.38  3.20 
+   GE        General Electric Co  2976.22  Aerospace & Defense  2026-03-31 283.77  2026-04-01 292.68  3.14 
+  CAT            Caterpillar Inc  3295.91            Machinery  2026-03-31 708.46  2026-04-01 730.32  3.09 
+   PH       Parker-Hannifin Corp  1129.94            Machinery  2026-03-31 895.24  2026-04-01 920.77  2.85 
+SBGSF      Schneider Electric SE  1281.62 Electrical Equipment  2026-03-31 270.88   2026-04-01 278.5  2.81 
+ GOOG               Alphabet Inc 34753.07                Media  2026-03-31 286.86   2026-04-01 294.9  2.80 
+ TSLA                  Tesla Inc 13949.67          Automobiles  2026-03-31 371.75  2026-04-01 381.26  2.56 
+  GEV             GE Vernova Inc  2352.72 Electrical Equipment   2026-03-31 872.9  2026-04-01 894.78  2.51 
+  ETN      Eaton Corporation PLC  1387.40 Electrical Equipment  2026-03-31 357.67  2026-04-01 365.56  2.21 
