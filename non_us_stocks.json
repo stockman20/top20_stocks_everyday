@@ -61048,5 +61048,23 @@
     "name": "Kenadyr Mining Corp",
     "country": "CA",
     "added_date": "2026-04-08 22:28:54"
+  },
+  "MOND": {
+    "exchange": "OTC MARKETS",
+    "name": "MH Wind Down Co Inc",
+    "country": "US",
+    "added_date": "2026-04-09 22:43:55"
+  },
+  "VDTA": {
+    "exchange": "OTC MARKETS",
+    "name": "Vertical Data Inc",
+    "country": "US",
+    "added_date": "2026-04-09 23:04:47"
+  },
+  "KAIFD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Kairos Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-04-09 23:31:20"
   }
 }
