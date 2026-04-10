@@ -61066,5 +61066,35 @@
     "name": "Kairos Minerals Ltd",
     "country": "AU",
     "added_date": "2026-04-09 23:31:20"
+  },
+  "SURMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Surface Metals Inc",
+    "country": "CA",
+    "added_date": "2026-04-10 23:16:59"
+  },
+  "DUKRD": {
+    "exchange": "OTC MARKETS",
+    "name": "DUKE Robotics Corp",
+    "country": "IL",
+    "added_date": "2026-04-10 23:28:50"
+  },
+  "MANVF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Manning Ventures Inc",
+    "country": "CA",
+    "added_date": "2026-04-10 23:38:32"
+  },
+  "STIFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Plaid Technologies Inc",
+    "country": "CA",
+    "added_date": "2026-04-10 23:47:33"
+  },
+  "CQTHF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "CONNEQT Health Ltd",
+    "country": "AU",
+    "added_date": "2026-04-10 23:52:30"
   }
 }
