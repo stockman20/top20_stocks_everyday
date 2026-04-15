@@ -61132,5 +61132,47 @@
     "name": "Chariot Resources Ltd",
     "country": "AU",
     "added_date": "2026-04-14 23:55:19"
+  },
+  "OGC": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "OceanaGold Corp",
+    "country": "CA",
+    "added_date": "2026-04-15 22:55:39"
+  },
+  "XNDU": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Xanadu Quantum Technologies Ltd",
+    "country": "CA",
+    "added_date": "2026-04-15 22:55:46"
+  },
+  "ICGSF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "ICG Silver and Gold Ltd",
+    "country": "CA",
+    "added_date": "2026-04-15 22:58:32"
+  },
+  "MSILF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "MS International PLC",
+    "country": "GB",
+    "added_date": "2026-04-15 23:05:33"
+  },
+  "MKSED": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Marksmen Energy Inc",
+    "country": "CA",
+    "added_date": "2026-04-15 23:31:27"
+  },
+  "SMOPF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Smartoptics Group ASA",
+    "country": "NO",
+    "added_date": "2026-04-15 23:34:55"
+  },
+  "SPTCF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Sparc Technologies Ltd",
+    "country": "AU",
+    "added_date": "2026-04-15 23:35:54"
   }
 }
