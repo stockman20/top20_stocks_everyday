@@ -61114,5 +61114,23 @@
     "name": "MML Acquisition Corp",
     "country": "CA",
     "added_date": "2026-04-13 23:48:51"
+  },
+  "VLSOF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "Velesto Energy Bhd",
+    "country": "MY",
+    "added_date": "2026-04-14 22:22:58"
+  },
+  "KSMCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Kirkstone Metals Corp",
+    "country": "CA",
+    "added_date": "2026-04-14 23:27:45"
+  },
+  "CHRTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Chariot Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-04-14 23:55:19"
   }
 }
