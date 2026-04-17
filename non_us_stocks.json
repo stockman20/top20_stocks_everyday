@@ -61180,5 +61180,29 @@
     "name": "EnSilica PLC",
     "country": "GB",
     "added_date": "2026-04-16 22:39:48"
+  },
+  "GRAPF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "First Canadian Graphite Inc",
+    "country": "CA",
+    "added_date": "2026-04-17 23:18:48"
+  },
+  "RSGLF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Rocky Shore Gold Ltd.",
+    "country": "CA",
+    "added_date": "2026-04-17 23:32:07"
+  },
+  "CNCOD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Core Nickel Corp",
+    "country": "CA",
+    "added_date": "2026-04-17 23:32:07"
+  },
+  "SMRGF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Smaregi Inc",
+    "country": "JP",
+    "added_date": "2026-04-17 23:54:39"
   }
 }
