@@ -61204,5 +61204,23 @@
     "name": "Smaregi Inc",
     "country": "JP",
     "added_date": "2026-04-17 23:54:39"
+  },
+  "AAXBF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "AirAsia X Bhd",
+    "country": "MY",
+    "added_date": "2026-04-20 22:48:06"
+  },
+  "KIRGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Kairos Gold Inc",
+    "country": "CA",
+    "added_date": "2026-04-20 22:49:34"
+  },
+  "BMVLF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Bluebird Mining Ventures Ltd",
+    "country": "VG",
+    "added_date": "2026-04-20 23:28:42"
   }
 }
