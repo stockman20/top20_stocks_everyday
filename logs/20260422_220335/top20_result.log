@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                           公司名称                          市值(亿)               板块                    昨天收盘              今天收盘       涨跌幅(%)
+ AKAN                                             Akanda Corp  0.02               Pharmaceuticals  2026-04-21 3.25  2026-04-22 10.21 214.15
+ AGPU                                         Axe Compute Inc  0.27                   Health Care  2026-04-21 4.88   2026-04-22 8.75  79.30
+ TORO                                               Toro Corp  1.13                        Marine  2026-04-21 3.91   2026-04-22 6.76  72.76
+ HCAI Huachen AI Parking Management Technology Holding Co Ltd  0.08                     Machinery  2026-04-21 6.79   2026-04-22 9.74  43.45
+ GNLN                                  Greenlane Holdings Inc  0.02                  Distributors  2026-04-21 3.93   2026-04-22 5.53  40.71
+ INBX                                 Inhibrx Biosciences Inc 12.28                 Biotechnology 2026-04-21 84.08 2026-04-22 115.09  36.88
+ GAME                                 GameSquare Holdings Inc  0.43                         Media  2026-04-21 0.45   2026-04-22 0.61  33.97
+FAASF                                           DigiAsia Corp  0.01            Financial Services  2026-04-21 0.01   2026-04-22 0.01  32.00
+ RPGL                                Republic Power Group Ltd  0.31                    Technology  2026-04-21 0.72   2026-04-22 0.94  30.73
+ BEEM                                             Beam Global  0.32          Electrical Equipment  2026-04-21 1.52   2026-04-22 1.97  29.61
+ BNRG                                   Brenmiller Energy Ltd  0.02          Electrical Equipment  2026-04-21 3.25   2026-04-22 4.15  27.69
+ AGCC                           Agencia Comercial Spirits Ltd  6.49                  Distributors 2026-04-21 18.87  2026-04-22 23.96  26.97
+ NMAX                                             Newsmax Inc  9.40                         Media  2026-04-21 7.28   2026-04-22 9.24  26.92
+ SUPX                                SuperX AI Technology Ltd  2.23 Diversified Consumer Services  2026-04-21 8.31  2026-04-22 10.47  25.99
+ PTPI                              Petros Pharmaceuticals Inc  0.00               Pharmaceuticals  2026-04-21 0.01   2026-04-22 0.01  25.00
+ SBEV                               Splash Beverage Group Inc  0.03                     Beverages  2026-04-21 0.33   2026-04-22 0.41  24.70
+ POET                                   POET Technologies Inc 15.67                Semiconductors 2026-04-21 10.25  2026-04-22 12.77  24.59
+ FCEL                                     Fuelcell Energy Inc  5.03          Electrical Equipment  2026-04-21 9.49   2026-04-22 11.8  24.34
+   MX                            Magnachip Semiconductor Corp  1.29                Semiconductors  2026-04-21 3.54   2026-04-22 4.38  23.73
+ ACTU                                Actuate Therapeutics Inc  0.54                 Biotechnology  2026-04-21 2.27   2026-04-22 2.78  22.74
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)            板块                 昨天收盘              今天收盘        涨跌幅(%)
+ NVTS Navitas Semiconductor Corp   35.38        Semiconductors  2026-04-21 15.33   2026-04-22 18.47 20.48 
+  SMR         Nuscale Power Corp   40.04  Electrical Equipment  2026-04-21 11.67   2026-04-22 13.57 16.28 
+ AXTI                    AXT Inc   41.67        Semiconductors  2026-04-21 74.97   2026-04-22 86.94 15.97 
+ FRMI                  Fermi Inc   31.87           Real Estate   2026-04-21 5.06    2026-04-22 5.86 15.81 
+ OKLO                   Oklo Inc  108.67             Utilities  2026-04-21 62.61   2026-04-22 72.41 15.65 
+LBTYB         Liberty Global Ltd   41.02     Telecommunication   2026-04-21 14.8   2026-04-22 17.01 14.93 
+RANJF                Randstad NV   42.87 Professional Services   2026-04-21 25.2    2026-04-22 28.7 13.89 
+  GEV             GE Vernova Inc 2671.85  Electrical Equipment  2026-04-21 991.3 2026-04-22 1127.56 13.75 
+ MAAS                  Maase Inc   29.04             Insurance   2026-04-21 9.08    2026-04-22 10.3 13.44 
+  LEU        Centrus Energy Corp   37.67                Energy 2026-04-21 191.55  2026-04-22 217.08 13.33 
+  TFX               Teleflex Inc   55.14           Health Care 2026-04-21 124.75  2026-04-22 138.81 11.27 
+ USAR         USA Rare Earth Inc   49.81       Metals & Mining  2026-04-21 22.85   2026-04-22 25.41 11.20 
+SLOIF                  Soitec SA   35.77        Semiconductors  2026-04-21 116.0  2026-04-22 128.55 10.82 
+  MAS                 Masco Corp  135.47              Building  2026-04-21 66.76   2026-04-22 73.96 10.78 
+ UUUU           Energy Fuels Inc   49.58                Energy  2026-04-21 20.52   2026-04-22 22.63 10.28 
+ MSTR               Strategy Inc  566.67            Technology 2026-04-21 163.97  2026-04-22 179.36  9.39 
+  BSX     Boston Scientific Corp  884.57           Health Care  2026-04-21 59.52   2026-04-22 64.87  8.99 
+ CRCL  Circle Internet Group Inc  237.37            Technology  2026-04-21 96.02  2026-04-22 104.36  8.69 
+ RCUS      Arcus Biosciences Inc   30.74         Biotechnology  2026-04-21 24.52   2026-04-22 26.62  8.56 
+   MU      Micron Technology Inc 5067.81        Semiconductors 2026-04-21 449.38  2026-04-22 487.48  8.48 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)           板块                 昨天收盘              今天收盘        涨跌幅(%)
+OKLO                        Oklo Inc  108.67            Utilities  2026-04-21 62.61   2026-04-22 72.41 15.65 
+ GEV                  GE Vernova Inc 2671.85 Electrical Equipment  2026-04-21 991.3 2026-04-22 1127.56 13.75 
+ TFX                    Teleflex Inc   55.14          Health Care 2026-04-21 124.75  2026-04-22 138.81 11.27 
+ MAS                      Masco Corp  135.47             Building  2026-04-21 66.76   2026-04-22 73.96 10.78 
+MSTR                    Strategy Inc  566.67           Technology 2026-04-21 163.97  2026-04-22 179.36  9.39 
+ BSX          Boston Scientific Corp  884.57          Health Care  2026-04-21 59.52   2026-04-22 64.87  8.99 
+CRCL       Circle Internet Group Inc  237.37           Technology  2026-04-21 96.02  2026-04-22 104.36  8.69 
+  MU           Micron Technology Inc 5067.81       Semiconductors 2026-04-21 449.38  2026-04-22 487.48  8.48 
+ CCJ                     Cameco Corp  507.79               Energy 2026-04-21 116.61  2026-04-22 126.47  8.46 
+SNDK                    Sandisk Corp 1333.56           Technology 2026-04-21 903.49  2026-04-22 979.07  8.37 
+CIFR              Cipher Digital Inc   73.08           Technology  2026-04-21 18.04   2026-04-22 19.44  7.76 
+LUNR          Intuitive Machines Inc   60.31  Aerospace & Defense  2026-04-21 27.82   2026-04-22 29.94  7.62 
+VICR                      Vicor Corp  111.73 Electrical Equipment 2026-04-21 246.24   2026-04-22 265.0  7.62 
+ NXT                   Nextpower Inc  160.43 Electrical Equipment 2026-04-21 108.05  2026-04-22 116.19  7.53 
+SIRI          Sirius XM Holdings Inc   87.64                Media  2026-04-21 26.18   2026-04-22 28.06  7.18 
+ISRG          Intuitive Surgical Inc 1602.85          Health Care 2026-04-21 451.29  2026-04-22 483.62  7.16 
+IREN                        IREN Ltd  149.86           Technology  2026-04-21 45.17   2026-04-22 48.39  7.13 
+  PM Philip Morris International Inc 2388.45              Tobacco 2026-04-21 153.25  2026-04-22 163.95  6.98 
+ AMD      Advanced Micro Devices Inc 4638.15       Semiconductors 2026-04-21 284.49  2026-04-22 303.46  6.67 
+RIOT              Riot Platforms Inc   66.01           Technology  2026-04-21 17.41   2026-04-22 18.48  6.15 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)            板块                 昨天收盘              今天收盘        涨跌幅(%)
+OKLO                        Oklo Inc   108.67            Utilities  2026-04-21 62.61   2026-04-22 72.41 15.65 
+ GEV                  GE Vernova Inc  2671.85 Electrical Equipment  2026-04-21 991.3 2026-04-22 1127.56 13.75 
+ MAS                      Masco Corp   135.47             Building  2026-04-21 66.76   2026-04-22 73.96 10.78 
+MSTR                    Strategy Inc   566.67           Technology 2026-04-21 163.97  2026-04-22 179.36  9.39 
+ BSX          Boston Scientific Corp   884.57          Health Care  2026-04-21 59.52   2026-04-22 64.87  8.99 
+CRCL       Circle Internet Group Inc   237.37           Technology  2026-04-21 96.02  2026-04-22 104.36  8.69 
+  MU           Micron Technology Inc  5067.81       Semiconductors 2026-04-21 449.38  2026-04-22 487.48  8.48 
+ CCJ                     Cameco Corp   507.79               Energy 2026-04-21 116.61  2026-04-22 126.47  8.46 
+SNDK                    Sandisk Corp  1333.56           Technology 2026-04-21 903.49  2026-04-22 979.07  8.37 
+VICR                      Vicor Corp   111.73 Electrical Equipment 2026-04-21 246.24   2026-04-22 265.0  7.62 
+ NXT                   Nextpower Inc   160.43 Electrical Equipment 2026-04-21 108.05  2026-04-22 116.19  7.53 
+ISRG          Intuitive Surgical Inc  1602.85          Health Care 2026-04-21 451.29  2026-04-22 483.62  7.16 
+IREN                        IREN Ltd   149.86           Technology  2026-04-21 45.17   2026-04-22 48.39  7.13 
+  PM Philip Morris International Inc  2388.45              Tobacco 2026-04-21 153.25  2026-04-22 163.95  6.98 
+ AMD      Advanced Micro Devices Inc  4638.15       Semiconductors 2026-04-21 284.49  2026-04-22 303.46  6.67 
+ASTS             AST SpaceMobile Inc   305.66    Telecommunication  2026-04-21 80.01   2026-04-22 84.66  5.81 
+  BA                       Boeing Co  1722.26  Aerospace & Defense 2026-04-21 219.16  2026-04-22 231.28  5.53 
+COIN             Coinbase Global Inc   517.45   Financial Services 2026-04-21 195.95  2026-04-22 206.24  5.25 
+  MP               MP Materials Corp   116.83      Metals & Mining  2026-04-21 65.76   2026-04-22 69.19  5.22 
+AVGO                    Broadcom Inc 19041.41       Semiconductors 2026-04-21 402.17  2026-04-22 422.65  5.09 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码               公司名称               市值(亿)            板块                 昨天收盘              今天收盘        涨跌幅(%)
+ GEV                  GE Vernova Inc  2671.85 Electrical Equipment  2026-04-21 991.3 2026-04-22 1127.56 13.75 
+MSTR                    Strategy Inc   566.67           Technology 2026-04-21 163.97  2026-04-22 179.36  9.39 
+ BSX          Boston Scientific Corp   884.57          Health Care  2026-04-21 59.52   2026-04-22 64.87  8.99 
+CRCL       Circle Internet Group Inc   237.37           Technology  2026-04-21 96.02  2026-04-22 104.36  8.69 
+  MU           Micron Technology Inc  5067.81       Semiconductors 2026-04-21 449.38  2026-04-22 487.48  8.48 
+ CCJ                     Cameco Corp   507.79               Energy 2026-04-21 116.61  2026-04-22 126.47  8.46 
+SNDK                    Sandisk Corp  1333.56           Technology 2026-04-21 903.49  2026-04-22 979.07  8.37 
+ISRG          Intuitive Surgical Inc  1602.85          Health Care 2026-04-21 451.29  2026-04-22 483.62  7.16 
+  PM Philip Morris International Inc  2388.45              Tobacco 2026-04-21 153.25  2026-04-22 163.95  6.98 
+ AMD      Advanced Micro Devices Inc  4638.15       Semiconductors 2026-04-21 284.49  2026-04-22 303.46  6.67 
+ASTS             AST SpaceMobile Inc   305.66    Telecommunication  2026-04-21 80.01   2026-04-22 84.66  5.81 
+  BA                       Boeing Co  1722.26  Aerospace & Defense 2026-04-21 219.16  2026-04-22 231.28  5.53 
+COIN             Coinbase Global Inc   517.45   Financial Services 2026-04-21 195.95  2026-04-22 206.24  5.25 
+AVGO                    Broadcom Inc 19041.41       Semiconductors 2026-04-21 402.17  2026-04-22 422.65  5.09 
+RDDT                      Reddit Inc   299.58                Media 2026-04-21 156.82  2026-04-22 164.31  4.78 
+PLTR       Palantir Technologies Inc  3491.13           Technology 2026-04-21 145.97  2026-04-22 152.62  4.56 
+TECK              Teck Resources Ltd   277.34      Metals & Mining  2026-04-21 56.71   2026-04-22 59.26  4.50 
+LITE           Lumentum Holdings Inc   597.56       Communications 2026-04-21 836.92   2026-04-22 873.6  4.38 
+ FCX            Freeport-McMoRan Inc   971.12      Metals & Mining  2026-04-21 67.57   2026-04-22 70.36  4.13 
+  BE               Bloom Energy Corp   623.87 Electrical Equipment 2026-04-21 220.91  2026-04-22 229.75  4.00 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)            板块                 昨天收盘              今天收盘        涨跌幅(%)
+  GEV                  GE Vernova Inc  2671.85 Electrical Equipment  2026-04-21 991.3 2026-04-22 1127.56 13.75 
+   MU           Micron Technology Inc  5067.81       Semiconductors 2026-04-21 449.38  2026-04-22 487.48  8.48 
+ SNDK                    Sandisk Corp  1333.56           Technology 2026-04-21 903.49  2026-04-22 979.07  8.37 
+ ISRG          Intuitive Surgical Inc  1602.85          Health Care 2026-04-21 451.29  2026-04-22 483.62  7.16 
+   PM Philip Morris International Inc  2388.45              Tobacco 2026-04-21 153.25  2026-04-22 163.95  6.98 
+  AMD      Advanced Micro Devices Inc  4638.15       Semiconductors 2026-04-21 284.49  2026-04-22 303.46  6.67 
+   BA                       Boeing Co  1722.26  Aerospace & Defense 2026-04-21 219.16  2026-04-22 231.28  5.53 
+ AVGO                    Broadcom Inc 19041.41       Semiconductors 2026-04-21 402.17  2026-04-22 422.65  5.09 
+ PLTR       Palantir Technologies Inc  3491.13           Technology 2026-04-21 145.97  2026-04-22 152.62  4.56 
+ MRVL          Marvell Technology Inc  1323.14       Semiconductors 2026-04-21 151.31  2026-04-22 157.32  3.97 
+LRLCF                      L'Oreal SA  1868.55    Consumer products 2026-04-21 400.86   2026-04-22 416.5  3.90 
+  STX Seagate Technology Holdings PLC  1220.99           Technology  2026-04-21 559.9  2026-04-22 579.88  3.57 
+ ORCL                     Oracle Corp  5210.53           Technology 2026-04-21 181.17   2026-04-22 187.5  3.49 
+  CEG       Constellation Energy Corp  1006.09            Utilities  2026-04-21 277.7  2026-04-22 287.16  3.41 
+ ANET             Arista Networks Inc  2172.05       Communications 2026-04-21 172.86  2026-04-22 177.73  2.82 
+ LRCX               Lam Research Corp  3226.45       Semiconductors 2026-04-21 258.37  2026-04-22 265.55  2.78 
+ AAPL                       Apple Inc 39076.79           Technology 2026-04-21 266.17  2026-04-22 273.17  2.63 
+  NEM             Newmont Corporation  1180.37      Metals & Mining  2026-04-21 109.3  2026-04-22 111.85  2.33 
+ AMAT           Applied Materials Inc  3129.44       Semiconductors 2026-04-21 394.33  2026-04-22 403.48  2.32 
+ SCCO            Southern Copper Corp  1503.30      Metals & Mining 2026-04-21 183.53  2026-04-22 187.71  2.28 
