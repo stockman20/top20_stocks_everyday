@@ -61276,5 +61276,23 @@
     "name": "Evolve Royalties Ltd",
     "country": "CA",
     "added_date": "2026-04-28 00:05:25"
+  },
+  "NBITF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Norbit ASA",
+    "country": "NO",
+    "added_date": "2026-04-28 23:03:35"
+  },
+  "NYNOF": {
+    "exchange": "XETRA",
+    "name": "Nynomic AG",
+    "country": "DE",
+    "added_date": "2026-04-28 23:45:34"
+  },
+  "TRLED": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Trillion Energy International Inc",
+    "country": "CA",
+    "added_date": "2026-04-28 23:57:42"
   }
 }
