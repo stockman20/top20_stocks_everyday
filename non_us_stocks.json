@@ -61294,5 +61294,23 @@
     "name": "Trillion Energy International Inc",
     "country": "CA",
     "added_date": "2026-04-28 23:57:42"
+  },
+  "FGLDD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Falcon Gold Corp",
+    "country": "CA",
+    "added_date": "2026-04-29 22:23:51"
+  },
+  "SBKLF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Sumitomo Bakelite Co Ltd",
+    "country": "JP",
+    "added_date": "2026-04-29 23:40:22"
+  },
+  "QPIFF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Quam Plus International Financial Ltd",
+    "country": "HK",
+    "added_date": "2026-04-30 00:05:15"
   }
 }
