@@ -61402,5 +61402,53 @@
     "name": "Eastport Critical Metals Corp",
     "country": "CA",
     "added_date": "2026-05-05 23:27:02"
+  },
+  "NRGFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "AE Fuels Corp",
+    "country": "CA",
+    "added_date": "2026-05-06 22:48:34"
+  },
+  "KAVL": {
+    "exchange": "OTC MARKETS",
+    "name": "Kaival Brands Innovations Group Inc",
+    "country": "US",
+    "added_date": "2026-05-06 22:48:35"
+  },
+  "SYRA": {
+    "exchange": "OTC MARKETS",
+    "name": "Syra Health Corp",
+    "country": "US",
+    "added_date": "2026-05-06 22:50:06"
+  },
+  "SYBX": {
+    "exchange": "OTC MARKETS",
+    "name": "Synlogic Inc",
+    "country": "US",
+    "added_date": "2026-05-06 22:50:12"
+  },
+  "ANEB": {
+    "exchange": "OTC MARKETS",
+    "name": "Anebulo Pharmaceuticals Inc",
+    "country": "US",
+    "added_date": "2026-05-06 22:51:35"
+  },
+  "AYA": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Aya Gold & Silver Inc",
+    "country": "CA",
+    "added_date": "2026-05-06 22:51:37"
+  },
+  "LOGC": {
+    "exchange": "OTC MARKETS",
+    "name": "ContextLogic Holdings Inc",
+    "country": "US",
+    "added_date": "2026-05-06 22:54:45"
+  },
+  "BAMIF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Blue Ant Media Corporation",
+    "country": "CA",
+    "added_date": "2026-05-06 22:56:12"
   }
 }
