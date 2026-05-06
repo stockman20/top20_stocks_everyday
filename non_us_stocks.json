@@ -61372,5 +61372,35 @@
     "name": "Chimeric Therapeutics Ltd",
     "country": "AU",
     "added_date": "2026-05-04 23:47:27"
+  },
+  "TTSH": {
+    "exchange": "OTC MARKETS",
+    "name": "Tile Shop Holdings Inc",
+    "country": "US",
+    "added_date": "2026-05-05 22:54:04"
+  },
+  "CIMG": {
+    "exchange": "OTC MARKETS",
+    "name": "CIMG Inc",
+    "country": "HK",
+    "added_date": "2026-05-05 23:05:56"
+  },
+  "VXRT": {
+    "exchange": "OTC MARKETS",
+    "name": "Vaxart Inc",
+    "country": "US",
+    "added_date": "2026-05-05 23:08:59"
+  },
+  "RBOT": {
+    "exchange": "OTC MARKETS",
+    "name": "Vicarious Surgical Inc",
+    "country": "US",
+    "added_date": "2026-05-05 23:19:02"
+  },
+  "EVIIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Eastport Critical Metals Corp",
+    "country": "CA",
+    "added_date": "2026-05-05 23:27:02"
   }
 }
