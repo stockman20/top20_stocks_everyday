@@ -61540,5 +61540,41 @@
     "name": "Inspecs Group PLC",
     "country": "GB",
     "added_date": "2026-05-11 23:55:47"
+  },
+  "HYGN": {
+    "exchange": "OTC MARKETS",
+    "name": "Hydrogenetics Inc",
+    "country": "US",
+    "added_date": "2026-05-12 22:41:55"
+  },
+  "RPKIF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Richards Group Inc",
+    "country": "CA",
+    "added_date": "2026-05-12 23:17:07"
+  },
+  "KOGDF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Ko Gold Inc",
+    "country": "CA",
+    "added_date": "2026-05-12 23:17:19"
+  },
+  "TKMSF": {
+    "exchange": "XETRA",
+    "name": "TKMS AG & Co KgaA",
+    "country": "DE",
+    "added_date": "2026-05-12 23:18:04"
+  },
+  "ROKOF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Roko AB (publ)",
+    "country": "SE",
+    "added_date": "2026-05-12 23:31:09"
+  },
+  "CANVF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Cavendish Hydrogen ASA",
+    "country": "NO",
+    "added_date": "2026-05-12 23:33:31"
   }
 }

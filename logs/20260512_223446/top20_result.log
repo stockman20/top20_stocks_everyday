@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)               板块                     昨天收盘             今天收盘       涨跌幅(%)
+ TDIC                    Dreamland Ltd  0.08                          Media  2026-05-11 1.04  2026-05-12 2.36 126.92
+FAASF                    DigiAsia Corp  0.01             Financial Services   2026-05-11 0.0  2026-05-12 0.01 100.00
+ BZFD                     BuzzFeed Inc  0.27                          Media  2026-05-11 0.73  2026-05-12 1.39  90.41
+ STAK                         STAK Inc  0.11                         Energy  2026-05-11 1.11  2026-05-12 2.03  82.88
+ CPHI        China Pharma Holdings Inc  0.22                Pharmaceuticals  2026-05-11 0.53  2026-05-12 0.89  68.43
+ ERNA          Ernexa Therapeutics Inc  0.08                  Biotechnology  2026-05-11 7.21 2026-05-12 12.01  66.57
+ HTCO   High-Trend International Group  0.52                         Marine  2026-05-11 7.05 2026-05-12 11.28  60.00
+ GAUZ                        Gauzy Ltd  0.12           Electrical Equipment  2026-05-11 0.62  2026-05-12 0.93  49.43
+ AEHL Antelope Enterprise Holdings Ltd  0.07                          Media  2026-05-11 1.43  2026-05-12 2.11  47.55
+ AMBQ                  Ambiq Micro Inc  9.76                 Semiconductors 2026-05-11 45.67 2026-05-12 66.37  45.33
+CMBMF            Cambium Networks Corp  0.04                 Communications  2026-05-11 0.27  2026-05-12 0.39  44.44
+ CREG                Smart Powerr Corp  0.04 Commercial Services & Supplies  2026-05-11 0.18  2026-05-12 0.25  41.11
+ USBC                         USBC Inc  1.97                    Health Care  2026-05-11 0.51   2026-05-12 0.7  37.82
+  RXT         Rackspace Technology Inc 11.69                     Technology  2026-05-11 4.69  2026-05-12 6.33  34.97
+ ZSPC                     zSpace, Inc.  0.03  Diversified Consumer Services  2026-05-11 0.12  2026-05-12 0.17  32.00
+   GV           Visionary Holdings Inc  0.01  Diversified Consumer Services  2026-05-11 0.21  2026-05-12 0.27  30.29
+ VSTS                      Vestis Corp 11.79 Commercial Services & Supplies   2026-05-11 9.3  2026-05-12 12.0  29.03
+ PACS                   Pacs Group Inc 64.45                    Health Care  2026-05-11 31.9 2026-05-12 41.01  28.56
+  VPG       Vishay Precision Group Inc  8.21           Electrical Equipment  2026-05-11 66.6 2026-05-12 85.57  28.48
+ RIME          Algorhythm Holdings Inc  0.09              Consumer products  2026-05-11 0.61  2026-05-12 0.76  24.61
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码            公司名称           市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+PACS            Pacs Group Inc  64.45                   Health Care   2026-05-11 31.9  2026-05-12 41.01 28.56 
+ RAL             Ralliant Corp  66.22          Electrical Equipment  2026-05-11 49.56  2026-05-12 59.16 19.37 
+QUBT     Quantum Computing Inc  26.57                    Technology  2026-05-11 10.18  2026-05-12 11.78 15.72 
+AVEX                AEVEX Corp  27.84           Aerospace & Defense  2026-05-11 24.41  2026-05-12 28.15 15.32 
+  VG        Venture Global Inc 286.49                        Energy  2026-05-11 11.62  2026-05-12 13.27 14.20 
+HLIO   Helios Technologies Inc  25.68                     Machinery  2026-05-11 68.02  2026-05-12 77.57 14.04 
+NOVT               Novanta Inc  49.95          Electrical Equipment 2026-05-11 139.98 2026-05-12 159.19 13.72 
+INSM                Insmed Inc 225.18                 Biotechnology 2026-05-11 103.89  2026-05-12 116.0 11.66 
+ZBRA   Zebra Technologies Corp 109.64          Electrical Equipment 2026-05-11 216.96 2026-05-12 241.79 11.44 
+   Q     Qnity Electronics Inc 321.16                Semiconductors 2026-05-11 153.24 2026-05-12 168.36  9.87 
+ARMK                   Aramark 127.24 Hotels, Restaurants & Leisure  2026-05-11 44.56  2026-05-12 48.41  8.64 
+ PSN              Parsons Corp  52.14         Professional Services  2026-05-11 48.74   2026-05-12 52.7  8.12 
+ALKS              Alkermes Plc  59.12                 Biotechnology  2026-05-11 35.47  2026-05-12 38.29  7.95 
+OSCR          Oscar Health Inc  70.66                     Insurance   2026-05-11 22.0  2026-05-12 23.73  7.86 
+ HUM                Humana Inc 354.60                   Health Care 2026-05-11 274.26 2026-05-12 295.35  7.69 
+SPHR   Sphere Entertainment Co  45.42                         Media 2026-05-11 126.91 2026-05-12 135.96  7.13 
+ALHC  Alignment Healthcare Inc  35.48                   Health Care  2026-05-11 17.16  2026-05-12 18.38  7.11 
+ELVN  Enliven Therapeutics Inc  24.11               Pharmaceuticals  2026-05-11 39.59   2026-05-12 42.3  6.85 
+HALO Halozyme Therapeutics Inc  78.68                 Biotechnology  2026-05-11 66.41  2026-05-12 70.93  6.81 
+INTR            Inter & Co Inc  28.16                       Banking    2026-05-11 6.0    2026-05-12 6.4  6.67 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称               市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+PACS                    Pacs Group Inc  64.45                      Health Care   2026-05-11 31.9  2026-05-12 41.01 28.56 
+ RAL                     Ralliant Corp  66.22             Electrical Equipment  2026-05-11 49.56  2026-05-12 59.16 19.37 
+  VG                Venture Global Inc 286.49                           Energy  2026-05-11 11.62  2026-05-12 13.27 14.20 
+INSM                        Insmed Inc 225.18                    Biotechnology 2026-05-11 103.89  2026-05-12 116.0 11.66 
+ZBRA           Zebra Technologies Corp 109.64             Electrical Equipment 2026-05-11 216.96 2026-05-12 241.79 11.44 
+   Q             Qnity Electronics Inc 321.16                   Semiconductors 2026-05-11 153.24 2026-05-12 168.36  9.87 
+ARMK                           Aramark 127.24    Hotels, Restaurants & Leisure  2026-05-11 44.56  2026-05-12 48.41  8.64 
+ PSN                      Parsons Corp  52.14            Professional Services  2026-05-11 48.74   2026-05-12 52.7  8.12 
+ALKS                      Alkermes Plc  59.12                    Biotechnology  2026-05-11 35.47  2026-05-12 38.29  7.95 
+OSCR                  Oscar Health Inc  70.66                        Insurance   2026-05-11 22.0  2026-05-12 23.73  7.86 
+ HUM                        Humana Inc 354.60                      Health Care 2026-05-11 274.26 2026-05-12 295.35  7.69 
+HALO         Halozyme Therapeutics Inc  78.68                    Biotechnology  2026-05-11 66.41  2026-05-12 70.93  6.81 
+ SFM        Sprouts Farmers Market Inc  81.72                           Retail  2026-05-11 81.58  2026-05-12 86.89  6.51 
+KRMN               Karman Holdings Inc  77.95              Aerospace & Defense  2026-05-11 58.82  2026-05-12 62.48  6.22 
+EQPT            Equipmentshare.Com Inc  61.91 Trading Companies & Distributors  2026-05-11 23.27  2026-05-12 24.55  5.50 
+ CNC                      Centene Corp 278.30                      Health Care  2026-05-11 56.36  2026-05-12 59.31  5.23 
+CENX               Century Aluminum Co  59.56                  Metals & Mining  2026-05-11 60.18  2026-05-12 63.27  5.13 
+ HII Huntington Ingalls Industries Inc 125.21              Aerospace & Defense 2026-05-11 317.75 2026-05-12 333.56  4.98 
+ MDB                       MongoDB Inc 236.81                       Technology 2026-05-11 294.65 2026-05-12 308.72  4.78 
+ ZBH       Zimmer Biomet Holdings, Inc 186.83                      Health Care  2026-05-11 79.58  2026-05-12 83.37  4.76 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                板块                     昨天收盘              今天收盘        涨跌幅(%)
+   VG                       Venture Global Inc  286.49                        Energy  2026-05-11 11.62   2026-05-12 13.27 14.20 
+ INSM                               Insmed Inc  225.18                 Biotechnology 2026-05-11 103.89   2026-05-12 116.0 11.66 
+ ZBRA                  Zebra Technologies Corp  109.64          Electrical Equipment 2026-05-11 216.96  2026-05-12 241.79 11.44 
+    Q                    Qnity Electronics Inc  321.16                Semiconductors 2026-05-11 153.24  2026-05-12 168.36  9.87 
+ ARMK                                  Aramark  127.24 Hotels, Restaurants & Leisure  2026-05-11 44.56   2026-05-12 48.41  8.64 
+  HUM                               Humana Inc  354.60                   Health Care 2026-05-11 274.26  2026-05-12 295.35  7.69 
+  CNC                             Centene Corp  278.30                   Health Care  2026-05-11 56.36   2026-05-12 59.31  5.23 
+  HII        Huntington Ingalls Industries Inc  125.21           Aerospace & Defense 2026-05-11 317.75  2026-05-12 333.56  4.98 
+  MDB                              MongoDB Inc  236.81                    Technology 2026-05-11 294.65  2026-05-12 308.72  4.78 
+  ZBH              Zimmer Biomet Holdings, Inc  186.83                   Health Care  2026-05-11 79.58   2026-05-12 83.37  4.76 
+   CF               CF Industries Holdings Inc  191.24                     Chemicals 2026-05-11 124.48  2026-05-12 130.39  4.75 
+ ANET                      Arista Networks Inc 1717.93                Communications 2026-05-11 136.43  2026-05-12 142.54  4.48 
+  STE                               STERIS plc  206.79                   Health Care 2026-05-11 201.85  2026-05-12 210.85  4.46 
+  APH                            Amphenol Corp 1573.10          Electrical Equipment 2026-05-11 122.47  2026-05-12 127.87  4.41 
+  SYK                             Stryker Corp 1127.70                   Health Care 2026-05-11 282.58  2026-05-12 294.45  4.20 
+  PCG                                PG&E Corp  356.98                     Utilities  2026-05-11 16.21   2026-05-12 16.81  3.70 
+  TEL                      TE Connectivity PLC  601.66          Electrical Equipment 2026-05-11 206.12  2026-05-12 213.73  3.69 
+FCNCB First Citizens BancShares Inc (Delaware)  223.88                       Banking 2026-05-11 1591.0 2026-05-12 1648.99  3.64 
+  HAL                           Halliburton Co  348.36                        Energy  2026-05-11 40.26    2026-05-12 41.7  3.58 
+ SCCO                     Southern Copper Corp 1583.98               Metals & Mining 2026-05-11 185.23  2026-05-12 191.75  3.52 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)           板块                 昨天收盘              今天收盘        涨跌幅(%)
+   VG                       Venture Global Inc  286.49               Energy  2026-05-11 11.62   2026-05-12 13.27 14.20 
+ INSM                               Insmed Inc  225.18        Biotechnology 2026-05-11 103.89   2026-05-12 116.0 11.66 
+    Q                    Qnity Electronics Inc  321.16       Semiconductors 2026-05-11 153.24  2026-05-12 168.36  9.87 
+  HUM                               Humana Inc  354.60          Health Care 2026-05-11 274.26  2026-05-12 295.35  7.69 
+  CNC                             Centene Corp  278.30          Health Care  2026-05-11 56.36   2026-05-12 59.31  5.23 
+  MDB                              MongoDB Inc  236.81           Technology 2026-05-11 294.65  2026-05-12 308.72  4.78 
+ ANET                      Arista Networks Inc 1717.93       Communications 2026-05-11 136.43  2026-05-12 142.54  4.48 
+  STE                               STERIS plc  206.79          Health Care 2026-05-11 201.85  2026-05-12 210.85  4.46 
+  APH                            Amphenol Corp 1573.10 Electrical Equipment 2026-05-11 122.47  2026-05-12 127.87  4.41 
+  SYK                             Stryker Corp 1127.70          Health Care 2026-05-11 282.58  2026-05-12 294.45  4.20 
+  PCG                                PG&E Corp  356.98            Utilities  2026-05-11 16.21   2026-05-12 16.81  3.70 
+  TEL                      TE Connectivity PLC  601.66 Electrical Equipment 2026-05-11 206.12  2026-05-12 213.73  3.69 
+FCNCB First Citizens BancShares Inc (Delaware)  223.88              Banking 2026-05-11 1591.0 2026-05-12 1648.99  3.64 
+  HAL                           Halliburton Co  348.36               Energy  2026-05-11 40.26    2026-05-12 41.7  3.58 
+ SCCO                     Southern Copper Corp 1583.98      Metals & Mining 2026-05-11 185.23  2026-05-12 191.75  3.52 
+   CI                              Cigna Group  764.68          Health Care 2026-05-11 289.07  2026-05-12 298.49  3.26 
+  CVS                          CVS Health Corp 1214.04          Health Care  2026-05-11 92.22   2026-05-12 95.15  3.18 
+ SPOT                    Spotify Technology SA  890.74                Media  2026-05-11 419.5  2026-05-12 432.75  3.16 
+  UNH                   UnitedHealth Group Inc 3491.27          Health Care 2026-05-11 384.44  2026-05-12 396.39  3.11 
+  CHD                   Church & Dwight Co Inc  221.57    Consumer products  2026-05-11 90.72   2026-05-12 93.51  3.08 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码               公司名称               市值(亿)                板块                     昨天收盘              今天收盘        涨跌幅(%)
+ANET             Arista Networks Inc 1717.93                Communications 2026-05-11 136.43  2026-05-12 142.54  4.48 
+ APH                   Amphenol Corp 1573.10          Electrical Equipment 2026-05-11 122.47  2026-05-12 127.87  4.41 
+ SYK                    Stryker Corp 1127.70                   Health Care 2026-05-11 282.58  2026-05-12 294.45  4.20 
+SCCO            Southern Copper Corp 1583.98               Metals & Mining 2026-05-11 185.23  2026-05-12 191.75  3.52 
+ CVS                 CVS Health Corp 1214.04                   Health Care  2026-05-11 92.22   2026-05-12 95.15  3.18 
+ UNH          UnitedHealth Group Inc 3491.27                   Health Care 2026-05-11 384.44  2026-05-12 396.39  3.11 
+VRTX      Vertex Pharmaceuticals Inc 1087.77                 Biotechnology 2026-05-11 435.17  2026-05-12 448.29  3.01 
+ISRG          Intuitive Surgical Inc 1487.70                   Health Care 2026-05-11 420.06  2026-05-12 431.87  2.81 
+  PM Philip Morris International Inc 2838.29                       Tobacco 2026-05-11 182.11  2026-05-12 186.93  2.65 
+NFLX                     Netflix Inc 3691.19                         Media  2026-05-11 85.45   2026-05-12 87.66  2.59 
+ APP                   Applovin Corp 1608.74                    Technology 2026-05-11 478.42  2026-05-12 490.69  2.56 
+ABBV                      AbbVie Inc 3672.46                 Biotechnology 2026-05-11 202.78  2026-05-12 207.86  2.51 
+ LLY                Eli Lilly and Co 9106.55               Pharmaceuticals 2026-05-11 966.99  2026-05-12 989.87  2.37 
+COST           Costco Wholesale Corp 4434.17                        Retail 2026-05-11 999.47 2026-05-12 1021.88  2.24 
+ ABT             Abbott Laboratories 1438.04                   Health Care  2026-05-11 82.56   2026-05-12 84.35  2.17 
+AMGN                       Amgen Inc 1778.82                 Biotechnology 2026-05-11 329.59  2026-05-12 336.29  2.03 
+ COP                  ConocoPhillips 1407.74                        Energy 2026-05-11 115.55  2026-05-12 117.87  2.01 
+  MO                Altria Group Inc 1167.09                       Tobacco  2026-05-11 68.61   2026-05-12 69.89  1.87 
+BKNG            Booking Holdings Inc 1244.14 Hotels, Restaurants & Leisure  2026-05-11 157.8  2026-05-12 160.56  1.75 
+  KO                    Coca-Cola Co 3443.28                     Beverages  2026-05-11 78.66   2026-05-12 80.03  1.74 
