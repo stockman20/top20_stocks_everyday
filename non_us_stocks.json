@@ -61576,5 +61576,41 @@
     "name": "Cavendish Hydrogen ASA",
     "country": "NO",
     "added_date": "2026-05-12 23:33:31"
+  },
+  "YARRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Pirate Gold Corp",
+    "country": "CA",
+    "added_date": "2026-05-13 23:35:31"
+  },
+  "MAUUF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Aero Energy Ltd",
+    "country": "CA",
+    "added_date": "2026-05-13 23:38:35"
+  },
+  "PKSHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "PKSHA Technology Inc",
+    "country": "JP",
+    "added_date": "2026-05-14 00:03:55"
+  },
+  "DAIYF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Dai Nippon Toryo Co Ltd",
+    "country": "JP",
+    "added_date": "2026-05-14 00:18:31"
+  },
+  "PYMOD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Hydrocarbon Dynamics Ltd",
+    "country": "AU",
+    "added_date": "2026-05-14 00:21:51"
+  },
+  "MDMLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Midas Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-05-14 00:24:08"
   }
 }
