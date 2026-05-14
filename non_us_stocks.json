@@ -61612,5 +61612,149 @@
     "name": "Midas Minerals Ltd",
     "country": "AU",
     "added_date": "2026-05-14 00:24:08"
+  },
+  "LTAFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Lithium Africa Corp",
+    "country": "KY",
+    "added_date": "2026-05-14 23:02:53"
+  },
+  "INDCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Indico Resources Ltd",
+    "country": "CA",
+    "added_date": "2026-05-14 23:33:49"
+  },
+  "HTPRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "HTC Purenergy Inc",
+    "country": "CA",
+    "added_date": "2026-05-14 23:33:57"
+  },
+  "CFCGF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Cafe De Coral Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-05-14 23:34:09"
+  },
+  "GISMF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Grupo Industrial Saltillo SAB de CV",
+    "country": "MX",
+    "added_date": "2026-05-14 23:38:00"
+  },
+  "CRQDQ": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Credito Real SAB de CV SOFOM ENR",
+    "country": "MX",
+    "added_date": "2026-05-14 23:38:10"
+  },
+  "NYLPF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Nippon Care Supply Co Ltd",
+    "country": "JP",
+    "added_date": "2026-05-14 23:41:03"
+  },
+  "ACAGF": {
+    "exchange": "HANSEATISCHE WERTPAPIERBOERSE HAMBURG",
+    "name": "Arcandor AG",
+    "country": "DE",
+    "added_date": "2026-05-14 23:41:55"
+  },
+  "CPTCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Cytophage Technologies Ltd",
+    "country": "CA",
+    "added_date": "2026-05-14 23:42:03"
+  },
+  "TKUNF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Tikun Olam Cannbit Pharmaceuticals Ltd",
+    "country": "IL",
+    "added_date": "2026-05-14 23:43:53"
+  },
+  "IFTBF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Infant Bacterial Therapeutics AB",
+    "country": "SE",
+    "added_date": "2026-05-14 23:45:13"
+  },
+  "NIRVF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Nirvana Life Sciences Inc",
+    "country": "CA",
+    "added_date": "2026-05-14 23:48:07"
+  },
+  "AVIZF": {
+    "exchange": "STOCK EXCHANGE OF THAILAND",
+    "name": "Advanced Info Service PCL",
+    "country": "TH",
+    "added_date": "2026-05-14 23:48:10"
+  },
+  "SYNMF": {
+    "exchange": "AKTIETORGET",
+    "name": "SyntheticMR AB (publ)",
+    "country": "SE",
+    "added_date": "2026-05-14 23:49:41"
+  },
+  "IFISF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "IFIS Japan Ltd",
+    "country": "JP",
+    "added_date": "2026-05-14 23:49:57"
+  },
+  "ELBDF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Elbit Medical Technologies Ltd",
+    "country": "IL",
+    "added_date": "2026-05-14 23:50:14"
+  },
+  "DRTFF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Desert Control AS",
+    "country": "NO",
+    "added_date": "2026-05-14 23:52:11"
+  },
+  "TIEMF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Tiemco Ltd",
+    "country": "JP",
+    "added_date": "2026-05-14 23:52:50"
+  },
+  "PCTZF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Bravern Ventures Ltd",
+    "country": "CA",
+    "added_date": "2026-05-14 23:54:27"
+  },
+  "PRTOF": {
+    "exchange": "OTC MARKETS",
+    "name": "PRTS CAM Pte Ltd",
+    "country": "SG",
+    "added_date": "2026-05-14 23:54:33"
+  },
+  "ENFD": {
+    "exchange": "OTC MARKETS",
+    "name": "EnergyFunders Yield Fund I GP LLC",
+    "country": "US",
+    "added_date": "2026-05-14 23:55:40"
+  },
+  "NPTSF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Napatech A/S",
+    "country": "DK",
+    "added_date": "2026-05-14 23:55:52"
+  },
+  "LTUC": {
+    "exchange": "OTC MARKETS",
+    "name": "Little Sioux Corn Processors LLC",
+    "country": "US",
+    "added_date": "2026-05-14 23:57:40"
+  },
+  "EXLGF": {
+    "exchange": "XETRA",
+    "name": "Exasol AG",
+    "country": "DE",
+    "added_date": "2026-05-14 23:59:00"
   }
 }
