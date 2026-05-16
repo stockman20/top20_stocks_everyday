@@ -61756,5 +61756,65 @@
     "name": "Exasol AG",
     "country": "DE",
     "added_date": "2026-05-14 23:59:00"
+  },
+  "TSEOF": {
+    "exchange": "OTC MARKETS",
+    "name": "Trinseo PLC",
+    "country": "IE",
+    "added_date": "2026-05-15 22:21:30"
+  },
+  "PTSFF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Steady Safe Tbk PT",
+    "country": "ID",
+    "added_date": "2026-05-15 23:20:43"
+  },
+  "CSEC": {
+    "exchange": "OTC MARKETS",
+    "name": "California Science & Engineering Corp",
+    "country": "US",
+    "added_date": "2026-05-15 23:24:12"
+  },
+  "SXLXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Slam Exploration Ltd",
+    "country": "CA",
+    "added_date": "2026-05-15 23:33:24"
+  },
+  "MGRLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Magmatic Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-05-15 23:33:50"
+  },
+  "NXTBF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Next Biometrics Group ASA",
+    "country": "NO",
+    "added_date": "2026-05-15 23:36:30"
+  },
+  "AZN": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "AstraZeneca PLC",
+    "country": "GB",
+    "added_date": "2026-05-15 23:43:31"
+  },
+  "ENDRF": {
+    "exchange": "BOERSE MUENCHEN",
+    "name": "Endor AG",
+    "country": "DE",
+    "added_date": "2026-05-16 00:00:42"
+  },
+  "DYMDF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Diamyd Medical AB",
+    "country": "SE",
+    "added_date": "2026-05-16 00:03:54"
+  },
+  "AGLRF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Agility Capital Holding Inc",
+    "country": "PA",
+    "added_date": "2026-05-16 00:05:05"
   }
 }
