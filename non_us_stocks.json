@@ -61816,5 +61816,41 @@
     "name": "Agility Capital Holding Inc",
     "country": "PA",
     "added_date": "2026-05-16 00:05:05"
+  },
+  "BVRXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Bellavista Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-05-18 22:58:57"
+  },
+  "GIGI": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Gentoo Media Inc",
+    "country": "MT",
+    "added_date": "2026-05-18 23:16:06"
+  },
+  "VKGLF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "Viking Line Abp",
+    "country": "FI",
+    "added_date": "2026-05-18 23:22:40"
+  },
+  "DNSBF": {
+    "exchange": "BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE)",
+    "name": "Dine SAB de CV",
+    "country": "MX",
+    "added_date": "2026-05-18 23:24:45"
+  },
+  "GCSSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Gecoss Corp",
+    "country": "JP",
+    "added_date": "2026-05-18 23:24:49"
+  },
+  "FUNTF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Fountainhall Capital Corp",
+    "country": "CA",
+    "added_date": "2026-05-18 23:46:12"
   }
 }
