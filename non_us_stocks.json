@@ -61852,5 +61852,47 @@
     "name": "Fountainhall Capital Corp",
     "country": "CA",
     "added_date": "2026-05-18 23:46:12"
+  },
+  "ANRCF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Altona Rare Earths PLC",
+    "country": "GB",
+    "added_date": "2026-05-19 23:20:20"
+  },
+  "CRNMF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Cornish Metals PLC",
+    "country": "GB",
+    "added_date": "2026-05-19 23:30:17"
+  },
+  "HMRRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Hammer Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-05-19 23:39:10"
+  },
+  "PHNGF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Phinergy Ltd",
+    "country": "IL",
+    "added_date": "2026-05-19 23:50:54"
+  },
+  "UPERF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Nuclear Vision Ltd",
+    "country": "CA",
+    "added_date": "2026-05-19 23:53:11"
+  },
+  "FSESF": {
+    "exchange": "XETRA",
+    "name": "Marley Spoon Group SE",
+    "country": "LU",
+    "added_date": "2026-05-19 23:57:13"
+  },
+  "VLRMF": {
+    "exchange": "",
+    "name": "Valereum PLC",
+    "country": "GI",
+    "added_date": "2026-05-20 00:04:49"
   }
 }
