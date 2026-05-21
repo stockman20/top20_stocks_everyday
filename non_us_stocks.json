@@ -61894,5 +61894,23 @@
     "name": "Valereum PLC",
     "country": "GI",
     "added_date": "2026-05-20 00:04:49"
+  },
+  "ALNIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Aleen Inc",
+    "country": "CA",
+    "added_date": "2026-05-20 23:25:33"
+  },
+  "ASRFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Americas Uranium Corp",
+    "country": "CA",
+    "added_date": "2026-05-20 23:28:31"
+  },
+  "COTXF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Coiled Therapeutics PLC",
+    "country": "GB",
+    "added_date": "2026-05-20 23:34:25"
   }
 }
