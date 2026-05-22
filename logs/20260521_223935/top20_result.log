@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)           板块                昨天收盘             今天收盘       涨跌幅(%)
+ NCPL                 Netcapital Inc  0.04    Financial Services  2026-05-20 0.45  2026-05-21 0.82 80.62 
+ ATPC                 Agape ATP Corp  0.02           Health Care  2026-05-20 2.09  2026-05-21 3.59 71.77 
+ AKAN                    Akanda Corp  0.08       Pharmaceuticals 2026-05-20 14.51 2026-05-21 23.46 61.68 
+ CODX             Co-Diagnostics Inc  0.09           Health Care  2026-05-20 2.39  2026-05-21 3.71 55.23 
+ NIVF            NewGenIvf Group Ltd  0.00           Health Care  2026-05-20 0.74  2026-05-21 1.12 51.56 
+ PIII         P3 Health Partners Inc  0.70           Health Care  2026-05-20 9.69 2026-05-21 13.86 43.03 
+ SBFM         Sunshine Biopharma Inc  0.02         Biotechnology  2026-05-20 0.37  2026-05-21 0.52 40.71 
+ FBYD     Falcon's Beyond Global Inc 13.54 Professional Services 2026-05-20 13.98  2026-05-21 19.1 36.62 
+ EDHL Everbright Digital Holding Ltd  0.04                 Media  2026-05-20 2.18  2026-05-21 2.92 33.94 
+ QBTS             D-Wave Quantum Inc 71.39            Technology  2026-05-20 19.3 2026-05-21 25.74 33.37 
+ JUNS      Jupiter Neurosciences Inc  0.07       Pharmaceuticals   2026-05-20 0.2  2026-05-21 0.27 32.10 
+ INFQ                 Infleqtion Inc 24.39            Technology 2026-05-20 11.18  2026-05-21 14.7 31.48 
+ NEOV                   NeoVolta Inc  0.97  Electrical Equipment  2026-05-20 2.26  2026-05-21 2.96 30.97 
+ RGTI          Rigetti Computing Inc 56.11        Semiconductors 2026-05-20 16.88 2026-05-21 22.04 30.57 
+ FCEL            Fuelcell Energy Inc 10.71  Electrical Equipment 2026-05-20 20.22 2026-05-21 26.38 30.46 
+LSBCF     LakeShore Biopharma Co Ltd  0.02         Biotechnology  2026-05-20 0.04  2026-05-21 0.05 29.73 
+ LNAI             Lunai Bioworks Inc  0.08         Biotechnology  2026-05-20 0.22  2026-05-21 0.29 29.11 
+EUTLF     Eutelsat Communications SA 36.86                 Media  2026-05-20 3.51  2026-05-21 4.46 27.07 
+ AMCI              AMC Robotics Corp  0.99  Electrical Equipment  2026-05-20 4.37  2026-05-21 5.55 27.00 
+ GCTS  GCT Semiconductor Holding Inc  2.28        Semiconductors  2026-05-20 2.74  2026-05-21 3.45 25.91 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ QBTS                   D-Wave Quantum Inc   71.39                       Technology   2026-05-20 19.3  2026-05-21 25.74 33.37 
+ INFQ                       Infleqtion Inc   24.39                       Technology  2026-05-20 11.18   2026-05-21 14.7 31.48 
+ RGTI                Rigetti Computing Inc   56.11                   Semiconductors  2026-05-20 16.88  2026-05-21 22.04 30.57 
+EUTLF           Eutelsat Communications SA   36.86                            Media   2026-05-20 3.51   2026-05-21 4.46 27.07 
+ APLD                 Applied Digital Corp  112.94                       Technology  2026-05-20 39.52  2026-05-21 48.02 21.51 
+ BIRK              Birkenstock Holding PLC   61.08 Textiles, Apparel & Luxury Goods  2026-05-20 33.21  2026-05-21 39.67 19.45 
+ QUBT                Quantum Computing Inc   21.56                       Technology   2026-05-20 9.56  2026-05-21 11.41 19.35 
+ ENPH                   Enphase Energy Inc   70.05                   Semiconductors  2026-05-20 53.15  2026-05-21 62.34 17.29 
+ AXTI                              AXT Inc   68.44                   Semiconductors 2026-05-20 104.61 2026-05-21 121.02 15.69 
+  GFS                  GlobalFoundries Inc  393.89                   Semiconductors  2026-05-20 70.79  2026-05-21 81.35 14.92 
+ EOSE           Eos Energy Enterprises Inc   24.14             Electrical Equipment   2026-05-20 7.11   2026-05-21 8.17 14.91 
+ NBIS                      Nebius Group NV  482.72                       Technology 2026-05-20 191.82 2026-05-21 219.93 14.65 
+  AAP               Advance Auto Parts Inc   30.91                           Retail  2026-05-20 51.24  2026-05-21 58.62 14.40 
+ PLUG                       Plug Power Inc   46.18             Electrical Equipment   2026-05-20 3.31   2026-05-21 3.78 14.20 
+   RL                    Ralph Lauren Corp  199.37 Textiles, Apparel & Luxury Goods 2026-05-20 329.24  2026-05-21 374.9 13.87 
+ SPOT                Spotify Technology SA  891.91                            Media 2026-05-20 433.32 2026-05-21 489.93 13.06 
+  IBM International Business Machines Corp 2114.74                       Technology  2026-05-20 225.0 2026-05-21 252.97 12.43 
+ BTDR           Bitdeer Technologies Group   32.31                       Technology  2026-05-20 13.28  2026-05-21 14.92 12.35 
+ IONQ                             IONQ Inc  195.85                       Technology  2026-05-20 52.47  2026-05-21 58.89 12.24 
+ SEDG           Solaredge Technologies Inc   34.19                   Semiconductors  2026-05-20 56.22   2026-05-21 63.0 12.06 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ QBTS                   D-Wave Quantum Inc   71.39                       Technology    2026-05-20 19.3   2026-05-21 25.74 33.37 
+ RGTI                Rigetti Computing Inc   56.11                   Semiconductors   2026-05-20 16.88   2026-05-21 22.04 30.57 
+ APLD                 Applied Digital Corp  112.94                       Technology   2026-05-20 39.52   2026-05-21 48.02 21.51 
+ BIRK              Birkenstock Holding PLC   61.08 Textiles, Apparel & Luxury Goods   2026-05-20 33.21   2026-05-21 39.67 19.45 
+ ENPH                   Enphase Energy Inc   70.05                   Semiconductors   2026-05-20 53.15   2026-05-21 62.34 17.29 
+ AXTI                              AXT Inc   68.44                   Semiconductors  2026-05-20 104.61  2026-05-21 121.02 15.69 
+  GFS                  GlobalFoundries Inc  393.89                   Semiconductors   2026-05-20 70.79   2026-05-21 81.35 14.92 
+ NBIS                      Nebius Group NV  482.72                       Technology  2026-05-20 191.82  2026-05-21 219.93 14.65 
+   RL                    Ralph Lauren Corp  199.37 Textiles, Apparel & Luxury Goods  2026-05-20 329.24   2026-05-21 374.9 13.87 
+ SPOT                Spotify Technology SA  891.91                            Media  2026-05-20 433.32  2026-05-21 489.93 13.06 
+  IBM International Business Machines Corp 2114.74                       Technology   2026-05-20 225.0  2026-05-21 252.97 12.43 
+ IONQ                             IONQ Inc  195.85                       Technology   2026-05-20 52.47   2026-05-21 58.89 12.24 
+  ENS                              EnerSys   79.07             Electrical Equipment  2026-05-20 214.56  2026-05-21 238.91 11.35 
+ LITE                Lumentum Holdings Inc  675.36                   Communications  2026-05-20 868.07   2026-05-21 964.5 11.11 
+ SNDK                         Sandisk Corp 2062.24                       Technology 2026-05-20 1392.56 2026-05-21 1542.24 10.75 
+ CIFR                   Cipher Digital Inc   79.68                       Technology   2026-05-20 19.48   2026-05-21 21.52 10.47 
+ IREN                             IREN Ltd  188.10                       Technology   2026-05-20 52.71   2026-05-21 58.06 10.15 
+   MP                    MP Materials Corp  100.58                  Metals & Mining    2026-05-20 56.5   2026-05-21 61.74  9.27 
+   BE                    Bloom Energy Corp  803.01             Electrical Equipment  2026-05-20 282.31  2026-05-21 307.88  9.06 
+AAVXF                            Abivax SA   82.01                    Biotechnology  2026-05-20 115.65   2026-05-21 126.0  8.95 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ APLD                 Applied Digital Corp  112.94                       Technology   2026-05-20 39.52   2026-05-21 48.02 21.51 
+  GFS                  GlobalFoundries Inc  393.89                   Semiconductors   2026-05-20 70.79   2026-05-21 81.35 14.92 
+ NBIS                      Nebius Group NV  482.72                       Technology  2026-05-20 191.82  2026-05-21 219.93 14.65 
+   RL                    Ralph Lauren Corp  199.37 Textiles, Apparel & Luxury Goods  2026-05-20 329.24   2026-05-21 374.9 13.87 
+ SPOT                Spotify Technology SA  891.91                            Media  2026-05-20 433.32  2026-05-21 489.93 13.06 
+  IBM International Business Machines Corp 2114.74                       Technology   2026-05-20 225.0  2026-05-21 252.97 12.43 
+ IONQ                             IONQ Inc  195.85                       Technology   2026-05-20 52.47   2026-05-21 58.89 12.24 
+ LITE                Lumentum Holdings Inc  675.36                   Communications  2026-05-20 868.07   2026-05-21 964.5 11.11 
+ SNDK                         Sandisk Corp 2062.24                       Technology 2026-05-20 1392.56 2026-05-21 1542.24 10.75 
+ IREN                             IREN Ltd  188.10                       Technology   2026-05-20 52.71   2026-05-21 58.06 10.15 
+   MP                    MP Materials Corp  100.58                  Metals & Mining    2026-05-20 56.5   2026-05-21 61.74  9.27 
+   BE                    Bloom Energy Corp  803.01             Electrical Equipment  2026-05-20 282.31  2026-05-21 307.88  9.06 
+  FPS         Forgent Power Solutions, Inc  136.20             Electrical Equipment   2026-05-20 44.74   2026-05-21 48.52  8.45 
+STMEF                STMicroelectronics NV  493.28                   Semiconductors   2026-05-20 59.25   2026-05-21 64.15  8.27 
+  STX      Seagate Technology Holdings PLC 1684.12                       Technology  2026-05-20 751.07  2026-05-21 810.46  7.91 
+ ASTS                  AST SpaceMobile Inc  347.68                Telecommunication   2026-05-20 89.58   2026-05-21 96.23  7.42 
+ AAOI          Applied Optoelectronics Inc  132.61                   Communications  2026-05-20 165.26  2026-05-21 176.81  6.99 
+BABAF            Alibaba Group Holding Ltd 3230.78                           Retail   2026-05-20 16.48    2026-05-21 17.5  6.22 
+   FN                             Fabrinet  237.27             Electrical Equipment  2026-05-20 662.21  2026-05-21 703.27  6.20 
+ RMBS                           Rambus Inc  144.43                   Semiconductors  2026-05-20 133.56  2026-05-21 141.82  6.18 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)           板块                 昨天收盘               今天收盘        涨跌幅(%)
+  GFS                  GlobalFoundries Inc  393.89       Semiconductors   2026-05-20 70.79   2026-05-21 81.35 14.92 
+ NBIS                      Nebius Group NV  482.72           Technology  2026-05-20 191.82  2026-05-21 219.93 14.65 
+ SPOT                Spotify Technology SA  891.91                Media  2026-05-20 433.32  2026-05-21 489.93 13.06 
+  IBM International Business Machines Corp 2114.74           Technology   2026-05-20 225.0  2026-05-21 252.97 12.43 
+ LITE                Lumentum Holdings Inc  675.36       Communications  2026-05-20 868.07   2026-05-21 964.5 11.11 
+ SNDK                         Sandisk Corp 2062.24           Technology 2026-05-20 1392.56 2026-05-21 1542.24 10.75 
+   BE                    Bloom Energy Corp  803.01 Electrical Equipment  2026-05-20 282.31  2026-05-21 307.88  9.06 
+STMEF                STMicroelectronics NV  493.28       Semiconductors   2026-05-20 59.25   2026-05-21 64.15  8.27 
+  STX      Seagate Technology Holdings PLC 1684.12           Technology  2026-05-20 751.07  2026-05-21 810.46  7.91 
+ ASTS                  AST SpaceMobile Inc  347.68    Telecommunication   2026-05-20 89.58   2026-05-21 96.23  7.42 
+BABAF            Alibaba Group Holding Ltd 3230.78               Retail   2026-05-20 16.48    2026-05-21 17.5  6.22 
+   FN                             Fabrinet  237.27 Electrical Equipment  2026-05-20 662.21  2026-05-21 703.27  6.20 
+ CIEN                           Ciena Corp  784.42       Communications  2026-05-20 554.76  2026-05-21 587.23  5.85 
+ ANET                  Arista Networks Inc 1769.05       Communications  2026-05-20 140.49  2026-05-21 148.59  5.77 
+ CRDO   Credo Technology Group Holding Ltd  337.51       Semiconductors  2026-05-20 182.98  2026-05-21 193.39  5.69 
+ TSEM              Tower Semiconductor Ltd  295.57       Semiconductors  2026-05-20 264.48  2026-05-21 279.01  5.49 
+ COHR                        Coherent Corp  701.37 Electrical Equipment   2026-05-20 358.5   2026-05-21 378.0  5.44 
+ QCOM                         Qualcomm Inc 2134.46       Semiconductors  2026-05-20 202.51  2026-05-21 213.41  5.38 
+ FSLR                      First Solar Inc  255.59       Semiconductors  2026-05-20 237.86  2026-05-21 248.88  4.63 
+  ATI                              ATI Inc  209.80  Aerospace & Defense  2026-05-20 153.73  2026-05-21 160.41  4.35 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+  IBM International Business Machines Corp 2114.74                       Technology   2026-05-20 225.0  2026-05-21 252.97 12.43 
+ SNDK                         Sandisk Corp 2062.24                       Technology 2026-05-20 1392.56 2026-05-21 1542.24 10.75 
+  STX      Seagate Technology Holdings PLC 1684.12                       Technology  2026-05-20 751.07  2026-05-21 810.46  7.91 
+BABAF            Alibaba Group Holding Ltd 3230.78                           Retail   2026-05-20 16.48    2026-05-21 17.5  6.22 
+ ANET                  Arista Networks Inc 1769.05                   Communications  2026-05-20 140.49  2026-05-21 148.59  5.77 
+ QCOM                         Qualcomm Inc 2134.46                   Semiconductors  2026-05-20 202.51  2026-05-21 213.41  5.38 
+   MU                Micron Technology Inc 8254.90                   Semiconductors  2026-05-20 731.99   2026-05-21 762.1  4.11 
+ DELL                Dell Technologies Inc 1584.93                       Technology  2026-05-20 242.93   2026-05-21 252.8  4.06 
+ LRCX                    Lam Research Corp 3652.79                   Semiconductors  2026-05-20 292.09  2026-05-21 302.24  3.47 
+ CSCO                    Cisco Systems Inc 4507.03                   Communications  2026-05-20 114.35   2026-05-21 118.2  3.37 
+  HON          Honeywell International Inc 1377.50         Industrial Conglomerates  2026-05-20 217.39   2026-05-21 223.8  2.95 
+ SCCO                 Southern Copper Corp 1452.48                  Metals & Mining  2026-05-20 174.09  2026-05-21 179.12  2.89 
+ASMLF                      ASML Holding NV 5091.86                   Semiconductors 2026-05-20 1548.21  2026-05-21 1590.0  2.70 
+  MRK                       Merck & Co Inc 2790.90                  Pharmaceuticals   2026-05-20 113.0  2026-05-21 115.88  2.55 
+  VRT                   Vertiv Holdings Co 1239.25             Electrical Equipment  2026-05-20 315.67   2026-05-21 323.4  2.45 
+  LLY                     Eli Lilly and Co 9595.12                  Pharmaceuticals 2026-05-20 1018.87 2026-05-21 1041.65  2.24 
+LVMHF  LVMH Moet Hennessy Louis Vuitton SE 2346.32 Textiles, Apparel & Luxury Goods   2026-05-20 543.5   2026-05-21 555.5  2.21 
+ MRVL               Marvell Technology Inc 1635.53                   Semiconductors   2026-05-20 186.8  2026-05-21 190.69  2.08 
+  GEV                       GE Vernova Inc 2753.09             Electrical Equipment 2026-05-20 1024.52 2026-05-21 1043.82  1.88 
+ AMGN                            Amgen Inc 1789.51                    Biotechnology  2026-05-20 331.57  2026-05-21 337.42  1.76 
