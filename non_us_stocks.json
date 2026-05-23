@@ -61912,5 +61912,17 @@
     "name": "Coiled Therapeutics PLC",
     "country": "GB",
     "added_date": "2026-05-20 23:34:25"
+  },
+  "NVQLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Noviqtech Ltd",
+    "country": "AU",
+    "added_date": "2026-05-22 22:21:47"
+  },
+  "AUTSF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "AutoStore Holdings Ltd",
+    "country": "NO",
+    "added_date": "2026-05-22 23:43:41"
   }
 }
