@@ -62026,5 +62026,47 @@
     "name": "Benguet Corp",
     "country": "PH",
     "added_date": "2026-05-28 00:49:41"
+  },
+  "MXMGF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Maxus Mining Inc",
+    "country": "CA",
+    "added_date": "2026-05-28 22:51:05"
+  },
+  "TQLCF": {
+    "exchange": "SHENZHEN STOCK EXCHANGE",
+    "name": "Tianqi Lithium Corp",
+    "country": "CN",
+    "added_date": "2026-05-28 23:30:34"
+  },
+  "PREM": {
+    "exchange": "OTC MARKETS",
+    "name": "Premier Air Charter Holdings Inc",
+    "country": "US",
+    "added_date": "2026-05-28 23:37:44"
+  },
+  "LBUYD": {
+    "exchange": "OTC MARKETS",
+    "name": "Leafbuyer Technologies Inc",
+    "country": "US",
+    "added_date": "2026-05-28 23:38:28"
+  },
+  "TROUD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Troubadour Resources Inc",
+    "country": "CA",
+    "added_date": "2026-05-28 23:55:18"
+  },
+  "OPMNF": {
+    "exchange": "PHILIPPINE STOCK EXCHANGE, INC.",
+    "name": "Oriental Petroleum and Minerals Corp",
+    "country": "PH",
+    "added_date": "2026-05-29 00:20:13"
+  },
+  "FINBF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Finbar Group Ltd",
+    "country": "AU",
+    "added_date": "2026-05-29 00:24:39"
   }
 }
