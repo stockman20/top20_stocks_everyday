@@ -62086,5 +62086,29 @@
     "name": "Crossroads Gold Corp",
     "country": "CA",
     "added_date": "2026-05-30 00:35:02"
+  },
+  "VUECF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Verdera Energy Corp",
+    "country": "CA",
+    "added_date": "2026-06-01 23:36:28"
+  },
+  "CEXYF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Copper One Resources Corp",
+    "country": "CA",
+    "added_date": "2026-06-02 00:09:08"
+  },
+  "ARLYD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Argyle Resources Corp",
+    "country": "CA",
+    "added_date": "2026-06-02 00:48:51"
+  },
+  "PNSB": {
+    "exchange": "OTC MARKETS",
+    "name": "PSB Financial Inc",
+    "country": "US",
+    "added_date": "2026-06-02 00:49:40"
   }
 }
