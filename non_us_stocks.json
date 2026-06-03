@@ -62110,5 +62110,17 @@
     "name": "PSB Financial Inc",
     "country": "US",
     "added_date": "2026-06-02 00:49:40"
+  },
+  "ULTHD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "United Lithium Corp",
+    "country": "CA",
+    "added_date": "2026-06-02 23:43:46"
+  },
+  "DITPF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "DCI Indonesia Tbk PT",
+    "country": "ID",
+    "added_date": "2026-06-03 00:31:48"
   }
 }
