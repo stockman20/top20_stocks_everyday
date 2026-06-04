@@ -62122,5 +62122,17 @@
     "name": "DCI Indonesia Tbk PT",
     "country": "ID",
     "added_date": "2026-06-03 00:31:48"
+  },
+  "TSEOQ": {
+    "exchange": "OTC MARKETS",
+    "name": "Trinseo PLC",
+    "country": "IE",
+    "added_date": "2026-06-03 23:18:33"
+  },
+  "KMRRF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Kongsberg Maritime ASA",
+    "country": "NO",
+    "added_date": "2026-06-04 01:04:14"
   }
 }
