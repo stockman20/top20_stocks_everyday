@@ -62134,5 +62134,11 @@
     "name": "Kongsberg Maritime ASA",
     "country": "NO",
     "added_date": "2026-06-04 01:04:14"
+  },
+  "CAXCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "CAC Holdings Corp",
+    "country": "JP",
+    "added_date": "2026-06-05 00:13:08"
   }
 }
