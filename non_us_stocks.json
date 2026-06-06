@@ -62140,5 +62140,23 @@
     "name": "CAC Holdings Corp",
     "country": "JP",
     "added_date": "2026-06-05 00:13:08"
+  },
+  "BMMKF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Bayan Mining and Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-06-05 23:44:03"
+  },
+  "BPERF": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "BPER Banca SpA",
+    "country": "IT",
+    "added_date": "2026-06-06 00:14:11"
+  },
+  "KDCLF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Japan Engine Corp",
+    "country": "JP",
+    "added_date": "2026-06-06 00:34:17"
   }
 }
