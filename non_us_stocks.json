@@ -62158,5 +62158,23 @@
     "name": "Japan Engine Corp",
     "country": "JP",
     "added_date": "2026-06-06 00:34:17"
+  },
+  "BDLND": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Badlands Resources Inc",
+    "country": "CA",
+    "added_date": "2026-06-08 23:30:01"
+  },
+  "SACIF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Sakai Chemical Industry Co Ltd",
+    "country": "JP",
+    "added_date": "2026-06-09 00:12:18"
+  },
+  "STRUF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Saturn Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-06-09 00:45:45"
   }
 }
