@@ -62182,5 +62182,17 @@
     "name": "Vibe Growth Corp",
     "country": "CA",
     "added_date": "2026-06-11 00:25:18"
+  },
+  "GDAR": {
+    "exchange": "OTC MARKETS",
+    "name": "Golden Age Resources Inc",
+    "country": "US",
+    "added_date": "2026-06-12 23:13:59"
+  },
+  "NHFLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Northfield Capital Corp",
+    "country": "CA",
+    "added_date": "2026-06-12 23:39:18"
   }
 }
