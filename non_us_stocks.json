@@ -62194,5 +62194,23 @@
     "name": "Northfield Capital Corp",
     "country": "CA",
     "added_date": "2026-06-12 23:39:18"
+  },
+  "TAPGF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Triputra Agro Persada Tbk PT",
+    "country": "ID",
+    "added_date": "2026-06-15 23:50:44"
+  },
+  "JXADF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "JX Advanced Metals Corp",
+    "country": "JP",
+    "added_date": "2026-06-15 23:52:12"
+  },
+  "OCUTF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Ocumension Therapeutics",
+    "country": "CN",
+    "added_date": "2026-06-15 23:57:51"
   }
 }
