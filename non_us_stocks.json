@@ -62224,5 +62224,77 @@
     "name": "Nova Minerals Ltd",
     "country": "AU",
     "added_date": "2026-06-17 23:51:19"
+  },
+  "NUKUF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "American Atomics Inc",
+    "country": "CA",
+    "added_date": "2026-06-18 23:08:16"
+  },
+  "VRNOD": {
+    "exchange": "AEQUITAS NEO EXCHANGE",
+    "name": "Verano Holdings Corp",
+    "country": "US",
+    "added_date": "2026-06-18 23:09:38"
+  },
+  "PBK": {
+    "exchange": "AEQUITAS NEO EXCHANGE",
+    "name": "PowerBank Corp",
+    "country": "CA",
+    "added_date": "2026-06-18 23:24:24"
+  },
+  "TELYF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Telyrx Holdings Inc",
+    "country": "CA",
+    "added_date": "2026-06-18 23:28:18"
+  },
+  "GBAIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Guangdong Hong Kong Greater Bay Area Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-06-18 23:29:23"
+  },
+  "TRLV": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Trulieve Cannabis Corp",
+    "country": "US",
+    "added_date": "2026-06-18 23:37:30"
+  },
+  "INEOD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "INEO Tech Corp",
+    "country": "CA",
+    "added_date": "2026-06-18 23:38:25"
+  },
+  "SKMNF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Skylark Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-06-18 23:51:20"
+  },
+  "FRTT": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Fort Technology Inc",
+    "country": "CA",
+    "added_date": "2026-06-18 23:53:35"
+  },
+  "JDNRD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Jayden Resources Inc",
+    "country": "CA",
+    "added_date": "2026-06-19 00:22:40"
+  },
+  "FFMFF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "FireFly Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-06-19 00:24:44"
+  },
+  "KYSRD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Kaymus Resources Inc",
+    "country": "CA",
+    "added_date": "2026-06-19 00:35:31"
   }
 }
