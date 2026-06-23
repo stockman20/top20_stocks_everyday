@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码            公司名称            市值(亿)               板块                     昨天收盘              今天收盘       涨跌幅(%)
+NXTS  Nexentis Technologies Inc  0.05                      Chemicals  2026-06-18 5.08   2026-06-22 13.0 155.91
+EHGO               Eshallgo Inc  0.04 Commercial Services & Supplies   2026-06-18 1.8   2026-06-22 4.06 125.56
+ADTX                 Aditxt Inc  0.00                  Biotechnology  2026-06-18 0.01   2026-06-22 0.02  92.00
+GETY  Getty Images Holdings Inc  2.54                          Media  2026-06-18 0.61   2026-06-22 1.15  90.08
+TNON          Tenon Medical Inc  0.07                    Health Care  2026-06-18 0.35   2026-06-22 0.62  77.57
+SKYQ             Sky Quarry Inc  0.09                         Energy  2026-06-18 1.17    2026-06-22 1.9  62.39
+OCEA       Ocean Biomedical Inc  0.00                  Biotechnology   2026-06-18 0.0    2026-06-22 0.0  50.00
+DFTX  Definium Therapeutics Inc 39.99                Pharmaceuticals 2026-06-18 24.48  2026-06-22 36.67  49.80
+ CDT             CDT Equity Inc  0.05 Life Sciences Tools & Services  2026-06-18 1.02    2026-06-22 1.5  47.06
+APGE    Apogee Therapeutics Inc 99.93                  Biotechnology 2026-06-18 90.38 2026-06-22 132.55  46.66
+FGMC          FG Merger II Corp  1.53                            N/A  2026-06-18 10.3  2026-06-22 14.89  44.56
+AZTR                 Azitra Inc  0.04                  Biotechnology  2026-06-18 0.17   2026-06-22 0.23  33.72
+SAGT          Sagtec Global Ltd  0.20                     Technology  2026-06-18 0.99   2026-06-22 1.31  32.32
+APLM             Apollomics Inc  0.50                  Biotechnology  2026-06-18 17.5  2026-06-22 22.83  30.47
+ FTH Sensei Biotherapeutics Inc  0.20                  Biotechnology 2026-06-18 17.82  2026-06-22 23.19  30.13
+ ETS  Elite Express Holding Inc  0.09                    Road & Rail  2026-06-18 0.55   2026-06-22 0.71  30.11
+FTEK              Fuel Tech Inc  0.48 Commercial Services & Supplies  2026-06-18 1.54   2026-06-22 1.99  29.22
+CRMT     America's CAR-MART Inc  0.20                         Retail   2026-06-18 2.4   2026-06-22 3.01  25.42
+ JYD Jayud Global Logistics Ltd  0.07     Logistics & Transportation  2026-06-18 0.68   2026-06-22 0.83  23.34
+ENTX             Entera Bio Ltd  0.73                  Biotechnology  2026-06-18 1.21   2026-06-22 1.48  22.31
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+ DFTX          Definium Therapeutics Inc  39.99      Pharmaceuticals  2026-06-18 24.48  2026-06-22 36.67 49.80 
+ APGE            Apogee Therapeutics Inc  99.93        Biotechnology  2026-06-18 90.38 2026-06-22 132.55 46.66 
+ ORKA             Oruka Therapeutics Inc  43.63        Biotechnology  2026-06-18 72.34  2026-06-22 85.38 18.03 
+ SMCI           Super Micro Computer Inc 198.33           Technology  2026-06-18 30.66  2026-06-22 35.46 15.66 
+ KLRA           Kailera Therapeutics Inc  25.78        Biotechnology   2026-06-18 19.9  2026-06-22 22.88 14.97 
+ BHVN                       Biohaven Ltd  20.43        Biotechnology  2026-06-18 13.57   2026-06-22 15.5 14.22 
+ SYRE             Spyre Therapeutics Inc  76.72        Biotechnology  2026-06-18 88.34 2026-06-22 100.32 13.56 
+ VIAV                Viavi Solutions Inc 123.59       Communications  2026-06-18 47.17  2026-06-22 52.94 12.23 
+SLOIF                          Soitec SA  42.38       Semiconductors 2026-06-18 133.39  2026-06-22 149.5 12.08 
+ RCUS              Arcus Biosciences Inc  30.58        Biotechnology  2026-06-18 24.31  2026-06-22 27.23 12.01 
+ CRDO Credo Technology Group Holding Ltd 506.90       Semiconductors 2026-06-18 271.83 2026-06-22 302.52 11.29 
+   TE                      T1 Energy Inc  29.04 Electrical Equipment   2026-06-18 9.35   2026-06-22 10.4 11.23 
+ TSEM            Tower Semiconductor Ltd 354.10       Semiconductors 2026-06-18 286.74 2026-06-22 316.85 10.50 
+ SMTC                       Semtech Corp 147.39       Semiconductors 2026-06-18 158.23 2026-06-22 174.73 10.43 
+ ERAS                         Erasca Inc  42.51        Biotechnology  2026-06-18 13.67  2026-06-22 15.08 10.31 
+ VICR                         Vicor Corp 146.07 Electrical Equipment 2026-06-18 331.37 2026-06-22 365.53 10.31 
+ CHRN          Ekso Bionics Holdings Inc  36.73          Health Care  2026-06-18 23.33  2026-06-22 25.67 10.03 
+ KYMR            Kymera Therapeutics Inc  74.39        Biotechnology  2026-06-18 90.43  2026-06-22 99.45  9.97 
+ IDYA             IDEAYA Biosciences Inc  29.69        Biotechnology  2026-06-18 31.23  2026-06-22 34.23  9.61 
+ PLBL                 Polibeli Group Ltd  27.99         Distributors   2026-06-18 7.64   2026-06-22 8.37  9.55 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)           板块                 昨天收盘              今天收盘       涨跌幅(%)
+APGE            Apogee Therapeutics Inc   99.93        Biotechnology  2026-06-18 90.38 2026-06-22 132.55 46.66 
+SMCI           Super Micro Computer Inc  198.33           Technology  2026-06-18 30.66  2026-06-22 35.46 15.66 
+SYRE             Spyre Therapeutics Inc   76.72        Biotechnology  2026-06-18 88.34 2026-06-22 100.32 13.56 
+VIAV                Viavi Solutions Inc  123.59       Communications  2026-06-18 47.17  2026-06-22 52.94 12.23 
+CRDO Credo Technology Group Holding Ltd  506.90       Semiconductors 2026-06-18 271.83 2026-06-22 302.52 11.29 
+TSEM            Tower Semiconductor Ltd  354.10       Semiconductors 2026-06-18 286.74 2026-06-22 316.85 10.50 
+SMTC                       Semtech Corp  147.39       Semiconductors 2026-06-18 158.23 2026-06-22 174.73 10.43 
+VICR                         Vicor Corp  146.07 Electrical Equipment 2026-06-18 331.37 2026-06-22 365.53 10.31 
+KYMR            Kymera Therapeutics Inc   74.39        Biotechnology  2026-06-18 90.43  2026-06-22 99.45  9.97 
+AXTI                            AXT Inc   55.33       Semiconductors  2026-06-18 84.57  2026-06-22 92.44  9.31 
+COHR                      Coherent Corp  762.15 Electrical Equipment 2026-06-18 389.57 2026-06-22 425.48  9.22 
+ MXL                      Maxlinear Inc   79.48       Semiconductors  2026-06-18 88.76  2026-06-22 96.44  8.65 
+CGON                    CG Oncology Inc   53.87        Biotechnology  2026-06-18 61.08  2026-06-22 66.25  8.46 
+STRL        Sterling Infrastructure Inc  264.48         Construction 2026-06-18 861.88 2026-06-22 932.75  8.22 
+  ON              ON Semiconductor Corp  476.63       Semiconductors 2026-06-18 121.62 2026-06-22 131.55  8.16 
+IMVT                     Immunovant Inc   72.56        Biotechnology  2026-06-18 35.34   2026-06-22 38.1  7.81 
+  FN                           Fabrinet  221.10 Electrical Equipment 2026-06-18 573.76 2026-06-22 617.09  7.55 
+CIEN                         Ciena Corp  606.16       Communications 2026-06-18 428.22 2026-06-22 460.33  7.50 
+ VRT                 Vertiv Holdings Co 1150.79 Electrical Equipment 2026-06-18 333.05 2026-06-22 357.96  7.48 
+PRAX     Praxis Precision Medicines Inc   84.58        Biotechnology 2026-06-18 282.31 2026-06-22 303.39  7.47 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+SMCI           Super Micro Computer Inc   198.33           Technology   2026-06-18 30.66   2026-06-22 35.46 15.66 
+VIAV                Viavi Solutions Inc   123.59       Communications   2026-06-18 47.17   2026-06-22 52.94 12.23 
+CRDO Credo Technology Group Holding Ltd   506.90       Semiconductors  2026-06-18 271.83  2026-06-22 302.52 11.29 
+TSEM            Tower Semiconductor Ltd   354.10       Semiconductors  2026-06-18 286.74  2026-06-22 316.85 10.50 
+SMTC                       Semtech Corp   147.39       Semiconductors  2026-06-18 158.23  2026-06-22 174.73 10.43 
+VICR                         Vicor Corp   146.07 Electrical Equipment  2026-06-18 331.37  2026-06-22 365.53 10.31 
+COHR                      Coherent Corp   762.15 Electrical Equipment  2026-06-18 389.57  2026-06-22 425.48  9.22 
+STRL        Sterling Infrastructure Inc   264.48         Construction  2026-06-18 861.88  2026-06-22 932.75  8.22 
+  ON              ON Semiconductor Corp   476.63       Semiconductors  2026-06-18 121.62  2026-06-22 131.55  8.16 
+  FN                           Fabrinet   221.10 Electrical Equipment  2026-06-18 573.76  2026-06-22 617.09  7.55 
+CIEN                         Ciena Corp   606.16       Communications  2026-06-18 428.22  2026-06-22 460.33  7.50 
+ VRT                 Vertiv Holdings Co  1150.79 Electrical Equipment  2026-06-18 333.05  2026-06-22 357.96  7.48 
+ MTZ                         MasTec Inc   321.07         Construction  2026-06-18 379.66  2026-06-22 406.32  7.02 
+ AGX                          Argan Inc   103.58         Construction  2026-06-18 738.85   2026-06-22 790.0  6.92 
+  MU              Micron Technology Inc 12788.39       Semiconductors 2026-06-18 1133.99 2026-06-22 1211.38  6.82 
+ ESI              Element Solutions Inc   119.59            Chemicals   2026-06-18 45.97   2026-06-22 49.09  6.79 
+ABBV                         AbbVie Inc  4063.80        Biotechnology  2026-06-18 216.49  2026-06-22 230.01  6.25 
+IESC                   IES Holdings Inc   150.37         Construction  2026-06-18 712.39  2026-06-22 754.74  5.94 
+GNRC               Generac Holdings Inc   173.98 Electrical Equipment  2026-06-18 279.15  2026-06-22 295.54  5.87 
+AAOI        Applied Optoelectronics Inc   129.87       Communications  2026-06-18 161.85  2026-06-22 171.23  5.80 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+CRDO Credo Technology Group Holding Ltd   506.90       Semiconductors  2026-06-18 271.83  2026-06-22 302.52 11.29 
+TSEM            Tower Semiconductor Ltd   354.10       Semiconductors  2026-06-18 286.74  2026-06-22 316.85 10.50 
+COHR                      Coherent Corp   762.15 Electrical Equipment  2026-06-18 389.57  2026-06-22 425.48  9.22 
+STRL        Sterling Infrastructure Inc   264.48         Construction  2026-06-18 861.88  2026-06-22 932.75  8.22 
+  ON              ON Semiconductor Corp   476.63       Semiconductors  2026-06-18 121.62  2026-06-22 131.55  8.16 
+  FN                           Fabrinet   221.10 Electrical Equipment  2026-06-18 573.76  2026-06-22 617.09  7.55 
+CIEN                         Ciena Corp   606.16       Communications  2026-06-18 428.22  2026-06-22 460.33  7.50 
+ VRT                 Vertiv Holdings Co  1150.79 Electrical Equipment  2026-06-18 333.05  2026-06-22 357.96  7.48 
+ MTZ                         MasTec Inc   321.07         Construction  2026-06-18 379.66  2026-06-22 406.32  7.02 
+  MU              Micron Technology Inc 12788.39       Semiconductors 2026-06-18 1133.99 2026-06-22 1211.38  6.82 
+ABBV                         AbbVie Inc  4063.80        Biotechnology  2026-06-18 216.49  2026-06-22 230.01  6.25 
+FLEX                           Flex Ltd   540.81 Electrical Equipment  2026-06-18 147.61  2026-06-22 155.81  5.56 
+ALAB                   Astera Labs, Inc   714.89       Semiconductors  2026-06-18 417.07  2026-06-22 439.66  5.42 
+LRCX                  Lam Research Corp  4865.22       Semiconductors  2026-06-18 389.04  2026-06-22 409.54  5.27 
+INTC                         Intel Corp  6734.34       Semiconductors  2026-06-18 133.99  2026-06-22 140.94  5.19 
+LITE              Lumentum Holdings Inc   695.48       Communications   2026-06-18 850.0  2026-06-22 893.93  5.17 
+  BE                  Bloom Energy Corp   935.56 Electrical Equipment  2026-06-18 328.91  2026-06-22 345.85  5.15 
+ FIX            Comfort Systems USA Inc   727.46         Construction 2026-06-18 1967.41 2026-06-22 2066.51  5.04 
+ GFS                GlobalFoundries Inc   491.77       Semiconductors   2026-06-18 85.83   2026-06-22 89.67  4.47 
+ TER                       Teradyne Inc   685.53       Semiconductors  2026-06-18 437.92   2026-06-22 457.0  4.36 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码               公司名称               市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+ VRT              Vertiv Holdings Co  1150.79 Electrical Equipment  2026-06-18 333.05  2026-06-22 357.96  7.48 
+  MU           Micron Technology Inc 12788.39       Semiconductors 2026-06-18 1133.99 2026-06-22 1211.38  6.82 
+ABBV                      AbbVie Inc  4063.80        Biotechnology  2026-06-18 216.49  2026-06-22 230.01  6.25 
+LRCX               Lam Research Corp  4865.22       Semiconductors  2026-06-18 389.04  2026-06-22 409.54  5.27 
+INTC                      Intel Corp  6734.34       Semiconductors  2026-06-18 133.99  2026-06-22 140.94  5.19 
+SNDK                    Sandisk Corp  3367.16           Technology 2026-06-18 2184.75 2026-06-22 2273.73  4.07 
+AMAT           Applied Materials Inc  4899.60       Semiconductors  2026-06-18 617.11  2026-06-22 640.18  3.74 
+ CAT                 Caterpillar Inc  4541.05            Machinery  2026-06-18 985.82 2026-06-22 1022.28  3.70 
+KLAC                        KLA Corp  3390.57       Semiconductors  2026-06-18 259.56  2026-06-22 269.16  3.70 
+VRTX      Vertex Pharmaceuticals Inc  1150.17        Biotechnology  2026-06-18 451.63  2026-06-22 466.79  3.36 
+ ETN           Eaton Corporation PLC  1692.13 Electrical Equipment  2026-06-18 421.77  2026-06-22 435.78  3.32 
+ CVS                 CVS Health Corp  1292.51          Health Care   2026-06-18 98.32   2026-06-22 101.3  3.03 
+ TXN           Texas Instruments Inc  3024.06       Semiconductors  2026-06-18 322.86  2026-06-22 332.28  2.92 
+ANET             Arista Networks Inc  2198.06       Communications  2026-06-18 169.67  2026-06-22 174.56  2.88 
+ AMD      Advanced Micro Devices Inc  8994.88       Semiconductors  2026-06-18 537.37  2026-06-22 551.63  2.65 
+ ADI              Analog Devices Inc  2169.88       Semiconductors  2026-06-18 434.46  2026-06-22 445.48  2.54 
+DELL           Dell Technologies Inc  2654.71           Technology   2026-06-18 409.5  2026-06-22 418.71  2.25 
+ STX Seagate Technology Holdings PLC  2453.15           Technology 2026-06-18 1070.23 2026-06-22 1094.04  2.22 
+AMGN                       Amgen Inc  1822.06        Biotechnology   2026-06-18 337.6  2026-06-22 344.72  2.11 
+ BAC            Bank of America Corp  3988.28              Banking    2026-06-18 56.2   2026-06-22 57.37  2.08 
