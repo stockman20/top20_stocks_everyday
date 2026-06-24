@@ -62332,5 +62332,17 @@
     "name": "Invert Graphite Ltd",
     "country": "AU",
     "added_date": "2026-06-23 00:41:02"
+  },
+  "TIAOD": {
+    "exchange": "AIM ITALIA - MERCATO ALTERNATIVO DEL CAPITALE",
+    "name": "Telecom Italia SpA",
+    "country": "IT",
+    "added_date": "2026-06-23 22:43:47"
+  },
+  "RECRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Record Resources Inc",
+    "country": "CA",
+    "added_date": "2026-06-23 23:20:03"
   }
 }
