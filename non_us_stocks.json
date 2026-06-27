@@ -62368,5 +62368,17 @@
     "name": "CAT Strategic Metals Corp",
     "country": "CA",
     "added_date": "2026-06-26 00:31:45"
+  },
+  "NFLDD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Epic Gold Corp",
+    "country": "CA",
+    "added_date": "2026-06-26 23:00:45"
+  },
+  "HIDDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Hydaway Digital Corp",
+    "country": "CA",
+    "added_date": "2026-06-27 00:26:44"
   }
 }
