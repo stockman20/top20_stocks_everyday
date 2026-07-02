@@ -62386,5 +62386,35 @@
     "name": "Hirata Corp",
     "country": "JP",
     "added_date": "2026-06-29 23:42:00"
+  },
+  "HNNGF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Hennge KK",
+    "country": "JP",
+    "added_date": "2026-07-01 22:44:05"
+  },
+  "NPMMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Nord Precious Metals Mining Inc",
+    "country": "CA",
+    "added_date": "2026-07-01 23:39:17"
+  },
+  "DEVSF": {
+    "exchange": "",
+    "name": "DevvStream Corp",
+    "country": "US",
+    "added_date": "2026-07-02 00:13:21"
+  },
+  "SGYEF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Surge Energy Inc (Alberta)",
+    "country": "CA",
+    "added_date": "2026-07-02 00:20:11"
+  },
+  "NELR": {
+    "exchange": "OTC MARKETS",
+    "name": "Neolara Corp",
+    "country": "CR",
+    "added_date": "2026-07-02 00:21:04"
   }
 }
