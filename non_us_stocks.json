@@ -62416,5 +62416,17 @@
     "name": "Neolara Corp",
     "country": "CR",
     "added_date": "2026-07-02 00:21:04"
+  },
+  "POLR": {
+    "exchange": "OTC MARKETS",
+    "name": "Polar Petroleum Corp",
+    "country": "US",
+    "added_date": "2026-07-02 22:51:57"
+  },
+  "ASPD": {
+    "exchange": "OTC MARKETS",
+    "name": "Aspen Digital Inc",
+    "country": "US",
+    "added_date": "2026-07-03 00:08:09"
   }
 }
