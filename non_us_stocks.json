@@ -62428,5 +62428,65 @@
     "name": "Aspen Digital Inc",
     "country": "US",
     "added_date": "2026-07-03 00:08:09"
+  },
+  "GTCDD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Getty Copper Inc",
+    "country": "CA",
+    "added_date": "2026-07-06 22:57:56"
+  },
+  "TALMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Fuerte Metals Corp",
+    "country": "CA",
+    "added_date": "2026-07-06 23:36:30"
+  },
+  "AURFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Tincorp Metals Inc",
+    "country": "CA",
+    "added_date": "2026-07-06 23:41:31"
+  },
+  "MGYFF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Terreno Resources Corp",
+    "country": "CA",
+    "added_date": "2026-07-07 00:07:53"
+  },
+  "ERRMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Errington Metals Corp",
+    "country": "CA",
+    "added_date": "2026-07-07 00:08:56"
+  },
+  "KTHUD": {
+    "exchange": "NEW ZEALAND EXCHANGE LTD",
+    "name": "KMD Brands Ltd",
+    "country": "NZ",
+    "added_date": "2026-07-07 00:15:43"
+  },
+  "LSSTF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "Lassila & Tikanoja Oyj",
+    "country": "FI",
+    "added_date": "2026-07-07 00:23:05"
+  },
+  "VIZND": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Visionary Metals Corp",
+    "country": "CA",
+    "added_date": "2026-07-07 00:27:34"
+  },
+  "GLAS": {
+    "exchange": "AEQUITAS NEO EXCHANGE",
+    "name": "Glass House Brands Inc",
+    "country": "US",
+    "added_date": "2026-07-07 00:28:57"
+  },
+  "NRDMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "United Lithium Corp",
+    "country": "CA",
+    "added_date": "2026-07-07 00:28:58"
   }
 }

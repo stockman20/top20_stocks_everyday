@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                      公司名称                     市值(亿)                板块                      昨天收盘             今天收盘       涨跌幅(%)
+ ZCMD                                 Zhongchao Inc  0.02    Diversified Consumer Services  2026-07-02 1.11  2026-07-06 2.24 101.80
+BHATF Blue Hat Interactive Entertainment Technology  0.00                            Media  2026-07-02 0.03  2026-07-06 0.05  78.57
+ LUCY                        Innovative Eyewear Inc  0.08                      Health Care  2026-07-02 0.76  2026-07-06 1.24  63.16
+ KIDZ                        Classover Holdings Inc  0.01    Diversified Consumer Services  2026-07-02 0.68  2026-07-06 1.05  54.41
+SEBYF                                        SEB SA 26.89                Consumer products 2026-07-02 53.85  2026-07-03 82.0  52.29
+IMDZF                                       IMCD NV 49.28 Trading Companies & Distributors 2026-07-02 96.62 2026-07-03 147.0  52.14
+IOBTQ                                IO Biotech Inc  0.01                    Biotechnology   2026-07-02 0.0  2026-07-06 0.01  48.00
+ INLF                                     INLIF Ltd  0.00                        Machinery  2026-07-02 4.32  2026-07-06 6.38  47.69
+ SBEV                     Splash Beverage Group Inc  0.03                        Beverages  2026-07-02 0.15  2026-07-06 0.21  42.53
+ SEER                                      Seer Inc  0.90   Life Sciences Tools & Services  2026-07-02 1.62  2026-07-06 2.19  35.19
+ CELU                                Celularity Inc  0.23                    Biotechnology  2026-07-02 0.62   2026-07-06 0.8  29.03
+ LGPS                               LogProstyle Inc  0.18                      Real Estate  2026-07-02 0.76  2026-07-06 0.98  28.61
+ FBGL                                FBS Global Ltd  0.07                     Construction  2026-07-02 0.49  2026-07-06 0.62  26.64
+ LICN                      Lichen International Ltd  0.25            Professional Services  2026-07-02 1.22  2026-07-06 1.54  26.23
+ CLGN                 Collplant Biotechnologies Ltd  0.05                    Biotechnology  2026-07-02 0.34  2026-07-06 0.43  25.79
+ YYGH                          YY Group Holding Ltd  0.01   Commercial Services & Supplies  2026-07-02 1.25  2026-07-06 1.57  25.60
+NOTVQ                                    Inotiv Inc  0.01   Life Sciences Tools & Services  2026-07-02 0.01  2026-07-06 0.01  25.00
+ ZVSA                      Zyversa Therapeutics Inc  0.02                    Biotechnology  2026-07-02 0.14  2026-07-06 0.18  24.55
+ AMCI                             AMC Robotics Corp  1.11             Electrical Equipment  2026-07-02 4.89  2026-07-06 6.05  23.72
+ ILAG      Intelligent Living Application Group Inc  0.07                         Building  2026-07-02 3.49   2026-07-06 4.3  23.21
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+SEBYF                             SEB SA   26.89                Consumer products  2026-07-02 53.85   2026-07-03 82.0 52.29 
+IMDZF                            IMCD NV   49.28 Trading Companies & Distributors  2026-07-02 96.62  2026-07-03 147.0 52.14 
+ SHAZ              SharonAI Holdings Inc   21.13                       Technology  2026-07-02 67.91  2026-07-06 79.96 17.74 
+ IREN                           IREN Ltd  156.70                       Technology  2026-07-02 38.82  2026-07-06 43.91 13.11 
+ AXTI                            AXT Inc   37.04                   Semiconductors  2026-07-02 56.62  2026-07-06 63.52 12.19 
+  QNT                     Quantinuum Inc  194.58                       Technology  2026-07-02 74.56  2026-07-06 83.17 11.55 
+ CHRN          Ekso Bionics Holdings Inc   26.50                      Health Care  2026-07-02 16.49  2026-07-06 18.25 10.67 
+ PENG              Penguin Solutions Inc   31.19                   Semiconductors  2026-07-02 61.47  2026-07-06 67.71 10.15 
+ LMND                       Lemonade Inc   54.94                        Insurance  2026-07-02 71.52   2026-07-06 78.7 10.04 
+ CRDO Credo Technology Group Holding Ltd  451.11                   Semiconductors 2026-07-02 241.91 2026-07-06 265.55  9.77 
+ LCID                    Lucid Group Inc   23.73                      Automobiles   2026-07-02 6.08   2026-07-06 6.66  9.54 
+TKKHF                Tikehau Capital SCA   30.23               Financial Services  2026-07-02 18.95  2026-07-03 20.75  9.50 
+   PS                Pershing Square Inc  129.68               Financial Services  2026-07-02 32.42  2026-07-06 35.38  9.13 
+   BE                  Bloom Energy Corp  770.53             Electrical Equipment 2026-07-02 270.89 2026-07-06 295.05  8.92 
+ SEDG         Solaredge Technologies Inc   31.86                   Semiconductors  2026-07-02 52.38  2026-07-06 56.91  8.65 
+ CIFR                 Cipher Digital Inc   88.89                       Technology  2026-07-02 20.04  2026-07-06 21.73  8.43 
+ ANET                Arista Networks Inc 2181.95                   Communications 2026-07-02 159.99 2026-07-06 173.28  8.31 
+ AAMI       Acadian Asset Management Inc   26.04               Financial Services  2026-07-02 73.09  2026-07-06 79.15  8.29 
+ RIVN              Rivian Automotive Inc  234.82                      Automobiles  2026-07-02 18.63  2026-07-06 20.14  8.11 
+ CDNL  Cardinal Infrastructure Group Inc   35.25                     Construction  2026-07-02 74.25  2026-07-06 80.09  7.87 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+ IREN                           IREN Ltd   156.70           Technology  2026-07-02 38.82  2026-07-06 43.91 13.11 
+  QNT                     Quantinuum Inc   194.58           Technology  2026-07-02 74.56  2026-07-06 83.17 11.55 
+ LMND                       Lemonade Inc    54.94            Insurance  2026-07-02 71.52   2026-07-06 78.7 10.04 
+ CRDO Credo Technology Group Holding Ltd   451.11       Semiconductors 2026-07-02 241.91 2026-07-06 265.55  9.77 
+   PS                Pershing Square Inc   129.68   Financial Services  2026-07-02 32.42  2026-07-06 35.38  9.13 
+   BE                  Bloom Energy Corp   770.53 Electrical Equipment 2026-07-02 270.89 2026-07-06 295.05  8.92 
+ CIFR                 Cipher Digital Inc    88.89           Technology  2026-07-02 20.04  2026-07-06 21.73  8.43 
+ ANET                Arista Networks Inc  2181.95       Communications 2026-07-02 159.99 2026-07-06 173.28  8.31 
+ RIVN              Rivian Automotive Inc   234.82          Automobiles  2026-07-02 18.63  2026-07-06 20.14  8.11 
+CVCCF           CVC Capital Partners PLC   138.89   Financial Services   2026-07-02 14.0   2026-07-03 15.0  7.14 
+    P                       Everpure Inc   241.69           Technology  2026-07-02 72.71  2026-07-06 77.73  6.90 
+ QLYS                         Qualys Inc    52.16           Technology 2026-07-02 148.12 2026-07-06 158.26  6.85 
+ TSLA                          Tesla Inc 15765.40          Automobiles 2026-07-02 393.45 2026-07-06 419.77  6.69 
+  AMD         Advanced Micro Devices Inc  8443.58       Semiconductors 2026-07-02 517.82 2026-07-06 552.05  6.61 
+ ALAB                   Astera Labs, Inc   696.64       Semiconductors 2026-07-02 406.42 2026-07-06 432.74  6.48 
+ CORZ                Core Scientific Inc    68.12           Technology  2026-07-02 21.43   2026-07-06 22.8  6.39 
+ CRCL          Circle Internet Group Inc   160.63           Technology  2026-07-02 64.62  2026-07-06 68.65  6.24 
+ NTAP                         NetApp Inc   302.05           Technology 2026-07-02 154.17 2026-07-06 163.55  6.08 
+   XE                       X-Energy Inc    87.90 Electrical Equipment  2026-07-02 17.27  2026-07-06 18.32  6.08 
+DSMFF                   DSM-Firmenich AG   203.56            Chemicals  2026-07-02 88.19  2026-07-03 93.52  6.04 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+ IREN                           IREN Ltd   156.70           Technology  2026-07-02 38.82  2026-07-06 43.91 13.11 
+  QNT                     Quantinuum Inc   194.58           Technology  2026-07-02 74.56  2026-07-06 83.17 11.55 
+ CRDO Credo Technology Group Holding Ltd   451.11       Semiconductors 2026-07-02 241.91 2026-07-06 265.55  9.77 
+   PS                Pershing Square Inc   129.68   Financial Services  2026-07-02 32.42  2026-07-06 35.38  9.13 
+   BE                  Bloom Energy Corp   770.53 Electrical Equipment 2026-07-02 270.89 2026-07-06 295.05  8.92 
+ ANET                Arista Networks Inc  2181.95       Communications 2026-07-02 159.99 2026-07-06 173.28  8.31 
+ RIVN              Rivian Automotive Inc   234.82          Automobiles  2026-07-02 18.63  2026-07-06 20.14  8.11 
+CVCCF           CVC Capital Partners PLC   138.89   Financial Services   2026-07-02 14.0   2026-07-03 15.0  7.14 
+    P                       Everpure Inc   241.69           Technology  2026-07-02 72.71  2026-07-06 77.73  6.90 
+ TSLA                          Tesla Inc 15765.40          Automobiles 2026-07-02 393.45 2026-07-06 419.77  6.69 
+  AMD         Advanced Micro Devices Inc  8443.58       Semiconductors 2026-07-02 517.82 2026-07-06 552.05  6.61 
+ ALAB                   Astera Labs, Inc   696.64       Semiconductors 2026-07-02 406.42 2026-07-06 432.74  6.48 
+ CRCL          Circle Internet Group Inc   160.63           Technology  2026-07-02 64.62  2026-07-06 68.65  6.24 
+ NTAP                         NetApp Inc   302.05           Technology 2026-07-02 154.17 2026-07-06 163.55  6.08 
+DSMFF                   DSM-Firmenich AG   203.56            Chemicals  2026-07-02 88.19  2026-07-03 93.52  6.04 
+  VRT                 Vertiv Holdings Co  1150.79 Electrical Equipment 2026-07-02 300.53 2026-07-06 318.47  5.97 
+  STX    Seagate Technology Holdings PLC  1839.04           Technology 2026-07-02 820.16 2026-07-06 868.26  5.86 
+ QCOM                       Qualcomm Inc  1965.50       Semiconductors 2026-07-02 176.25 2026-07-06 186.48  5.80 
+ PCAR                         Paccar Inc   628.91            Machinery  2026-07-02 119.5 2026-07-06 125.91  5.36 
+ IBKR      Interactive Brokers Group Inc  1549.16   Financial Services  2026-07-02 91.33  2026-07-06 95.99  5.10 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称                 市值(亿)            板块                 昨天收盘              今天收盘       涨跌幅(%)
+ CRDO Credo Technology Group Holding Ltd   451.11       Semiconductors 2026-07-02 241.91 2026-07-06 265.55  9.77 
+   BE                  Bloom Energy Corp   770.53 Electrical Equipment 2026-07-02 270.89 2026-07-06 295.05  8.92 
+ ANET                Arista Networks Inc  2181.95       Communications 2026-07-02 159.99 2026-07-06 173.28  8.31 
+ RIVN              Rivian Automotive Inc   234.82          Automobiles  2026-07-02 18.63  2026-07-06 20.14  8.11 
+    P                       Everpure Inc   241.69           Technology  2026-07-02 72.71  2026-07-06 77.73  6.90 
+ TSLA                          Tesla Inc 15765.40          Automobiles 2026-07-02 393.45 2026-07-06 419.77  6.69 
+  AMD         Advanced Micro Devices Inc  8443.58       Semiconductors 2026-07-02 517.82 2026-07-06 552.05  6.61 
+ ALAB                   Astera Labs, Inc   696.64       Semiconductors 2026-07-02 406.42 2026-07-06 432.74  6.48 
+ NTAP                         NetApp Inc   302.05           Technology 2026-07-02 154.17 2026-07-06 163.55  6.08 
+DSMFF                   DSM-Firmenich AG   203.56            Chemicals  2026-07-02 88.19  2026-07-03 93.52  6.04 
+  VRT                 Vertiv Holdings Co  1150.79 Electrical Equipment 2026-07-02 300.53 2026-07-06 318.47  5.97 
+  STX    Seagate Technology Holdings PLC  1839.04           Technology 2026-07-02 820.16 2026-07-06 868.26  5.86 
+ QCOM                       Qualcomm Inc  1965.50       Semiconductors 2026-07-02 176.25 2026-07-06 186.48  5.80 
+ PCAR                         Paccar Inc   628.91            Machinery  2026-07-02 119.5 2026-07-06 125.91  5.36 
+ IBKR      Interactive Brokers Group Inc  1549.16   Financial Services  2026-07-02 91.33  2026-07-06 95.99  5.10 
+ OKTA                           Okta Inc   245.80           Technology 2026-07-02 141.42  2026-07-06 148.6  5.08 
+  HPE      Hewlett Packard Enterprise Co   545.97           Technology  2026-07-02 41.23  2026-07-06 43.15  4.66 
+EADSF                          Airbus SE  1622.87  Aerospace & Defense 2026-07-02 229.33  2026-07-06 239.9  4.61 
+ DELL              Dell Technologies Inc  2556.30           Technology 2026-07-02 394.32  2026-07-06 411.8  4.43 
+  IOT                        Samsara Inc   210.02           Technology  2026-07-02 35.93  2026-07-06 37.51  4.40 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+ ANET                  Arista Networks Inc  2181.95       Communications  2026-07-02 159.99  2026-07-06 173.28  8.31 
+ TSLA                            Tesla Inc 15765.40          Automobiles  2026-07-02 393.45  2026-07-06 419.77  6.69 
+  AMD           Advanced Micro Devices Inc  8443.58       Semiconductors  2026-07-02 517.82  2026-07-06 552.05  6.61 
+  VRT                   Vertiv Holdings Co  1150.79 Electrical Equipment  2026-07-02 300.53  2026-07-06 318.47  5.97 
+  STX      Seagate Technology Holdings PLC  1839.04           Technology  2026-07-02 820.16  2026-07-06 868.26  5.86 
+ QCOM                         Qualcomm Inc  1965.50       Semiconductors  2026-07-02 176.25  2026-07-06 186.48  5.80 
+ IBKR        Interactive Brokers Group Inc  1549.16   Financial Services   2026-07-02 91.33   2026-07-06 95.99  5.10 
+EADSF                            Airbus SE  1622.87  Aerospace & Defense  2026-07-02 229.33   2026-07-06 239.9  4.61 
+ DELL                Dell Technologies Inc  2556.30           Technology  2026-07-02 394.32   2026-07-06 411.8  4.43 
+ HOOD                Robinhood Markets Inc  1016.04   Financial Services  2026-07-02 112.73  2026-07-06 117.55  4.28 
+SBGSF                Schneider Electric SE  1577.60 Electrical Equipment  2026-07-02 314.68   2026-07-06 327.0  3.92 
+ FTNT                         Fortinet Inc  1189.45           Technology  2026-07-02 156.25  2026-07-06 162.35  3.90 
+ASMLF                      ASML Holding NV  6243.16       Semiconductors 2026-07-02 1768.87 2026-07-06 1837.12  3.86 
+   MS                       Morgan Stanley  3374.29   Financial Services  2026-07-02 213.93   2026-07-06 222.1  3.82 
+  ETN                Eaton Corporation PLC  1547.45 Electrical Equipment  2026-07-02 398.52  2026-07-06 413.42  3.74 
+ AVGO                         Broadcom Inc 17148.70       Semiconductors  2026-07-02 360.45   2026-07-06 373.9  3.73 
+  TXN                Texas Instruments Inc  2762.13       Semiconductors  2026-07-02 293.08   2026-07-06 303.5  3.56 
+   BA                            Boeing Co  1785.43  Aerospace & Defense  2026-07-02 226.49  2026-07-06 234.54  3.55 
+  GEV                       GE Vernova Inc  2991.15 Electrical Equipment 2026-07-02 1113.11 2026-07-06 1152.04  3.50 
+  IBM International Business Machines Corp  2815.14           Technology  2026-07-02 289.52  2026-07-06 299.52  3.45 
