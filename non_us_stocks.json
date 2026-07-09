@@ -62494,5 +62494,23 @@
     "name": "Blue Jay Gold Corp",
     "country": "CA",
     "added_date": "2026-07-08 00:09:45"
+  },
+  "PLMTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Polymetals Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-07-08 23:37:12"
+  },
+  "CBSTQ": {
+    "exchange": "AEQUITAS NEO EXCHANGE",
+    "name": "Cannabist Company Holdings Inc",
+    "country": "US",
+    "added_date": "2026-07-08 23:45:31"
+  },
+  "GMSC": {
+    "exchange": "OTC MARKETS",
+    "name": "Grand Entertainment & Music Inc",
+    "country": "CA",
+    "added_date": "2026-07-09 00:13:14"
   }
 }
