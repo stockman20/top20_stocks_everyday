@@ -62518,5 +62518,35 @@
     "name": "ALPX Energy LLC",
     "country": "US",
     "added_date": "2026-07-10 23:01:50"
+  },
+  "GGAZD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Goldgroup Mining Inc",
+    "country": "CA",
+    "added_date": "2026-07-14 22:15:38"
+  },
+  "RPNKS": {
+    "exchange": "OTC MARKETS",
+    "name": "RSE Collection LLC",
+    "country": "US",
+    "added_date": "2026-07-14 22:25:38"
+  },
+  "CGMXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Canadian Goldfields Discovery Corp",
+    "country": "CA",
+    "added_date": "2026-07-14 22:37:36"
+  },
+  "VLGDF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Valor Gold Corp",
+    "country": "CA",
+    "added_date": "2026-07-14 23:37:54"
+  },
+  "CSCID": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "COSCIENS Biopharma Inc",
+    "country": "CA",
+    "added_date": "2026-07-14 23:50:54"
   }
 }
