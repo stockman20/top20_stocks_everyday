@@ -62572,5 +62572,23 @@
     "name": "North Atlantic Titanium Corp",
     "country": "CA",
     "added_date": "2026-07-17 00:31:59"
+  },
+  "APEOD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Coloured Ties Capital Inc",
+    "country": "CA",
+    "added_date": "2026-07-20 22:18:15"
+  },
+  "MGCOF": {
+    "exchange": "SHENZHEN STOCK EXCHANGE",
+    "name": "Midea Group Co Ltd",
+    "country": "CN",
+    "added_date": "2026-07-20 22:18:18"
+  },
+  "CEPL": {
+    "exchange": "OTC MARKETS",
+    "name": "Capstone Energy+ Inc",
+    "country": "US",
+    "added_date": "2026-07-20 23:57:11"
   }
 }
