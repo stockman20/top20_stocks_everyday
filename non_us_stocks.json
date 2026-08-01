@@ -62620,5 +62620,17 @@
     "name": "Twenty Mile Metals Inc",
     "country": "CA",
     "added_date": "2026-07-29 23:21:13"
+  },
+  "GSHRD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Gold X2 Mining Inc",
+    "country": "CA",
+    "added_date": "2026-07-31 22:18:37"
+  },
+  "OYCG": {
+    "exchange": "OTC MARKETS",
+    "name": "Oyocar Group Inc",
+    "country": "DO",
+    "added_date": "2026-07-31 22:50:16"
   }
 }
