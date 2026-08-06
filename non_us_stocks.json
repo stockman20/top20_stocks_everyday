@@ -62638,5 +62638,17 @@
     "name": "FBR Ltd",
     "country": "AU",
     "added_date": "2026-08-04 22:27:49"
+  },
+  "QNCRF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "QuantumCore Ltd",
+    "country": "CA",
+    "added_date": "2026-08-05 22:59:31"
+  },
+  "ARYTF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Aryt Industries Ltd",
+    "country": "IL",
+    "added_date": "2026-08-05 23:30:13"
   }
 }
