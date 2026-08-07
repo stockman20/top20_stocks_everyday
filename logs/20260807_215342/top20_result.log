@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                公司名称               市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+   MB                  Masterbeef Group   0.64    Hotels, Restaurants & Leisure   2026-08-06 3.75     2026-08-07 8.92 137.87
+ RCEL                 AVITA Medical Inc   1.46                    Biotechnology   2026-08-06 4.75     2026-08-07 7.77  63.58
+ VATE                     Innovate Corp   1.04                     Construction   2026-08-06 7.41    2026-08-07 12.11  63.43
+ VIVS                  VivoSim Labs Inc   0.04                    Biotechnology   2026-08-06 0.33     2026-08-07 0.47  41.82
+ XAGE     Longevity Health Holdings Inc   0.01                    Biotechnology   2026-08-06 0.22     2026-08-07 0.32  41.33
+LTSSF                 Lotus Bakeries NV  92.21                    Food Products 2026-08-06 9800.0 2026-08-07 13636.36  39.15
+ QNST                    QuinStreet Inc   8.74                            Media  2026-08-06 15.22    2026-08-07 21.08  38.50
+ OABI                        OmniAb Inc   3.25   Life Sciences Tools & Services   2026-08-06 2.24     2026-08-07 3.08  37.50
+ SENS           Senseonics Holdings Inc   2.69                      Health Care   2026-08-06 5.15     2026-08-07 7.02  36.31
+ EXFY                     Expensify Inc   1.91                       Technology   2026-08-06 1.98     2026-08-07 2.69  35.86
+ TEAM                    Atlassian Corp 279.58                       Technology 2026-08-06 110.17   2026-08-07 149.07  35.31
+ CRSR                Corsair Gaming Inc  11.34                       Technology  2026-08-06 10.61    2026-08-07 14.35  35.25
+  DSY       Big Tree Cloud Holdings Ltd   0.28                Consumer products   2026-08-06 3.45      2026-08-07 4.6  33.33
+ DOCS                      Doximity Inc  37.14                      Health Care  2026-08-06 20.66     2026-08-07 27.4  32.62
+ PUBM                      PubMatic Inc   6.26                            Media  2026-08-06 13.48    2026-08-07 17.78  31.90
+ UAVS        Ageagle Aerial Systems Inc   0.42                        Machinery   2026-08-06 0.72     2026-08-07 0.92  27.81
+ FIGS                          Figs Inc  18.78 Textiles, Apparel & Luxury Goods  2026-08-06 11.24    2026-08-07 14.26  26.87
+ EMBC                      Embecta Corp   2.08                      Health Care    2026-08-06 3.5     2026-08-07 4.42  26.29
+  SPT                 Sprout Social Inc   4.92                       Technology   2026-08-06 8.19    2026-08-07 10.34  26.25
+ AIFA Allied Gaming & Entertainment Inc   0.10    Hotels, Restaurants & Leisure    2026-08-06 1.6     2026-08-07 2.01  25.62
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+LTSSF                   Lotus Bakeries NV    92.21                  Food Products 2026-08-06 9800.0 2026-08-07 13636.36 39.15 
+ TEAM                      Atlassian Corp   279.58                     Technology 2026-08-06 110.17   2026-08-07 149.07 35.31 
+ DOCS                        Doximity Inc    37.14                    Health Care  2026-08-06 20.66     2026-08-07 27.4 32.62 
+ NTRA                          Natera Inc   380.06                  Biotechnology 2026-08-06 265.38    2026-08-07 322.1 21.37 
+ HALO           Halozyme Therapeutics Inc   101.72                  Biotechnology  2026-08-06 85.76   2026-08-07 103.12 20.24 
+ FIVN                           Five9 Inc    21.72                     Technology  2026-08-06 28.37    2026-08-07 33.99 19.81 
+ ROAD           Construction Partners Inc    56.63                   Construction 2026-08-06 100.16   2026-08-07 119.74 19.55 
+ AXTI                             AXT Inc    49.18                 Semiconductors  2026-08-06 75.17    2026-08-07 88.58 17.84 
+ ABNB                          Airbnb Inc   913.94  Hotels, Restaurants & Leisure 2026-08-06 151.64   2026-08-07 178.07 17.43 
+  FLR                          Fluor Corp    68.09                   Construction  2026-08-06 48.75     2026-08-07 57.0 16.92 
+ CELH                Celsius Holdings Inc    60.77                      Beverages  2026-08-06 23.77    2026-08-07 27.77 16.83 
+ SPCX Space Exploration Technologies Corp 15100.94              Telecommunication 2026-08-06 114.92   2026-08-07 133.11 15.83 
+ OKLO                            Oklo Inc    73.41                      Utilities  2026-08-06 42.19    2026-08-07 48.42 14.77 
+ ONTO                 Onto Innovation Inc   133.66                 Semiconductors  2026-08-06 268.7    2026-08-07 308.3 14.74 
+  TXG                    10X Genomics Inc    57.89 Life Sciences Tools & Services   2026-08-06 45.6    2026-08-07 52.03 14.10 
+ APPN                         Appian Corp    22.32                     Technology  2026-08-06 30.41    2026-08-07 34.64 13.91 
+ MCHP            Microchip Technology Inc   403.78                 Semiconductors  2026-08-06 74.36    2026-08-07 84.69 13.89 
+  CAI             Caris Life Sciences Inc    56.54                  Biotechnology   2026-08-06 20.0    2026-08-07 22.74 13.70 
+ CVSA                         Covista Inc    42.29  Diversified Consumer Services 2026-08-06 124.26   2026-08-07 140.98 13.46 
+ COHR                       Coherent Corp   653.87           Electrical Equipment 2026-08-06 334.22   2026-08-07 379.13 13.44 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+LTSSF                   Lotus Bakeries NV    92.21                  Food Products 2026-08-06 9800.0 2026-08-07 13636.36 39.15 
+ TEAM                      Atlassian Corp   279.58                     Technology 2026-08-06 110.17   2026-08-07 149.07 35.31 
+ NTRA                          Natera Inc   380.06                  Biotechnology 2026-08-06 265.38    2026-08-07 322.1 21.37 
+ HALO           Halozyme Therapeutics Inc   101.72                  Biotechnology  2026-08-06 85.76   2026-08-07 103.12 20.24 
+ ROAD           Construction Partners Inc    56.63                   Construction 2026-08-06 100.16   2026-08-07 119.74 19.55 
+ ABNB                          Airbnb Inc   913.94  Hotels, Restaurants & Leisure 2026-08-06 151.64   2026-08-07 178.07 17.43 
+  FLR                          Fluor Corp    68.09                   Construction  2026-08-06 48.75     2026-08-07 57.0 16.92 
+ CELH                Celsius Holdings Inc    60.77                      Beverages  2026-08-06 23.77    2026-08-07 27.77 16.83 
+ SPCX Space Exploration Technologies Corp 15100.94              Telecommunication 2026-08-06 114.92   2026-08-07 133.11 15.83 
+ OKLO                            Oklo Inc    73.41                      Utilities  2026-08-06 42.19    2026-08-07 48.42 14.77 
+ ONTO                 Onto Innovation Inc   133.66                 Semiconductors  2026-08-06 268.7    2026-08-07 308.3 14.74 
+  TXG                    10X Genomics Inc    57.89 Life Sciences Tools & Services   2026-08-06 45.6    2026-08-07 52.03 14.10 
+ MCHP            Microchip Technology Inc   403.78                 Semiconductors  2026-08-06 74.36    2026-08-07 84.69 13.89 
+  CAI             Caris Life Sciences Inc    56.54                  Biotechnology   2026-08-06 20.0    2026-08-07 22.74 13.70 
+ COHR                       Coherent Corp   653.87           Electrical Equipment 2026-08-06 334.22   2026-08-07 379.13 13.44 
+  TEM                       Tempus AI Inc    83.22 Life Sciences Tools & Services  2026-08-06 46.12    2026-08-07 52.05 12.86 
+ FRVO                     Fervo Energy Co    67.77                      Utilities   2026-08-06 23.0    2026-08-07 25.85 12.39 
+ TSEM             Tower Semiconductor Ltd   253.52                 Semiconductors  2026-08-06 224.7   2026-08-07 252.49 12.37 
+ IONQ                            IONQ Inc   157.81                     Technology  2026-08-06 39.72    2026-08-07 44.43 11.86 
+ HNGE                    Hinge Health Inc    61.97                    Health Care  2026-08-06 80.08    2026-08-07 89.33 11.55 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+TEAM                      Atlassian Corp   279.58                    Technology 2026-08-06 110.17 2026-08-07 149.07 35.31 
+NTRA                          Natera Inc   380.06                 Biotechnology 2026-08-06 265.38  2026-08-07 322.1 21.37 
+HALO           Halozyme Therapeutics Inc   101.72                 Biotechnology  2026-08-06 85.76 2026-08-07 103.12 20.24 
+ABNB                          Airbnb Inc   913.94 Hotels, Restaurants & Leisure 2026-08-06 151.64 2026-08-07 178.07 17.43 
+SPCX Space Exploration Technologies Corp 15100.94             Telecommunication 2026-08-06 114.92 2026-08-07 133.11 15.83 
+ONTO                 Onto Innovation Inc   133.66                Semiconductors  2026-08-06 268.7  2026-08-07 308.3 14.74 
+MCHP            Microchip Technology Inc   403.78                Semiconductors  2026-08-06 74.36  2026-08-07 84.69 13.89 
+COHR                       Coherent Corp   653.87          Electrical Equipment 2026-08-06 334.22 2026-08-07 379.13 13.44 
+TSEM             Tower Semiconductor Ltd   253.52                Semiconductors  2026-08-06 224.7 2026-08-07 252.49 12.37 
+IONQ                            IONQ Inc   157.81                    Technology  2026-08-06 39.72  2026-08-07 44.43 11.86 
+CART                       Maplebear Inc   105.83                        Retail  2026-08-06 45.03  2026-08-07 50.17 11.41 
+ CDE                   Coeur Mining, Inc   161.28               Metals & Mining  2026-08-06 15.65  2026-08-07 17.39 11.12 
+PLTR           Palantir Technologies Inc  3746.90                    Technology 2026-08-06 155.92 2026-08-07 172.01 10.32 
+MRNA                         Moderna Inc   215.03                 Biotechnology  2026-08-06 53.86  2026-08-07 59.17  9.86 
+  AU               Anglogold Ashanti PLC   442.34               Metals & Mining  2026-08-06 87.59  2026-08-07 96.22  9.85 
+RKLB                     Rocket Lab Corp   452.64           Aerospace & Defense  2026-08-06 75.67  2026-08-07 82.83  9.46 
+AXON                 Axon Enterprise Inc   421.11           Aerospace & Defense 2026-08-06 522.46 2026-08-07 571.01  9.29 
+IREN                            IREN Ltd   135.36                    Technology  2026-08-06 37.93  2026-08-07 41.23  8.70 
+CRDO  Credo Technology Group Holding Ltd   429.70                Semiconductors 2026-08-06 230.43 2026-08-07 249.89  8.45 
+DKNG                      Draftkings Inc   109.99 Hotels, Restaurants & Leisure  2026-08-06 22.17  2026-08-07 24.03  8.39 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ TEAM                      Atlassian Corp   279.58                    Technology 2026-08-06 110.17 2026-08-07 149.07 35.31 
+ NTRA                          Natera Inc   380.06                 Biotechnology 2026-08-06 265.38  2026-08-07 322.1 21.37 
+ ABNB                          Airbnb Inc   913.94 Hotels, Restaurants & Leisure 2026-08-06 151.64 2026-08-07 178.07 17.43 
+ SPCX Space Exploration Technologies Corp 15100.94             Telecommunication 2026-08-06 114.92 2026-08-07 133.11 15.83 
+ MCHP            Microchip Technology Inc   403.78                Semiconductors  2026-08-06 74.36  2026-08-07 84.69 13.89 
+ COHR                       Coherent Corp   653.87          Electrical Equipment 2026-08-06 334.22 2026-08-07 379.13 13.44 
+ TSEM             Tower Semiconductor Ltd   253.52                Semiconductors  2026-08-06 224.7 2026-08-07 252.49 12.37 
+ PLTR           Palantir Technologies Inc  3746.90                    Technology 2026-08-06 155.92 2026-08-07 172.01 10.32 
+ MRNA                         Moderna Inc   215.03                 Biotechnology  2026-08-06 53.86  2026-08-07 59.17  9.86 
+   AU               Anglogold Ashanti PLC   442.34               Metals & Mining  2026-08-06 87.59  2026-08-07 96.22  9.85 
+ RKLB                     Rocket Lab Corp   452.64           Aerospace & Defense  2026-08-06 75.67  2026-08-07 82.83  9.46 
+ AXON                 Axon Enterprise Inc   421.11           Aerospace & Defense 2026-08-06 522.46 2026-08-07 571.01  9.29 
+ CRDO  Credo Technology Group Holding Ltd   429.70                Semiconductors 2026-08-06 230.43 2026-08-07 249.89  8.45 
+  MDB                         MongoDB Inc   297.60                    Technology  2026-08-06 370.0  2026-08-07 398.8  7.78 
+ HONA             Honeywell Aerospace Inc   495.83           Aerospace & Defense 2026-08-06 156.47 2026-08-07 168.51  7.69 
+KBCSF                        Kbc Groep NV   533.35                       Banking 2026-08-06 137.22  2026-08-07 147.7  7.64 
+ CBRS                Cerebras Systems Inc   585.81                Semiconductors  2026-08-06 211.3 2026-08-07 226.73  7.30 
+ RDDT                          Reddit Inc   290.55                         Media 2026-08-06 150.87  2026-08-07 161.7  7.18 
+  NEM                 Newmont Corporation  1110.91               Metals & Mining 2026-08-06 105.43 2026-08-07 112.98  7.16 
+  GFS                 GlobalFoundries Inc   276.33                Semiconductors  2026-08-06 50.36  2026-08-07 53.93  7.09 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ SPCX Space Exploration Technologies Corp 15100.94             Telecommunication 2026-08-06 114.92 2026-08-07 133.11 15.83 
+ PLTR           Palantir Technologies Inc  3746.90                    Technology 2026-08-06 155.92 2026-08-07 172.01 10.32 
+  NEM                 Newmont Corporation  1110.91               Metals & Mining 2026-08-06 105.43 2026-08-07 112.98  7.16 
+ UBER               Uber Technologies Inc  1434.49                   Road & Rail  2026-08-06 70.47  2026-08-07 75.02  6.46 
+BABAF           Alibaba Group Holding Ltd  3130.82                        Retail  2026-08-06 15.13   2026-08-07 16.0  5.76 
+  NET                      Cloudflare Inc  1010.08                    Technology 2026-08-06 284.43 2026-08-07 300.27  5.57 
+ QCOM                        Qualcomm Inc  1684.47                Semiconductors 2026-08-06 160.39 2026-08-07 167.86  4.66 
+ MRVL              Marvell Technology Inc  1843.84                Semiconductors 2026-08-06 210.54 2026-08-07 218.72  3.89 
+ DELL               Dell Technologies Inc  2837.20                    Technology 2026-08-06 437.65 2026-08-07 453.77  3.68 
+ BKNG                Booking Holdings Inc  1558.29 Hotels, Restaurants & Leisure 2026-08-06 207.39 2026-08-07 214.42  3.39 
+  ADI                  Analog Devices Inc  1837.83                Semiconductors 2026-08-06 377.31 2026-08-07 389.93  3.34 
+  APP                       Applovin Corp  1127.65                    Technology 2026-08-06 335.67  2026-08-07 346.8  3.32 
+  CRM                      Salesforce Inc  1529.65                    Technology 2026-08-06 186.77 2026-08-07 192.74  3.20 
+ SCCO                Southern Copper Corp  1610.51               Metals & Mining 2026-08-06 193.03 2026-08-07 199.06  3.12 
+ TSLA                           Tesla Inc 12619.99                   Automobiles 2026-08-06 319.53 2026-08-07 328.58  2.83 
+ SHOP                         Shopify Inc  1913.26                    Technology 2026-08-06 147.44 2026-08-07 151.57  2.80 
+  TXN               Texas Instruments Inc  2542.48                Semiconductors  2026-08-06 278.4 2026-08-07 286.08  2.76 
+   BX                      Blackstone Inc  1659.87            Financial Services 2026-08-06 133.45 2026-08-07 137.13  2.76 
+  ACN                       Accenture PLC  1047.09                    Technology 2026-08-06 171.11 2026-08-07 175.72  2.69 
+ KLAC                            KLA Corp  2523.99                Semiconductors 2026-08-06 193.22 2026-08-07 198.11  2.53 

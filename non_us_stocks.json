@@ -62656,5 +62656,17 @@
     "name": "Silvergate Capital Corp",
     "country": "US",
     "added_date": "2026-08-07 02:56:04"
+  },
+  "AZEMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Arizona Eagle Mining Corp",
+    "country": "CA",
+    "added_date": "2026-08-07 22:49:06"
+  },
+  "FEXRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Fenix Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-08-07 23:25:03"
   }
 }
