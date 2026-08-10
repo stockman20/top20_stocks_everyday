@@ -62668,5 +62668,47 @@
     "name": "Fenix Resources Ltd",
     "country": "AU",
     "added_date": "2026-08-07 23:25:03"
+  },
+  "GERLF": {
+    "exchange": "BORSA ISTANBUL",
+    "name": "Gersan Elektrik Ticaret ve Sanayi AS",
+    "country": "TR",
+    "added_date": "2026-08-10 22:08:30"
+  },
+  "BIOT": {
+    "exchange": "OTC MARKETS",
+    "name": "Relativity Acquisition Corp",
+    "country": "US",
+    "added_date": "2026-08-10 22:08:31"
+  },
+  "JUSH": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Jushi Holdings Inc",
+    "country": "US",
+    "added_date": "2026-08-10 22:37:21"
+  },
+  "GLMSF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Gulf Marine Services PLC",
+    "country": "AE",
+    "added_date": "2026-08-10 22:51:56"
+  },
+  "ALBC": {
+    "exchange": "OTC MARKETS",
+    "name": "Alternative Ballistics Corp",
+    "country": "US",
+    "added_date": "2026-08-10 23:06:55"
+  },
+  "OGG": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Osisko Development Corp",
+    "country": "CA",
+    "added_date": "2026-08-10 23:41:09"
+  },
+  "CSBA": {
+    "exchange": "OTC MARKETS",
+    "name": "CSB Financial Inc",
+    "country": "US",
+    "added_date": "2026-08-10 23:41:33"
   }
 }
