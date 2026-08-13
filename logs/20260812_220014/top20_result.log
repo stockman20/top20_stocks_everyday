@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                       公司名称                      市值(亿)                板块                      昨天收盘             今天收盘       涨跌幅(%)
+ BOXL                                   Boxlight Corp   0.03                     Technology   2026-08-11 2.93  2026-08-12 7.87 168.60
+ RMCF Rocky Mountain Chocolate Factory Inc (Delaware)   0.06                  Food Products   2026-08-11 0.67  2026-08-12 1.52 126.87
+ OFAL                                       OFA Group   0.02          Professional Services   2026-08-11 0.71  2026-08-12 1.36  90.74
+   BQ                               Boqii Holding Ltd   0.10                         Retail   2026-08-11 0.81  2026-08-12 1.23  52.42
+ NBIS                                 Nebius Group NV 599.43                     Technology 2026-08-11 193.23 2026-08-12 259.2  34.14
+  QNT                                  Quantinuum Inc 178.51                     Technology  2026-08-11 56.06 2026-08-12 71.74  27.97
+  PTN                        Palatin Technologies Inc   0.13                  Biotechnology   2026-08-11 7.41  2026-08-12 9.47  27.80
+ DRMA                        Dermata Therapeutics Inc   0.05                  Biotechnology   2026-08-11 1.08  2026-08-12 1.38  27.78
+ MVIS                                 MicroVision Inc   1.11           Electrical Equipment   2026-08-11 3.64  2026-08-12 4.65  27.75
+ EROC                                       ERock Inc  30.41           Electrical Equipment  2026-08-11 11.25 2026-08-12 13.82  22.84
+ BIVI                                      BioVie Inc   0.12                  Biotechnology   2026-08-11 1.27  2026-08-12 1.56  22.83
+ IVDA                             Iveda Solutions Inc   0.04                     Technology    2026-08-11 0.3  2026-08-12 0.37  22.67
+ SION                         Sionna Therapeutics Inc   2.83                  Biotechnology    2026-08-11 5.1  2026-08-12 6.25  22.55
+ NXTC                                    NextCure Inc   0.37                  Biotechnology   2026-08-11 6.73  2026-08-12 8.17  21.40
+ SHAZ                           SharonAI Holdings Inc  23.24                     Technology  2026-08-11 56.58 2026-08-12 68.46  21.00
+ BRUN                                   Boost Run Inc  15.66                            N/A  2026-08-11 18.61 2026-08-12 22.17  19.13
+ BRCB                       Black Rock Coffee Bar Inc   4.07  Hotels, Restaurants & Leisure   2026-08-11 6.91  2026-08-12 8.23  19.10
+ SMCI                        Super Micro Computer Inc 234.07                     Technology   2026-08-11 31.6 2026-08-12 37.61  19.02
+ BNBX                                   BNB Plus Corp   0.01 Life Sciences Tools & Services   2026-08-11 0.15  2026-08-12 0.18  19.00
+ATROB                                  Astronics Corp  37.63            Aerospace & Defense  2026-08-11 74.01  2026-08-12 87.6  18.36
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+ NBIS                          Nebius Group NV  599.43                    Technology 2026-08-11 193.23  2026-08-12 259.2 34.14 
+  QNT                           Quantinuum Inc  178.51                    Technology  2026-08-11 56.06  2026-08-12 71.74 27.97 
+ EROC                                ERock Inc   30.41          Electrical Equipment  2026-08-11 11.25  2026-08-12 13.82 22.84 
+ SHAZ                    SharonAI Holdings Inc   23.24                    Technology  2026-08-11 56.58  2026-08-12 68.46 21.00 
+ SMCI                 Super Micro Computer Inc  234.07                    Technology   2026-08-11 31.6  2026-08-12 37.61 19.02 
+ATROB                           Astronics Corp   37.63           Aerospace & Defense  2026-08-11 74.01   2026-08-12 87.6 18.36 
+ ATRO                           Astronics Corp   36.92           Aerospace & Defense  2026-08-11 74.91  2026-08-12 87.89 17.33 
+  HRB                          H & R Block Inc   68.68 Diversified Consumer Services  2026-08-11 46.67  2026-08-12 54.18 16.09 
+ CAVA                           CAVA Group Inc   79.97 Hotels, Restaurants & Leisure  2026-08-11 60.81  2026-08-12 69.47 14.24 
+ LITE                    Lumentum Holdings Inc  725.46                Communications 2026-08-11 820.59 2026-08-12 932.47 13.63 
+   BE                        Bloom Energy Corp  696.26          Electrical Equipment 2026-08-11 211.21 2026-08-12 237.16 12.29 
+ VIAV                      Viavi Solutions Inc   99.46                Communications   2026-08-11 38.4  2026-08-12 43.11 12.27 
+ CBRS                     Cerebras Systems Inc  726.54                Semiconductors 2026-08-11 234.76 2026-08-12 262.06 11.63 
+ CIEN                               Ciena Corp  611.58                Communications 2026-08-11 387.53 2026-08-12 432.05 11.49 
+ MSGE Madison Square Garden Entertainment Corp   41.83                         Media  2026-08-11 79.37  2026-08-12 88.42 11.40 
+  EAT                Brinker International Inc  101.31 Hotels, Restaurants & Leisure 2026-08-11 221.38 2026-08-12 245.89 11.07 
+ DOCN                DigitalOcean Holdings Inc  157.79                    Technology 2026-08-11 120.86 2026-08-12 133.37 10.35 
+ AEHR                        Aehr Test Systems   42.16                Semiconductors 2026-08-11 117.18 2026-08-12 129.23 10.28 
+ FIGR          Figure Technology Solutions Inc   63.88            Financial Services  2026-08-11 27.84  2026-08-12 30.68 10.20 
+ DELL                    Dell Technologies Inc 3003.23                    Technology 2026-08-11 440.97  2026-08-12 484.5  9.87 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ NBIS                     Nebius Group NV   599.43                    Technology 2026-08-11 193.23  2026-08-12 259.2 34.14 
+  QNT                      Quantinuum Inc   178.51                    Technology  2026-08-11 56.06  2026-08-12 71.74 27.97 
+ SMCI            Super Micro Computer Inc   234.07                    Technology   2026-08-11 31.6  2026-08-12 37.61 19.02 
+  HRB                     H & R Block Inc    68.68 Diversified Consumer Services  2026-08-11 46.67  2026-08-12 54.18 16.09 
+ CAVA                      CAVA Group Inc    79.97 Hotels, Restaurants & Leisure  2026-08-11 60.81  2026-08-12 69.47 14.24 
+ LITE               Lumentum Holdings Inc   725.46                Communications 2026-08-11 820.59 2026-08-12 932.47 13.63 
+   BE                   Bloom Energy Corp   696.26          Electrical Equipment 2026-08-11 211.21 2026-08-12 237.16 12.29 
+ VIAV                 Viavi Solutions Inc    99.46                Communications   2026-08-11 38.4  2026-08-12 43.11 12.27 
+ CBRS                Cerebras Systems Inc   726.54                Semiconductors 2026-08-11 234.76 2026-08-12 262.06 11.63 
+ CIEN                          Ciena Corp   611.58                Communications 2026-08-11 387.53 2026-08-12 432.05 11.49 
+  EAT           Brinker International Inc   101.31 Hotels, Restaurants & Leisure 2026-08-11 221.38 2026-08-12 245.89 11.07 
+ DOCN           DigitalOcean Holdings Inc   157.79                    Technology 2026-08-11 120.86 2026-08-12 133.37 10.35 
+ FIGR     Figure Technology Solutions Inc    63.88            Financial Services  2026-08-11 27.84  2026-08-12 30.68 10.20 
+ DELL               Dell Technologies Inc  3003.23                    Technology 2026-08-11 440.97  2026-08-12 484.5  9.87 
+ IREN                            IREN Ltd   150.99                    Technology  2026-08-11 39.75  2026-08-12 43.67  9.86 
+ SPCX Space Exploration Technologies Corp 18794.58             Telecommunication 2026-08-11 133.29 2026-08-12 146.15  9.65 
+   FN                            Fabrinet   207.64          Electrical Equipment 2026-08-11 525.88 2026-08-12 571.88  8.75 
+ CRDO  Credo Technology Group Holding Ltd   500.94                Semiconductors 2026-08-11 247.69 2026-08-12 268.16  8.26 
+ COHR                       Coherent Corp   694.48          Electrical Equipment 2026-08-11 328.57 2026-08-12 355.64  8.24 
+KBCSF                        Kbc Groep NV   531.68                       Banking 2026-08-11 137.22  2026-08-12 148.5  8.22 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘              今天收盘       涨跌幅(%)
+ NBIS                     Nebius Group NV   599.43                    Technology 2026-08-11 193.23  2026-08-12 259.2 34.14 
+  QNT                      Quantinuum Inc   178.51                    Technology  2026-08-11 56.06  2026-08-12 71.74 27.97 
+ SMCI            Super Micro Computer Inc   234.07                    Technology   2026-08-11 31.6  2026-08-12 37.61 19.02 
+ LITE               Lumentum Holdings Inc   725.46                Communications 2026-08-11 820.59 2026-08-12 932.47 13.63 
+   BE                   Bloom Energy Corp   696.26          Electrical Equipment 2026-08-11 211.21 2026-08-12 237.16 12.29 
+ CBRS                Cerebras Systems Inc   726.54                Semiconductors 2026-08-11 234.76 2026-08-12 262.06 11.63 
+ CIEN                          Ciena Corp   611.58                Communications 2026-08-11 387.53 2026-08-12 432.05 11.49 
+  EAT           Brinker International Inc   101.31 Hotels, Restaurants & Leisure 2026-08-11 221.38 2026-08-12 245.89 11.07 
+ DOCN           DigitalOcean Holdings Inc   157.79                    Technology 2026-08-11 120.86 2026-08-12 133.37 10.35 
+ DELL               Dell Technologies Inc  3003.23                    Technology 2026-08-11 440.97  2026-08-12 484.5  9.87 
+ IREN                            IREN Ltd   150.99                    Technology  2026-08-11 39.75  2026-08-12 43.67  9.86 
+ SPCX Space Exploration Technologies Corp 18794.58             Telecommunication 2026-08-11 133.29 2026-08-12 146.15  9.65 
+   FN                            Fabrinet   207.64          Electrical Equipment 2026-08-11 525.88 2026-08-12 571.88  8.75 
+ CRDO  Credo Technology Group Holding Ltd   500.94                Semiconductors 2026-08-11 247.69 2026-08-12 268.16  8.26 
+ COHR                       Coherent Corp   694.48          Electrical Equipment 2026-08-11 328.57 2026-08-12 355.64  8.24 
+KBCSF                        Kbc Groep NV   531.68                       Banking 2026-08-11 137.22  2026-08-12 148.5  8.22 
+  HPE       Hewlett Packard Enterprise Co   742.35                    Technology  2026-08-11 54.38  2026-08-12 58.79  8.11 
+ ENTG                        Entegris Inc   240.26                Semiconductors 2026-08-11 150.21 2026-08-12 161.08  7.24 
+ VICR                          Vicor Corp   104.42          Electrical Equipment 2026-08-11 210.88 2026-08-12 226.12  7.23 
+  STX     Seagate Technology Holdings PLC  1993.93                    Technology 2026-08-11 820.52 2026-08-12 878.21  7.03 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+ NBIS                     Nebius Group NV   599.43           Technology  2026-08-11 193.23   2026-08-12 259.2 34.14 
+ SMCI            Super Micro Computer Inc   234.07           Technology    2026-08-11 31.6   2026-08-12 37.61 19.02 
+ LITE               Lumentum Holdings Inc   725.46       Communications  2026-08-11 820.59  2026-08-12 932.47 13.63 
+   BE                   Bloom Energy Corp   696.26 Electrical Equipment  2026-08-11 211.21  2026-08-12 237.16 12.29 
+ CBRS                Cerebras Systems Inc   726.54       Semiconductors  2026-08-11 234.76  2026-08-12 262.06 11.63 
+ CIEN                          Ciena Corp   611.58       Communications  2026-08-11 387.53  2026-08-12 432.05 11.49 
+ DELL               Dell Technologies Inc  3003.23           Technology  2026-08-11 440.97   2026-08-12 484.5  9.87 
+ SPCX Space Exploration Technologies Corp 18794.58    Telecommunication  2026-08-11 133.29  2026-08-12 146.15  9.65 
+   FN                            Fabrinet   207.64 Electrical Equipment  2026-08-11 525.88  2026-08-12 571.88  8.75 
+ CRDO  Credo Technology Group Holding Ltd   500.94       Semiconductors  2026-08-11 247.69  2026-08-12 268.16  8.26 
+ COHR                       Coherent Corp   694.48 Electrical Equipment  2026-08-11 328.57  2026-08-12 355.64  8.24 
+KBCSF                        Kbc Groep NV   531.68              Banking  2026-08-11 137.22   2026-08-12 148.5  8.22 
+  HPE       Hewlett Packard Enterprise Co   742.35           Technology   2026-08-11 54.38   2026-08-12 58.79  8.11 
+ ENTG                        Entegris Inc   240.26       Semiconductors  2026-08-11 150.21  2026-08-12 161.08  7.24 
+  STX     Seagate Technology Holdings PLC  1993.93           Technology  2026-08-11 820.52  2026-08-12 878.21  7.03 
+ ANET                 Arista Networks Inc  2607.14       Communications  2026-08-11 197.85   2026-08-12 210.5  6.39 
+  TER                        Teradyne Inc   632.16       Semiconductors  2026-08-11 379.56  2026-08-12 402.74  6.11 
+ SNDK                        Sandisk Corp  2035.30           Technology 2026-08-11 1271.05 2026-08-12 1344.29  5.76 
+ ORCL                         Oracle Corp  4316.96           Technology  2026-08-11 145.48  2026-08-12 153.28  5.36 
+ ECHO                       EchoStar Corp   265.12                Media   2026-08-11 87.98    2026-08-12 92.5  5.14 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                 板块                     昨天收盘               今天收盘        涨跌幅(%)
+ DELL               Dell Technologies Inc  3003.23                    Technology  2026-08-11 440.97   2026-08-12 484.5  9.87 
+ SPCX Space Exploration Technologies Corp 18794.58             Telecommunication  2026-08-11 133.29  2026-08-12 146.15  9.65 
+  STX     Seagate Technology Holdings PLC  1993.93                    Technology  2026-08-11 820.52  2026-08-12 878.21  7.03 
+ ANET                 Arista Networks Inc  2607.14                Communications  2026-08-11 197.85   2026-08-12 210.5  6.39 
+ SNDK                        Sandisk Corp  2035.30                    Technology 2026-08-11 1271.05 2026-08-12 1344.29  5.76 
+ ORCL                         Oracle Corp  4316.96                    Technology  2026-08-11 145.48  2026-08-12 153.28  5.36 
+   MU               Micron Technology Inc 10398.55                Semiconductors  2026-08-11 868.52  2026-08-12 911.29  4.92 
+ LRCX                   Lam Research Corp  4080.56                Semiconductors  2026-08-11 311.41  2026-08-12 326.11  4.72 
+ AMAT               Applied Materials Inc  4352.09                Semiconductors  2026-08-11 525.61  2026-08-12 548.15  4.29 
+ KLAC                            KLA Corp  2707.82                Semiconductors  2026-08-11 200.47  2026-08-12 208.25  3.88 
+ INTC                          Intel Corp  5067.20                Semiconductors   2026-08-11 97.71  2026-08-12 100.95  3.32 
+ NVDA                         NVIDIA Corp 54007.14                Semiconductors   2026-08-11 217.5  2026-08-12 224.09  3.03 
+ CSCO                   Cisco Systems Inc  4845.99                Communications  2026-08-11 120.43  2026-08-12 123.88  2.86 
+  GEV                      GE Vernova Inc  2764.68          Electrical Equipment 2026-08-11 1011.88  2026-08-12 1039.9  2.77 
+BNPQF                      BNP Paribas SA  1234.12                       Banking  2026-08-11 126.64  2026-08-12 129.75  2.46 
+ MRVL              Marvell Technology Inc  1936.41                Semiconductors  2026-08-11 212.31  2026-08-12 217.08  2.25 
+ IBKR       Interactive Brokers Group Inc  1564.76            Financial Services   2026-08-11 89.78   2026-08-12 91.66  2.09 
+  MRK                      Merck & Co Inc  3285.04               Pharmaceuticals  2026-08-11 130.42  2026-08-12 132.92  1.92 
+  AMD          Advanced Micro Devices Inc  7943.79                Semiconductors  2026-08-11 474.32  2026-08-12 482.93  1.82 
+ SBUX                      Starbucks Corp  1222.54 Hotels, Restaurants & Leisure  2026-08-11 106.66  2026-08-12 108.49  1.72 

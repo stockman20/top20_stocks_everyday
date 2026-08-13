@@ -62722,5 +62722,17 @@
     "name": "Sankamap Metals Inc",
     "country": "CA",
     "added_date": "2026-08-11 23:55:56"
+  },
+  "CLLED": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Challenger Gold Ltd",
+    "country": "AU",
+    "added_date": "2026-08-12 22:52:04"
+  },
+  "RSAGS": {
+    "exchange": "OTC MARKETS",
+    "name": "RSE Archive LLC",
+    "country": "US",
+    "added_date": "2026-08-12 23:56:02"
   }
 }
