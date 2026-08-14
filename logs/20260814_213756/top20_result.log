@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                         公司名称                         市值(亿)               板块                     昨天收盘             今天收盘        涨跌幅(%)
+ HAO                          Haoxi Health Technology Ltd  0.01                          Media  2026-08-13 0.16  2026-08-14 3.98 2341.72
+MDXH                                         MDxHealth SA  0.24                  Biotechnology  2026-08-13 0.46  2026-08-14 0.81   74.89
+CAPR                            Capricor Therapeutics Inc  2.44                  Biotechnology  2026-08-13 4.21  2026-08-14 6.65   57.96
+BANL                                CBL International Ltd  0.15                         Energy  2026-08-13 7.01 2026-08-14 10.93   55.92
+ HHS                                      Harte Hanks Inc  0.21                          Media  2026-08-13 2.81   2026-08-14 4.3   53.02
+ETON                             Eton Pharmaceuticals Inc 11.18                Pharmaceuticals  2026-08-13 40.8 2026-08-14 58.86   44.26
+DAAQ                       Digital Asset Acquisition Corp  1.67                            N/A  2026-08-13 7.26 2026-08-14 10.42   43.53
+ SST                                          System1 Inc  0.18                          Media   2026-08-13 1.7  2026-08-14 2.35   38.24
+SPAI                                   Safe Pro Group Inc  0.92            Aerospace & Defense  2026-08-13 4.48  2026-08-14 6.17   37.72
+AEYE                                         AudioEye Inc  0.73                     Technology  2026-08-13 5.81  2026-08-14 7.99   37.52
+HTFL                                        Heartflow Inc 26.74                    Health Care 2026-08-13 31.01 2026-08-14 42.08   35.70
+APLM                                       Apollomics Inc  0.38                  Biotechnology 2026-08-13 17.37  2026-08-14 23.4   34.72
+MODD                                  Modular Medical Inc  0.11                    Health Care  2026-08-13 1.87  2026-08-14 2.49   33.16
+NTHI                      NeOnc Technologies Holdings Inc  0.83                Pharmaceuticals  2026-08-13 3.21  2026-08-14 4.22   31.46
+SXTC                        China SXT Pharmaceuticals Inc  0.04                Pharmaceuticals   2026-08-13 3.3  2026-08-14 4.33   31.21
+CDTG CDT Environmental Technology Investment Holdings Ltd  0.05 Commercial Services & Supplies   2026-08-13 1.6  2026-08-14 2.09   30.62
+  MF                                  U-BX Technology Ltd  0.20                     Technology  2026-08-13 10.0  2026-08-14 13.0   30.00
+AKAN                                          Akanda Corp  0.04                Pharmaceuticals  2026-08-13 5.01  2026-08-14 6.45   28.74
+TMCR                           Metals Royalty Company Inc  3.80                Metals & Mining  2026-08-13 6.13  2026-08-14 7.69   25.45
+UMAC                                 Unusual Machines Inc 13.35           Electrical Equipment 2026-08-13 27.24 2026-08-14 34.06   25.04
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ HTFL                   Heartflow Inc   26.74                    Health Care   2026-08-13 31.01   2026-08-14 42.08 35.70 
+ AAOI     Applied Optoelectronics Inc  110.01                 Communications  2026-08-13 130.08  2026-08-14 150.28 15.53 
+BAIDF                       Baidu Inc  359.19                          Media   2026-08-13 11.08    2026-08-14 12.8 15.52 
+ RDDT                      Reddit Inc  304.22                          Media  2026-08-13 158.12  2026-08-14 178.09 12.63 
+  MXL                   Maxlinear Inc   69.52                 Semiconductors   2026-08-13 76.65   2026-08-14 84.84 10.68 
+BABAF       Alibaba Group Holding Ltd 2994.99                         Retail   2026-08-13 14.25   2026-08-14 15.72 10.32 
+ VERA          Vera Therapeutics, Inc   23.06                  Biotechnology   2026-08-13 28.89   2026-08-14 31.63  9.48 
+   NU                Nu Holdings Ltd.  672.89                        Banking   2026-08-13 13.93   2026-08-14 15.23  9.33 
+ AVAH Aveanna Healthcare Holdings Inc   24.58                    Health Care   2026-08-13 11.29   2026-08-14 12.32  9.12 
+ NBIS                 Nebius Group NV  641.72                     Technology  2026-08-13 255.04  2026-08-14 277.68  8.88 
+ AEHR               Aehr Test Systems   40.22                 Semiconductors   2026-08-13 123.3  2026-08-14 134.06  8.73 
+ LUNR          Intuitive Machines Inc   38.11            Aerospace & Defense   2026-08-13 17.56   2026-08-14 19.01  8.26 
+ OUST                      Ouster Inc   32.54           Electrical Equipment   2026-08-13 45.13   2026-08-14 48.71  7.93 
+ CPRT                      Copart Inc  272.10 Commercial Services & Supplies   2026-08-13 29.39   2026-08-14 31.61  7.55 
+ USAR              USA Rare Earth Inc   47.30                Metals & Mining   2026-08-13 18.61    2026-08-14 20.0  7.47 
+ CIFR              Cipher Digital Inc   68.98                     Technology   2026-08-13 16.62   2026-08-14 17.85  7.43 
+ SNDK                    Sandisk Corp 2262.97                     Technology 2026-08-13 1528.11 2026-08-14 1641.11  7.39 
+ IOVA     Iovance Biotherapeutics Inc   29.53                  Biotechnology    2026-08-13 6.52    2026-08-14 6.98  7.06 
+ EROC                       ERock Inc   34.36           Electrical Equipment   2026-08-13 15.66   2026-08-14 16.72  6.77 
+ CGNX                     Cognex Corp  103.61           Electrical Equipment   2026-08-13 61.59   2026-08-14 65.63  6.56 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ AAOI     Applied Optoelectronics Inc  110.01                 Communications  2026-08-13 130.08  2026-08-14 150.28 15.53 
+BAIDF                       Baidu Inc  359.19                          Media   2026-08-13 11.08    2026-08-14 12.8 15.52 
+ RDDT                      Reddit Inc  304.22                          Media  2026-08-13 158.12  2026-08-14 178.09 12.63 
+  MXL                   Maxlinear Inc   69.52                 Semiconductors   2026-08-13 76.65   2026-08-14 84.84 10.68 
+BABAF       Alibaba Group Holding Ltd 2994.99                         Retail   2026-08-13 14.25   2026-08-14 15.72 10.32 
+   NU                Nu Holdings Ltd.  672.89                        Banking   2026-08-13 13.93   2026-08-14 15.23  9.33 
+ NBIS                 Nebius Group NV  641.72                     Technology  2026-08-13 255.04  2026-08-14 277.68  8.88 
+ CPRT                      Copart Inc  272.10 Commercial Services & Supplies   2026-08-13 29.39   2026-08-14 31.61  7.55 
+ CIFR              Cipher Digital Inc   68.98                     Technology   2026-08-13 16.62   2026-08-14 17.85  7.43 
+ SNDK                    Sandisk Corp 2262.97                     Technology 2026-08-13 1528.11 2026-08-14 1641.11  7.39 
+ CGNX                     Cognex Corp  103.61           Electrical Equipment   2026-08-13 61.59   2026-08-14 65.63  6.56 
+  AMD      Advanced Micro Devices Inc 7885.02                 Semiconductors  2026-08-13 483.01  2026-08-14 514.39  6.50 
+ OSCR                Oscar Health Inc   92.80                      Insurance   2026-08-13 30.78   2026-08-14 32.76  6.43 
+ DNTH       Dianthus Therapeutics Inc   61.30                  Biotechnology   2026-08-13 109.6  2026-08-14 115.96  5.80 
+  FOX                        Fox Corp  258.47                          Media    2026-08-13 58.1   2026-08-14 61.41  5.70 
+  STX Seagate Technology Holdings PLC 2088.23                     Technology  2026-08-13 921.37  2026-08-14 973.44  5.65 
+  FPS    Forgent Power Solutions, Inc  114.34           Electrical Equipment   2026-08-13 37.56   2026-08-14 39.66  5.59 
+ MAAS                       Maase Inc   69.78                      Insurance   2026-08-13 15.78   2026-08-14 16.66  5.58 
+   MP               MP Materials Corp   99.13                Metals & Mining   2026-08-13 55.66   2026-08-14 58.74  5.53 
+ FOXA                        Fox Corp  258.47                          Media   2026-08-13 65.45   2026-08-14 69.04  5.49 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ AAOI     Applied Optoelectronics Inc  110.01                 Communications  2026-08-13 130.08  2026-08-14 150.28 15.53 
+BAIDF                       Baidu Inc  359.19                          Media   2026-08-13 11.08    2026-08-14 12.8 15.52 
+ RDDT                      Reddit Inc  304.22                          Media  2026-08-13 158.12  2026-08-14 178.09 12.63 
+BABAF       Alibaba Group Holding Ltd 2994.99                         Retail   2026-08-13 14.25   2026-08-14 15.72 10.32 
+   NU                Nu Holdings Ltd.  672.89                        Banking   2026-08-13 13.93   2026-08-14 15.23  9.33 
+ NBIS                 Nebius Group NV  641.72                     Technology  2026-08-13 255.04  2026-08-14 277.68  8.88 
+ CPRT                      Copart Inc  272.10 Commercial Services & Supplies   2026-08-13 29.39   2026-08-14 31.61  7.55 
+ SNDK                    Sandisk Corp 2262.97                     Technology 2026-08-13 1528.11 2026-08-14 1641.11  7.39 
+ CGNX                     Cognex Corp  103.61           Electrical Equipment   2026-08-13 61.59   2026-08-14 65.63  6.56 
+  AMD      Advanced Micro Devices Inc 7885.02                 Semiconductors  2026-08-13 483.01  2026-08-14 514.39  6.50 
+  FOX                        Fox Corp  258.47                          Media    2026-08-13 58.1   2026-08-14 61.41  5.70 
+  STX Seagate Technology Holdings PLC 2088.23                     Technology  2026-08-13 921.37  2026-08-14 973.44  5.65 
+  FPS    Forgent Power Solutions, Inc  114.34           Electrical Equipment   2026-08-13 37.56   2026-08-14 39.66  5.59 
+ FOXA                        Fox Corp  258.47                          Media   2026-08-13 65.45   2026-08-14 69.04  5.49 
+  NRG                  NRG Energy Inc  251.73                      Utilities  2026-08-13 119.75  2026-08-14 126.24  5.42 
+ LITE           Lumentum Holdings Inc  684.96                 Communications  2026-08-13 880.41  2026-08-14 926.14  5.19 
+ ELAN        Elanco Animal Health Inc  112.46                Pharmaceuticals   2026-08-13 22.51   2026-08-14 23.67  5.15 
+ SMTC                    Semtech Corp  124.43                 Semiconductors  2026-08-13 133.58  2026-08-14 140.35  5.07 
+ TSEM         Tower Semiconductor Ltd  285.39                 Semiconductors  2026-08-13 252.95  2026-08-14 265.48  4.95 
+  HAL                  Halliburton Co  273.60                         Energy   2026-08-13 32.84   2026-08-14 34.42  4.81 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+BAIDF                       Baidu Inc  359.19                            Media   2026-08-13 11.08    2026-08-14 12.8 15.52 
+ RDDT                      Reddit Inc  304.22                            Media  2026-08-13 158.12  2026-08-14 178.09 12.63 
+BABAF       Alibaba Group Holding Ltd 2994.99                           Retail   2026-08-13 14.25   2026-08-14 15.72 10.32 
+   NU                Nu Holdings Ltd.  672.89                          Banking   2026-08-13 13.93   2026-08-14 15.23  9.33 
+ NBIS                 Nebius Group NV  641.72                       Technology  2026-08-13 255.04  2026-08-14 277.68  8.88 
+ CPRT                      Copart Inc  272.10   Commercial Services & Supplies   2026-08-13 29.39   2026-08-14 31.61  7.55 
+ SNDK                    Sandisk Corp 2262.97                       Technology 2026-08-13 1528.11 2026-08-14 1641.11  7.39 
+  AMD      Advanced Micro Devices Inc 7885.02                   Semiconductors  2026-08-13 483.01  2026-08-14 514.39  6.50 
+  FOX                        Fox Corp  258.47                            Media    2026-08-13 58.1   2026-08-14 61.41  5.70 
+  STX Seagate Technology Holdings PLC 2088.23                       Technology  2026-08-13 921.37  2026-08-14 973.44  5.65 
+ FOXA                        Fox Corp  258.47                            Media   2026-08-13 65.45   2026-08-14 69.04  5.49 
+  NRG                  NRG Energy Inc  251.73                        Utilities  2026-08-13 119.75  2026-08-14 126.24  5.42 
+ LITE           Lumentum Holdings Inc  684.96                   Communications  2026-08-13 880.41  2026-08-14 926.14  5.19 
+ TSEM         Tower Semiconductor Ltd  285.39                   Semiconductors  2026-08-13 252.95  2026-08-14 265.48  4.95 
+  HAL                  Halliburton Co  273.60                           Energy   2026-08-13 32.84   2026-08-14 34.42  4.81 
+ SUNB    Sunbelt Rentals Holdings Inc  333.00 Trading Companies & Distributors   2026-08-13 81.23    2026-08-14 84.8  4.39 
+  MTZ                      MasTec Inc  229.76                     Construction  2026-08-13 286.11  2026-08-14 297.59  4.01 
+  GFS             GlobalFoundries Inc  289.11                   Semiconductors   2026-08-13 52.69   2026-08-14 54.58  3.59 
+ SITM                     SiTime Corp  206.87                   Semiconductors  2026-08-13 687.93  2026-08-14 711.91  3.49 
+    F                   Ford Motor Co  553.90                      Automobiles   2026-08-13 13.89   2026-08-14 14.37  3.46 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                  板块                       昨天收盘               今天收盘        涨跌幅(%)
+BABAF       Alibaba Group Holding Ltd  2994.99                           Retail   2026-08-13 14.25   2026-08-14 15.72 10.32 
+ SNDK                    Sandisk Corp  2262.97                       Technology 2026-08-13 1528.11 2026-08-14 1641.11  7.39 
+  AMD      Advanced Micro Devices Inc  7885.02                   Semiconductors  2026-08-13 483.01  2026-08-14 514.39  6.50 
+  STX Seagate Technology Holdings PLC  2088.23                       Technology  2026-08-13 921.37  2026-08-14 973.44  5.65 
+  NEM             Newmont Corporation  1203.21                  Metals & Mining  2026-08-13 114.19  2026-08-14 117.76  3.13 
+HESAF        Hermes International SCA  1677.44 Textiles, Apparel & Luxury Goods  2026-08-13 1776.0  2026-08-14 1829.0  2.98 
+ SPOT           Spotify Technology SA  1025.79                            Media  2026-08-13 498.24  2026-08-14 512.82  2.93 
+   MU           Micron Technology Inc 10727.31                   Semiconductors  2026-08-13 949.83  2026-08-14 971.66  2.30 
+  CVS                 CVS Health Corp  1214.89                      Health Care   2026-08-13 94.99   2026-08-14 97.16  2.28 
+  TXN           Texas Instruments Inc  2497.09                   Semiconductors  2026-08-13 273.43  2026-08-14 279.58  2.25 
+  ADI              Analog Devices Inc  1856.63                   Semiconductors  2026-08-13 381.17  2026-08-14 389.39  2.16 
+   GE             General Electric Co  3741.87              Aerospace & Defense  2026-08-13 360.64  2026-08-14 368.38  2.15 
+  DIS                  Walt Disney Co  1809.57                            Media   2026-08-13 104.8  2026-08-14 106.85  1.96 
+EADSF                       Airbus SE  1681.91              Aerospace & Defense  2026-08-13 245.48   2026-08-14 250.0  1.84 
+  COP                  ConocoPhillips  1495.91                           Energy  2026-08-13 124.52  2026-08-14 126.78  1.81 
+  LMT            Lockheed Martin Corp  1380.15              Aerospace & Defense  2026-08-13 598.01  2026-08-14 608.68  1.78 
+  COF      Capital One Financial Corp  1373.16               Financial Services  2026-08-13 223.83  2026-08-14 227.34  1.57 
+  TTE                TotalEnergies SE  1685.97                           Energy   2026-08-13 87.05   2026-08-14 88.33  1.47 
+  GEV                  GE Vernova Inc  2794.96             Electrical Equipment 2026-08-13 1049.42 2026-08-14 1063.25  1.32 
+    T                        AT&T Inc  1684.32                Telecommunication   2026-08-13 24.58   2026-08-14 24.89  1.26 
