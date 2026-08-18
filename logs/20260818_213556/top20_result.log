@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                  公司名称                 市值(亿)               板块                    昨天收盘             今天收盘       涨跌幅(%)
+PFSA                           Profusa Inc  0.02                   Health Care  2026-08-17 4.53 2026-08-18 27.48 506.62
+CAST                          Freecast Inc  0.41                         Media  2026-08-17 0.86   2026-08-18 2.1 144.19
+IPST              IP Strategy Holdings Inc  0.02                     Beverages  2026-08-17 7.39 2026-08-18 15.76 113.26
+ XOS                               Xos Inc  0.28                     Machinery  2026-08-17 2.09  2026-08-18 4.44 112.44
+AIXC                Aixcrypto Holdings Inc  0.14                 Biotechnology  2026-08-17 0.71  2026-08-18 1.32  85.92
+ SLE           Super League Enterprise Inc  0.05                         Media  2026-08-17 3.02   2026-08-18 5.5  82.12
+AMLX            Amylyx Pharmaceuticals Inc 23.88               Pharmaceuticals 2026-08-17 21.43 2026-08-18 35.11  63.84
+GNLN                Greenlane Holdings Inc  0.01                  Distributors  2026-08-17 2.01  2026-08-18 3.05  51.74
+PSIG            PS International Group Ltd  0.17    Logistics & Transportation  2026-08-17 1.08  2026-08-18 1.59  47.22
+ EJH E-Home Household Service Holdings Ltd  0.05 Diversified Consumer Services  2026-08-17 1.45  2026-08-18 2.06  42.07
+SXTC         China SXT Pharmaceuticals Inc  0.05               Pharmaceuticals  2026-08-17 3.75  2026-08-18 5.13  36.80
+BANL                 CBL International Ltd  0.22                        Energy 2026-08-17 10.35 2026-08-18 13.55  30.92
+BCLI      Brainstorm Cell Therapeutics Inc  0.12                 Biotechnology  2026-08-17 1.09  2026-08-18 1.41  29.36
+SCTX               Scribe Therapeutics Inc  3.43                 Biotechnology 2026-08-17 21.19 2026-08-18 27.11  27.94
+MODD                   Modular Medical Inc  0.14                   Health Care  2026-08-17 2.37  2026-08-18 3.03  27.85
+RCEL                     AVITA Medical Inc  2.44                 Biotechnology   2026-08-17 7.9  2026-08-18 9.85  24.68
+ PBM                Psyence Biomedical Ltd  0.14                 Biotechnology  2026-08-17 3.61  2026-08-18 4.47  23.82
+YYAI                             AiRWA Inc  0.00              Leisure Products  2026-08-17 1.22   2026-08-18 1.5  22.95
+GRNQ                 GreenPro Capital Corp  0.18            Financial Services 2026-08-17 10.04  2026-08-18 12.2  21.51
+DVLT                      Datavault AI Inc  2.74                Semiconductors  2026-08-17 0.32  2026-08-18 0.39  20.84
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                  公司名称                  市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+AMLX             Amylyx Pharmaceuticals Inc  23.88               Pharmaceuticals  2026-08-17 21.43  2026-08-18 35.11 63.84 
+ HAE                       Haemonetics Corp  41.07                   Health Care  2026-08-17 90.27 2026-08-18 104.65 15.93 
+ UGI                               UGI Corp  75.27                     Utilities  2026-08-17 35.09  2026-08-18 38.39  9.40 
+HTFL                          Heartflow Inc  36.47                   Health Care  2026-08-17 41.94  2026-08-18 45.23  7.84 
+NUVB                       Nuvation Bio Inc  22.82               Pharmaceuticals   2026-08-17 6.48   2026-08-18 6.96  7.41 
+DUOL                           Duolingo Inc  60.90 Diversified Consumer Services 2026-08-17 130.16 2026-08-18 139.64  7.28 
+TRGP                   Targa Resources Corp 595.99                        Energy 2026-08-17 277.94 2026-08-18 297.77  7.13 
+FRHC                   Freedom Holding Corp  95.98            Financial Services 2026-08-17 150.47  2026-08-18 160.8  6.87 
+ CCC CCC Intelligent Solutions Holdings Inc  39.40                    Technology   2026-08-17 6.69   2026-08-18 7.14  6.73 
+TDTH      Trident Digital Tech Holdings Ltd  21.40                    Technology   2026-08-17 1.93   2026-08-18 2.05  6.22 
+CHRN              Ekso Bionics Holdings Inc  32.22                   Health Care  2026-08-17 22.19  2026-08-18 23.53  6.04 
+PODD                           Insulet Corp  96.89                   Health Care  2026-08-17 139.7 2026-08-18 148.03  5.96 
+PBLS                Parabilis Medicines Inc  43.97                 Biotechnology  2026-08-17 37.22  2026-08-18 39.35  5.72 
+MNDY                         monday.com Ltd  35.23                    Technology  2026-08-17 83.33  2026-08-18 88.04  5.65 
+PLNT                     Planet Fitness Inc  38.24 Hotels, Restaurants & Leisure  2026-08-17 50.63  2026-08-18 53.36  5.39 
+CLBT                      Cellebrite DI Ltd  26.04                    Technology  2026-08-17 10.44   2026-08-18 11.0  5.36 
+FOUR                   Shift4 Payments, Inc  35.02            Financial Services  2026-08-17 44.35   2026-08-18 46.7  5.30 
+HUBS                            HubSpot Inc 107.30                    Technology 2026-08-17 215.17 2026-08-18 226.24  5.14 
+SRRK              Scholar Rock Holding Corp  63.39                 Biotechnology  2026-08-17 52.05  2026-08-18 54.72  5.13 
+CLMT                            Calumet Inc  42.50                        Energy  2026-08-17 48.35  2026-08-18 50.81  5.09 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称            市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+  UGI                  UGI Corp   75.27                     Utilities  2026-08-17 35.09  2026-08-18 38.39  9.40 
+ DUOL              Duolingo Inc   60.90 Diversified Consumer Services 2026-08-17 130.16 2026-08-18 139.64  7.28 
+ TRGP      Targa Resources Corp  595.99                        Energy 2026-08-17 277.94 2026-08-18 297.77  7.13 
+ FRHC      Freedom Holding Corp   95.98            Financial Services 2026-08-17 150.47  2026-08-18 160.8  6.87 
+ PODD              Insulet Corp   96.89                   Health Care  2026-08-17 139.7 2026-08-18 148.03  5.96 
+ HUBS               HubSpot Inc  107.30                    Technology 2026-08-17 215.17 2026-08-18 226.24  5.14 
+ SRRK Scholar Rock Holding Corp   63.39                 Biotechnology  2026-08-17 52.05  2026-08-18 54.72  5.13 
+ SPOT     Spotify Technology SA 1013.91                         Media 2026-08-17 492.47 2026-08-18 516.28  4.83 
+ ULTA           Ulta Beauty Inc  212.08                        Retail 2026-08-17 493.33 2026-08-18 516.74  4.75 
+ BETA     BETA Technologies Inc   59.89           Aerospace & Defense   2026-08-17 25.6  2026-08-18 26.76  4.53 
+ INTU                Intuit Inc  917.99                    Technology  2026-08-17 335.6 2026-08-18 350.41  4.41 
+BABAF Alibaba Group Holding Ltd 2929.03                        Retail   2026-08-17 15.3  2026-08-18 15.95  4.25 
+ MNST     Monster Beverage Corp  891.76                     Beverages  2026-08-17 45.52  2026-08-18 47.38  4.09 
+  FIG                 Figma Inc  133.20                    Technology  2026-08-17 24.99  2026-08-18 26.01  4.08 
+ APPF              Appfolio Inc   69.41                    Technology 2026-08-17 195.96 2026-08-18 203.95  4.07 
+ MTCH           Match Group Inc   85.44                         Media  2026-08-17 37.22  2026-08-18 38.69  3.95 
+ BBIO      BridgeBio Pharma Inc  156.17                 Biotechnology  2026-08-17 79.89  2026-08-18 82.98  3.87 
+ GDDY               GoDaddy Inc  116.98                    Technology  2026-08-17 92.37   2026-08-18 95.8  3.71 
+ ERIE         Erie Indemnity Co  115.38                     Insurance 2026-08-17 247.75 2026-08-18 256.95  3.71 
+  TYL    Tyler Technologies Inc  131.24                    Technology 2026-08-17 320.48 2026-08-18 332.21  3.66 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称            市值(亿)            板块                昨天收盘               今天收盘        涨跌幅(%)
+ TRGP      Targa Resources Corp   595.99              Energy  2026-08-17 277.94  2026-08-18 297.77  7.13 
+ HUBS               HubSpot Inc   107.30          Technology  2026-08-17 215.17  2026-08-18 226.24  5.14 
+ SPOT     Spotify Technology SA  1013.91               Media  2026-08-17 492.47  2026-08-18 516.28  4.83 
+ ULTA           Ulta Beauty Inc   212.08              Retail  2026-08-17 493.33  2026-08-18 516.74  4.75 
+ INTU                Intuit Inc   917.99          Technology   2026-08-17 335.6  2026-08-18 350.41  4.41 
+BABAF Alibaba Group Holding Ltd  2929.03              Retail    2026-08-17 15.3   2026-08-18 15.95  4.25 
+ MNST     Monster Beverage Corp   891.76           Beverages   2026-08-17 45.52   2026-08-18 47.38  4.09 
+  FIG                 Figma Inc   133.20          Technology   2026-08-17 24.99   2026-08-18 26.01  4.08 
+ BBIO      BridgeBio Pharma Inc   156.17       Biotechnology   2026-08-17 79.89   2026-08-18 82.98  3.87 
+ GDDY               GoDaddy Inc   116.98          Technology   2026-08-17 92.37    2026-08-18 95.8  3.71 
+ ERIE         Erie Indemnity Co   115.38           Insurance  2026-08-17 247.75  2026-08-18 256.95  3.71 
+  TYL    Tyler Technologies Inc   131.24          Technology  2026-08-17 320.48  2026-08-18 332.21  3.66 
+  LLY          Eli Lilly and Co 11137.76     Pharmaceuticals 2026-08-17 1183.16 2026-08-18 1225.73  3.60 
+ ADBE                 Adobe Inc  1009.81          Technology  2026-08-17 254.04  2026-08-18 263.14  3.58 
+SNYNF                 Sanofi SA   905.88     Pharmaceuticals   2026-08-17 86.93   2026-08-18 90.01  3.54 
+   DT             Dynatrace Inc   137.59          Technology   2026-08-17 47.61   2026-08-18 49.26  3.47 
+ ABBV                AbbVie Inc  4423.62       Biotechnology  2026-08-17 250.33  2026-08-18 258.92  3.43 
+  EIX      Edison International   274.37           Utilities    2026-08-17 71.3   2026-08-18 73.69  3.35 
+  JNJ         Johnson & Johnson  6322.85     Pharmaceuticals  2026-08-17 262.37  2026-08-18 271.11  3.33 
+  NOC     Northrop Grumman Corp   810.04 Aerospace & Defense   2026-08-17 570.2  2026-08-18 589.14  3.32 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称            市值(亿)             板块                 昨天收盘               今天收盘        涨跌幅(%)
+ TRGP      Targa Resources Corp   595.99                Energy  2026-08-17 277.94  2026-08-18 297.77  7.13 
+ SPOT     Spotify Technology SA  1013.91                 Media  2026-08-17 492.47  2026-08-18 516.28  4.83 
+ ULTA           Ulta Beauty Inc   212.08                Retail  2026-08-17 493.33  2026-08-18 516.74  4.75 
+ INTU                Intuit Inc   917.99            Technology   2026-08-17 335.6  2026-08-18 350.41  4.41 
+BABAF Alibaba Group Holding Ltd  2929.03                Retail    2026-08-17 15.3   2026-08-18 15.95  4.25 
+ MNST     Monster Beverage Corp   891.76             Beverages   2026-08-17 45.52   2026-08-18 47.38  4.09 
+  LLY          Eli Lilly and Co 11137.76       Pharmaceuticals 2026-08-17 1183.16 2026-08-18 1225.73  3.60 
+ ADBE                 Adobe Inc  1009.81            Technology  2026-08-17 254.04  2026-08-18 263.14  3.58 
+SNYNF                 Sanofi SA   905.88       Pharmaceuticals   2026-08-17 86.93   2026-08-18 90.01  3.54 
+ ABBV                AbbVie Inc  4423.62         Biotechnology  2026-08-17 250.33  2026-08-18 258.92  3.43 
+  EIX      Edison International   274.37             Utilities    2026-08-17 71.3   2026-08-18 73.69  3.35 
+  JNJ         Johnson & Johnson  6322.85       Pharmaceuticals  2026-08-17 262.37  2026-08-18 271.11  3.33 
+  NOC     Northrop Grumman Corp   810.04   Aerospace & Defense   2026-08-17 570.2  2026-08-18 589.14  3.32 
+   VG        Venture Global Inc   308.81                Energy   2026-08-17 13.75    2026-08-18 14.2  3.27 
+ GILD      Gilead Sciences, Inc  1722.55         Biotechnology  2026-08-17 138.92  2026-08-18 143.44  3.25 
+ ROIV      Roivant Sciences Ltd   261.77         Biotechnology   2026-08-17 36.24   2026-08-18 37.37  3.12 
+ TEAM            Atlassian Corp   401.82            Technology  2026-08-17 158.34   2026-08-18 163.0  2.94 
+  EFX               Equifax Inc   207.71 Professional Services   2026-08-17 176.8  2026-08-18 181.84  2.85 
+    U        Unity Software Inc   200.02            Technology   2026-08-17 45.45   2026-08-18 46.74  2.84 
+  MSI    Motorola Solutions Inc   756.44        Communications  2026-08-17 457.08   2026-08-18 469.5  2.72 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)                 板块                     昨天收盘               今天收盘        涨跌幅(%)
+ SPOT      Spotify Technology SA  1013.91                         Media  2026-08-17 492.47  2026-08-18 516.28  4.83 
+BABAF  Alibaba Group Holding Ltd  2929.03                        Retail    2026-08-17 15.3   2026-08-18 15.95  4.25 
+  LLY           Eli Lilly and Co 11137.76               Pharmaceuticals 2026-08-17 1183.16 2026-08-18 1225.73  3.60 
+ ADBE                  Adobe Inc  1009.81                    Technology  2026-08-17 254.04  2026-08-18 263.14  3.58 
+ ABBV                 AbbVie Inc  4423.62                 Biotechnology  2026-08-17 250.33  2026-08-18 258.92  3.43 
+  JNJ          Johnson & Johnson  6322.85               Pharmaceuticals  2026-08-17 262.37  2026-08-18 271.11  3.33 
+ GILD       Gilead Sciences, Inc  1722.55                 Biotechnology  2026-08-17 138.92  2026-08-18 143.44  3.25 
+  CRM             Salesforce Inc  1564.04                    Technology  2026-08-17 190.97  2026-08-18 196.14  2.71 
+  XOM   Exxonmobil Holdings Corp  6506.32                        Energy  2026-08-17 161.46  2026-08-18 165.56  2.54 
+ VRTX Vertex Pharmaceuticals Inc  1210.91                 Biotechnology  2026-08-17 515.55  2026-08-18 528.19  2.45 
+ NFLX                Netflix Inc  3165.43                         Media   2026-08-17 76.02   2026-08-18 77.77  2.30 
+  LMT       Lockheed Martin Corp  1370.30           Aerospace & Defense  2026-08-17 593.74  2026-08-18 607.17  2.26 
+  MPC    Marathon Petroleum Corp  1005.86                        Energy  2026-08-17 358.18  2026-08-18 366.21  2.24 
+ ABNB                 Airbnb Inc  1073.56 Hotels, Restaurants & Leisure  2026-08-17 179.29  2026-08-18 183.25  2.21 
+  BMY    Bristol-Myers Squibb Co  1320.21               Pharmaceuticals   2026-08-17 64.63   2026-08-18 66.05  2.20 
+   MA             Mastercard Inc  4925.45            Financial Services  2026-08-17 562.26  2026-08-18 574.31  2.14 
+   KO               Coca-Cola Co  3742.36                     Beverages   2026-08-17 86.98   2026-08-18 88.82  2.12 
+  ABT        Abbott Laboratories  1909.82                   Health Care  2026-08-17 110.37  2026-08-18 112.68  2.09 
+   MO           Altria Group Inc  1067.97                       Tobacco   2026-08-17 63.96   2026-08-18 65.19  1.92 
+ SPGI             S&P Global Inc  1210.24            Financial Services  2026-08-17 410.53  2026-08-18 418.04  1.83 
