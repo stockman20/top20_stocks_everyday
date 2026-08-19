@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+股票代码                   公司名称                  市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+MRNA                             Moderna Inc 251.36                  Biotechnology 2026-08-18 62.96 2026-08-19 174.38 176.97
+ZSTK                          Zerostack Corp   0.04                    Health Care  2026-08-18 1.84   2026-08-19 4.96 169.57
+TNON                       Tenon Medical Inc   0.04                    Health Care  2026-08-18 5.45  2026-08-19 11.41 109.36
+BTCT                         BTC Digital Ltd   0.04                     Technology  2026-08-18 0.46   2026-08-19 0.84  81.89
+FOXO                   Foxo Technologies Inc   0.00                     Technology  2026-08-18 0.06    2026-08-19 0.1  66.67
+ AZI Autozi Internet Technology (Global) Ltd   0.78                         Retail  2026-08-18 1.15   2026-08-19 1.66  44.35
+BIVI                              BioVie Inc   0.07                  Biotechnology  2026-08-18 0.96   2026-08-19 1.34  39.00
+ UUU           Universal Safety Products Inc   0.11           Electrical Equipment  2026-08-18 4.52   2026-08-19 6.24  38.05
+ SKK                        SKK Holdings Ltd   0.10                   Construction   2026-08-18 4.2   2026-08-19 5.73  36.43
+CYPH             Cypherpunk Technologies Inc   0.87                  Biotechnology  2026-08-18 0.81   2026-08-19 1.07  32.92
+PURR              Hyperliquid Strategies Inc  14.44                  Biotechnology   2026-08-18 7.2   2026-08-19 9.39  30.42
+PTPI              Petros Pharmaceuticals Inc   0.00                Pharmaceuticals   2026-08-18 0.0    2026-08-19 0.0  30.00
+SKYA                   Sharps Technology Inc   0.42                    Health Care  2026-08-18 0.99   2026-08-19 1.27  28.80
+PSIG              PS International Group Ltd   0.24     Logistics & Transportation  2026-08-18 1.59   2026-08-19 2.04  28.30
+HUMA                            Humacyte Inc   1.62                  Biotechnology  2026-08-18 0.58   2026-08-19 0.73  26.27
+MRVI       Maravai LifeSciences Holdings Inc  14.91 Life Sciences Tools & Services  2026-08-18 5.74   2026-08-19 7.22  25.78
+ARCT      Arcturus Therapeutics Holdings Inc   2.33                  Biotechnology  2026-08-18 8.21  2026-08-19 10.28  25.21
+QTEX                       Qtrex Quantum Ltd   0.39                    Health Care   2026-08-18 0.9   2026-08-19 1.12  24.72
+ TEM                           Tempus AI Inc  89.06 Life Sciences Tools & Services 2026-08-18 49.36  2026-08-19 61.25  24.09
+FEMY                             Femasys Inc   0.18                    Health Care   2026-08-18 2.2   2026-08-19 2.71  23.18
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+MRNA                        Moderna Inc  251.36                  Biotechnology  2026-08-18 62.96 2026-08-19 174.38 176.97
+ TEM                      Tempus AI Inc   89.06 Life Sciences Tools & Services  2026-08-18 49.36  2026-08-19 61.25  24.09
+  EL         Estee Lauder Companies Inc  304.88              Consumer products  2026-08-18 84.27  2026-08-19 98.01  16.30
+HYMC Hycroft Mining Holding Corporation   22.54                Metals & Mining  2026-08-18 24.19   2026-08-19 27.9  15.34
+ AMR  Alpha Metallurgical Resources Inc   21.48                Metals & Mining 2026-08-18 169.44 2026-08-19 194.42  14.74
+ XXI             Twenty One Capital Inc   29.00             Financial Services   2026-08-18 4.84   2026-08-19 5.55  14.67
+  HL                    Hecla Mining Co  120.58                Metals & Mining  2026-08-18 17.95  2026-08-19 20.54  14.43
+  NG             NovaGold Resources Inc   32.51                Metals & Mining   2026-08-18 7.41   2026-08-19 8.46  14.17
+IOVA        Iovance Biotherapeutics Inc   31.84                  Biotechnology   2026-08-18 7.03   2026-08-19 7.99  13.66
+HIMS             Hims & Hers Health Inc   63.90                    Health Care  2026-08-18 27.39  2026-08-19 31.09  13.51
+ CDE                  Coeur Mining, Inc  190.27                Metals & Mining  2026-08-18 18.51  2026-08-19 20.93  13.07
+CRSP             CRISPR Therapeutics AG   51.22                  Biotechnology  2026-08-18 52.97  2026-08-19 59.81  12.91
+MSTR                       Strategy Inc  355.49                     Technology  2026-08-18 92.52 2026-08-19 104.25  12.68
+ MRK                     Merck & Co Inc 3334.88                Pharmaceuticals 2026-08-18 135.17  2026-08-19 152.2  12.60
+ TXG                   10X Genomics Inc   72.48 Life Sciences Tools & Services  2026-08-18 55.63  2026-08-19 62.19  11.79
+SSRM                     SSR Mining Inc   64.62                Metals & Mining  2026-08-18 31.69  2026-08-19 35.38  11.64
+  AU              Anglogold Ashanti PLC  494.65                Metals & Mining  2026-08-18 97.95 2026-08-19 108.54  10.81
+COTY                           Coty Inc   24.12              Consumer products   2026-08-18 2.74   2026-08-19 3.03  10.58
+ EQX                  Equinox Gold Corp  133.67                Metals & Mining  2026-08-18 11.45  2026-08-19 12.66  10.57
+AMLX         Amylyx Pharmaceuticals Inc   39.12                Pharmaceuticals  2026-08-18 35.11   2026-08-19 38.6   9.94
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码            公司名称             市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ MRNA                Moderna Inc  251.36                  Biotechnology  2026-08-18 62.96 2026-08-19 174.38 176.97
+  TEM              Tempus AI Inc   89.06 Life Sciences Tools & Services  2026-08-18 49.36  2026-08-19 61.25  24.09
+   EL Estee Lauder Companies Inc  304.88              Consumer products  2026-08-18 84.27  2026-08-19 98.01  16.30
+   HL            Hecla Mining Co  120.58                Metals & Mining  2026-08-18 17.95  2026-08-19 20.54  14.43
+ HIMS     Hims & Hers Health Inc   63.90                    Health Care  2026-08-18 27.39  2026-08-19 31.09  13.51
+  CDE          Coeur Mining, Inc  190.27                Metals & Mining  2026-08-18 18.51  2026-08-19 20.93  13.07
+ CRSP     CRISPR Therapeutics AG   51.22                  Biotechnology  2026-08-18 52.97  2026-08-19 59.81  12.91
+ MSTR               Strategy Inc  355.49                     Technology  2026-08-18 92.52 2026-08-19 104.25  12.68
+  MRK             Merck & Co Inc 3334.88                Pharmaceuticals 2026-08-18 135.17  2026-08-19 152.2  12.60
+  TXG           10X Genomics Inc   72.48 Life Sciences Tools & Services  2026-08-18 55.63  2026-08-19 62.19  11.79
+ SSRM             SSR Mining Inc   64.62                Metals & Mining  2026-08-18 31.69  2026-08-19 35.38  11.64
+   AU      Anglogold Ashanti PLC  494.65                Metals & Mining  2026-08-18 97.95 2026-08-19 108.54  10.81
+  EQX          Equinox Gold Corp  133.67                Metals & Mining  2026-08-18 11.45  2026-08-19 12.66  10.57
+ MRVL     Marvell Technology Inc 1891.66                 Semiconductors  2026-08-18 216.0 2026-08-19 237.27   9.85
+  PPC        Pilgrims Pride Corp   67.84                  Food Products  2026-08-18 28.49  2026-08-19 31.28   9.79
+ CRCL  Circle Internet Group Inc  182.11                     Technology  2026-08-18 71.73  2026-08-19 78.59   9.56
+ COIN        Coinbase Global Inc  385.81             Financial Services 2026-08-18 146.23  2026-08-19 160.2   9.55
+ ILMN               Illumina Inc  284.32 Life Sciences Tools & Services 2026-08-18 188.29  2026-08-19 205.0   8.87
+LBRDB     Liberty Broadband Corp   50.25                          Media  2026-08-18 33.16  2026-08-19 36.09   8.84
+  CAI    Caris Life Sciences Inc   59.26                  Biotechnology  2026-08-18 20.97  2026-08-19 22.76   8.54
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码            公司名称             市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+MRNA                Moderna Inc  251.36                  Biotechnology   2026-08-18 62.96  2026-08-19 174.38 176.97
+  EL Estee Lauder Companies Inc  304.88              Consumer products   2026-08-18 84.27   2026-08-19 98.01  16.30
+  HL            Hecla Mining Co  120.58                Metals & Mining   2026-08-18 17.95   2026-08-19 20.54  14.43
+ CDE          Coeur Mining, Inc  190.27                Metals & Mining   2026-08-18 18.51   2026-08-19 20.93  13.07
+MSTR               Strategy Inc  355.49                     Technology   2026-08-18 92.52  2026-08-19 104.25  12.68
+ MRK             Merck & Co Inc 3334.88                Pharmaceuticals  2026-08-18 135.17   2026-08-19 152.2  12.60
+  AU      Anglogold Ashanti PLC  494.65                Metals & Mining   2026-08-18 97.95  2026-08-19 108.54  10.81
+ EQX          Equinox Gold Corp  133.67                Metals & Mining   2026-08-18 11.45   2026-08-19 12.66  10.57
+MRVL     Marvell Technology Inc 1891.66                 Semiconductors   2026-08-18 216.0  2026-08-19 237.27   9.85
+CRCL  Circle Internet Group Inc  182.11                     Technology   2026-08-18 71.73   2026-08-19 78.59   9.56
+COIN        Coinbase Global Inc  385.81             Financial Services  2026-08-18 146.23   2026-08-19 160.2   9.55
+ILMN               Illumina Inc  284.32 Life Sciences Tools & Services  2026-08-18 188.29   2026-08-19 205.0   8.87
+CVNA                 Carvana Co  715.30                         Retail    2026-08-18 65.0   2026-08-19 70.44   8.37
+ NEM        Newmont Corporation 1222.07                Metals & Mining  2026-08-18 115.98  2026-08-19 125.08   7.85
+FICO            Fair Isaac Corp  232.85                     Technology 2026-08-18 1078.12 2026-08-19 1161.59   7.74
+RGLD             Royal Gold Inc  195.24                Metals & Mining  2026-08-18 230.43  2026-08-19 248.14   7.69
+CSGP           Costar Group Inc  127.15                    Real Estate   2026-08-18 31.38   2026-08-19 33.73   7.49
+CPRT                 Copart Inc  291.72 Commercial Services & Supplies   2026-08-18 31.51   2026-08-19 33.85   7.43
+MELI           MercadoLibre Inc  901.97                         Retail 2026-08-18 1779.14 2026-08-19 1908.65   7.28
+ BSP         Bending Spoons SpA  246.15                     Technology   2026-08-18 38.75   2026-08-19 41.46   6.99
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码             公司名称             市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+MRNA                 Moderna Inc  251.36                  Biotechnology   2026-08-18 62.96  2026-08-19 174.38 176.97
+  EL  Estee Lauder Companies Inc  304.88              Consumer products   2026-08-18 84.27   2026-08-19 98.01  16.30
+MSTR                Strategy Inc  355.49                     Technology   2026-08-18 92.52  2026-08-19 104.25  12.68
+ MRK              Merck & Co Inc 3334.88                Pharmaceuticals  2026-08-18 135.17   2026-08-19 152.2  12.60
+  AU       Anglogold Ashanti PLC  494.65                Metals & Mining   2026-08-18 97.95  2026-08-19 108.54  10.81
+MRVL      Marvell Technology Inc 1891.66                 Semiconductors   2026-08-18 216.0  2026-08-19 237.27   9.85
+COIN         Coinbase Global Inc  385.81             Financial Services  2026-08-18 146.23   2026-08-19 160.2   9.55
+ILMN                Illumina Inc  284.32 Life Sciences Tools & Services  2026-08-18 188.29   2026-08-19 205.0   8.87
+CVNA                  Carvana Co  715.30                         Retail    2026-08-18 65.0   2026-08-19 70.44   8.37
+ NEM         Newmont Corporation 1222.07                Metals & Mining  2026-08-18 115.98  2026-08-19 125.08   7.85
+FICO             Fair Isaac Corp  232.85                     Technology 2026-08-18 1078.12 2026-08-19 1161.59   7.74
+CPRT                  Copart Inc  291.72 Commercial Services & Supplies   2026-08-18 31.51   2026-08-19 33.85   7.43
+MELI            MercadoLibre Inc  901.97                         Retail 2026-08-18 1779.14 2026-08-19 1908.65   7.28
+ BSP          Bending Spoons SpA  246.15                     Technology   2026-08-18 38.75   2026-08-19 41.46   6.99
+CPNG                 Coupang Inc  280.05                         Retail   2026-08-18 15.58   2026-08-19 16.66   6.93
+TEAM              Atlassian Corp  412.62                     Technology   2026-08-18 163.0  2026-08-19 174.23   6.89
+RIVN       Rivian Automotive Inc  213.99                    Automobiles   2026-08-18 14.78   2026-08-19 15.73   6.43
+ALNY Alnylam Pharmaceuticals Inc  305.90                  Biotechnology  2026-08-18 228.61  2026-08-19 242.61   6.12
+HONA     Honeywell Aerospace Inc  509.53            Aerospace & Defense  2026-08-18 160.76  2026-08-19 170.37   5.98
+ DHR                Danaher Corp 1403.02 Life Sciences Tools & Services  2026-08-18 199.58   2026-08-19 211.5   5.97
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+股票代码              公司名称              市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+ MRK                Merck & Co Inc  3334.88                Pharmaceuticals  2026-08-18 135.17   2026-08-19 152.2 12.60 
+MRVL        Marvell Technology Inc  1891.66                 Semiconductors   2026-08-18 216.0  2026-08-19 237.27  9.85 
+ NEM           Newmont Corporation  1222.07                Metals & Mining  2026-08-18 115.98  2026-08-19 125.08  7.85 
+ DHR                  Danaher Corp  1403.02 Life Sciences Tools & Services  2026-08-18 199.58   2026-08-19 211.5  5.97 
+ ACN                 Accenture PLC  1058.23                     Technology  2026-08-18 172.93  2026-08-19 183.17  5.92 
+ CRM                Salesforce Inc  1606.39                     Technology  2026-08-18 196.14  2026-08-19 206.09  5.07 
+ PGR              Progressive Corp  1204.78                      Insurance  2026-08-18 207.23  2026-08-19 217.27  4.84 
+UBER         Uber Technologies Inc  1524.98                    Road & Rail   2026-08-18 74.66   2026-08-19 78.04  4.53 
+VRTX    Vertex Pharmaceuticals Inc  1210.91                  Biotechnology  2026-08-18 528.19  2026-08-19 552.06  4.52 
+ LLY              Eli Lilly and Co 11538.50                Pharmaceuticals 2026-08-18 1225.73 2026-08-19 1280.34  4.46 
+TSLA                     Tesla Inc 13304.84                    Automobiles  2026-08-18 336.87  2026-08-19 351.12  4.23 
+ TMO  Thermo Fisher Scientific Inc  2177.96 Life Sciences Tools & Services  2026-08-18 589.04  2026-08-19 613.54  4.16 
+AMGN                     Amgen Inc  2299.20                  Biotechnology  2026-08-18 425.28  2026-08-19 442.36  4.02 
+SCCO          Southern Copper Corp  1585.68                Metals & Mining   2026-08-18 187.8  2026-08-19 194.68  3.66 
+ PFE                    Pfizer Inc  1553.16                Pharmaceuticals   2026-08-18 27.25   2026-08-19 28.24  3.63 
+ADBE                     Adobe Inc  1045.98                     Technology  2026-08-18 263.14  2026-08-19 272.47  3.55 
+SPOT         Spotify Technology SA  1062.93                          Media  2026-08-18 516.28  2026-08-19 533.37  3.31 
+  BX                Blackstone Inc  1745.90             Financial Services  2026-08-18 140.59  2026-08-19 145.09  3.20 
+NFLX                   Netflix Inc  3238.30                          Media   2026-08-18 77.77   2026-08-19 80.22  3.15 
+ ADP Automatic Data Processing Inc  1069.87          Professional Services  2026-08-18 269.31  2026-08-19 277.22  2.94 
