@@ -62788,5 +62788,65 @@
     "name": "Arctic Fox Lithium Corp",
     "country": "CA",
     "added_date": "2026-08-27 01:32:54"
+  },
+  "BBKCD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "BIGG Digital Assets Inc",
+    "country": "CA",
+    "added_date": "2026-08-28 06:01:56"
+  },
+  "LTGO": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-08-28 06:03:17"
+  },
+  "GYGY": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-08-28 06:03:17"
+  },
+  "TMLCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Mountain Valley MD Holdings Inc",
+    "country": "CA",
+    "added_date": "2026-08-28 06:03:20"
+  },
+  "TRSB": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-08-28 06:06:20"
+  },
+  "TFZI": {
+    "exchange": "OTC MARKETS",
+    "name": "Gold Recycle Corp",
+    "country": "US",
+    "added_date": "2026-08-28 06:07:47"
+  },
+  "LYNX": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-08-28 06:07:51"
+  },
+  "MMTZF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "MindMaze Therapeutics Holding SA",
+    "country": "CH",
+    "added_date": "2026-08-28 06:09:12"
+  },
+  "ERDAF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Fancamp Exploration Ltd",
+    "country": "CA",
+    "added_date": "2026-08-28 06:10:41"
+  },
+  "VOGX": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-08-28 06:10:50"
   }
 }
