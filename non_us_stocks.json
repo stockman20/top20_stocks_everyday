@@ -62848,5 +62848,17 @@
     "name": "",
     "country": "",
     "added_date": "2026-08-28 06:10:50"
+  },
+  "PONIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Carlyle Commodities Corp",
+    "country": "CA",
+    "added_date": "2026-09-02 00:11:44"
+  },
+  "PDIYD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Predictive Discovery Ltd",
+    "country": "AU",
+    "added_date": "2026-09-02 01:05:39"
   }
 }
