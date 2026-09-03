@@ -62860,5 +62860,11 @@
     "name": "Predictive Discovery Ltd",
     "country": "AU",
     "added_date": "2026-09-02 01:05:39"
+  },
+  "MKLSF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "MarkLines Co Ltd",
+    "country": "JP",
+    "added_date": "2026-09-02 23:34:04"
   }
 }
