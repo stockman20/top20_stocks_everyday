@@ -62872,5 +62872,305 @@
     "name": "Zotefoams PLC",
     "country": "GB",
     "added_date": "2026-09-03 23:21:07"
+  },
+  "SKUNF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Seikagaku Corp",
+    "country": "JP",
+    "added_date": "2026-09-08 23:28:16"
+  },
+  "TRBG": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Turbogen Ltd",
+    "country": "IL",
+    "added_date": "2026-09-08 23:28:16"
+  },
+  "CKDOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "CKD Corp",
+    "country": "JP",
+    "added_date": "2026-09-08 23:28:20"
+  },
+  "GRTGF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Green Tea Group Ltd",
+    "country": "CN",
+    "added_date": "2026-09-08 23:28:23"
+  },
+  "MUPQF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "M-up Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-09-08 23:28:24"
+  },
+  "STUVF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Stuve Gold Corp",
+    "country": "CA",
+    "added_date": "2026-09-08 23:29:46"
+  },
+  "ALMOF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Alphamab Oncology",
+    "country": "CN",
+    "added_date": "2026-09-08 23:29:48"
+  },
+  "HLGVD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Hillgrove Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-09-08 23:29:51"
+  },
+  "PPURF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Purecore Metals Inc",
+    "country": "CA",
+    "added_date": "2026-09-08 23:50:51"
+  },
+  "EKZRF": {
+    "exchange": "XETRA",
+    "name": "Eckert & Ziegler SE",
+    "country": "DE",
+    "added_date": "2026-09-08 23:52:41"
+  },
+  "GERAF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Goldera Exploration Ltd.",
+    "country": "CA",
+    "added_date": "2026-09-08 23:57:37"
+  },
+  "AARLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Astral Resources NL",
+    "country": "AU",
+    "added_date": "2026-09-09 00:00:27"
+  },
+  "ZTEKF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Zentek Ltd",
+    "country": "CA",
+    "added_date": "2026-09-09 00:00:41"
+  },
+  "MRDMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Mount Ridley Mines Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 00:00:46"
+  },
+  "SPIEQ": {
+    "exchange": "OTC MARKETS",
+    "name": "SPI Energy Co Ltd",
+    "country": "US",
+    "added_date": "2026-09-09 00:01:44"
+  },
+  "GABGF": {
+    "exchange": "XETRA",
+    "name": "Gabler Group AG",
+    "country": "DE",
+    "added_date": "2026-09-09 00:04:28"
+  },
+  "QUPLF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Nexteq PLC",
+    "country": "GB",
+    "added_date": "2026-09-09 00:04:31"
+  },
+  "BRGMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Barranco Gold Mining Corp",
+    "country": "CA",
+    "added_date": "2026-09-09 00:08:27"
+  },
+  "VTYMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Victory Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 00:08:58"
+  },
+  "FBBCF": {
+    "exchange": "BURSA MALAYSIA",
+    "name": "FACB Industries Incorporated Bhd",
+    "country": "MY",
+    "added_date": "2026-09-09 00:12:57"
+  },
+  "NTTAF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Nitta Corp",
+    "country": "JP",
+    "added_date": "2026-09-09 00:13:36"
+  },
+  "MEKTF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Mie Kotsu Group Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-09-09 00:14:37"
+  },
+  "MNMXF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "MiniMax Group Inc",
+    "country": "CN",
+    "added_date": "2026-09-09 00:26:55"
+  },
+  "GIXI": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Gix Internet Ltd",
+    "country": "IL",
+    "added_date": "2026-09-09 00:31:51"
+  },
+  "DLIBF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Delta Israel Brands Ltd",
+    "country": "IL",
+    "added_date": "2026-09-09 00:34:55"
+  },
+  "DTNHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Doutor Nichires Holdings Co Ltd",
+    "country": "JP",
+    "added_date": "2026-09-09 00:36:28"
+  },
+  "MHSMF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Musashi Seimitsu Industry Co Ltd",
+    "country": "JP",
+    "added_date": "2026-09-09 00:37:02"
+  },
+  "SMNLF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Strategic Minerals PLC",
+    "country": "GB",
+    "added_date": "2026-09-09 00:42:46"
+  },
+  "QNBMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "ReSolve Energy Inc",
+    "country": "CA",
+    "added_date": "2026-09-09 00:44:31"
+  },
+  "TOMXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Trinity One Metals Ltd",
+    "country": "CA",
+    "added_date": "2026-09-09 00:45:52"
+  },
+  "RVCHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Riverine China Holdings Ltd",
+    "country": "CN",
+    "added_date": "2026-09-09 00:46:56"
+  },
+  "ATVHF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Altrova Health Inc",
+    "country": "CA",
+    "added_date": "2026-09-09 00:48:37"
+  },
+  "DSYOF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Daisyo Corp",
+    "country": "JP",
+    "added_date": "2026-09-09 00:48:45"
+  },
+  "CTGDF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "China Tourism Group Duty Free Corp Ltd",
+    "country": "CN",
+    "added_date": "2026-09-09 00:50:57"
+  },
+  "IOSDF": {
+    "exchange": "XETRA",
+    "name": "IONOS Group SE",
+    "country": "DE",
+    "added_date": "2026-09-09 00:52:36"
+  },
+  "CANUF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Canadian Uranium Corp",
+    "country": "CA",
+    "added_date": "2026-09-09 00:54:49"
+  },
+  "SHRXF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Sharp Therapeutics Corp",
+    "country": "US",
+    "added_date": "2026-09-09 00:56:31"
+  },
+  "MGSTF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Metaguestai Inc",
+    "country": "CA",
+    "added_date": "2026-09-09 00:58:53"
+  },
+  "YOAIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Yocale.AI Inc",
+    "country": "CA",
+    "added_date": "2026-09-09 01:03:58"
+  },
+  "SLTEF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Saltire Capital Ltd",
+    "country": "CA",
+    "added_date": "2026-09-09 01:05:46"
+  },
+  "HSSKF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Huber+Suhner AG",
+    "country": "CH",
+    "added_date": "2026-09-09 01:07:01"
+  },
+  "JDCHF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Judo Capital Holdings Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 01:08:02"
+  },
+  "MXXNF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Moon Inc",
+    "country": "HK",
+    "added_date": "2026-09-09 01:10:04"
+  },
+  "PCIIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "PlasCred Circular Innovations Inc",
+    "country": "CA",
+    "added_date": "2026-09-09 01:13:33"
+  },
+  "THRTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Intelligent Monitoring Group Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 01:17:56"
+  },
+  "EXCBF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Excalibur Metals Corp",
+    "country": "CA",
+    "added_date": "2026-09-09 01:19:55"
+  },
+  "CRRLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Critical Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 01:20:41"
+  },
+  "ADRMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Adherium Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 01:21:26"
+  },
+  "SUTAF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Investigator Silver Ltd",
+    "country": "AU",
+    "added_date": "2026-09-09 01:21:33"
+  },
+  "AMOIF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "American Future Fuel Corp",
+    "country": "CA",
+    "added_date": "2026-09-09 01:21:53"
   }
 }
