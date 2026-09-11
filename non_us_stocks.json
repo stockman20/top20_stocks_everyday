@@ -63172,5 +63172,11 @@
     "name": "American Future Fuel Corp",
     "country": "CA",
     "added_date": "2026-09-09 01:21:53"
+  },
+  "GAEC": {
+    "exchange": "OTC MARKETS",
+    "name": "Gulf Alternative Energy Corp",
+    "country": "US",
+    "added_date": "2026-09-10 23:34:01"
   }
 }
