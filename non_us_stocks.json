@@ -63178,5 +63178,11 @@
     "name": "Gulf Alternative Energy Corp",
     "country": "US",
     "added_date": "2026-09-10 23:34:01"
+  },
+  "TEVA": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Teva Pharmaceutical Industries Ltd",
+    "country": "IL",
+    "added_date": "2026-09-16 00:35:39"
   }
 }
