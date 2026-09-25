@@ -63220,5 +63220,41 @@
     "name": "Critical One Energy Inc",
     "country": "CA",
     "added_date": "2026-09-24 01:12:03"
+  },
+  "AUXX": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Gold X2 Mining Inc",
+    "country": "CA",
+    "added_date": "2026-09-24 23:57:42"
+  },
+  "REA": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Silvercrest Metals ULC",
+    "country": "CA",
+    "added_date": "2026-09-25 00:19:42"
+  },
+  "AOTXF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Apotex Health Corp",
+    "country": "CA",
+    "added_date": "2026-09-25 00:44:05"
+  },
+  "JMATF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Johnson Matthey PLC",
+    "country": "GB",
+    "added_date": "2026-09-25 00:58:49"
+  },
+  "CGNRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Copper Giant Resources Corp",
+    "country": "CA",
+    "added_date": "2026-09-25 01:22:03"
+  },
+  "XTER": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-09-25 01:24:00"
   }
 }

@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)                板块                    昨天收盘             今天收盘       涨跌幅(%)
+ APUS Apimeds Pharmaceuticals US Inc   0.03                 Biotechnology  2026-09-23 2.29  2026-09-24 4.92 114.85
+ SRZN                   Surrozen Inc   1.90                 Biotechnology 2026-09-23 16.16 2026-09-24 33.68 108.42
+ GLND            Greenland Energy Co   1.27                        Energy  2026-09-23 2.91  2026-09-24 5.35  83.85
+ STAK                       STAK Inc   0.14                        Energy  2026-09-23 0.94  2026-09-24 1.44  53.19
+ PTPI     Petros Pharmaceuticals Inc   0.00               Pharmaceuticals   2026-09-23 0.0  2026-09-24 0.01  50.00
+ SPHL        Springview Holdings Ltd   0.38             Consumer products  2026-09-23 2.31  2026-09-24 3.13  35.73
+ SVRN                   Oceanpal Inc   0.79                        Marine 2026-09-23 32.55 2026-09-24 42.23  29.74
+ MNTK         Montauk Renewables Inc   3.24                     Utilities  2026-09-23 2.28  2026-09-24 2.88  26.59
+ ZSQR       Z Squared Inc (Delaware)   2.75                 Biotechnology  2026-09-23 2.96  2026-09-24 3.71  25.34
+KKPNF             Koninklijke KPN NV 148.32             Telecommunication  2026-09-23 4.45  2026-09-24 5.52  24.04
+ LITS              Lite Strategy Inc   0.40                 Biotechnology  2026-09-23 1.18  2026-09-24 1.43  21.19
+ TJGC                 TJGC Group Ltd   2.35                         Media 2026-09-23 23.28  2026-09-24 28.2  21.13
+ FBDT              First Breach Inc.   0.51           Aerospace & Defense  2026-09-23 0.91  2026-09-24 1.09  19.78
+ ABLV           Able View Global Inc   0.54                         Media  2026-09-23 0.97  2026-09-24 1.14  17.53
+ QCLS           Q/C Technologies Inc   0.08               Pharmaceuticals  2026-09-23 0.88  2026-09-24 1.02  16.04
+ SDEV    Stablecoin Development Corp   0.65               Pharmaceuticals  2026-09-23 1.12  2026-09-24 1.29  15.18
+ SECZ                Securitize Corp  26.99            Financial Services 2026-09-23 14.36 2026-09-24 16.53  15.11
+ BALY                   Bally's Corp   6.16 Hotels, Restaurants & Leisure 2026-09-23 12.21 2026-09-24 14.05  15.07
+ SKYQ                 Sky Quarry Inc   0.26                        Energy  2026-09-23 2.54  2026-09-24 2.91  14.57
+ QMCO                   Quantum Corp  10.23                    Technology 2026-09-23 25.97 2026-09-24 29.49  13.55
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+KKPNF             Koninklijke KPN NV 148.32              Telecommunication   2026-09-23 4.45   2026-09-24 5.52 24.04 
+ SECZ                Securitize Corp  26.99             Financial Services  2026-09-23 14.36  2026-09-24 16.53 15.11 
+  TXG               10X Genomics Inc  98.53 Life Sciences Tools & Services  2026-09-23 75.62  2026-09-24 84.11 11.23 
+ VCYT                   Veracyte Inc  39.02                  Biotechnology  2026-09-23 43.82  2026-09-24 48.54 10.77 
+ NBIS                Nebius Group NV 661.91                     Technology 2026-09-23 226.61 2026-09-24 243.48  7.44 
+ BRKR                    Bruker Corp  90.91 Life Sciences Tools & Services  2026-09-23 59.67   2026-09-24 64.0  7.26 
+ RVTY                    Revvity Inc 158.58 Life Sciences Tools & Services 2026-09-23 142.11 2026-09-24 150.68  6.03 
+ KRMN            Karman Holdings Inc  43.80            Aerospace & Defense  2026-09-23 33.05  2026-09-24 34.92  5.66 
+ OUST                     Ouster Inc  29.83           Electrical Equipment  2026-09-23 39.38  2026-09-24 41.37  5.05 
+ CORT       Corcept Therapeutics Inc 122.09                Pharmaceuticals 2026-09-23 112.94 2026-09-24 118.51  4.93 
+ RELY             Remitly Global Inc  42.74             Financial Services  2026-09-23 20.19  2026-09-24 21.16  4.80 
+ RVMD       Revolution Medicines Inc 408.83                  Biotechnology 2026-09-23 190.74 2026-09-24 199.86  4.78 
+ GDDY                    GoDaddy Inc 127.67                     Technology  2026-09-23 96.38 2026-09-24 100.81  4.60 
+   PS            Pershing Square Inc 199.96             Financial Services  2026-09-23 49.99  2026-09-24 52.28  4.58 
+    A       Agilent Technologies Inc 487.29 Life Sciences Tools & Services 2026-09-23 165.32 2026-09-24 172.84  4.55 
+ AVTR                    Avantor Inc 104.02 Life Sciences Tools & Services  2026-09-23 14.76  2026-09-24 15.38  4.20 
+ CDNS     Cadence Design Systems Inc 886.77                     Technology 2026-09-23 309.09  2026-09-24 322.0  4.18 
+ LIFE         Ethos Technologies Inc  22.51                      Insurance  2026-09-23 33.91  2026-09-24 35.31  4.13 
+  SLS Sellas Life Sciences Group Inc  23.26                  Biotechnology  2026-09-23 11.52  2026-09-24 11.98  3.99 
+ UFPT           UFP Technologies Inc  23.12                    Health Care 2026-09-23 287.38 2026-09-24 298.48  3.86 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                  市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+KKPNF                      Koninklijke KPN NV 148.32              Telecommunication   2026-09-23 4.45   2026-09-24 5.52 24.04 
+  TXG                        10X Genomics Inc  98.53 Life Sciences Tools & Services  2026-09-23 75.62  2026-09-24 84.11 11.23 
+ NBIS                         Nebius Group NV 661.91                     Technology 2026-09-23 226.61 2026-09-24 243.48  7.44 
+ BRKR                             Bruker Corp  90.91 Life Sciences Tools & Services  2026-09-23 59.67   2026-09-24 64.0  7.26 
+ RVTY                             Revvity Inc 158.58 Life Sciences Tools & Services 2026-09-23 142.11 2026-09-24 150.68  6.03 
+ CORT                Corcept Therapeutics Inc 122.09                Pharmaceuticals 2026-09-23 112.94 2026-09-24 118.51  4.93 
+ RVMD                Revolution Medicines Inc 408.83                  Biotechnology 2026-09-23 190.74 2026-09-24 199.86  4.78 
+ GDDY                             GoDaddy Inc 127.67                     Technology  2026-09-23 96.38 2026-09-24 100.81  4.60 
+   PS                     Pershing Square Inc 199.96             Financial Services  2026-09-23 49.99  2026-09-24 52.28  4.58 
+    A                Agilent Technologies Inc 487.29 Life Sciences Tools & Services 2026-09-23 165.32 2026-09-24 172.84  4.55 
+ AVTR                             Avantor Inc 104.02 Life Sciences Tools & Services  2026-09-23 14.76  2026-09-24 15.38  4.20 
+ CDNS              Cadence Design Systems Inc 886.77                     Technology 2026-09-23 309.09  2026-09-24 322.0  4.18 
+ ASND                     Ascendis Pharma A/S 143.90                  Biotechnology 2026-09-23 223.13  2026-09-24 230.7  3.39 
+ MTSI MACOM Technology Solutions Holdings Inc 210.66                 Semiconductors 2026-09-23 275.84 2026-09-24 284.94  3.30 
+ HIMS                  Hims & Hers Health Inc  68.31                    Health Care  2026-09-23 28.39  2026-09-24 29.28  3.13 
+UCBJF                                  Ucb SA 402.03                Pharmaceuticals 2026-09-23 236.49 2026-09-24 243.88  3.12 
+ RGTI                   Rigetti Computing Inc  55.07                 Semiconductors   2026-09-23 16.0   2026-09-24 16.5  3.09 
+ LOAR                       Loar Holdings Inc  61.30            Aerospace & Defense  2026-09-23 63.65  2026-09-24 65.43  2.80 
+  XYZ                               Block Inc 491.56             Financial Services  2026-09-23 74.68  2026-09-24 76.74  2.76 
+ INSM                              Insmed Inc 258.43                  Biotechnology 2026-09-23 118.34 2026-09-24 121.55  2.71 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                                             公司名称                                             市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+KKPNF                                                                          Koninklijke KPN NV   148.32              Telecommunication    2026-09-23 4.45    2026-09-24 5.52 24.04 
+ NBIS                                                                             Nebius Group NV   661.91                     Technology  2026-09-23 226.61  2026-09-24 243.48  7.44 
+ RVTY                                                                                 Revvity Inc   158.58 Life Sciences Tools & Services  2026-09-23 142.11  2026-09-24 150.68  6.03 
+ CORT                                                                    Corcept Therapeutics Inc   122.09                Pharmaceuticals  2026-09-23 112.94  2026-09-24 118.51  4.93 
+ RVMD                                                                    Revolution Medicines Inc   408.83                  Biotechnology  2026-09-23 190.74  2026-09-24 199.86  4.78 
+ GDDY                                                                                 GoDaddy Inc   127.67                     Technology   2026-09-23 96.38  2026-09-24 100.81  4.60 
+   PS                                                                         Pershing Square Inc   199.96             Financial Services   2026-09-23 49.99   2026-09-24 52.28  4.58 
+    A                                                                    Agilent Technologies Inc   487.29 Life Sciences Tools & Services  2026-09-23 165.32  2026-09-24 172.84  4.55 
+ AVTR                                                                                 Avantor Inc   104.02 Life Sciences Tools & Services   2026-09-23 14.76   2026-09-24 15.38  4.20 
+ CDNS                                                                  Cadence Design Systems Inc   886.77                     Technology  2026-09-23 309.09   2026-09-24 322.0  4.18 
+ ASND                                                                         Ascendis Pharma A/S   143.90                  Biotechnology  2026-09-23 223.13   2026-09-24 230.7  3.39 
+ MTSI                                                     MACOM Technology Solutions Holdings Inc   210.66                 Semiconductors  2026-09-23 275.84  2026-09-24 284.94  3.30 
+UCBJF                                                                                      Ucb SA   402.03                Pharmaceuticals  2026-09-23 236.49  2026-09-24 243.88  3.12 
+  XYZ                                                                                   Block Inc   491.56             Financial Services   2026-09-23 74.68   2026-09-24 76.74  2.76 
+ INSM                                                                                  Insmed Inc   258.43                  Biotechnology  2026-09-23 118.34  2026-09-24 121.55  2.71 
+  LLY                                                                            Eli Lilly and Co 11125.80                Pharmaceuticals 2026-09-23 1150.99 2026-09-24 1181.89  2.68 
+AIQUF L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA  1071.19                      Chemicals  2026-09-23 185.83   2026-09-24 190.0  2.24 
+   KR                                                                                   Kroger Co   340.42                         Retail   2026-09-23 57.64   2026-09-24 58.92  2.22 
+ FRHC                                                                        Freedom Holding Corp   112.50             Financial Services  2026-09-23 172.73  2026-09-24 176.37  2.11 
+  DIS                                                                              Walt Disney Co  1786.43                          Media  2026-09-23 103.46  2026-09-24 105.56  2.03 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                                             公司名称                                             市值(亿)                 板块                      昨天收盘               今天收盘        涨跌幅(%)
+ NBIS                                                                             Nebius Group NV   661.91                     Technology  2026-09-23 226.61  2026-09-24 243.48  7.44 
+ RVMD                                                                    Revolution Medicines Inc   408.83                  Biotechnology  2026-09-23 190.74  2026-09-24 199.86  4.78 
+    A                                                                    Agilent Technologies Inc   487.29 Life Sciences Tools & Services  2026-09-23 165.32  2026-09-24 172.84  4.55 
+ CDNS                                                                  Cadence Design Systems Inc   886.77                     Technology  2026-09-23 309.09   2026-09-24 322.0  4.18 
+ MTSI                                                     MACOM Technology Solutions Holdings Inc   210.66                 Semiconductors  2026-09-23 275.84  2026-09-24 284.94  3.30 
+UCBJF                                                                                      Ucb SA   402.03                Pharmaceuticals  2026-09-23 236.49  2026-09-24 243.88  3.12 
+  XYZ                                                                                   Block Inc   491.56             Financial Services   2026-09-23 74.68   2026-09-24 76.74  2.76 
+ INSM                                                                                  Insmed Inc   258.43                  Biotechnology  2026-09-23 118.34  2026-09-24 121.55  2.71 
+  LLY                                                                            Eli Lilly and Co 11125.80                Pharmaceuticals 2026-09-23 1150.99 2026-09-24 1181.89  2.68 
+AIQUF L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA  1071.19                      Chemicals  2026-09-23 185.83   2026-09-24 190.0  2.24 
+   KR                                                                                   Kroger Co   340.42                         Retail   2026-09-23 57.64   2026-09-24 58.92  2.22 
+  DIS                                                                              Walt Disney Co  1786.43                          Media  2026-09-23 103.46  2026-09-24 105.56  2.03 
+  TMO                                                                Thermo Fisher Scientific Inc  2459.93 Life Sciences Tools & Services   2026-09-23 665.3  2026-09-24 678.39  1.97 
+  VLO                                                                          Valero Energy Corp  1105.50                         Energy  2026-09-23 375.84  2026-09-24 382.86  1.87 
+ RIVN                                                                       Rivian Automotive Inc   217.47                    Automobiles   2026-09-23 15.02   2026-09-24 15.29  1.80 
+ ASTS                                                                         AST SpaceMobile Inc   237.63              Telecommunication   2026-09-23 59.98   2026-09-24 61.06  1.80 
+  MTD                                                            Mettler-toledo International Inc   299.01 Life Sciences Tools & Services 2026-09-23 1492.34 2026-09-24 1519.15  1.80 
+ VTRS                                                                                 Viatris Inc   207.10                Pharmaceuticals   2026-09-23 17.12   2026-09-24 17.42  1.75 
+ CRCL                                                                   Circle Internet Group Inc   232.85                     Technology   2026-09-23 91.72    2026-09-24 93.0  1.40 
+  SYF                                                                         Synchrony Financial   232.80             Financial Services   2026-09-23 70.67   2026-09-24 71.55  1.25 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                                             公司名称                                             市值(亿)                  板块                       昨天收盘               今天收盘        涨跌幅(%)
+  LLY                                                                            Eli Lilly and Co 11125.80                  Pharmaceuticals 2026-09-23 1150.99 2026-09-24 1181.89  2.68 
+AIQUF L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA  1071.19                        Chemicals  2026-09-23 185.83   2026-09-24 190.0  2.24 
+  DIS                                                                              Walt Disney Co  1786.43                            Media  2026-09-23 103.46  2026-09-24 105.56  2.03 
+  TMO                                                                Thermo Fisher Scientific Inc  2459.93   Life Sciences Tools & Services   2026-09-23 665.3  2026-09-24 678.39  1.97 
+  VLO                                                                          Valero Energy Corp  1105.50                           Energy  2026-09-23 375.84  2026-09-24 382.86  1.87 
+ ANET                                                                         Arista Networks Inc  2566.21                   Communications  2026-09-23 203.47   2026-09-24 205.7  1.10 
+   MA                                                                              Mastercard Inc  4904.95               Financial Services  2026-09-23 559.92  2026-09-24 566.08  1.10 
+  APH                                                                               Amphenol Corp  2026.78             Electrical Equipment   2026-09-23 82.19   2026-09-24 83.08  1.08 
+ BKNG                                                                        Booking Holdings Inc  1171.40    Hotels, Restaurants & Leisure   2026-09-23 155.9  2026-09-24 157.41  0.97 
+  MPC                                                                     Marathon Petroleum Corp  1090.67                           Energy  2026-09-23 388.38  2026-09-24 390.95  0.66 
+    T                                                                                    AT&T Inc  1733.65                Telecommunication    2026-09-23 25.3   2026-09-24 25.45  0.59 
+LVMHF                                                         LVMH Moet Hennessy Louis Vuitton SE  1954.21 Textiles, Apparel & Luxury Goods   2026-09-23 452.5   2026-09-24 455.0  0.55 
+  BNY                                                                Bank of New York Mellon Corp  1019.05               Financial Services  2026-09-23 149.51  2026-09-24 150.19  0.45 
+ PLTR                                                                   Palantir Technologies Inc  4608.83                       Technology  2026-09-23 191.79  2026-09-24 192.59  0.42 
+   PH                                                                        Parker-Hannifin Corp  1229.57                        Machinery  2026-09-23 971.21  2026-09-24 974.98  0.39 
+   PM                                                             Philip Morris International Inc  2974.46                          Tobacco  2026-09-23 190.84   2026-09-24 191.5  0.35 
+  JPM                                                                         JPMorgan Chase & Co  8972.18                          Banking  2026-09-23 337.53  2026-09-24 338.56  0.31 
+  COF                                                                  Capital One Financial Corp  1206.17               Financial Services   2026-09-23 196.1  2026-09-24 196.61  0.26 
+ AMGN                                                                                   Amgen Inc  2195.18                    Biotechnology  2026-09-23 406.09  2026-09-24 406.04 -0.01 
+  MRK                                                                              Merck & Co Inc  3650.92                  Pharmaceuticals  2026-09-23 148.08  2026-09-24 147.98 -0.07 
