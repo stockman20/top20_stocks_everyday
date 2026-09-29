@@ -63256,5 +63256,23 @@
     "name": "",
     "country": "",
     "added_date": "2026-09-25 01:24:00"
+  },
+  "AXOCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Axo Metals Corp",
+    "country": "CA",
+    "added_date": "2026-09-29 01:45:05"
+  },
+  "ALCLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Alchemy Labs Inc",
+    "country": "CA",
+    "added_date": "2026-09-29 01:49:42"
+  },
+  "ATGRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Articore Group Ltd",
+    "country": "AU",
+    "added_date": "2026-09-29 01:56:51"
   }
 }
