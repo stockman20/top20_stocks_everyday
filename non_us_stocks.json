@@ -63304,5 +63304,17 @@
     "name": "Beijing Geekplus Technology Co Ltd",
     "country": "CN",
     "added_date": "2026-10-10 01:11:34"
+  },
+  "DUNXF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Trillion Energy International Inc",
+    "country": "CA",
+    "added_date": "2026-10-15 00:00:27"
+  },
+  "TRCGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Thistle Resources Inc",
+    "country": "CA",
+    "added_date": "2026-10-15 00:48:29"
   }
 }
