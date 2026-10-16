@@ -63316,5 +63316,23 @@
     "name": "Thistle Resources Inc",
     "country": "CA",
     "added_date": "2026-10-15 00:48:29"
+  },
+  "PNAQ": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-10-16 00:05:55"
+  },
+  "CATL": {
+    "exchange": "",
+    "name": "",
+    "country": "",
+    "added_date": "2026-10-16 00:36:13"
+  },
+  "MTTN": {
+    "exchange": "OTC MARKETS",
+    "name": "Matternet, Inc.",
+    "country": "US",
+    "added_date": "2026-10-16 01:13:25"
   }
 }

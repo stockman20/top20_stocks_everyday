@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码             公司名称            市值(亿)            板块                  昨天收盘             今天收盘        涨跌幅(%)
+ CARM    Carisma Therapeutics Inc  0.00            Biotechnology   2026-10-14 0.0  2026-10-15 0.02 3900.00
+ BINI   Bollinger Innovations Inc  0.01              Automobiles  2026-10-14 0.03  2026-10-15 0.05   66.67
+ ADTX                  Aditxt Inc  0.02            Biotechnology   2026-10-14 0.0   2026-10-15 0.0   40.00
+LESLQ                Leslie's Inc  0.01                   Retail  2026-10-14 0.02  2026-10-15 0.03   36.36
+ ILLR           Triller Group Inc  0.02       Financial Services  2026-10-14 0.06  2026-10-15 0.08   33.90
+ INDP   Indaptus Therapeutics Inc  3.72            Biotechnology  2026-10-14 2.21  2026-10-15 2.85   28.96
+ BENF                 Beneficient  0.16       Financial Services  2026-10-14 0.87  2026-10-15 1.09   25.14
+SNBRQ           Sleep Number Corp  0.01                   Retail  2026-10-14 0.02  2026-10-15 0.03   25.00
+ PTLE                     PTL Ltd  0.48                   Energy  2026-10-14 7.35  2026-10-15 9.05   23.13
+ BAFN     Bayfirst Financial Corp  1.41                  Banking  2026-10-14 5.25  2026-10-15 6.34   20.67
+ CDZI                   Cadiz Inc  3.23                Utilities  2026-10-14 3.22  2026-10-15 3.81   18.32
+ IOTR                 iOThree Ltd  0.11        Telecommunication  2026-10-14 2.21  2026-10-15 2.61   18.10
+ MERC    Mercer International Inc  0.13           Paper & Forest  2026-10-14 0.17   2026-10-15 0.2   17.65
+  OPK             OPKO Health Inc 12.02              Health Care  2026-10-14 1.37  2026-10-15 1.61   17.52
+ ADGM Adagio Medical Holdings Inc  0.03              Health Care  2026-10-14 0.09   2026-10-15 0.1   15.73
+ GPUS         Hyperscale Data Inc  0.28 Industrial Conglomerates  2026-10-14 0.13  2026-10-15 0.15   15.38
+ PRME          Prime Medicine Inc  5.70            Biotechnology  2026-10-14 3.13  2026-10-15 3.61   15.34
+ EZRA   Reliance Global Group Inc  0.04                Insurance  2026-10-14 2.16  2026-10-15 2.48   14.81
+ VERU                    Veru Inc  0.42          Pharmaceuticals  2026-10-14 2.13  2026-10-15 2.44   14.55
+ SVRN                Oceanpal Inc  0.62                   Marine 2026-10-14 36.51 2026-10-15 41.78   14.43
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+股票代码              公司名称             市值(亿)                板块                     昨天收盘              今天收盘       涨跌幅(%)
+  KD          Kyndryl Holdings Inc  26.82                    Technology  2026-10-14 11.79  2026-10-15 13.19 11.87 
+RXRX Recursion Pharmaceuticals Inc  20.41                 Biotechnology   2026-10-14 3.74   2026-10-15 4.16 11.23 
+  ZG              Zillow Group Inc  77.29                   Real Estate  2026-10-14 29.27  2026-10-15 32.43 10.80 
+INTA                    Intapp Inc  30.82                    Technology  2026-10-14 39.55  2026-10-15 43.63 10.32 
+ARQT   Arcutis Biotherapeutics Inc  34.60                 Biotechnology  2026-10-14 26.41   2026-10-15 29.1 10.19 
+COMP                   Compass Inc  69.89                   Real Estate   2026-10-14 8.76   2026-10-15 9.62  9.82 
+ SMG         Scotts Miracle-Gro Co  31.58                     Chemicals  2026-10-14 49.72  2026-10-15 54.25  9.11 
+ PAG   Penske Automotive Group Inc 139.21                        Retail 2026-10-14 194.79  2026-10-15 212.0  8.84 
+UPST          Upstart Holdings Inc  21.98            Financial Services  2026-10-14 22.74  2026-10-15 24.75  8.84 
+TOST                     Toast Inc 176.80            Financial Services  2026-10-14 29.85  2026-10-15 32.22  7.94 
+ DXC             DXC Technology Co  21.10                    Technology  2026-10-14 12.79  2026-10-15 13.79  7.82 
+RBLX                   Roblox Corp 365.26                         Media  2026-10-14 47.54  2026-10-15 51.13  7.55 
+ETSY                      ETSY Inc  77.60                        Retail  2026-10-14 82.93  2026-10-15 89.18  7.54 
+SEZL                    Sezzle Inc  41.49            Financial Services 2026-10-14 123.11 2026-10-15 132.37  7.52 
+LCII                LCI Industries  20.43               Auto Components  2026-10-14 78.16  2026-10-15 84.02  7.50 
+MMYT                MakeMyTrip Ltd  44.00 Hotels, Restaurants & Leisure  2026-10-14 43.64  2026-10-15 46.78  7.20 
+MMED             MiniMed Group Inc  50.64                   Health Care  2026-10-14 16.81   2026-10-15 18.0  7.08 
+LUMN        Lumen Technologies Inc  50.23             Telecommunication   2026-10-14 4.55   2026-10-15 4.87  7.03 
+FICO               Fair Isaac Corp 166.29                    Technology 2026-10-14 719.63 2026-10-15 769.93  6.99 
+POOL                     Pool Corp  61.46                  Distributors 2026-10-14 158.12 2026-10-15 169.12  6.96 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+股票代码             公司名称            市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+  ZG            Zillow Group Inc  77.29                      Real Estate  2026-10-14 29.27  2026-10-15 32.43 10.80 
+COMP                 Compass Inc  69.89                      Real Estate   2026-10-14 8.76   2026-10-15 9.62  9.82 
+ PAG Penske Automotive Group Inc 139.21                           Retail 2026-10-14 194.79  2026-10-15 212.0  8.84 
+TOST                   Toast Inc 176.80               Financial Services  2026-10-14 29.85  2026-10-15 32.22  7.94 
+RBLX                 Roblox Corp 365.26                            Media  2026-10-14 47.54  2026-10-15 51.13  7.55 
+ETSY                    ETSY Inc  77.60                           Retail  2026-10-14 82.93  2026-10-15 89.18  7.54 
+MMED           MiniMed Group Inc  50.64                      Health Care  2026-10-14 16.81   2026-10-15 18.0  7.08 
+LUMN      Lumen Technologies Inc  50.23                Telecommunication   2026-10-14 4.55   2026-10-15 4.87  7.03 
+FICO             Fair Isaac Corp 166.29                       Technology 2026-10-14 719.63 2026-10-15 769.93  6.99 
+POOL                   Pool Corp  61.46                     Distributors 2026-10-14 158.12 2026-10-15 169.12  6.96 
+   M                  Macy's Inc  63.26                           Retail  2026-10-14 22.68  2026-10-15 24.22  6.79 
+EPAM            Epam Systems Inc  63.07                       Technology 2026-10-14 114.63 2026-10-15 122.26  6.66 
+   G                 Genpact Ltd  62.86            Professional Services  2026-10-14 35.33  2026-10-15 37.59  6.40 
+INTU                  Intuit Inc 882.33                       Technology 2026-10-14 310.44 2026-10-15 330.17  6.36 
+CSGP            Costar Group Inc 129.66                      Real Estate  2026-10-14 30.11   2026-10-15 32.0  6.28 
+PEGA             Pegasystems Inc  59.10                       Technology  2026-10-14 33.83  2026-10-15 35.95  6.27 
+EXPE           Expedia Group Inc 350.30    Hotels, Restaurants & Leisure 2026-10-14 274.69 2026-10-15 291.87  6.25 
+CROX                   Crocs Inc  59.82 Textiles, Apparel & Luxury Goods 2026-10-14 117.54 2026-10-15 124.77  6.15 
+SOFI       SoFi Technologies Inc 194.90               Financial Services  2026-10-14 14.22  2026-10-15 15.09  6.12 
+HIMS      Hims & Hers Health Inc  63.39                      Health Care  2026-10-14 27.72  2026-10-15 29.38  5.99 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+股票代码                 公司名称                市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ PAG         Penske Automotive Group Inc 139.21                           Retail 2026-10-14 194.79  2026-10-15 212.0  8.84 
+TOST                           Toast Inc 176.80               Financial Services  2026-10-14 29.85  2026-10-15 32.22  7.94 
+RBLX                         Roblox Corp 365.26                            Media  2026-10-14 47.54  2026-10-15 51.13  7.55 
+FICO                     Fair Isaac Corp 166.29                       Technology 2026-10-14 719.63 2026-10-15 769.93  6.99 
+INTU                          Intuit Inc 882.33                       Technology 2026-10-14 310.44 2026-10-15 330.17  6.36 
+CSGP                    Costar Group Inc 129.66                      Real Estate  2026-10-14 30.11   2026-10-15 32.0  6.28 
+EXPE                   Expedia Group Inc 350.30    Hotels, Restaurants & Leisure 2026-10-14 274.69 2026-10-15 291.87  6.25 
+SOFI               SoFi Technologies Inc 194.90               Financial Services  2026-10-14 14.22  2026-10-15 15.09  6.12 
+  IT                         Gartner Inc 130.91                       Technology 2026-10-14 195.77 2026-10-15 207.31  5.89 
+ BBY                     Best Buy Co Inc 197.50                           Retail   2026-10-14 89.1  2026-10-15 94.17  5.69 
+CPRT                          Copart Inc 257.06   Commercial Services & Supplies  2026-10-14 26.27  2026-10-15 27.75  5.63 
+MSTR                        Strategy Inc 638.55                       Technology 2026-10-14 143.24 2026-10-15 151.29  5.62 
+  EL          Estee Lauder Companies Inc 388.37                Consumer products 2026-10-14 101.59 2026-10-15 107.19  5.51 
+ AJG           Arthur J. Gallagher & Co. 641.01                        Insurance 2026-10-14 237.04  2026-10-15 250.1  5.51 
+   H                   Hyatt Hotels Corp 159.38    Hotels, Restaurants & Leisure 2026-10-14 160.32 2026-10-15 168.91  5.36 
+LULU             Lululemon Athletica Inc 111.89 Textiles, Apparel & Luxury Goods  2026-10-14 94.09  2026-10-15 99.09  5.31 
+CTSH Cognizant Technology Solutions Corp 296.26                       Technology  2026-10-14 62.47  2026-10-15 65.77  5.28 
+ JLL              Jones Lang LaSalle Inc 142.99                      Real Estate 2026-10-14 295.25 2026-10-15 310.79  5.26 
+EBAY                            eBay Inc 546.95                           Retail 2026-10-14 116.88 2026-10-15 122.91  5.16 
+CBRE                      CBRE Group Inc 383.51                      Real Estate 2026-10-14 128.87 2026-10-15 135.49  5.14 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+ RBLX                         Roblox Corp  365.26                          Media  2026-10-14 47.54  2026-10-15 51.13  7.55 
+ INTU                          Intuit Inc  882.33                     Technology 2026-10-14 310.44 2026-10-15 330.17  6.36 
+ EXPE                   Expedia Group Inc  350.30  Hotels, Restaurants & Leisure 2026-10-14 274.69 2026-10-15 291.87  6.25 
+ CPRT                          Copart Inc  257.06 Commercial Services & Supplies  2026-10-14 26.27  2026-10-15 27.75  5.63 
+ MSTR                        Strategy Inc  638.55                     Technology 2026-10-14 143.24 2026-10-15 151.29  5.62 
+   EL          Estee Lauder Companies Inc  388.37              Consumer products 2026-10-14 101.59 2026-10-15 107.19  5.51 
+  AJG           Arthur J. Gallagher & Co.  641.01                      Insurance 2026-10-14 237.04  2026-10-15 250.1  5.51 
+ CTSH Cognizant Technology Solutions Corp  296.26                     Technology  2026-10-14 62.47  2026-10-15 65.77  5.28 
+ EBAY                            eBay Inc  546.95                         Retail 2026-10-14 116.88 2026-10-15 122.91  5.16 
+ CBRE                      CBRE Group Inc  383.51                    Real Estate 2026-10-14 128.87 2026-10-15 135.49  5.14 
+ ARXS                           Arxis Inc  219.20            Aerospace & Defense  2026-10-14 51.22  2026-10-15 53.81  5.06 
+  SYM                        Symbotic Inc  239.64                      Machinery   2026-10-14 37.9  2026-10-15 39.76  4.91 
+  BRO                   Brown & Brown Inc  226.23                      Insurance   2026-10-14 64.8  2026-10-15 67.98  4.91 
+LRLCF                          L'Oreal SA 2094.36              Consumer products 2026-10-14 433.88  2026-10-15 454.0  4.64 
+  ACN                       Accenture PLC 1376.38                     Technology 2026-10-14 214.96 2026-10-15 224.92  4.63 
+ ADBE                           Adobe Inc  979.50                     Technology 2026-10-14 240.68 2026-10-15 251.67  4.57 
+  CRM                      Salesforce Inc 2030.67                     Technology 2026-10-14 235.95 2026-10-15 246.74  4.57 
+ MRSH      Marsh & McLennan Companies Inc  890.19                      Insurance  2026-10-14 178.4 2026-10-15 186.54  4.56 
+  MCO                        Moody's Corp  837.75             Financial Services 2026-10-14 462.77 2026-10-15 483.69  4.52 
+  VMC                 Vulcan Materials Co  327.06                   Construction 2026-10-14 241.77  2026-10-15 252.4  4.40 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+LRLCF                           L'Oreal SA 2094.36                Consumer products  2026-10-14 433.88   2026-10-15 454.0  4.64 
+  ACN                        Accenture PLC 1376.38                       Technology  2026-10-14 214.96  2026-10-15 224.92  4.63 
+  CRM                       Salesforce Inc 2030.67                       Technology  2026-10-14 235.95  2026-10-15 246.74  4.57 
+  BLK                        BlackRock Inc 1821.00               Financial Services 2026-10-14 1073.79 2026-10-15 1120.78  4.38 
+ ABNB                           Airbnb Inc 1043.56    Hotels, Restaurants & Leisure  2026-10-14 167.06  2026-10-15 174.28  4.32 
+  SYK                         Stryker Corp 1124.75                      Health Care  2026-10-14 281.62  2026-10-15 293.23  4.12 
+ SPGI                       S&P Global Inc 1252.34               Financial Services  2026-10-14 408.57  2026-10-15 424.81  3.97 
+ SBUX                       Starbucks Corp 1104.43    Hotels, Restaurants & Leisure   2026-10-14 93.25   2026-10-15 96.88  3.89 
+  NEM                  Newmont Corporation 1220.07                  Metals & Mining  2026-10-14 111.56  2026-10-15 115.79  3.79 
+  MAR           Marriott International Inc 1005.80    Hotels, Restaurants & Leisure  2026-10-14 371.82  2026-10-15 385.71  3.74 
+ QCOM                         Qualcomm Inc 1905.03                   Semiconductors  2026-10-14 172.62   2026-10-15 178.4  3.35 
+ SHOP                          Shopify Inc 2174.30                       Technology   2026-10-14 172.5  2026-10-15 178.14  3.27 
+ BKNG                 Booking Holdings Inc 1245.79    Hotels, Restaurants & Leisure  2026-10-14 160.68   2026-10-15 165.8  3.19 
+  DHR                         Danaher Corp 1627.41   Life Sciences Tools & Services  2026-10-14 224.69   2026-10-15 231.5  3.03 
+EADSF                            Airbus SE 1505.55              Aerospace & Defense  2026-10-14 210.69   2026-10-15 217.0  2.99 
+   BX                       Blackstone Inc 1356.09               Financial Services  2026-10-14 106.21   2026-10-15 109.2  2.82 
+LVMHF  LVMH Moet Hennessy Louis Vuitton SE 1918.02 Textiles, Apparel & Luxury Goods  2026-10-14 433.03   2026-10-15 445.0  2.76 
+  IBM International Business Machines Corp 2205.73                       Technology  2026-10-14 227.88  2026-10-15 234.12  2.74 
+ GILD                 Gilead Sciences, Inc 1962.04                    Biotechnology  2026-10-14 153.54  2026-10-15 157.37  2.49 
+  CVS                      CVS Health Corp 1184.07                      Health Care   2026-10-14 90.39   2026-10-15 92.58  2.42 
