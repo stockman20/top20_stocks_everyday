@@ -63334,5 +63334,23 @@
     "name": "Matternet, Inc.",
     "country": "US",
     "added_date": "2026-10-16 01:13:25"
+  },
+  "BMMX": {
+    "exchange": "OTC MARKETS",
+    "name": "Biomimix Inc",
+    "country": "US",
+    "added_date": "2026-10-17 00:07:49"
+  },
+  "SRGDF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "BIGG Digital Assets Inc",
+    "country": "CA",
+    "added_date": "2026-10-17 00:42:28"
+  },
+  "STKXD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Strikepoint Gold Inc",
+    "country": "CA",
+    "added_date": "2026-10-17 01:08:40"
   }
 }
