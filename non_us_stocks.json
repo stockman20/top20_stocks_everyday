@@ -63358,5 +63358,29 @@
     "name": "MAS Gold Corp",
     "country": "CA",
     "added_date": "2026-10-20 01:03:51"
+  },
+  "LTCOF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "BeMetals Corp",
+    "country": "CA",
+    "added_date": "2026-10-22 00:15:24"
+  },
+  "CNTIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Centauri Minerals Inc",
+    "country": "CA",
+    "added_date": "2026-10-22 01:26:33"
+  },
+  "IRNMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Bolt Metals Corp",
+    "country": "CA",
+    "added_date": "2026-10-22 01:38:04"
+  },
+  "LCU": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Lion Copper and Gold Corp",
+    "country": "CA",
+    "added_date": "2026-10-22 01:54:55"
   }
 }
