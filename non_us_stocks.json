@@ -63382,5 +63382,23 @@
     "name": "Lion Copper and Gold Corp",
     "country": "CA",
     "added_date": "2026-10-22 01:54:55"
+  },
+  "IMPTF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Spirit Blockchain Capital Inc",
+    "country": "CA",
+    "added_date": "2026-10-23 00:37:03"
+  },
+  "GRMIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Everyday People Financial Corp",
+    "country": "CA",
+    "added_date": "2026-10-23 00:41:32"
+  },
+  "ABEPD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Vision Lithium Inc",
+    "country": "CA",
+    "added_date": "2026-10-23 00:46:00"
   }
 }
