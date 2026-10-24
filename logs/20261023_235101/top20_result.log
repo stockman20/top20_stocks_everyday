@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码              公司名称             市值(亿)                板块                      昨天收盘            今天收盘      涨跌幅(%)
+ GPUS           Hyperscale Data Inc  0.32         Industrial Conglomerates 2026-10-22 0.13 2026-10-23 0.17 30.77 
+  IMC           IMC Rare Earths Ltd  9.50                              N/A  2026-10-22 7.0 2026-10-23 8.99 28.43 
+ LUCD         Lucid Diagnostics Inc  0.84                      Health Care 2026-10-22 0.33 2026-10-23 0.41 25.30 
+ PTPI    Petros Pharmaceuticals Inc  0.00                  Pharmaceuticals  2026-10-22 0.0  2026-10-23 0.0 25.00 
+ PMNT            Perfect Moment Ltd  0.05 Textiles, Apparel & Luxury Goods 2026-10-22 0.08  2026-10-23 0.1 25.00 
+ NAUT    Nautilus Biotechnology Inc  3.31   Life Sciences Tools & Services  2026-10-22 2.6 2026-10-23 3.24 24.62 
+ BKYI     BIO-Key International Inc  0.07                       Technology 2026-10-22 2.74 2026-10-23 3.39 23.72 
+ NIVF           NewGenIvf Group Ltd  0.01                      Health Care 2026-10-22 1.18 2026-10-23 1.46 23.48 
+  QSI                Quantum-Si Inc  3.06   Life Sciences Tools & Services 2026-10-22 1.15  2026-10-23 1.4 21.74 
+ CNDT                  Conduent Inc  2.78            Professional Services 2026-10-22 1.49 2026-10-23 1.79 20.13 
+ LICN      Lichen International Ltd  0.17            Professional Services 2026-10-22 0.86 2026-10-23 1.03 19.77 
+BGICF               Birks Group Inc  0.05                           Retail 2026-10-22 0.24 2026-10-23 0.28 18.08 
+  HLP              Hongli Group Inc  2.28                  Metals & Mining 2026-10-22 3.05 2026-10-23 3.51 15.08 
+ SLXN    Silexion Therapeutics Corp  0.02                    Biotechnology 2026-10-22 0.17 2026-10-23 0.19 14.42 
+ FMFC          Kandal M Venture Ltd  0.02 Textiles, Apparel & Luxury Goods 2026-10-22 3.59 2026-10-23 4.07 13.37 
+  FFR        Aixcrypto Holdings Inc  0.24                    Biotechnology  2026-10-22 1.0 2026-10-23 1.13 13.00 
+  NPT            Texxon Holding Ltd  0.35 Trading Companies & Distributors 2026-10-22 1.42  2026-10-23 1.6 12.68 
+ CHSN Chanson International Holding  0.02                           Retail 2026-10-22 0.89  2026-10-23 1.0 12.51 
+ DGNX                   Diginex Ltd  0.41                       Technology 2026-10-22 1.25  2026-10-23 1.4 12.00 
+ GAUZ                     Gauzy Ltd  0.06             Electrical Equipment 2026-10-22 4.86  2026-10-23 5.4 11.18 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ NTSK                             Netskope Inc   90.71                     Technology    2026-10-22 22.2   2026-10-23 24.28  9.37 
+ TTMI                     TTM Technologies Inc   77.84           Electrical Equipment   2026-10-22 73.89   2026-10-23 80.11  8.42 
+FCNCA First Citizens BancShares Inc (Delaware)  263.40                        Banking 2026-10-22 2196.76 2026-10-23 2375.84  8.15 
+  NET                           Cloudflare Inc 1081.09                     Technology  2026-10-22 303.61  2026-10-23 325.73  7.29 
+ FROG                                Jfrog Ltd  124.07                     Technology   2026-10-22 93.89  2026-10-23 100.62  7.17 
+  SLB                                   SLB NV  787.49                         Energy   2026-10-22 49.55   2026-10-23 53.06  7.08 
+ SDRL                             Seadrill Ltd   32.62                         Energy   2026-10-22 49.19   2026-10-23 52.35  6.42 
+ TENB                     Tenable Holdings Inc   49.11                     Technology    2026-10-22 42.0   2026-10-23 44.59  6.17 
+ OUST                               Ouster Inc   21.41           Electrical Equipment   2026-10-22 27.98   2026-10-23 29.69  6.11 
+ KRMN                      Karman Holdings Inc   48.57            Aerospace & Defense   2026-10-22 34.58   2026-10-23 36.65  5.99 
+  TEM                            Tempus AI Inc  123.22 Life Sciences Tools & Services   2026-10-22 63.81   2026-10-23 67.61  5.96 
+  VAL                              Valaris Ltd   65.76                         Energy   2026-10-22 92.19   2026-10-23 97.33  5.58 
+ PTEN                 Patterson-UTI Energy Inc   43.25                         Energy   2026-10-22 11.34   2026-10-23 11.97  5.56 
+ SMTC                             Semtech Corp  123.19                 Semiconductors  2026-10-22 125.12   2026-10-23 132.0  5.50 
+FNCTF                                Orange SA  381.95              Telecommunication   2026-10-22 15.42   2026-10-23 16.26  5.45 
+ SIGI            Selective Insurance Group Inc   57.55                      Insurance   2026-10-22 91.74   2026-10-23 96.61  5.31 
+  HAL                           Halliburton Co  276.52                         Energy   2026-10-22 33.19   2026-10-23 34.92  5.21 
+  LPG                           Dorian LPG Ltd   22.01                         Energy   2026-10-22 51.44   2026-10-23 54.06  5.09 
+ CHRD                        Chord Energy Corp   86.49                         Energy  2026-10-22 150.48  2026-10-23 158.13  5.08 
+  RNG                          RingCentral Inc   69.64                     Technology   2026-10-22 79.42   2026-10-23 83.39  5.00 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ NTSK                             Netskope Inc   90.71                     Technology    2026-10-22 22.2   2026-10-23 24.28  9.37 
+ TTMI                     TTM Technologies Inc   77.84           Electrical Equipment   2026-10-22 73.89   2026-10-23 80.11  8.42 
+FCNCA First Citizens BancShares Inc (Delaware)  263.40                        Banking 2026-10-22 2196.76 2026-10-23 2375.84  8.15 
+  NET                           Cloudflare Inc 1081.09                     Technology  2026-10-22 303.61  2026-10-23 325.73  7.29 
+ FROG                                Jfrog Ltd  124.07                     Technology   2026-10-22 93.89  2026-10-23 100.62  7.17 
+  SLB                                   SLB NV  787.49                         Energy   2026-10-22 49.55   2026-10-23 53.06  7.08 
+  TEM                            Tempus AI Inc  123.22 Life Sciences Tools & Services   2026-10-22 63.81   2026-10-23 67.61  5.96 
+  VAL                              Valaris Ltd   65.76                         Energy   2026-10-22 92.19   2026-10-23 97.33  5.58 
+ SMTC                             Semtech Corp  123.19                 Semiconductors  2026-10-22 125.12   2026-10-23 132.0  5.50 
+FNCTF                                Orange SA  381.95              Telecommunication   2026-10-22 15.42   2026-10-23 16.26  5.45 
+ SIGI            Selective Insurance Group Inc   57.55                      Insurance   2026-10-22 91.74   2026-10-23 96.61  5.31 
+  HAL                           Halliburton Co  276.52                         Energy   2026-10-22 33.19   2026-10-23 34.92  5.21 
+ CHRD                        Chord Energy Corp   86.49                         Energy  2026-10-22 150.48  2026-10-23 158.13  5.08 
+  RNG                          RingCentral Inc   69.64                     Technology   2026-10-22 79.42   2026-10-23 83.39  5.00 
+  APA                            APA Corp (US)  173.21                         Energy   2026-10-22 49.44    2026-10-23 51.9  4.98 
+FCNCB First Citizens BancShares Inc (Delaware)  263.40                        Banking  2026-10-22 1745.5  2026-10-23 1830.0  4.84 
+  MUR                          Murphy Oil Corp   63.58                         Energy   2026-10-22 42.37   2026-10-23 44.34  4.65 
+  DVN                        Devon Energy Corp  565.29                         Energy   2026-10-22 49.18   2026-10-23 51.39  4.49 
+   PR                   Permian Resources Corp  213.49                         Energy    2026-10-22 24.4   2026-10-23 25.49  4.47 
+ TRGP                     Targa Resources Corp  648.38                         Energy  2026-10-22 289.54  2026-10-23 302.37  4.43 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+FCNCA First Citizens BancShares Inc (Delaware)  263.40                        Banking 2026-10-22 2196.76 2026-10-23 2375.84  8.15 
+  NET                           Cloudflare Inc 1081.09                     Technology  2026-10-22 303.61  2026-10-23 325.73  7.29 
+ FROG                                Jfrog Ltd  124.07                     Technology   2026-10-22 93.89  2026-10-23 100.62  7.17 
+  SLB                                   SLB NV  787.49                         Energy   2026-10-22 49.55   2026-10-23 53.06  7.08 
+  TEM                            Tempus AI Inc  123.22 Life Sciences Tools & Services   2026-10-22 63.81   2026-10-23 67.61  5.96 
+ SMTC                             Semtech Corp  123.19                 Semiconductors  2026-10-22 125.12   2026-10-23 132.0  5.50 
+FNCTF                                Orange SA  381.95              Telecommunication   2026-10-22 15.42   2026-10-23 16.26  5.45 
+  HAL                           Halliburton Co  276.52                         Energy   2026-10-22 33.19   2026-10-23 34.92  5.21 
+  APA                            APA Corp (US)  173.21                         Energy   2026-10-22 49.44    2026-10-23 51.9  4.98 
+FCNCB First Citizens BancShares Inc (Delaware)  263.40                        Banking  2026-10-22 1745.5  2026-10-23 1830.0  4.84 
+  DVN                        Devon Energy Corp  565.29                         Energy   2026-10-22 49.18   2026-10-23 51.39  4.49 
+   PR                   Permian Resources Corp  213.49                         Energy    2026-10-22 24.4   2026-10-23 25.49  4.47 
+ TRGP                     Targa Resources Corp  648.38                         Energy  2026-10-22 289.54  2026-10-23 302.37  4.43 
+DASTF                     Dassault Systemes SE  322.13                     Technology    2026-10-22 25.5   2026-10-23 26.63  4.43 
+ERFSF                   Eurofins Scientific SE  146.54 Life Sciences Tools & Services   2026-10-22 92.03   2026-10-23 96.08  4.40 
+ FANG                   Diamondback Energy Inc  576.15                         Energy  2026-10-22 197.14  2026-10-23 205.75  4.37 
+ ARXS                                Arxis Inc  214.03            Aerospace & Defense   2026-10-22 49.68   2026-10-23 51.72  4.11 
+  LNG                      Cheniere Energy Inc  592.77                         Energy  2026-10-22 287.01  2026-10-23 298.67  4.06 
+AKZOF                            Akzo Nobel NV  102.90                      Chemicals   2026-10-22 64.76   2026-10-23 67.37  4.03 
+ ECHO                            EchoStar Corp  249.49                          Media   2026-10-22 85.79   2026-10-23 89.08  3.83 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                   公司名称                    市值(亿)           板块                 昨天收盘               今天收盘        涨跌幅(%)
+FCNCA First Citizens BancShares Inc (Delaware)  263.40              Banking 2026-10-22 2196.76 2026-10-23 2375.84  8.15 
+  NET                           Cloudflare Inc 1081.09           Technology  2026-10-22 303.61  2026-10-23 325.73  7.29 
+  SLB                                   SLB NV  787.49               Energy   2026-10-22 49.55   2026-10-23 53.06  7.08 
+FNCTF                                Orange SA  381.95    Telecommunication   2026-10-22 15.42   2026-10-23 16.26  5.45 
+  HAL                           Halliburton Co  276.52               Energy   2026-10-22 33.19   2026-10-23 34.92  5.21 
+FCNCB First Citizens BancShares Inc (Delaware)  263.40              Banking  2026-10-22 1745.5  2026-10-23 1830.0  4.84 
+  DVN                        Devon Energy Corp  565.29               Energy   2026-10-22 49.18   2026-10-23 51.39  4.49 
+   PR                   Permian Resources Corp  213.49               Energy    2026-10-22 24.4   2026-10-23 25.49  4.47 
+ TRGP                     Targa Resources Corp  648.38               Energy  2026-10-22 289.54  2026-10-23 302.37  4.43 
+DASTF                     Dassault Systemes SE  322.13           Technology    2026-10-22 25.5   2026-10-23 26.63  4.43 
+ FANG                   Diamondback Energy Inc  576.15               Energy  2026-10-22 197.14  2026-10-23 205.75  4.37 
+ ARXS                                Arxis Inc  214.03  Aerospace & Defense   2026-10-22 49.68   2026-10-23 51.72  4.11 
+  LNG                      Cheniere Energy Inc  592.77               Energy  2026-10-22 287.01  2026-10-23 298.67  4.06 
+ ECHO                            EchoStar Corp  249.49                Media   2026-10-22 85.79   2026-10-23 89.08  3.83 
+  EOG                        EOG Resources Inc  828.55               Energy  2026-10-22 157.96  2026-10-23 163.03  3.21 
+   NU                         Nu Holdings Ltd.  711.53              Banking   2026-10-22 14.73   2026-10-23 15.16  2.92 
+ RKLB                          Rocket Lab Corp  306.53  Aerospace & Defense   2026-10-22 51.22    2026-10-23 52.6  2.69 
+  OXY                Occidental Petroleum Corp  641.47               Energy    2026-10-22 62.5   2026-10-23 64.17  2.67 
+  JBL                                Jabil Inc  287.09 Electrical Equipment  2026-10-22 267.41  2026-10-23 273.97  2.45 
+  GFS                      GlobalFoundries Inc  243.59       Semiconductors   2026-10-22 43.37   2026-10-23 44.39  2.35 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                  市值(亿)                  板块                       昨天收盘              今天收盘       涨跌幅(%)
+  NET                       Cloudflare Inc  1081.09                       Technology 2026-10-22 303.61 2026-10-23 325.73  7.29 
+  TXN                Texas Instruments Inc  2599.92                   Semiconductors  2026-10-22 279.5 2026-10-23 284.69  1.86 
+ QCOM                         Qualcomm Inc  1878.44                   Semiconductors 2026-10-22 172.83 2026-10-23 175.91  1.78 
+ CSCO                    Cisco Systems Inc  4135.38                   Communications 2026-10-22 104.89  2026-10-23 106.5  1.53 
+ DELL                Dell Technologies Inc  2879.91                       Technology 2026-10-22 452.95 2026-10-23 456.44  0.77 
+ ANET                  Arista Networks Inc  2173.97                   Communications 2026-10-22 171.07 2026-10-23 172.37  0.76 
+SBGSF                Schneider Electric SE  1390.24             Electrical Equipment 2026-10-22 263.45  2026-10-23 265.0  0.59 
+  IBM International Business Machines Corp  2388.88                       Technology 2026-10-22 252.11 2026-10-23 253.56  0.58 
+ ORCL                          Oracle Corp  3796.00                       Technology 2026-10-22 125.54 2026-10-23 126.16  0.49 
+ AMAT                Applied Materials Inc  2993.77                   Semiconductors 2026-10-22 375.58 2026-10-23 377.24  0.44 
+   BA                            Boeing Co  1482.34              Aerospace & Defense 2026-10-22 187.55 2026-10-23 188.35  0.43 
+ PLTR            Palantir Technologies Inc  4714.56                       Technology 2026-10-22 196.19 2026-10-23 196.75  0.29 
+LRLCF                           L'Oreal SA  2196.99                Consumer products 2026-10-22 477.75  2026-10-23 479.0  0.26 
+ ABBV                           AbbVie Inc  5047.59                    Biotechnology 2026-10-22 285.19 2026-10-23 285.64  0.16 
+ SPOT                Spotify Technology SA  1201.65                            Media 2026-10-22 583.66 2026-10-23 584.22  0.10 
+ AAPL                            Apple Inc 50819.85                       Technology 2026-10-22 348.22 2026-10-23 347.73 -0.14 
+LVMHF  LVMH Moet Hennessy Louis Vuitton SE  1909.40 Textiles, Apparel & Luxury Goods  2026-10-22 433.7  2026-10-23 432.0 -0.39 
+BUDFF              Anheuser-Busch Inbev SA  1504.14                        Beverages  2026-10-22 84.33  2026-10-23 83.93 -0.47 
+ AVGO                         Broadcom Inc 15430.28                   Semiconductors 2026-10-22 323.24 2026-10-23 321.68 -0.48 
+  DIS                       Walt Disney Co  1942.87                            Media 2026-10-22 113.13 2026-10-23 112.52 -0.54 
