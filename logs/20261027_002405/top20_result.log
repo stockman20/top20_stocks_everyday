@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                        公司名称                         市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ APCX                              AppTech Payments Corp    0.06               Financial Services    2026-10-23 0.13    2026-10-26 0.15 15.38 
+EUTLF                         Eutelsat Communications SA   20.83                            Media    2026-10-23 2.01    2026-10-26 2.16  7.46 
+  DIT                              Amcon Distributing Co    0.63                     Distributors   2026-10-23 60.32   2026-10-26 64.55  7.01 
+BTAIQ                           BioXcel Therapeutics Inc    0.00                    Biotechnology    2026-10-23 0.01    2026-10-26 0.02  6.00 
+SLOIF                                          Soitec SA   39.98                   Semiconductors   2026-10-23 124.5   2026-10-26 131.0  5.22 
+ RHEP                     Regional Health Properties Inc    0.04                      Health Care     2026-10-23 1.0    2026-10-26 1.05  5.00 
+ADYYF                                           Adyen NV  299.64               Financial Services 2026-10-23 1035.86 2026-10-26 1079.82  4.24 
+UCBJF                                             Ucb SA  518.12                  Pharmaceuticals  2026-10-23 293.39  2026-10-26 305.59  4.16 
+  BDL                         Flanigan's Enterprises Inc    0.94    Hotels, Restaurants & Leisure   2026-10-23 48.79   2026-10-26 50.82  4.16 
+HESAF                           Hermes International SCA 1296.01 Textiles, Apparel & Luxury Goods  2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SNYNF                                          Sanofi SA  889.09                  Pharmaceuticals   2026-10-23 81.65   2026-10-26 84.82  3.88 
+BNPQF                                     BNP Paribas SA  922.60                          Banking    2026-10-23 92.3    2026-10-26 95.6  3.58 
+STMEF                              STMicroelectronics NV  352.02                   Semiconductors    2026-10-23 44.1   2026-10-26 45.58  3.36 
+CODGF                       Compagnie de Saint Gobain SA  327.67                         Building   2026-10-23 75.55    2026-10-26 77.9  3.11 
+SBGSF                              Schneider Electric SE 1364.59             Electrical Equipment  2026-10-23 258.07   2026-10-26 266.0  3.07 
+MGDDF Compagnie Generale des Etablissements Michelin SCA  215.01                  Auto Components   2026-10-23 34.79   2026-10-26 35.85  3.05 
+TLPFF                                 Teleperformance SE   48.24            Professional Services   2026-10-23 88.65    2026-10-26 91.0  2.65 
+CMVLF                                       Cellectis SA    0.68                    Biotechnology    2026-10-23 0.97    2026-10-26 0.99  2.65 
+AMVMF                          AMG Critical Materials NV    8.29                  Metals & Mining   2026-10-23 25.04    2026-10-26 25.7  2.64 
+ OMCC                            Old Market Capital Corp    0.27                Telecommunication     2026-10-23 3.8     2026-10-26 3.9  2.63 
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码                        公司名称                         市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+EUTLF                         Eutelsat Communications SA   20.83                            Media    2026-10-23 2.01    2026-10-26 2.16  7.46 
+SLOIF                                          Soitec SA   39.98                   Semiconductors   2026-10-23 124.5   2026-10-26 131.0  5.22 
+ADYYF                                           Adyen NV  299.64               Financial Services 2026-10-23 1035.86 2026-10-26 1079.82  4.24 
+UCBJF                                             Ucb SA  518.12                  Pharmaceuticals  2026-10-23 293.39  2026-10-26 305.59  4.16 
+HESAF                           Hermes International SCA 1296.01 Textiles, Apparel & Luxury Goods  2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SNYNF                                          Sanofi SA  889.09                  Pharmaceuticals   2026-10-23 81.65   2026-10-26 84.82  3.88 
+BNPQF                                     BNP Paribas SA  922.60                          Banking    2026-10-23 92.3    2026-10-26 95.6  3.58 
+STMEF                              STMicroelectronics NV  352.02                   Semiconductors    2026-10-23 44.1   2026-10-26 45.58  3.36 
+CODGF                       Compagnie de Saint Gobain SA  327.67                         Building   2026-10-23 75.55    2026-10-26 77.9  3.11 
+SBGSF                              Schneider Electric SE 1364.59             Electrical Equipment  2026-10-23 258.07   2026-10-26 266.0  3.07 
+MGDDF Compagnie Generale des Etablissements Michelin SCA  215.01                  Auto Components   2026-10-23 34.79   2026-10-26 35.85  3.05 
+TLPFF                                 Teleperformance SE   48.24            Professional Services   2026-10-23 88.65    2026-10-26 91.0  2.65 
+VEOEF                            Veolia Environnement SA  238.52                        Utilities   2026-10-23 35.82   2026-10-26 36.69  2.43 
+DASTF                               Dassault Systemes SE  327.22                       Technology   2026-10-23 26.63   2026-10-26 27.26  2.37 
+NNGPF                                        NN Group NV  191.61                        Insurance   2026-10-23 84.97   2026-10-26 86.86  2.22 
+THLEF                                          Thales SA  468.58              Aerospace & Defense  2026-10-23 252.65   2026-10-26 258.0  2.12 
+  AMG                    Affiliated Managers Group, Inc.  101.10               Financial Services  2026-10-23 383.42  2026-10-26 390.97  1.97 
+ATROB                              Astronics Corporation   25.79              Aerospace & Defense    2026-10-23 58.5   2026-10-26 59.63  1.93 
+LRLCF                                         L'Oreal SA 2320.93                Consumer products   2026-10-23 478.8   2026-10-26 486.7  1.65 
+ASMLF                                    ASML Holding NV 5375.29                   Semiconductors  2026-10-23 1563.8 2026-10-26 1589.28  1.63 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                        公司名称                         市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ADYYF                                           Adyen NV  299.64               Financial Services 2026-10-23 1035.86 2026-10-26 1079.82  4.24 
+UCBJF                                             Ucb SA  518.12                  Pharmaceuticals  2026-10-23 293.39  2026-10-26 305.59  4.16 
+HESAF                           Hermes International SCA 1296.01 Textiles, Apparel & Luxury Goods  2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SNYNF                                          Sanofi SA  889.09                  Pharmaceuticals   2026-10-23 81.65   2026-10-26 84.82  3.88 
+BNPQF                                     BNP Paribas SA  922.60                          Banking    2026-10-23 92.3    2026-10-26 95.6  3.58 
+STMEF                              STMicroelectronics NV  352.02                   Semiconductors    2026-10-23 44.1   2026-10-26 45.58  3.36 
+CODGF                       Compagnie de Saint Gobain SA  327.67                         Building   2026-10-23 75.55    2026-10-26 77.9  3.11 
+SBGSF                              Schneider Electric SE 1364.59             Electrical Equipment  2026-10-23 258.07   2026-10-26 266.0  3.07 
+MGDDF Compagnie Generale des Etablissements Michelin SCA  215.01                  Auto Components   2026-10-23 34.79   2026-10-26 35.85  3.05 
+VEOEF                            Veolia Environnement SA  238.52                        Utilities   2026-10-23 35.82   2026-10-26 36.69  2.43 
+DASTF                               Dassault Systemes SE  327.22                       Technology   2026-10-23 26.63   2026-10-26 27.26  2.37 
+NNGPF                                        NN Group NV  191.61                        Insurance   2026-10-23 84.97   2026-10-26 86.86  2.22 
+THLEF                                          Thales SA  468.58              Aerospace & Defense  2026-10-23 252.65   2026-10-26 258.0  2.12 
+  AMG                    Affiliated Managers Group, Inc.  101.10               Financial Services  2026-10-23 383.42  2026-10-26 390.97  1.97 
+LRLCF                                         L'Oreal SA 2320.93                Consumer products   2026-10-23 478.8   2026-10-26 486.7  1.65 
+ASMLF                                    ASML Holding NV 5375.29                   Semiconductors  2026-10-23 1563.8 2026-10-26 1589.28  1.63 
+HINKF                                        Heineken NV  428.20                        Beverages   2026-10-23 85.71    2026-10-26 87.1  1.62 
+BABAF                      Alibaba Group Holding Limited 2481.29                           Retail   2026-10-23 12.39   2026-10-26 12.54  1.19 
+  CNO                          CNO Financial Group, Inc.   50.15                        Insurance   2026-10-23 53.66    2026-10-26 54.2  1.01 
+BOIVF                                         Bollore SE  102.67                           Energy    2026-10-23 4.03    2026-10-26 4.07  0.99 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码                        公司名称                         市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ADYYF                                           Adyen NV  299.64               Financial Services 2026-10-23 1035.86 2026-10-26 1079.82  4.24 
+UCBJF                                             Ucb SA  518.12                  Pharmaceuticals  2026-10-23 293.39  2026-10-26 305.59  4.16 
+HESAF                           Hermes International SCA 1296.01 Textiles, Apparel & Luxury Goods  2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SNYNF                                          Sanofi SA  889.09                  Pharmaceuticals   2026-10-23 81.65   2026-10-26 84.82  3.88 
+BNPQF                                     BNP Paribas SA  922.60                          Banking    2026-10-23 92.3    2026-10-26 95.6  3.58 
+STMEF                              STMicroelectronics NV  352.02                   Semiconductors    2026-10-23 44.1   2026-10-26 45.58  3.36 
+CODGF                       Compagnie de Saint Gobain SA  327.67                         Building   2026-10-23 75.55    2026-10-26 77.9  3.11 
+SBGSF                              Schneider Electric SE 1364.59             Electrical Equipment  2026-10-23 258.07   2026-10-26 266.0  3.07 
+MGDDF Compagnie Generale des Etablissements Michelin SCA  215.01                  Auto Components   2026-10-23 34.79   2026-10-26 35.85  3.05 
+VEOEF                            Veolia Environnement SA  238.52                        Utilities   2026-10-23 35.82   2026-10-26 36.69  2.43 
+DASTF                               Dassault Systemes SE  327.22                       Technology   2026-10-23 26.63   2026-10-26 27.26  2.37 
+NNGPF                                        NN Group NV  191.61                        Insurance   2026-10-23 84.97   2026-10-26 86.86  2.22 
+THLEF                                          Thales SA  468.58              Aerospace & Defense  2026-10-23 252.65   2026-10-26 258.0  2.12 
+  AMG                    Affiliated Managers Group, Inc.  101.10               Financial Services  2026-10-23 383.42  2026-10-26 390.97  1.97 
+LRLCF                                         L'Oreal SA 2320.93                Consumer products   2026-10-23 478.8   2026-10-26 486.7  1.65 
+ASMLF                                    ASML Holding NV 5375.29                   Semiconductors  2026-10-23 1563.8 2026-10-26 1589.28  1.63 
+HINKF                                        Heineken NV  428.20                        Beverages   2026-10-23 85.71    2026-10-26 87.1  1.62 
+BABAF                      Alibaba Group Holding Limited 2481.29                           Retail   2026-10-23 12.39   2026-10-26 12.54  1.19 
+BOIVF                                         Bollore SE  102.67                           Energy    2026-10-23 4.03    2026-10-26 4.07  0.99 
+HKHHF                                Heineken Holding NV  205.97                        Beverages   2026-10-23 81.86    2026-10-26 82.6  0.90 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码                        公司名称                         市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ADYYF                                           Adyen NV  299.64               Financial Services 2026-10-23 1035.86 2026-10-26 1079.82  4.24 
+UCBJF                                             Ucb SA  518.12                  Pharmaceuticals  2026-10-23 293.39  2026-10-26 305.59  4.16 
+HESAF                           Hermes International SCA 1296.01 Textiles, Apparel & Luxury Goods  2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SNYNF                                          Sanofi SA  889.09                  Pharmaceuticals   2026-10-23 81.65   2026-10-26 84.82  3.88 
+BNPQF                                     BNP Paribas SA  922.60                          Banking    2026-10-23 92.3    2026-10-26 95.6  3.58 
+STMEF                              STMicroelectronics NV  352.02                   Semiconductors    2026-10-23 44.1   2026-10-26 45.58  3.36 
+CODGF                       Compagnie de Saint Gobain SA  327.67                         Building   2026-10-23 75.55    2026-10-26 77.9  3.11 
+SBGSF                              Schneider Electric SE 1364.59             Electrical Equipment  2026-10-23 258.07   2026-10-26 266.0  3.07 
+MGDDF Compagnie Generale des Etablissements Michelin SCA  215.01                  Auto Components   2026-10-23 34.79   2026-10-26 35.85  3.05 
+VEOEF                            Veolia Environnement SA  238.52                        Utilities   2026-10-23 35.82   2026-10-26 36.69  2.43 
+DASTF                               Dassault Systemes SE  327.22                       Technology   2026-10-23 26.63   2026-10-26 27.26  2.37 
+THLEF                                          Thales SA  468.58              Aerospace & Defense  2026-10-23 252.65   2026-10-26 258.0  2.12 
+LRLCF                                         L'Oreal SA 2320.93                Consumer products   2026-10-23 478.8   2026-10-26 486.7  1.65 
+ASMLF                                    ASML Holding NV 5375.29                   Semiconductors  2026-10-23 1563.8 2026-10-26 1589.28  1.63 
+HINKF                                        Heineken NV  428.20                        Beverages   2026-10-23 85.71    2026-10-26 87.1  1.62 
+BABAF                      Alibaba Group Holding Limited 2481.29                           Retail   2026-10-23 12.39   2026-10-26 12.54  1.19 
+HKHHF                                Heineken Holding NV  205.97                        Beverages   2026-10-23 81.86    2026-10-26 82.6  0.90 
+SCGLF                                Societe Generale SA  429.33                          Banking   2026-10-23 68.13   2026-10-26 68.59  0.68 
+LVMHF                LVMH Moet Hennessy Louis Vuitton SE 1885.77 Textiles, Apparel & Luxury Goods  2026-10-23 432.38  2026-10-26 434.22  0.43 
+CAPMF                                       Capgemini SE  210.13                       Technology  2026-10-23 141.11  2026-10-26 141.69  0.41 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                                             公司名称                                             市值(亿)                  板块                       昨天收盘              今天收盘        涨跌幅(%)
+HESAF                                                                    Hermes International SCA  1296.01 Textiles, Apparel & Luxury Goods 2026-10-23 1371.3 2026-10-26 1424.78  3.90 
+SBGSF                                                                       Schneider Electric SE  1364.59             Electrical Equipment 2026-10-23 258.07   2026-10-26 266.0  3.07 
+LRLCF                                                                                  L'Oreal SA  2320.93                Consumer products  2026-10-23 478.8   2026-10-26 486.7  1.65 
+ASMLF                                                                             ASML Holding NV  5375.29                   Semiconductors 2026-10-23 1563.8 2026-10-26 1589.28  1.63 
+BABAF                                                               Alibaba Group Holding Limited  2481.29                           Retail  2026-10-23 12.39   2026-10-26 12.54  1.19 
+LVMHF                                                         LVMH Moet Hennessy Louis Vuitton SE  1885.77 Textiles, Apparel & Luxury Goods 2026-10-23 432.38  2026-10-26 434.22  0.43 
+AIQUF L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA  1112.59                        Chemicals 2026-10-23 192.09  2026-10-26 192.25  0.08 
+SAFRF                                                                                   Safran SA  1133.17              Aerospace & Defense  2026-10-23 305.0   2026-10-26 305.0  0.00 
+EADSF                                                                                   Airbus SE  1523.28              Aerospace & Defense 2026-10-23 217.53   2026-10-26 217.0 -0.24 
+BUDFF                                                                     Anheuser-Busch Inbev SA  1495.81                        Beverages  2026-10-23 83.93   2026-10-26 82.46 -1.75 
+ GOOG                                                                               Alphabet Inc. 38744.64                            Media 2026-10-23 317.28     2026-10-26 nan   nan 
+ META                                                                        Meta Platforms, Inc. 16118.63                            Media 2026-10-23 642.62     2026-10-26 nan   nan 
+   DE                                                                                  Deere & Co  1728.97                        Machinery 2026-10-23 646.15     2026-10-26 nan   nan 
+  ADI                                                                        Analog Devices, Inc.  1976.69                   Semiconductors 2026-10-23 391.07     2026-10-26 nan   nan 
+  JNJ                                                                           Johnson & Johnson  6410.67                  Pharmaceuticals 2026-10-23 263.81     2026-10-26 nan   nan 
+    T                                                                                   AT&T Inc.  1404.55                Telecommunication  2026-10-23 20.93     2026-10-26 nan   nan 
+   PH                                                                 Parker-Hannifin Corporation  1140.60                        Machinery 2026-10-23 880.57     2026-10-26 nan   nan 
+   HD                                                                        The Home Depot, Inc.  3186.42                           Retail 2026-10-23 319.83     2026-10-26 nan   nan 
+  AMD                                                                Advanced Micro Devices, Inc.  8673.01                   Semiconductors 2026-10-23 516.79     2026-10-26 nan   nan 
+  ACN                                                                               Accenture PLC  1461.22                       Technology 2026-10-23 249.37     2026-10-26 nan   nan 
