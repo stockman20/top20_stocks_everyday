@@ -63406,5 +63406,23 @@
     "name": "Seraphim Space Investment Trust PLC",
     "country": "GB",
     "added_date": "2026-10-27 01:15:44"
+  },
+  "VIRMF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Viridian Metals Inc",
+    "country": "CA",
+    "added_date": "2026-10-29 01:00:51"
+  },
+  "CTXCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Smooth Rock Ventures Corp",
+    "country": "CA",
+    "added_date": "2026-10-29 02:11:21"
+  },
+  "AETR": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Westport Fuel Systems Inc",
+    "country": "CA",
+    "added_date": "2026-10-29 02:46:26"
   }
 }
