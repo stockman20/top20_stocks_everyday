@@ -63430,5 +63430,23 @@
     "name": "Alex Metals Corp",
     "country": "CA",
     "added_date": "2026-10-31 01:20:46"
+  },
+  "GRLIF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "GR Life Style Co Ltd",
+    "country": "HK",
+    "added_date": "2026-11-03 03:32:02"
+  },
+  "ROBIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Cobra Venture Corp",
+    "country": "CA",
+    "added_date": "2026-11-03 03:41:02"
+  },
+  "CLGCD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Clarity Metals Corp",
+    "country": "CA",
+    "added_date": "2026-11-03 03:46:05"
   }
 }

@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码                     公司名称                    市值(亿)               板块                    昨天收盘             今天收盘        涨跌幅(%)
+ VCIG                              VCI Global Ltd  0.02         Professional Services  2026-10-30 0.17  2026-11-02 8.16 4728.40
+ RETO                      ReTo Eco-Solutions Inc  0.37                  Construction  2026-10-30 0.56  2026-11-02 4.16  646.86
+  INO                  Inovio Pharmaceuticals Inc  0.62                 Biotechnology   2026-10-30 0.6  2026-11-02 1.89  215.00
+ FOXO                       Foxo Technologies Inc  0.00                    Technology   2026-10-30 0.1  2026-11-02 0.19   85.00
+ CLRO                                Clearone Inc  0.15                Communications  2026-10-30 3.41  2026-11-02 5.65   65.69
+ INLF                                   INLIF Ltd  0.00                     Machinery  2026-10-30 0.19  2026-11-02 0.29   56.76
+ EVGO                                    EVgo Inc  5.82                        Retail  2026-10-30 1.26  2026-11-02 1.85   46.83
+ SEGG     Sports Entertainment Gaming Global Corp  0.07 Hotels, Restaurants & Leisure  2026-10-30 1.33  2026-11-02 1.93   45.11
+ HXHX                         Haoxin Holdings Ltd  0.03                   Road & Rail  2026-10-30 0.17  2026-11-02 0.24   38.82
+ IFBD                             Infobird Co Ltd  0.08                    Technology  2026-10-30 0.75  2026-11-02 1.03   37.88
+   MF                               MindForge Inc  0.73                    Technology  2026-10-30 8.35 2026-11-02 11.49   37.60
+ NMRA                    Neumora Therapeutics Inc  0.93               Pharmaceuticals  2026-10-30 0.37   2026-11-02 0.5   35.15
+PHGUF                           Pharming Group NV  7.71                 Biotechnology  2026-10-30 0.95  2026-11-02 1.26   31.94
+ PERI                          Perion Network Ltd  4.49                         Media   2026-10-30 8.7 2026-11-02 11.41   31.15
+JCDXF                                 JCDecaux SE 51.98                         Media  2026-10-30 21.5 2026-11-02 27.51   27.95
+ ATYR                             aTyr Pharma Inc  0.15                 Biotechnology  2026-10-30 4.94  2026-11-02 6.29   27.33
+  ULH Universal Logistics Holdings, Inc. (Nevada)  6.27                   Road & Rail 2026-10-30 22.59 2026-11-02 28.54   26.34
+ SMTK                                SmartKem Inc  0.00                Semiconductors  2026-10-30 0.28  2026-11-02 0.35   26.26
+ BYSI                            Beyondspring Inc  0.33                 Biotechnology  2026-10-30 0.64  2026-11-02 0.81   25.16
+ BTOC                        Armlogi Holding Corp  0.08                   Road & Rail  2026-10-30 2.23  2026-11-02 2.79   25.06
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码              公司名称             市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+JCDXF                   JCDecaux SE  51.98                            Media   2026-10-30 21.5  2026-11-02 27.51 27.95 
+ IDXX      IDEXX Laboratories, Inc. 529.13                      Health Care 2026-10-30 551.21 2026-11-02 671.64 21.85 
+  NXT                 Nextpower Inc 138.27             Electrical Equipment  2026-10-30 79.33  2026-11-02 91.13 14.87 
+ PHIN                   PHINIA Inc.  25.46                  Auto Components  2026-10-30 62.92  2026-11-02 70.79 12.51 
+  SFM    Sprouts Farmers Market Inc  50.94                           Retail   2026-10-30 49.7  2026-11-02 55.23 11.13 
+  SAM The Boston Beer Company, Inc.  22.47                        Beverages 2026-10-30 201.31 2026-11-02 221.37  9.96 
+  AIN     Albany International Corp  20.87                        Machinery   2026-10-30 67.0  2026-11-02 73.47  9.66 
+ MGRC              McGrath RentCorp  31.54 Trading Companies & Distributors 2026-10-30 118.28 2026-11-02 129.44  9.44 
+ ESAB                     ESAB Corp  47.43                        Machinery  2026-10-30 69.76   2026-11-02 76.3  9.38 
+ LOAR            Loar Holdings Inc.  63.62              Aerospace & Defense  2026-10-30 62.11  2026-11-02 67.91  9.34 
+  NSP               Insperity, Inc.  20.26            Professional Services  2026-10-30 48.68  2026-11-02 53.18  9.24 
+ ENPH          Enphase Energy, Inc.  36.96                   Semiconductors  2026-10-30 25.65  2026-11-02 27.93  8.89 
+  TEM               Tempus AI, Inc. 143.02   Life Sciences Tools & Services  2026-10-30 72.22  2026-11-02 78.48  8.67 
+ RIVN       Rivian Automotive, Inc. 190.98                      Automobiles  2026-10-30 12.16  2026-11-02 13.19  8.47 
+AKZOF                 Akzo Nobel NV 101.67                        Chemicals   2026-10-30 65.0  2026-11-02 70.48  8.43 
+ VSEC                      VSE Corp  41.49              Aerospace & Defense 2026-10-30 147.83 2026-11-02 160.21  8.37 
+ KVYO                 Klaviyo, Inc.  62.07                       Technology  2026-10-30 20.14   2026-11-02 21.8  8.24 
+ EXPO                Exponent, Inc.  41.17            Professional Services  2026-10-30 80.26  2026-11-02 86.58  7.87 
+  TAP Molson Coors Beverage Company  80.98                        Beverages  2026-10-30 40.12  2026-11-02 43.23  7.75 
+ IMNM                Immunome, Inc.  23.12                    Biotechnology  2026-10-30 18.21  2026-11-02 19.59  7.58 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码                公司名称               市值(亿)                板块                      昨天收盘              今天收盘       涨跌幅(%)
+JCDXF                       JCDecaux SE  51.98                          Media   2026-10-30 21.5  2026-11-02 27.51 27.95 
+ IDXX          IDEXX Laboratories, Inc. 529.13                    Health Care 2026-10-30 551.21 2026-11-02 671.64 21.85 
+  NXT                     Nextpower Inc 138.27           Electrical Equipment  2026-10-30 79.33  2026-11-02 91.13 14.87 
+  SFM        Sprouts Farmers Market Inc  50.94                         Retail   2026-10-30 49.7  2026-11-02 55.23 11.13 
+ LOAR                Loar Holdings Inc.  63.62            Aerospace & Defense  2026-10-30 62.11  2026-11-02 67.91  9.34 
+  TEM                   Tempus AI, Inc. 143.02 Life Sciences Tools & Services  2026-10-30 72.22  2026-11-02 78.48  8.67 
+ RIVN           Rivian Automotive, Inc. 190.98                    Automobiles  2026-10-30 12.16  2026-11-02 13.19  8.47 
+AKZOF                     Akzo Nobel NV 101.67                      Chemicals   2026-10-30 65.0  2026-11-02 70.48  8.43 
+ KVYO                     Klaviyo, Inc.  62.07                     Technology  2026-10-30 20.14   2026-11-02 21.8  8.24 
+  TAP     Molson Coors Beverage Company  80.98                      Beverages  2026-10-30 40.12  2026-11-02 43.23  7.75 
+  RKT              Rocket Companies Inc 389.92             Financial Services   2026-10-30 12.8  2026-11-02 13.77  7.58 
+ ROAD       Construction Partners, Inc.  54.83                   Construction   2026-10-30 89.8  2026-11-02 96.61  7.58 
+ SARO                StandardAero, Inc.  83.16            Aerospace & Defense  2026-10-30 23.38  2026-11-02 25.13  7.49 
+  LKQ                          LKQ Corp  50.30                   Distributors  2026-10-30 18.56  2026-11-02 19.93  7.38 
+LGRVF                        Legrand SA 342.74           Electrical Equipment 2026-10-30 138.37 2026-11-02 148.27  7.15 
+ CVCO            Cavco Industries, Inc.  50.97              Consumer products  2026-10-30 619.0 2026-11-02 662.89  7.09 
+ FCFS    Firstcash Holdings Inc (Texas)  83.08             Financial Services 2026-10-30 181.25 2026-11-02 193.71  6.87 
+  CHH Choice Hotels International, Inc.  53.38  Hotels, Restaurants & Leisure 2026-10-30 111.16 2026-11-02 118.61  6.70 
+  BAM   BROOKFIELD ASSET MANAGEMENT LTD 843.20             Financial Services  2026-10-30 48.26  2026-11-02 51.47  6.65 
+  MHK           Mohawk Industries, Inc.  89.80              Consumer products 2026-10-30 139.41 2026-11-02 148.58  6.58 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                 板块                       昨天收盘               今天收盘        涨跌幅(%)
+ IDXX        IDEXX Laboratories, Inc.  529.13                      Health Care  2026-10-30 551.21  2026-11-02 671.64 21.85 
+  NXT                   Nextpower Inc  138.27             Electrical Equipment   2026-10-30 79.33   2026-11-02 91.13 14.87 
+  TEM                 Tempus AI, Inc.  143.02   Life Sciences Tools & Services   2026-10-30 72.22   2026-11-02 78.48  8.67 
+ RIVN         Rivian Automotive, Inc.  190.98                      Automobiles   2026-10-30 12.16   2026-11-02 13.19  8.47 
+AKZOF                   Akzo Nobel NV  101.67                        Chemicals    2026-10-30 65.0   2026-11-02 70.48  8.43 
+  RKT            Rocket Companies Inc  389.92               Financial Services    2026-10-30 12.8   2026-11-02 13.77  7.58 
+LGRVF                      Legrand SA  342.74             Electrical Equipment  2026-10-30 138.37  2026-11-02 148.27  7.15 
+  BAM BROOKFIELD ASSET MANAGEMENT LTD  843.20               Financial Services   2026-10-30 48.26   2026-11-02 51.47  6.65 
+  PNR                     Pentair plc  112.65                        Machinery   2026-10-30 66.26   2026-11-02 70.56  6.49 
+  CRH                         CRH PLC  642.55                     Construction   2026-10-30 90.81   2026-11-02 96.59  6.36 
+ DASH                  Doordash, Inc.  823.00    Hotels, Restaurants & Leisure  2026-10-30 178.99  2026-11-02 190.07  6.19 
+ CBRE                CBRE Group, Inc.  394.11                      Real Estate  2026-10-30 128.85  2026-11-02 136.75  6.13 
+  HLI            Houlihan Lokey, Inc.  101.92               Financial Services   2026-10-30 138.0  2026-11-02 146.44  6.12 
+ CPRT                      Copart Inc  295.79   Commercial Services & Supplies   2026-10-30 30.13   2026-11-02 31.93  5.97 
+  TDG    TransDigm Group Incorporated  670.85              Aerospace & Defense 2026-10-30 1146.81 2026-11-02 1213.62  5.83 
+  QXO                       QXO, Inc.  121.18 Trading Companies & Distributors   2026-10-30 11.04   2026-11-02 11.68  5.80 
+HKHHF             Heineken Holding NV  210.69                        Beverages    2026-10-30 82.2   2026-11-02 86.81  5.61 
+ FTAI              FTAI Aviation Ltd.  203.10              Aerospace & Defense  2026-10-30 187.27  2026-11-02 197.75  5.60 
+  BSX   Boston Scientific Corporation  642.30                      Health Care   2026-10-30 41.98   2026-11-02 44.32  5.57 
+   BN          Brookfield Corporation 1016.64               Financial Services   2026-10-30 39.28   2026-11-02 41.46  5.55 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                板块                      昨天收盘               今天收盘        涨跌幅(%)
+ IDXX        IDEXX Laboratories, Inc.  529.13                    Health Care  2026-10-30 551.21  2026-11-02 671.64 21.85 
+  RKT            Rocket Companies Inc  389.92             Financial Services    2026-10-30 12.8   2026-11-02 13.77  7.58 
+LGRVF                      Legrand SA  342.74           Electrical Equipment  2026-10-30 138.37  2026-11-02 148.27  7.15 
+  BAM BROOKFIELD ASSET MANAGEMENT LTD  843.20             Financial Services   2026-10-30 48.26   2026-11-02 51.47  6.65 
+  CRH                         CRH PLC  642.55                   Construction   2026-10-30 90.81   2026-11-02 96.59  6.36 
+ DASH                  Doordash, Inc.  823.00  Hotels, Restaurants & Leisure  2026-10-30 178.99  2026-11-02 190.07  6.19 
+ CBRE                CBRE Group, Inc.  394.11                    Real Estate  2026-10-30 128.85  2026-11-02 136.75  6.13 
+ CPRT                      Copart Inc  295.79 Commercial Services & Supplies   2026-10-30 30.13   2026-11-02 31.93  5.97 
+  TDG    TransDigm Group Incorporated  670.85            Aerospace & Defense 2026-10-30 1146.81 2026-11-02 1213.62  5.83 
+HKHHF             Heineken Holding NV  210.69                      Beverages    2026-10-30 82.2   2026-11-02 86.81  5.61 
+ FTAI              FTAI Aviation Ltd.  203.10            Aerospace & Defense  2026-10-30 187.27  2026-11-02 197.75  5.60 
+  BSX   Boston Scientific Corporation  642.30                    Health Care   2026-10-30 41.98   2026-11-02 44.32  5.57 
+   BN          Brookfield Corporation 1016.64             Financial Services   2026-10-30 39.28   2026-11-02 41.46  5.55 
+ CVNA                      Carvana Co  794.35                         Retail   2026-10-30 68.29    2026-11-02 72.0  5.43 
+  ATI                        ATI Inc.  236.85            Aerospace & Defense  2026-10-30 165.59  2026-11-02 174.38  5.31 
+  XYL                       Xylem Inc  211.91                      Machinery    2026-10-30 92.4   2026-11-02 97.26  5.26 
+ LPLA     LPL Financial Holdings Inc.  232.54             Financial Services  2026-10-30 283.74  2026-11-02 298.63  5.25 
+  PHM                PulteGroup, Inc.  241.69              Consumer products  2026-10-30 124.74  2026-11-02 131.29  5.25 
+  SYK             Stryker Corporation 1176.84                    Health Care  2026-10-30 291.86  2026-11-02 306.81  5.12 
+BABAF   Alibaba Group Holding Limited 2461.48                         Retail   2026-10-30 12.15   2026-11-02 12.77  5.06 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)                 板块                       昨天收盘               今天收盘       涨跌幅(%)
+   BN        Brookfield Corporation 1016.64               Financial Services   2026-10-30 39.28  2026-11-02 41.46  5.55 
+  SYK           Stryker Corporation 1176.84                      Health Care  2026-10-30 291.86 2026-11-02 306.81  5.12 
+BABAF Alibaba Group Holding Limited 2461.48                           Retail   2026-10-30 12.15  2026-11-02 12.77  5.06 
+   GE      General Electric Company 3263.12              Aerospace & Defense   2026-10-30 301.8 2026-11-02 315.78  4.63 
+SAFRF                     Safran SA 1149.43              Aerospace & Defense  2026-10-30 304.67 2026-11-02 318.08  4.40 
+BUDFF       Anheuser-Busch Inbev SA 1427.57                        Beverages   2026-10-30 79.92  2026-11-02 83.44  4.40 
+LRLCF                    L'Oreal SA 2324.39                Consumer products   2026-10-30 474.2  2026-11-02 494.6  4.30 
+  MAR  Marriott International, Inc. 1085.57    Hotels, Restaurants & Leisure   2026-10-30 399.3  2026-11-02 416.3  4.26 
+ ABNB                  Airbnb, Inc. 1024.58    Hotels, Restaurants & Leisure  2026-10-30 164.39 2026-11-02 171.11  4.09 
+ BKNG         Booking Holdings Inc. 1155.25    Hotels, Restaurants & Leisure  2026-10-30 148.13 2026-11-02 153.75  3.79 
+  ABT           Abbott Laboratories 1906.19                      Health Care   2026-10-30 106.2 2026-11-02 110.16  3.73 
+   HD          The Home Depot, Inc. 3403.62                           Retail   2026-10-30 329.2 2026-11-02 341.15  3.63 
+EADSF                     Airbus SE 1522.81              Aerospace & Defense  2026-10-30 213.24  2026-11-02 220.0  3.17 
+   PH   Parker-Hannifin Corporation 1170.69                        Machinery  2026-10-30 899.82 2026-11-02 928.29  3.16 
+   MA       Mastercard Incorporated 5768.01               Financial Services  2026-10-30 638.01  2026-11-02 658.1  3.15 
+HESAF      Hermes International SCA 1353.57 Textiles, Apparel & Luxury Goods 2026-10-30 1425.63 2026-11-02 1467.3  2.92 
+  MCD               McDonald's Corp 1879.78    Hotels, Restaurants & Leisure  2026-10-30 258.12 2026-11-02 265.64  2.91 
+  COF    Capital One Financial Corp 1267.78               Financial Services  2026-10-30 204.85 2026-11-02 210.77  2.89 
+    V                     Visa Inc. 7687.39               Financial Services  2026-10-30 413.59 2026-11-02 425.51  2.88 
+  MDT                 Medtronic PLC 1270.09                      Health Care   2026-10-30 96.54  2026-11-02 99.29  2.85 
