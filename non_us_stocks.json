@@ -63448,5 +63448,23 @@
     "name": "Clarity Metals Corp",
     "country": "CA",
     "added_date": "2026-11-03 03:46:05"
+  },
+  "GADS": {
+    "exchange": "OTC MARKETS",
+    "name": "Gadsden Properties Inc",
+    "country": "US",
+    "added_date": "2026-11-05 02:06:24"
+  },
+  "TMILF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Taylor Maritime Ltd",
+    "country": "GG",
+    "added_date": "2026-11-05 02:35:25"
+  },
+  "NTCS": {
+    "exchange": "OTC MARKETS",
+    "name": "Natics Corp",
+    "country": "IL",
+    "added_date": "2026-11-05 03:11:46"
   }
 }
