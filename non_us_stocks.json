@@ -63466,5 +63466,23 @@
     "name": "Natics Corp",
     "country": "IL",
     "added_date": "2026-11-05 03:11:46"
+  },
+  "SLTMF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Solstad Maritime ASA",
+    "country": "NO",
+    "added_date": "2026-11-07 01:01:30"
+  },
+  "CDLR": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Cadeler A/S",
+    "country": "DK",
+    "added_date": "2026-11-07 01:31:36"
+  },
+  "AGLT": {
+    "exchange": "OTC MARKETS",
+    "name": "Angel Telecom Corp",
+    "country": "",
+    "added_date": "2026-11-07 02:10:21"
   }
 }
