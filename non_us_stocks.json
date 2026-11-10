@@ -63484,5 +63484,29 @@
     "name": "Angel Telecom Corp",
     "country": "",
     "added_date": "2026-11-07 02:10:21"
+  },
+  "AVTC": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Westaim Corp",
+    "country": "US",
+    "added_date": "2026-11-10 03:38:31"
+  },
+  "BSNLD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Blue Star Helium Ltd",
+    "country": "AU",
+    "added_date": "2026-11-10 03:51:04"
+  },
+  "CBELF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Cobre Ltd",
+    "country": "AU",
+    "added_date": "2026-11-10 04:11:32"
+  },
+  "EMETD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Canamera Energy Metals Corp",
+    "country": "CA",
+    "added_date": "2026-11-10 05:17:27"
   }
 }

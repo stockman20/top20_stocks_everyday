@@ -1,0 +1,138 @@
+
+=== 涨幅榜前20名股票 ===
+ 股票代码              公司名称              市值(亿)            板块                  昨天收盘             今天收盘       涨跌幅(%)
+  OMH                   Ohmyhome Ltd  0.16              Real Estate  2026-11-06 7.36 2026-11-09 25.84 251.09
+ FOXO          Foxo Technologies Inc  0.00               Technology   2026-11-06 0.1  2026-11-09 0.19  90.00
+  SMX     SMX (Security Matters) PLC  0.05     Electrical Equipment  2026-11-06 4.93  2026-11-09 9.35  89.66
+ TANH           Tantech Holdings Ltd  0.13                Chemicals 2026-11-06 11.67 2026-11-09 19.34  65.72
+ MEHA          Functional Brands Inc  0.00        Consumer products   2026-11-06 0.0   2026-11-09 0.0  64.29
+  CKX                  CKX Lands Inc  0.34              Real Estate 2026-11-06 10.37  2026-11-09 16.4  58.15
+ FISN              Deep Fission, Inc  1.67                Utilities  2026-11-06 1.85  2026-11-09 2.83  52.97
+  TLS                     Telos Corp  5.36               Technology  2026-11-06 4.82  2026-11-09 7.17  48.76
+ TVRD      Tvardi Therapeutics, Inc.  0.13          Pharmaceuticals  2026-11-06 0.96  2026-11-09 1.41  47.18
+ NCPL                 Netcapital Inc  0.14       Financial Services  2026-11-06 1.26  2026-11-09 1.82  44.44
+ SDST             Stardust Power Inc  0.01     Electrical Equipment  2026-11-06 0.01  2026-11-09 0.01  42.86
+ CVKD      Cadrenal Therapeutics Inc  0.05          Pharmaceuticals  2026-11-06 0.98  2026-11-09 1.37  39.80
+ MODD            Modular Medical Inc  0.18              Health Care  2026-11-06 1.33  2026-11-09 1.85  39.10
+  GFR        Greenfire Resources Ltd 18.58                   Energy   2026-11-06 5.6  2026-11-09 7.73  38.04
+ ESLA      Estrella Immunopharma Inc  0.22            Biotechnology  2026-11-06 0.38  2026-11-09 0.51  37.07
+ DCTH            Delcath Systems Inc  7.03              Health Care 2026-11-06 14.93 2026-11-09 20.27  35.77
+ GPUS            Hyperscale Data Inc  0.36 Industrial Conglomerates  2026-11-06 0.14  2026-11-09 0.19  35.71
+   MF                  MindForge Inc  0.91               Technology 2026-11-06 10.64 2026-11-09 14.33  34.68
+GETYQ      Getty Images Holdings Inc  0.08                    Media  2026-11-06 0.01  2026-11-09 0.02  34.62
+ CERO CERo Therapeutics Holdings Inc  0.00            Biotechnology   2026-11-06 0.0   2026-11-09 0.0  33.33
+
+=== 市值超过20亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称               市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+ FRVO                  Fervo Energy Co  33.54                        Utilities   2026-11-06 9.03  2026-11-09 11.38 26.02 
+EDRVF                EDP Renovaveis SA 153.55                        Utilities  2026-11-06 13.54  2026-11-09 16.38 20.97 
+ PRAX Praxis Precision Medicines, Inc.  92.97                    Biotechnology 2026-11-06 277.62 2026-11-09 332.97 19.94 
+  QXO                        QXO, Inc. 142.97 Trading Companies & Distributors  2026-11-06 11.56  2026-11-09 13.78 19.20 
+ CECO         CECO Environmental Corp.  30.46                        Machinery  2026-11-06 43.71   2026-11-09 52.0 18.97 
+  FLY           Firefly Aerospace Inc.  40.70              Aerospace & Defense  2026-11-06 20.76  2026-11-09 24.31 17.10 
+ COHR                   Coherent Corp. 443.53             Electrical Equipment 2026-11-06 192.81 2026-11-09 225.19 16.79 
+ VSAT                       Viasat Inc 106.10                   Communications  2026-11-06 63.95  2026-11-09 74.37 16.29 
+  FPS    Forgent Power Solutions, Inc.  68.80             Electrical Equipment  2026-11-06 19.48   2026-11-09 22.6 16.02 
+   UI                    Ubiquiti Inc. 331.72                   Communications 2026-11-06 592.84 2026-11-09 685.68 15.66 
+  TTD             The Trade Desk, Inc.  70.12                            Media  2026-11-06 12.93  2026-11-09 14.93 15.47 
+  LGN                    Legence Corp.  34.76                     Construction  2026-11-06 27.91  2026-11-09 32.16 15.23 
+ IMVT                 Immunovant, Inc.  72.60                    Biotechnology  2026-11-06 30.53  2026-11-09 35.15 15.13 
+ LUNR           Intuitive Machines Inc  27.56              Aerospace & Defense  2026-11-06 10.47  2026-11-09 12.04 15.00 
+ STRL    Sterling Infrastructure, Inc.  88.66                     Construction 2026-11-06 252.82 2026-11-09 290.67 14.97 
+   PL                  Planet Labs PBC  52.28            Professional Services  2026-11-06 12.55  2026-11-09 14.37 14.50 
+ ASTS            AST SpaceMobile, Inc. 143.56                Telecommunication  2026-11-06 32.33  2026-11-09 36.89 14.10 
+ SGRY           Surgery Partners, Inc.  34.09                      Health Care   2026-11-06 23.2  2026-11-09 26.45 14.01 
+ OKLO                        Oklo Inc.  49.93                        Utilities  2026-11-06 23.55  2026-11-09 26.84 13.97 
+ ALAB                Astera Labs, Inc. 379.05                   Semiconductors 2026-11-06 190.71 2026-11-09 216.87 13.72 
+
+=== 市值超过50亿的涨幅榜前20名股票 ===
+ 股票代码               公司名称                市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+EDRVF                EDP Renovaveis SA  153.55                        Utilities  2026-11-06 13.54  2026-11-09 16.38 20.97 
+ PRAX Praxis Precision Medicines, Inc.   92.97                    Biotechnology 2026-11-06 277.62 2026-11-09 332.97 19.94 
+  QXO                        QXO, Inc.  142.97 Trading Companies & Distributors  2026-11-06 11.56  2026-11-09 13.78 19.20 
+ COHR                   Coherent Corp.  443.53             Electrical Equipment 2026-11-06 192.81 2026-11-09 225.19 16.79 
+ VSAT                       Viasat Inc  106.10                   Communications  2026-11-06 63.95  2026-11-09 74.37 16.29 
+  FPS    Forgent Power Solutions, Inc.   68.80             Electrical Equipment  2026-11-06 19.48   2026-11-09 22.6 16.02 
+   UI                    Ubiquiti Inc.  331.72                   Communications 2026-11-06 592.84 2026-11-09 685.68 15.66 
+  TTD             The Trade Desk, Inc.   70.12                            Media  2026-11-06 12.93  2026-11-09 14.93 15.47 
+ IMVT                 Immunovant, Inc.   72.60                    Biotechnology  2026-11-06 30.53  2026-11-09 35.15 15.13 
+ STRL    Sterling Infrastructure, Inc.   88.66                     Construction 2026-11-06 252.82 2026-11-09 290.67 14.97 
+   PL                  Planet Labs PBC   52.28            Professional Services  2026-11-06 12.55  2026-11-09 14.37 14.50 
+ ASTS            AST SpaceMobile, Inc.  143.56                Telecommunication  2026-11-06 32.33  2026-11-09 36.89 14.10 
+ ALAB                Astera Labs, Inc.  379.05                   Semiconductors 2026-11-06 190.71 2026-11-09 216.87 13.72 
+  MXL                  MaxLinear, Inc.   50.88                   Semiconductors  2026-11-06 49.18  2026-11-09 55.91 13.68 
+ TTMI             TTM Technologies Inc   77.48             Electrical Equipment  2026-11-06 66.51  2026-11-09 75.33 13.26 
+  AMD     Advanced Micro Devices, Inc. 8341.16                   Semiconductors 2026-11-06 449.04 2026-11-09 508.58 13.26 
+ SMTC              Semtech Corporation  108.68                   Semiconductors 2026-11-06 103.21 2026-11-09 116.45 12.83 
+  TER                   Teradyne, Inc.  384.07                   Semiconductors 2026-11-06 218.22  2026-11-09 246.0 12.73 
+ AVAV              AeroVironment, Inc.   64.52              Aerospace & Defense 2026-11-06 112.76 2026-11-09 126.96 12.59 
+ VIAV             Viavi Solutions Inc.   73.58                   Communications  2026-11-06 28.47  2026-11-09 31.98 12.33 
+
+=== 市值超过100亿的涨幅榜前20名股票 ===
+ 股票代码             公司名称              市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+EDRVF            EDP Renovaveis SA  153.55                        Utilities  2026-11-06 13.54  2026-11-09 16.38 20.97 
+  QXO                    QXO, Inc.  142.97 Trading Companies & Distributors  2026-11-06 11.56  2026-11-09 13.78 19.20 
+ COHR               Coherent Corp.  443.53             Electrical Equipment 2026-11-06 192.81 2026-11-09 225.19 16.79 
+ VSAT                   Viasat Inc  106.10                   Communications  2026-11-06 63.95  2026-11-09 74.37 16.29 
+   UI                Ubiquiti Inc.  331.72                   Communications 2026-11-06 592.84 2026-11-09 685.68 15.66 
+ ASTS        AST SpaceMobile, Inc.  143.56                Telecommunication  2026-11-06 32.33  2026-11-09 36.89 14.10 
+ ALAB            Astera Labs, Inc.  379.05                   Semiconductors 2026-11-06 190.71 2026-11-09 216.87 13.72 
+  AMD Advanced Micro Devices, Inc. 8341.16                   Semiconductors 2026-11-06 449.04 2026-11-09 508.58 13.26 
+ SMTC          Semtech Corporation  108.68                   Semiconductors 2026-11-06 103.21 2026-11-09 116.45 12.83 
+  TER               Teradyne, Inc.  384.07                   Semiconductors 2026-11-06 218.22  2026-11-09 246.0 12.73 
+ FLEX                     Flex Ltd  288.81             Electrical Equipment  2026-11-06 69.78  2026-11-09 78.17 12.02 
+   BE     Bloom Energy Corporation  573.22             Electrical Equipment 2026-11-06 173.24 2026-11-09 193.88 11.91 
+   FN                     Fabrinet  130.70             Electrical Equipment 2026-11-06 327.13 2026-11-09 365.94 11.86 
+ AMAT        Applied Materials Inc 2940.68                   Semiconductors 2026-11-06 332.72 2026-11-09 370.55 11.37 
+ FERG    Ferguson Enterprises Inc.  502.84 Trading Companies & Distributors  2026-11-06 233.7 2026-11-09 259.93 11.22 
+  TEM              Tempus AI, Inc.  154.02   Life Sciences Tools & Services  2026-11-06 76.05  2026-11-09 84.44 11.03 
+ RKLB              Rocket Lab Corp  352.25              Aerospace & Defense  2026-11-06 53.07  2026-11-09 58.86 10.91 
+  CNH          CNH Industrial N.V.  158.68                        Machinery  2026-11-06 11.56  2026-11-09 12.82 10.90 
+ TSEM     Tower Semiconductor Ltd.  172.14                   Semiconductors 2026-11-06 137.34 2026-11-09 152.29 10.89 
+ LITE       Lumentum Holdings Inc.  540.72                   Communications 2026-11-06 538.59 2026-11-09 596.16 10.69 
+
+=== 市值超过200亿的涨幅榜前20名股票 ===
+股票代码                公司名称                 市值(亿)                 板块                       昨天收盘              今天收盘       涨跌幅(%)
+COHR                     Coherent Corp.  443.53             Electrical Equipment 2026-11-06 192.81 2026-11-09 225.19 16.79 
+  UI                      Ubiquiti Inc.  331.72                   Communications 2026-11-06 592.84 2026-11-09 685.68 15.66 
+ALAB                  Astera Labs, Inc.  379.05                   Semiconductors 2026-11-06 190.71 2026-11-09 216.87 13.72 
+ AMD       Advanced Micro Devices, Inc. 8341.16                   Semiconductors 2026-11-06 449.04 2026-11-09 508.58 13.26 
+ TER                     Teradyne, Inc.  384.07                   Semiconductors 2026-11-06 218.22  2026-11-09 246.0 12.73 
+FLEX                           Flex Ltd  288.81             Electrical Equipment  2026-11-06 69.78  2026-11-09 78.17 12.02 
+  BE           Bloom Energy Corporation  573.22             Electrical Equipment 2026-11-06 173.24 2026-11-09 193.88 11.91 
+AMAT              Applied Materials Inc 2940.68                   Semiconductors 2026-11-06 332.72 2026-11-09 370.55 11.37 
+FERG          Ferguson Enterprises Inc.  502.84 Trading Companies & Distributors  2026-11-06 233.7 2026-11-09 259.93 11.22 
+RKLB                    Rocket Lab Corp  352.25              Aerospace & Defense  2026-11-06 53.07  2026-11-09 58.86 10.91 
+LITE             Lumentum Holdings Inc.  540.72                   Communications 2026-11-06 538.59 2026-11-09 596.16 10.69 
+CIEN                  Ciena Corporation  381.93                   Communications 2026-11-06 243.39 2026-11-09 269.33 10.66 
+ CEG          Constellation Energy Corp  978.21                        Utilities 2026-11-06 249.95 2026-11-09 276.09 10.46 
+LRCX           Lam Research Corporation 2764.54                   Semiconductors 2026-11-06 200.44 2026-11-09 221.31 10.41 
+ NRG                     NRG Energy Inc  204.75                        Utilities  2026-11-06 88.29   2026-11-09 97.4 10.32 
+FTAI                 FTAI Aviation Ltd.  203.33              Aerospace & Defense 2026-11-06 180.27 2026-11-09 198.83 10.30 
+CRDO Credo Technology Group Holding Ltd  249.77                   Semiconductors 2026-11-06 120.51 2026-11-09 132.89 10.27 
+ STX    Seagate Technology Holdings PLC 1161.90                       Technology 2026-11-06 460.99 2026-11-09 506.14  9.79 
+ VRT                 Vertiv Holdings Co  895.27             Electrical Equipment 2026-11-06 182.86 2026-11-09 200.47  9.63 
+MRVL           Marvell Technology, Inc. 1355.69                   Semiconductors  2026-11-06 141.2  2026-11-09 154.6  9.49 
+
+=== 市值超过1000亿的涨跌榜前20名股票 ===
+ 股票代码                 公司名称                 市值(亿)            板块                 昨天收盘               今天收盘        涨跌幅(%)
+  AMD        Advanced Micro Devices, Inc.  8341.16       Semiconductors  2026-11-06 449.04  2026-11-09 508.58 13.26 
+ AMAT               Applied Materials Inc  2940.68       Semiconductors  2026-11-06 332.72  2026-11-09 370.55 11.37 
+ LRCX            Lam Research Corporation  2764.54       Semiconductors  2026-11-06 200.44  2026-11-09 221.31 10.41 
+  STX     Seagate Technology Holdings PLC  1161.90           Technology  2026-11-06 460.99  2026-11-09 506.14  9.79 
+ MRVL            Marvell Technology, Inc.  1355.69       Semiconductors   2026-11-06 141.2   2026-11-09 154.6  9.49 
+ KLAC                     KLA Corporation  1972.42       Semiconductors  2026-11-06 138.49  2026-11-09 151.38  9.31 
+  NET                    Cloudflare, Inc.  1045.51           Technology  2026-11-06 268.75  2026-11-09 293.75  9.30 
+ ANET               Arista Networks, Inc.  2352.08       Communications   2026-11-06 170.8  2026-11-09 186.17  9.00 
+ AVGO                        Broadcom Inc 15250.79       Semiconductors  2026-11-06 293.69  2026-11-09 319.48  8.78 
+  ADI                Analog Devices, Inc.  1912.39       Semiconductors  2026-11-06 363.56  2026-11-09 394.66  8.55 
+  APH                       Amphenol Corp  1992.94 Electrical Equipment   2026-11-06 74.59   2026-11-09 80.71  8.20 
+  CAT                     Caterpillar Inc  2740.44            Machinery  2026-11-06 558.63  2026-11-09 598.88  7.21 
+  GEV                     GE Vernova Inc.  2195.07 Electrical Equipment  2026-11-06 774.11  2026-11-09 829.34  7.13 
+SAFRF                           Safran SA  1231.98  Aerospace & Defense  2026-11-06 325.22  2026-11-09 347.06  6.72 
+  TXN      Texas Instruments Incorporated  2855.44       Semiconductors  2026-11-06 277.36  2026-11-09 295.73  6.62 
+ASMLF                     ASML Holding NV  4903.16       Semiconductors 2026-11-06 1432.08 2026-11-09 1526.39  6.59 
+   MU             Micron Technology, Inc.  8295.03       Semiconductors   2026-11-06 690.0  2026-11-09 733.15  6.25 
+ SNDK                 SanDisk Corporation  1261.41           Technology  2026-11-06 835.06  2026-11-09 886.51  6.16 
+ MRNA                       Moderna, Inc.  1073.94        Biotechnology  2026-11-06 254.19   2026-11-09 269.0  5.83 
+ SPCX Space Exploration Technologies Corp 19294.62    Telecommunication  2026-11-06 134.27  2026-11-09 142.07  5.81 
