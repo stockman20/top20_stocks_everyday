@@ -63508,5 +63508,17 @@
     "name": "Canamera Energy Metals Corp",
     "country": "CA",
     "added_date": "2026-11-10 05:17:27"
+  },
+  "BLGVD": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Belgravia Hartford Capital Inc",
+    "country": "CA",
+    "added_date": "2026-11-11 02:38:58"
+  },
+  "HYTLD": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Hyterra Ltd",
+    "country": "AU",
+    "added_date": "2026-11-11 02:59:04"
   }
 }
