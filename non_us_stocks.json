@@ -63520,5 +63520,17 @@
     "name": "Hyterra Ltd",
     "country": "AU",
     "added_date": "2026-11-11 02:59:04"
+  },
+  "RVREF": {
+    "exchange": "AQUIS",
+    "name": "Reveille Resources PLC",
+    "country": "GB",
+    "added_date": "2026-11-13 02:49:57"
+  },
+  "AIBZ": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Bitzero Holdings Inc",
+    "country": "CA",
+    "added_date": "2026-11-13 02:50:20"
   }
 }
