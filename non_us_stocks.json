@@ -63544,5 +63544,17 @@
     "name": "Stingray Group Inc",
     "country": "CA",
     "added_date": "2026-11-17 04:30:26"
+  },
+  "SLGCF": {
+    "exchange": "TORONTO STOCK EXCHANGE",
+    "name": "Wallbridge Mining Company Ltd",
+    "country": "CA",
+    "added_date": "2026-11-18 03:59:03"
+  },
+  "VREAF": {
+    "exchange": "OSLO BORS ASA",
+    "name": "Var Energi ASA",
+    "country": "NO",
+    "added_date": "2026-11-18 04:22:53"
   }
 }
