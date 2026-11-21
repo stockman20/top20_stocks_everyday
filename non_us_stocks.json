@@ -63556,5 +63556,29 @@
     "name": "Var Energi ASA",
     "country": "NO",
     "added_date": "2026-11-18 04:22:53"
+  },
+  "ECTHF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Environmental Clean Technologies Ltd",
+    "country": "AU",
+    "added_date": "2026-11-21 03:11:27"
+  },
+  "PUROF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Mexican Gold Mining Corp",
+    "country": "CA",
+    "added_date": "2026-11-21 03:29:42"
+  },
+  "FCMXF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "First Class Metals PLC",
+    "country": "GB",
+    "added_date": "2026-11-21 03:34:40"
+  },
+  "VSCTF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Vector Science and Therapeutics Corp",
+    "country": "CA",
+    "added_date": "2026-11-21 03:37:27"
   }
 }
