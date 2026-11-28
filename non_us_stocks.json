@@ -63586,5 +63586,533 @@
     "name": "Metals One PLC",
     "country": "GB",
     "added_date": "2026-11-26 04:59:59"
+  },
+  "JNGHF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "Jiangsu Hengrui Pharmaceuticals Co Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 03:22:24"
+  },
+  "IPDGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "IPD Group Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:22:25"
+  },
+  "BGXCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "BGX Black Gold Exploration Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "REOVF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Renova Inc",
+    "country": "JP",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "DSCNF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Datasection Inc",
+    "country": "JP",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "ASAKF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Ashot Ashkelon Industries Ltd",
+    "country": "IL",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "MQCTF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Macquarie Technology Group Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "SKKLF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Shikoku Kasei Holdings Corp",
+    "country": "JP",
+    "added_date": "2026-11-28 03:22:26"
+  },
+  "FUVCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Illumisoft Lighting Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 03:22:27"
+  },
+  "BEJEF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Beijer Ref AB (publ)",
+    "country": "SE",
+    "added_date": "2026-11-28 03:22:27"
+  },
+  "APTHF": {
+    "exchange": "STOCK EXCHANGE OF THAILAND",
+    "name": "AP Thailand PCL",
+    "country": "TH",
+    "added_date": "2026-11-28 03:22:27"
+  },
+  "GCRFF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Psyence Group Inc",
+    "country": "CA",
+    "added_date": "2026-11-28 03:23:47"
+  },
+  "HYPAF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Hyper Bit Technologies Ltd",
+    "country": "CA",
+    "added_date": "2026-11-28 03:23:47"
+  },
+  "ODSMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "OD6 Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:23:48"
+  },
+  "MGMVF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Panorama Capital Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 03:23:48"
+  },
+  "CXRMF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "China Resources Mixc Lifestyle Services Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 03:23:48"
+  },
+  "CSCFF": {
+    "exchange": "SHANGHAI STOCK EXCHANGE",
+    "name": "China Securities Co Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 03:23:48"
+  },
+  "TNDEF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Top End Energy Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:38:19"
+  },
+  "CHKHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Chi Kan Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-11-28 03:40:12"
+  },
+  "MSCGF": {
+    "exchange": "BOLSA DE MADRID",
+    "name": "Making Science Group SA",
+    "country": "ES",
+    "added_date": "2026-11-28 03:41:13"
+  },
+  "IFBHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "IFBH Ltd",
+    "country": "SG",
+    "added_date": "2026-11-28 03:42:08"
+  },
+  "TMINF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Teako Minerals Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 03:42:12"
+  },
+  "PTHXF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Hexindo Adiperkasa Tbk PT",
+    "country": "ID",
+    "added_date": "2026-11-28 03:42:15"
+  },
+  "FTILF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Fortifai Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:48:06"
+  },
+  "ITHLF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Ithaca Energy PLC",
+    "country": "GB",
+    "added_date": "2026-11-28 03:49:03"
+  },
+  "AMCHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Aimechatec Ltd",
+    "country": "JP",
+    "added_date": "2026-11-28 03:51:01"
+  },
+  "MNSH": {
+    "exchange": "OTC MARKETS",
+    "name": "MNSN Holdings Inc",
+    "country": "",
+    "added_date": "2026-11-28 03:53:13"
+  },
+  "ZJNGF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Zijin Gold International Co Ltd",
+    "country": "HK",
+    "added_date": "2026-11-28 03:54:00"
+  },
+  "GNMRF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Great Northern Minerals Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 03:54:03"
+  },
+  "PDPHF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Egetis Therapeutics AB (publ)",
+    "country": "SE",
+    "added_date": "2026-11-28 03:59:50"
+  },
+  "XCELF": {
+    "exchange": "AQUIS",
+    "name": "Connecting Excellence Group PLC",
+    "country": "GB",
+    "added_date": "2026-11-28 04:00:23"
+  },
+  "BTLRF": {
+    "exchange": "NASDAQ OMX HELSINKI LTD.",
+    "name": "Betolar Oyj",
+    "country": "FI",
+    "added_date": "2026-11-28 04:00:46"
+  },
+  "TNXIF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "TenX Protocols Inc",
+    "country": "CA",
+    "added_date": "2026-11-28 04:00:57"
+  },
+  "AHKMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Ark Mines Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:01:34"
+  },
+  "MLGZF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "MLG OZ Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:02:42"
+  },
+  "MRRXF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Minrex Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:02:57"
+  },
+  "TTMSF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Titiminas Silver Inc (British Columbia)",
+    "country": "CA",
+    "added_date": "2026-11-28 04:03:45"
+  },
+  "RDXLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Redox Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:05:02"
+  },
+  "UNTEF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "U92 Energy Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 04:07:57"
+  },
+  "SYSPF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Synspective Inc",
+    "country": "JP",
+    "added_date": "2026-11-28 04:08:52"
+  },
+  "ZEHNF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Zehnder Group AG",
+    "country": "CH",
+    "added_date": "2026-11-28 04:10:00"
+  },
+  "PTLYF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Pine Technology Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-11-28 04:11:02"
+  },
+  "HASTF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Hamak Strategy Ltd",
+    "country": "VG",
+    "added_date": "2026-11-28 04:13:09"
+  },
+  "SHFH": {
+    "exchange": "OTC MARKETS",
+    "name": "Scientist Home Future Health Limited",
+    "country": "HK",
+    "added_date": "2026-11-28 04:13:53"
+  },
+  "TPONF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Triple One Metals Inc",
+    "country": "CA",
+    "added_date": "2026-11-28 04:14:09"
+  },
+  "PRSPF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "European Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:15:52"
+  },
+  "HLIGF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Helia Group Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:15:57"
+  },
+  "SMSHF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Smart Shooter Ltd",
+    "country": "IL",
+    "added_date": "2026-11-28 04:16:51"
+  },
+  "ESKRF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Cielo Waste Solutions Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 04:17:54"
+  },
+  "STKCF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Strike Group Co Ltd",
+    "country": "JP",
+    "added_date": "2026-11-28 04:18:04"
+  },
+  "GORDF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Golden Spike Resources Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 04:18:08"
+  },
+  "OVACF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Oval Corp",
+    "country": "JP",
+    "added_date": "2026-11-28 04:19:52"
+  },
+  "QPSHF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "QPS Holdings Inc",
+    "country": "JP",
+    "added_date": "2026-11-28 04:20:49"
+  },
+  "ORIOF": {
+    "exchange": "SWISS EXCHANGE",
+    "name": "Orior AG",
+    "country": "CH",
+    "added_date": "2026-11-28 04:20:52"
+  },
+  "AUERF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Aurum Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:24:47"
+  },
+  "GDREF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Gold Runner Exploration Inc",
+    "country": "CA",
+    "added_date": "2026-11-28 04:25:23"
+  },
+  "LDRLF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Lode Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:25:48"
+  },
+  "MEKMF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Meeka Metals Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:25:52"
+  },
+  "GCUCF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "Green Canada Uranium Corp.",
+    "country": "CA",
+    "added_date": "2026-11-28 04:28:03"
+  },
+  "INXGF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "GoldInxs Mining Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 04:31:44"
+  },
+  "CPHOF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Canadian Phosphate Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:34:07"
+  },
+  "GENDF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Genda Inc",
+    "country": "JP",
+    "added_date": "2026-11-28 04:35:42"
+  },
+  "AYAUF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Artrya Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:39:04"
+  },
+  "AIGRF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "ASA International Group PLC",
+    "country": "NL",
+    "added_date": "2026-11-28 04:40:41"
+  },
+  "ROSBF": {
+    "exchange": "LONDON STOCK EXCHANGE",
+    "name": "Rosebank Industries PLC",
+    "country": "GB",
+    "added_date": "2026-11-28 04:43:56"
+  },
+  "VOYHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Voyah Automotive Technology Co Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 04:45:23"
+  },
+  "ATRNF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Astron Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:46:00"
+  },
+  "ALUNF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Alurion Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:46:57"
+  },
+  "VSNPF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "VISEN Pharmaceuticals",
+    "country": "CN",
+    "added_date": "2026-11-28 04:49:53"
+  },
+  "JPPMF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Japan Material Co Ltd",
+    "country": "JP",
+    "added_date": "2026-11-28 04:49:57"
+  },
+  "HEMNF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "Hemnet Group AB (publ)",
+    "country": "SE",
+    "added_date": "2026-11-28 04:50:02"
+  },
+  "BJJCF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Beijing Jingneng Clean Energy Co Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 04:50:56"
+  },
+  "IMCFF": {
+    "exchange": "TEL AVIV STOCK EXCHANGE",
+    "name": "Imco Industries Ltd",
+    "country": "IL",
+    "added_date": "2026-11-28 04:50:59"
+  },
+  "OILEF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Oiles Corp",
+    "country": "JP",
+    "added_date": "2026-11-28 04:51:05"
+  },
+  "ADGDF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Adelong Gold Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:51:23"
+  },
+  "SYMCF": {
+    "exchange": "CANADIAN NATIONAL STOCK EXCHANGE",
+    "name": "Synergy Metals Corp.",
+    "country": "CA",
+    "added_date": "2026-11-28 04:51:50"
+  },
+  "GTRHF": {
+    "exchange": "NIGERIAN STOCK EXCHANGE",
+    "name": "Guaranty Trust Holding Company PLC",
+    "country": "NG",
+    "added_date": "2026-11-28 04:53:56"
+  },
+  "IIONF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Iondrive Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 04:54:43"
+  },
+  "SCTLF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "SalesCloser Technologies Ltd",
+    "country": "CA",
+    "added_date": "2026-11-28 04:55:46"
+  },
+  "OKRIF": {
+    "exchange": "TOKYO STOCK EXCHANGE-TOKYO PRO MARKET",
+    "name": "Okura Industrial Co Ltd",
+    "country": "JP",
+    "added_date": "2026-11-28 04:56:46"
+  },
+  "IRLAF": {
+    "exchange": "NASDAQ OMX NORDIC",
+    "name": "IRLAB Therapeutics AB",
+    "country": "SE",
+    "added_date": "2026-11-28 05:01:47"
+  },
+  "CRYAF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "Chery Automobile Co Ltd",
+    "country": "CN",
+    "added_date": "2026-11-28 05:02:51"
+  },
+  "LRDJD": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "St James Gold Corp",
+    "country": "CA",
+    "added_date": "2026-11-28 05:02:57"
+  },
+  "GTGHF": {
+    "exchange": "HONG KONG EXCHANGES AND CLEARING LTD",
+    "name": "GT Gold Holdings Ltd",
+    "country": "HK",
+    "added_date": "2026-11-28 05:07:51"
+  },
+  "FEDGF": {
+    "exchange": "AQUIS",
+    "name": "Falconedge PLC",
+    "country": "GB",
+    "added_date": "2026-11-28 05:10:24"
+  },
+  "PTBFF": {
+    "exchange": "INDONESIA STOCK EXCHANGE",
+    "name": "Bekasi Fajar Industrial Estate Tbk PT",
+    "country": "ID",
+    "added_date": "2026-11-28 05:11:49"
+  },
+  "CMULF": {
+    "exchange": "ASX - ALL MARKETS",
+    "name": "Iron Bear Resources Ltd",
+    "country": "AU",
+    "added_date": "2026-11-28 05:11:53"
+  },
+  "FNXMF": {
+    "exchange": "TSX VENTURE EXCHANGE - NEX",
+    "name": "FinEx Metals Ltd",
+    "country": "CA",
+    "added_date": "2026-11-28 05:11:54"
   }
 }
